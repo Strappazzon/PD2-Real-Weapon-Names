@@ -1,0 +1,10 @@
+{
+	"bm_dynamite_desc" : "La dynamite est un matériel basée sur la nitroglycérine, utilisant la terre de diatomées ou d'autres substances absorbante comme les balles avec de la poudre ou de l'argile. La dynamite a été créée par le chimiste et ingénieur suédois, Alfred Nobel à Geesthacht, en Allemagne, et breveté en 1867."
+	"bm_grenade_molotov_desc" : "Le cocktail Molotov, aussi connue sous le nom de bombe à essence, la grenade d'un homme pauvre et la bombe de feu est un nom général utilisée par une variété de bouteille basée sut l'improvisation des armes incendiaires. Ils sont principalement fait pour bruler les cibles en feu plutôt que de les tuées instantanément."
+	"bm_grenade_frag_desc" : "La grenade M67 est un grenade à fragmentation utilisée par l'armée des États-Unis. La M67 est un développement ultérieur de la grenade M33, un remplacement de la séries des grenades M26 utilisées les guerres Coréenne et Vietnamienne."
+	"bm_grenade_frag_com_desc" : "La grenade M67 est un grenade à fragmentation utilisée par l'armée des États-Unis. La M67 est un développement ultérieur de la grenade M33, un remplacement de la séries des grenades M26 utilisées les guerres Coréenne et Vietnamienne."
+	"bm_wpn_prj_hur_desc" : "Le Kit Rae est bien connu pour ses couteaux et épées sortie de la fantaisie, mais le Kit à aussi été un couteau de lancer pour passionnés et une hache pour passionnés pendant de nombreuse années. Le Aircobra est constitué d'une pièce de AUS-6 d'acier inoxydable. C'est les caractéristiques d'une conception équilibré d'une lame à poignée pour un lancement parfait, avec la pointe de la lame arrière. La poignée est enveloppée de cuir ."
+
+	"menu_challenge_monthly_shadowraid_objective" : "Compléter 'PILLAGE NOCTURNE' en OVERKILL ou plus utilisant uniquement le Colt Model 733, le Glock 17, le costume 2-pieces et aucune compétences.",
+	"menu_challenge_frog_1_objective" : "Dans l'Évasion d'Hoxton, compléter la mission avec la dificulté OVERKILL ou plus avec vos coéquipiers utilisant aucune compétences, avec des costumes 2-pièces, des Golden AKMS et des Thompson M1928A1 LTD.",
+}
