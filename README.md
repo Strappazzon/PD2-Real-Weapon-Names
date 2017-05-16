@@ -11,7 +11,7 @@ To download the mod from here, use **Clone or Download** menu and then select **
 This mod requires the [BLT Hook](http://paydaymods.com/download/) installed in order to work.
 
 ## How to install the mod
-To install the mod simply extract the **Real Weapon Names** folder from inside the ZIP archive, then paste it inside the **PAYDAY 2\mods\** folder. The mod will auto-update from now on so you don't have to download it manually every time an update is pushed.
+To install the mod simply extract the **Real Weapon Names** folder from inside the ZIP archive, then paste it inside the `\PAYDAY 2\mods\` folder. The mod will auto-update from now on so you don't have to download it manually every time an update is pushed.
 
 ## Supported Languages
 Real Weapon Names supports many languages. You can see the localization progress down below:
