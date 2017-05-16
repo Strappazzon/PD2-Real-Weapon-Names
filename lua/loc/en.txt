@@ -1,0 +1,195 @@
+{
+	"rwn_menu_title" : "[RWN] Options",
+	"rwn_menu_desc" : "Real Weapon Names options",
+	"rwn_mod_active_title" : "Activate mod",
+	"rwn_mod_active_desc" : "Choose to enable or disable all modules of the mod.\nToggle to enable or disable the mod.",
+	
+	"bm_w_akm_gold" : "Golden AKMS",
+	"bm_w_amcar" : "Colt Model 733",
+	"bm_w_ak74" : "Izhmash AKS-74",
+	"bm_w_m4" : "Colt M4A1",
+	"bm_w_aug" : "Steyr AUG A2",
+	"bm_w_akm" : "Izhmash AKMS",
+	"bm_w_g36" : "H&K G36KV",
+	"bm_w_m14" : "Springfield Armory M14",
+	"bm_w_ak5" : "Bofors AK5",
+	"bm_w_m16" : "Colt M16A4",
+	"bm_w_s552" : "SIG SG 552-2",
+	"bm_w_scar" : "FN SCAR-H STD",
+	"bm_w_fal" : "DSA SA58 FAL",
+	"bm_w_famas" : "FAMAS F1",
+	"bm_w_galil" : "IMI Galil ARM",
+	"bm_w_g3" : "H&K G3A3",
+	"bm_w_l85a2" : "Enfield L85A2",
+	"bm_w_vhs" : "HS Produkt VHS-D2",
+	"bm_w_asval" : "TSNIITOCHMASH AS Val",
+	"bm_w_sub2000" : "Kel-Tec SUB-2000",
+	"bm_w_tecci" : "H&K HK416C",
+	"bm_w_contraband" : "H&K HK417 with M203 PI Grenade Launcher",
+	"bm_w_ak12" : "AK-12",
+
+	"bm_w_spas12" : "Franchi SPAS-12",
+	"bm_w_b682" : "CZ Redhead Deluxe O/U",
+	"bm_w_r870" : "Remington Model 870",
+	"bm_w_saiga" : "Izhmash Saiga-12K",
+	"bm_w_huntsman" : "Coach Gun",
+	"bm_w_benelli" : "Benelli M4 Super 90",
+	"bm_w_ksg" : "Kel-Tec KSG",
+	"bm_w_aa12" : "MPS AA-12 CQB",
+	"bm_w_boot" : "Model 1887",
+
+	"bm_w_jowi" : "Akimbo Glock 26",
+	"bm_w_x_1911" : "Akimbo 1911 Lightweight Operator",
+	"bm_w_x_b92fs" : "Akimbo Beretta 92FS Centurion",
+	"bm_w_x_deagle" : "Akimbo IMI Desert Eagle Mark XIX",
+	"bm_w_x_g17" : "Akimbo Glock 17",
+	"bm_w_x_g22c" : "Akimbo Glock 22C",
+	"bm_w_x_usp" : "Akimbo H&K USP45 Tactical",
+	"bm_w_x_packrat" : "Akimbo H&K P30L",
+	"bm_w_x_chinchilla" : "Akimbo Smith & Wesson Model 29",
+
+	"bm_w_x_sr2" : "Akimbo TsNIITochMash SR-2M Veresk",
+	"bm_w_x_mp5" : "Akimbo H&K MP5",
+	"bm_w_x_akmsu" : "Akimbo Izhmash AKMSU",
+
+	"bm_w_gre_m79" : "M79 Grenade Launcher",
+	"bm_w_saw" : "OVE9000 Saw",
+	"bm_w_m134" : "M134 Minigun",
+	"bm_w_m32" : "Milkor MGL Mk 1L Grenade Launcher",
+	"bm_w_flamethrower_mk2" : "Flamethrower",
+	"bm_w_long" : "English Bow",
+
+	"bm_w_msr" : "Remington MSR",
+	"bm_w_r93" : "Blaser R93 LRS2",
+	"bm_w_m95" : "Barrett M95",
+	"bm_w_mosin" : "Mosin Nagant M1907 Carbine",
+	"bm_w_winchester1874" : "Winchester Model 1873",
+	"bm_w_wa2000" : "Walther WA 2000",
+	"bm_w_model70" : "Winchester Model 70",
+	"bm_w_desertfox" : "DTA Stealth Recon Scout A1",
+	"bm_w_tti" : "Taran Tactical Innovations TR-1 Ultra-light",
+	"bm_w_siltstone" : "SVD Dragunov",
+
+	"bm_w_rpk" : "Izhmash RPK",
+	"bm_w_m249" : "FN M249 Para",
+	"bm_w_hk21" : "H&K HK21E",
+	"bm_w_mg42" : "MG 42",
+	"bm_w_par" : "FN M240",
+
+	"bm_w_usp" : "H&K USP45 Tactical",
+	"bm_w_g22c" : "Glock 22C",
+	"bm_wp_pis_g26" : "Glock 26",
+	"bm_w_glock_17" : "Glock 17",
+	"bm_w_colt_1911" : "1911 Lightweight Operator",
+	"bm_w_b92fs" : "Beretta 92FS Centurion",
+	"bm_w_raging_bull" : "Taurus Raging Bull",
+	"bm_w_glock_18c" : "Glock 18C",
+	"bm_w_deagle" : "IMI Desert Eagle Mark XIX",
+	"bm_w_ppk" : "Walther PPK",
+	"bm_w_p226" : "SIG-Sauer P226R",
+	"bm_w_c96" : "Mauser C96",
+	"bm_w_hs2000" : "Springfield Armory XDM",
+	"bm_w_peacemaker" : "Colt Single Action Army",
+	"bm_w_mateba" : "Mateba 2006M",
+	"bm_w_sparrow" : "IWI Jericho 941 PL",
+	"bm_w_pl14" : "Kalashnikov Concern PL-14 Lebedev",
+	"bm_w_packrat" : "H&K P30L",
+	"bm_w_lemming" : "FN Five-seveN FDE"
+
+	"bm_w_m1928" : "Thompson M1928A1 LTD",
+	"bm_w_mac10" : "Ingram MAC-11",
+	"bm_w_mp5" : "H&K MP5",
+	"bm_w_mp9" : "Brügger & Thomet MP9",
+	"bm_w_olympic" : "Olympic Arms K23B Tactical",
+	"bm_w_akmsu" : "Izhmash AKMSU",
+	"bm_w_p90" : "FN P90 TR",
+	"bm_w_m45" : "Carl Gustav M/45B",
+	"bm_w_mp7" : "H&K MP7A2",
+	"bm_w_scorpion" : "Sa. Vz.61 Skorpion",
+	"bm_w_tec9" : "Intratec TEC-9",
+	"bm_w_uzi" : "IMI UZI",
+	"bm_w_sterling" : "Sterling L2A3",
+	"bm_w_cobray" : "Cobray M11/9",
+	"bm_w_polymer" : "KRISS Vector",
+	"bm_w_baka" : "IMI Micro UZI",
+	"bm_w_sr2" : "TsNIITochMash SR-2M Veresk",
+	"bm_w_hajk" : "CZ 805 BREN A1",
+	"bm_w_schakal" : "H&K UMP45",
+	"bm_w_coal" : "Izhmash PP-19 Bizon-2",
+
+	"bm_w_judge" : "Taurus 4510PLYFS",
+	"bm_w_serbu" : "Remington 870 Short-barreled",
+	"bm_w_striker" : "Sentinel Arms Striker-12",
+	"bm_w_m37" : "Ithaca 37",
+	"bm_w_rota" : "Crye Precision SIX12",
+
+	"bm_w_rpg7" : "RPG-7",
+	"bm_w_hunter" : "Amur Falcon Pistol Crossbow",
+	"bm_w_china" : "China Lake Launcher",
+	"bm_w_arbiter" : "ATK XM25",
+	"bm_w_ray" : "M202 FLASH Rocket Launcher",
+
+	"bm_melee_model24" : "Model 24 Stielhandgranate"
+	"bm_melee_pugio" : "Extrema Ratio EX314BL Pugio"
+	"bm_melee_gerber" : "Gerber DMF Auto Modified Clip Point"
+	"bm_melee_gator" : "Gerber Gator Machete Pro"
+	"bm_melee_kampfmesser" : "Eickhorn-Solingen KM2000"
+	"bm_melee_kabar" : "KA-BAR USMC"
+	"bm_melee_becker" : "KA-BAR Becker TacTool"
+	"bm_melee_bullseye" : "S&W Bullseye Hatchet"
+	"bm_melee_fairbair" : "Fairbairn-Sykes Fighting Knife"
+	"bm_melee_taser" : "ZAP 1M-Volt Stun Baton"
+	"bm_melee_tiger" : "Tekko-Kagi"
+	"bm_melee_brick" : "Motorola DynaTAC 8000X"
+	"bm_melee_nin" : "PALSODE IM360CI 90MM Cordless Gas Framing Nailer"
+	"bm_melee_kabar_tanto" : "KA-BAR Tanto Blade"
+	"bm_melee_ballistic" : "USA-Style Ballistic Knives"
+	"bm_melee_tomahawk" : "Gerber Downrange Tomahawk"
+	"bm_melee_bayonet" : "'60s 2nd Generation AKM Bayonet"
+	"bm_melee_dingdong" : "Gerber Ding Dong Breaching Tool"
+	"bm_melee_oldbaton" : "Monadnock PR-24 Baton"
+	"bm_melee_cqc" : "Kunai"
+	"bm_melee_buck" : "'Metal Fist' Buckler"
+	"bm_melee_beardy" : "Nordic Long-Bearded Axe"
+	"bm_melee_great" : "Zweihander"
+	"bm_melee_topaz" : "Black Diamond Cobra Ice Tool"
+	"bm_melee_wing" : "Balisong"
+	"bm_melee_cs" : "Homelite Super 2 Chainsaw"
+
+	"bm_grenade_fir_com" : "M14 TH3 Incendiary Grenade",
+	"bm_grenade_fir_com_desc" : "A cylindrical grenade visually identical to the M8, the M14 is a purpose designed incendiary grenade. Working off the intense and violent reaction of the thermate filler, end result of the deployment of the M14 is molten iron. This means the M14 is primarily employed on material to be destroyed in a roughly secure environment and not as an offensive or defensive weapon. Since the thermate reaction uses iron oxide instead of oxygen for its oxidizing agent, the grenade can work under water.",
+	"bm_grenade_frag_com" : "Community M67 Frag Grenade",
+	"bm_grenade_frag_com_desc" : "The M67 grenade is a fragmentation hand grenade used by the United States Military. The M67 is a further development of the M33 grenade, a replacement for the M26-series grenades used during the Korean and Vietnam Wars.",
+	"bm_concussion" : "M84 Stun Grenade",
+	"bm_concussion_desc" : "The M84, also known as a flashbang, is the currently-issued stun grenade of the United States Military. Upon detonation, it emits an intensely loud 'bang' of 170-180 decibels and a blinding flash of more than one million candela within five feet of initiation, sufficient to cause immediate flash blindness, deafness, tinnitus, and inner ear disturbance. Exposed personnel experience disorientation, confusion and loss of coordination and balance.",
+	"bm_grenade_frag" : "M67 Frag Grenade",
+	"bm_grenade_frag_desc" : "The M67 grenade is a fragmentation hand grenade used by the United States Military. The M67 is a further development of the M33 grenade, a replacement for the M26-series grenades used during the Korean and Vietnam Wars.",
+	"bm_grenade_molotov" : "Molotov Cocktail",
+	"bm_grenade_molotov_desc" : "A Molotov cocktail, also known as a petrol bomb, poor man's grenade and fire bomb is a generic name used for a variety of bottle-based improvised incendiary weapons. They are primarily intended to set targets ablaze rather than instantly destroy them.",
+	"bm_dynamite" : "Dynamite",
+	"bm_dynamite_desc" : "Dynamite is an explosive material based on nitroglycerin, using diatomaceous earth or another adsorbent substance such as powdered shells or clay. Dynamite was invented by the Swedish chemist and engineer Alfred Nobel in Geesthacht, Germany, and patented in 1867.",
+	"bm_wpn_prj_target" : "Tiger Thrower Throwing Knife",
+	"bm_wpn_prj_hur" : "KitRae AirCobra KR0055 Throwing Axe",
+	"bm_wpn_prj_hur_desc" : "Kit Rae is well known for his fantasy swords and blades, but Kit has also been an avid throwing knife and axe enthusiast for numerous years. The AirCobra is constructed of one solid piece of AUS-6 stainless steel. Features a balanced handle-to-blade design for perfect throwing, with rear blade spike. Leather wrapped grip.",
+	"bm_ability_chico_injector" : "Epinephrine Autoinjector",
+	"bm_ability_chico_injector_desc" : "An epinephrine autoinjector is a medical device for injecting a measured dose or doses of epinephrine (adrenaline).\n\nThe device contains a fixed dose of epinephrine and a spring-loaded needle that exits the tip or edge of the device and penetrates the recipient's skin, to deliver the medication via intramuscular injection.",
+	"bm_grenade_smoke_screen_grenade" : "M18 Smoke Grenade",
+	"bm_grenade_smoke_screen_grenade_desc" : "The M18 Colored Smoke Grenade is an US Army grenade used as a signaling device, a target or landing zone marking device. The M18 replaced the World War II M16 which did not burn as long or as vividly. The M16 was available in the same colors as the M18, but also blue, orange, and black. The M18 initially were going to be produced in the same colors including white, but it was decided to limit it to four colors for simplicity. It was discovered in Vietnam that the green smoke drove away swarming bees.",
+
+	"menu_challenge_monthly_shadowraid_objective" : "Complete Shadow Raid on OVERKILL or above using only Colt Model 733, Glock 17, the Two-piece Suit and no skills.",
+	"menu_challenge_monthly_rats_objective" : "Complete the Rats job on OVERKILL or above using only Colt Model 733, Glock 17, the Two-piece Suit and no skills.",
+	"menu_challenge_frog_1_objective" : "In the Hoxton Breakout job, complete the heist on OVERKILL difficulty or above with each crew member using no skills, wearing Suits, wielding Golden AKMS rifles and Thompson M1928A1 LTD submachine guns.",
+	"menu_challenge_monthly_firestarter_objective" : "Complete the Firestarter job on OVERKILL or above using only Colt Model 733, Glock 17, the Two-piece Suit and no skills.",
+
+	"hud_carry_weapon" : "Izhmash AKS-74",
+	"hud_carry_weapon_scar" : "FN SCAR-H STD",
+	"hud_carry_weapon_glock" : "Glock 17",
+
+	"menu_assault_rifle" : "Assault Rifles",
+	"menu_akimbo" : "Akimbo",
+	"menu_snp" : "Sniper Rifles",
+	"menu_shotgun" : "Shotguns",
+	"menu_lmg" : "Light Machine Guns",
+	"menu_pistol" : "Pistols",
+	"menu_smg" : "Sub-Machine Guns",
+}
