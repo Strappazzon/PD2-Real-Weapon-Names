@@ -17,7 +17,7 @@ To install the mod simply extract the **Real Weapon Names** folder from inside t
 Real Weapon Names supports many languages. You can see the localization progress down below:
 
  - **English:** 100%
- - **French:** 12%
+ - **French:** 100%
  - **Spanish:** 0%
  - **German:** 0%
  - **Italian:** 100%
@@ -25,3 +25,6 @@ Real Weapon Names supports many languages. You can see the localization progress
  - **Chinese:** 0%
 
 Want to help localizing this mod into your language? Edit the corresponding file inside **lua\loc\** and then send a pull request. If your language is not listed here add a new file inside the folder mentioned before and then send a pull request!
+
+## Contributors
+ - [PoorpocketsMcNewhold](http://steamcommunity.com/profiles/76561198111231970/): French localization
