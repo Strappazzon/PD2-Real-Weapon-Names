@@ -8,7 +8,7 @@
 		{
 			"revision" : 1,
 			"identifier" : "real_weapon_names",
-			"display_name" : "Real Weapon Names"
+			"display_name" : "Real Weapon Names",
 		}
 	]
 	"hooks" : [
