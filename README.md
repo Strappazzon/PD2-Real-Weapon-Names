@@ -5,7 +5,7 @@ This mod changes the PAYDAY 2 weapon names with the real ones. It supports all w
 
 ## Download
 The mod can be downloaded on [Mod Workshop](https://modworkshop.net/mydownloads.php?action=view_down&did=19958) and [Payday Mods](http://paydaymods.com/mods/487/real_weapon_names).
-To download the mod from here, use **Clone or Download** menu and then select **Download ZIP**.
+To download the mod from here, use **Clone or Download** menu and then select **Download ZIP**, or [click here](https://github.com/xDarkWolf/PD2-Real-Weapon-Names/releases/latest).
 
 ## Requirements
 This mod requires the [BLT Hook](http://paydaymods.com/download/) installed in order to work.
