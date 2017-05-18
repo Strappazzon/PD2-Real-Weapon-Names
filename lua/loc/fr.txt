@@ -38,7 +38,7 @@
 	"bm_grenade_smoke_screen_grenade_desc" : "La grenade fumigène colorée M18 est un grenade l'armée des Etats-Unis utilisée en tant qu' appareil de signalisation, d'une cible ou d'une zone de marquage. La M18 à remplacée la grenade M16 de la seconde guerre mondiale qui ne brulait pas assez longptemps ou pas assez vivement. La M16 était disponible dans les mêmes couleurs que la M18, mais aussi en bleue, orange, et noire. La M18 étée initiallement prévue d'être produite dans les mêmes couleurs en incluant le blanc, mais il a été décidé de la limiter à seulement 4 couleurs pour plus de simplicité. Il à été découvert au Vietnam, que la fumée verte éloigne les troupeaux d'abeilles..",
 
 	"menu_challenge_monthly_shadowraid_objective" : "Compléter 'PILLAGE NOCTURNE' en OVERKILL ou plus en utilisant uniquement le Colt Model 733, le Glock 17, le costume 2-pieces et aucune compétences.",
-	"menu_challenge_monthly_rats_objective" : "Compléter 'AMPHET" À GOGO' en OVERKILL ou plus en utilisant uniquement le Colt Model 733, Glock 17, le costume 2-pieces et aucune compétences.",
+	"menu_challenge_monthly_rats_objective" : "Compléter 'AMPHET À GOGO' en OVERKILL ou plus en utilisant uniquement le Colt Model 733, Glock 17, le costume 2-pieces et aucune compétences.",
 	"menu_challenge_frog_1_objective" : "Dans l'Évasion d'Hoxton, compléter la mission avec la dificulté OVERKILL ou plus avec vos coéquipiers utilisant aucune compétences, avec des costumes 2-pièces, des Golden AKMS et des Thompson M1928A1 LTD.",
 	"menu_challenge_monthly_firestarter_objective" : "Compléter 'PYROMANE' en OVERKILL ou plus en utilisant uniquement le Colt Model 733, le Glock 17, le costume 2-pieces et aucune compétences.",
 
