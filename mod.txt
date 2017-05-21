@@ -3,16 +3,18 @@
 	"description" : "Changes the PAYDAY 2 weapon names to their real names",
 	"author" : "Winston Wolfe",
 	"contact" : "www.steamcommunity.com/id/Winston-Wolfe",
-	"version" : "2.0.2",
+	"version" : "2.1",
 	"updates" : [
 		{
-			"revision" : 3,
+			"revision" : 4,
 			"identifier" : "real_weapon_names",
-			"display_name" : "Real Weapon Names"
+			"display_name" : "Real Weapon Names",
 		}
-	],
+	]
 	"hooks" : [
 		{ "hook_id" : "lib/managers/localizationmanager", "script_path" : "lua/RWN.lua" },
+		{ "hook_id" : "lib/managers/menu/blackmarketgui", "script_path" : "lua/Blackmarket.lua" },
+		{ "hook_id" : "lib/tweak_data/blackmarket/meleeweaponstweakdata", "script_path" : "lua/Blackmarket.lua" },
 		{ "hook_id" : "lib/managers/localizationmanager", "script_path" : "dev/test_strings.lua" }
 	]
 }
