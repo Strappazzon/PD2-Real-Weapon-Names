@@ -206,7 +206,7 @@
 	"bm_wp_upg_fl_pis_tlr1"             : "Streamlight TLR-1",
 	"bm_wp_upg_fl_pis_laser"            : "Generic Universal Laser Sight",
 	"bm_wp_upg_fl_crimson"              : "CN-201 Rail Master Universal Laser Sight",
-	"bm_wp_upg_fl_x400v"                : "SureFire X400V IRc LED Light  : Laser Sight",
+	"bm_wp_upg_fl_x400v"                : "SureFire X400V IRc LED Light and Laser Sight",
 	"bm_wp_upg_fl_pis_m3x"              : "Insight Technologies M3X Tactical Illuminator",
 
 	"bm_wp_upg_i_singlefire" : "Single-Fire Lock",
@@ -229,10 +229,10 @@
 	"bm_wp_famas_b_sniper"     : "G2 Sniper Barrel",
 	"bm_wp_famas_g_retro"      : "G2 Grip",
 
-	"bm_wp_ak5_fg_ak5c" : "Bofors Ak 5C Foregrip",
+	"bm_wp_ak5_fg_ak5c" : "Bofors AK5C Foregrip",
 	"bm_wp_ak5_fg_fnc"  : "FN FNC Foregrip",
-	"bm_wp_ak5_s_ak5b"  : "FFV Ak 5B Stock",
-	"bm_wp_ak5_s_ak5c"  : "Bofors Ak 5C Stock",
+	"bm_wp_ak5_s_ak5b"  : "FFV AK5B Stock",
+	"bm_wp_ak5_s_ak5c"  : "Bofors AK5C Stock",
 
 	"bm_wp_sub2000_fg_gen2" : "Gen 2 Kit",
 
@@ -261,7 +261,7 @@
 	"bm_wp_upg_fg_jp"          : "JPHG3-1M Carbon Fibre Custom Foregrip",
 	"bm_wp_upg_fg_smr"         : "Geissele SMR MKIII Foregrip",
 	"bm_wp_upg_ass_m4_fg_lvoa" : "War Sport LVOA Foregrip Custom",
-	"bm_wp_upg_ass_m4_fg_moe"  : "Magpul MOE SL H : Guard",
+	"bm_wp_upg_ass_m4_fg_moe"  : "Magpul MOE SL H and Guard",
 	"bm_wp_m4_uupg_b_sd"       : "AAC Honey Badger Barrel",
 
 	"bm_wp_upg_ak_b_draco"       : "Draco Pistol Barrel",
@@ -277,7 +277,7 @@
 	"bm_wp_upg_ak_fg_krebs"    : "Krebs UFM Keymod System Handguard",
 	"bm_wp_upg_ak_fg_trax"     : "Strike Industries TRAX Handguard",
 	"bm_wp_saiga_fg_lowerrail" : "Ultimak AK-47 Multi-Rail Forend Custom Retrofit",
-	"bm_wp_saiga_fg_holy"      : "Fuglystick Rail System, 'Cobra' Pattern",
+	"bm_wp_saiga_fg_holy"      : "Fuglystick Rail System, \"Cobra\" Pattern",
 
 	"bm_wp_upg_ak_g_hgrip" : "Hogue OverMolded AK Pistol Grip",
 	"bm_wp_upg_ak_g_pgrip" : "US PALM Enhanced Pistol Grip",
@@ -297,7 +297,7 @@
 	"bm_wp_polymer_barrel_precision" : "CRB Barrel Shroud",
 	"bm_wp_polymer_ns_silencer"      : "Defiance HPS 4GSK",
 
-	"bm_wp_uzi_b_suppressed" : "SIONICS 'Whispering Death' Retrofit Custom",
+	"bm_wp_uzi_b_suppressed" : "SIONICS \"Whispering Death\" Retrofit Custom",
 	"bm_wp_uzi_fg_rail"      : "K-Grip",
 
 	"bm_wp_cobray_ns_silencer" : "SIONICS \"Whispering Death\"",
@@ -305,7 +305,7 @@
 
 	"bm_wp_sterling_b_e11"        : "E-11 Blaster Rifle Barrel",
 	"bm_wp_sterling_b_suppressed" : "Sterling L34A1 Barrel",
-	"bm_wp_sterling_b_short"      : "Sterling Mk 7 'Para-Pistol' Barrel",
+	"bm_wp_sterling_b_short"      : "Sterling Mk 7 \"Para-Pistol\" Barrel",
 	"bm_wp_sterling_m_short"      : "E-11 Blaster Rifle Barrel",
 	"bm_wp_sterling_s_folded"     : "E-11 Blaster Rifle Stock",
 
