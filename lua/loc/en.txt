@@ -129,6 +129,219 @@
 	"bm_w_arbiter" : "ATK XM25",
 	"bm_w_ray"     : "M202 FLASH Rocket Launcher",
 
+	"bm_wp_upg_o_eotech"        : "EOTech Model 553",
+	"bm_wp_upg_o_t1micro"       : "Aimpoint Weaver-Mounted Micro T-1",
+	"bm_wp_upg_o_docter"        : "DOCTER Sight II Plus",
+	"bm_wp_upg_o_acog"          : "Trijicon ACOG",
+	"bm_wp_upg_o_aimpoint"      : "Aimpoint PRO Rifle Optic 12841",
+	"bm_wp_upg_o_specter"       : "ELCAN Specter DR 1x/4x",
+	"bm_wp_upg_o_cmore"         : "C-MORE Railway ARW",
+	"bm_wp_upg_o_cs"            : "Aimpoint CS",
+	"bm_wp_upg_o_eotech_xps"    : "EOTech Model EXPS3",
+	"bm_wp_upg_o_reflex"        : "Generic Open Reflex Sight",
+	"bm_wp_upg_o_rx01"          : "Trijicon RX01 Polarized Reflex Sight",
+	"bm_wp_upg_o_rx30"          : "Trijicon RX30 Reflex Sight",
+	"bm_wp_upg_o_ak_scopemount" : "K-VAR KV-045 Optic Mount",
+	"bm_wp_fps_upg_o_45iron"    : "XTI Angle Mount Sight",
+	"bm_wp_upg_o_leupold"       : "Leupold Mk 4 ER/T + BORS",
+	"bm_wpn_fps_o_45rds"        : "Leupold DeltaPoint Pro",
+	"bm_wp_upg_o_box"           : "Pulsar Digisight LRF N960 N970 Night Vision Scope with Rangefinder",
+	"bm_wpg_o_mbus_rear"        : "MBUS Front  : Rear Sights",
+	"bm_wpn_fps_upg_o_45iron"   : "XTI Angle Mount Sight",
+	"bm_wp_upg_o_rmr"           : "Trijicon RM06 RMR Sight",
+
+	"bm_wp_m4_m_straight" : "STANAG 22rnd Mag",
+	"bm_wp_m4_uupg_m_std" : "STANAG 38rnd Mag",
+	"bm_wp_m4_m_pmag"     : "Magpul PMAG",
+	"bm_wp_upg_m4_m_quad" : "STANAG 60rnd Mag",
+	"bm_wp_l85a2_m_emag"  : "Magpul EMAG",
+	"bm_wp_upg_m4_m_l5"   : "L5AWM",
+	"bm_wp_m4_m_quick"    : "Original Magpul 5.56 NATO",
+	"bm_wp_sr2_m_quick"   : "Original Magpul 9mm Veresk Retrofit",
+
+	"bm_wp_upg_o_sho_salvo_large"  : "SilencerCo Salvo 12 Suppressor",
+	"bm_wp_upg_ns_sho_salvo_large" : "SilencerCo Salvo 12 Suppressor",
+	"bm_wp_upg_ns_shot_thick"      : "Chigurh Suppressor",
+	"bm_wp_upg_ns_ass_smg_medium"  : "SAI M80 Supressor Custom",
+	"bm_wp_upg_ns_ass_smg_small"   : "GEMTECH HALO Suppressor",
+	"bm_wp_upg_ns_ass_smg_firepig" : "Noveske KX3 Flash Suppressor",
+	"bm_wp_upg_ns_ass_smg_stubby"  : "VFC Stinger Flash Hider",
+	"bm_wp_upg_ns_ass_pbs1"        : "PBS-1 Sound Suppressor",
+	"bm_wp_upg_ns_medium_gem"      : "GEMTECH BLACKSIDE-45 Suppressor",
+	"bm_wp_upg_ns_large_kac"       : "Knight's Armament Mk23 Suppressor Custom",
+	"bm_wp_upg_ns_pis_small"       : "Thompson Machine Poseidon Suppressor Custom",
+	"bm_wp_upg_ns_pis_large"       : "SilencerCo Osprey .45 Suppressor",
+	"bm_wp_upg_ns_ass_filter"      : "Oil Filter Suppressor",
+	"bm_wp_mosin_b_sniper"         : "Bramit Suppressor",
+
+	"bm_wp_upg_ass_ns_jprifles" : "JP Standard-Profile Compensator",
+	"bm_wp_upg_ass_ns_linear"   : "KIES Blast Master Linear Compensator",
+	"bm_wp_upg_ass_ns_surefire" : "SureFire MB556K Muzzle Brake",
+	"bm_wp_ns_battle"           : "BattleComp 2.0 Melonite",
+	"bm_wp_upg_ns_shot_shark"   : "Tromix Shark Brake Door Breacher",
+	"bm_wp_upg_shot_ns_king"    : "King Armory 12ga Breacher",
+	"bm_wp_upg_ns_meatgrinder"  : "WE Tech Tenderizer Compensator",
+	"bm_wp_ns_duck"	            : "Duckbill Choke",
+
+	"bm_wp_m4_s_standard"   : "Bushmaster LE Stock",
+	"bm_wp_m4_s_pts"        : "Magpul PTS Stock",
+	"bm_wp_m4_uupg_s_fold"  : "LR300 Folding Stock",
+	"bm_wp_upg_m4_s_crane"  : "NSWC Crane Stock",
+	"bm_wp_upg_m4_s_mk46"   : "NSWC Crane Stock Custom",
+	"bm_wp_ak_s_folding"    : "Folding AK Stock",
+	"bm_wp_ak_s_skfoldable" : "Folding AK Stock",
+	"bm_wp_upg_m4_s_ubr"    : "Magpul UBR Collapsible Buttstock Custom",
+	"bm_wp_m37_s_short"     : "Sawed-Off Stock",
+
+	"bm_wp_m4_g_ergo"      : "Comm : Arms UPG16 Grip",
+	"bm_wp_m4_g_sniper"    : "Generic Weight-Balanced Synthetic Grip",
+	"bm_wp_upg_m4_g_hgrip" : "Hogue OverMolded Rubber Grip",
+	"bm_wp_upg_m4_g_mgrip" : "Magpul MOE-K Grip",
+
+	"bm_wp_upg_fl_ass_smg_sho_surefire" : "Surefire Scout Light",
+	"bm_wp_upg_fl_ass_smg_sho_peqbox"   : "Insight Technology AN/PEQ-5",
+	"bm_wp_upg_fl_ass_laser"            : "Offset Laser Mount & Sight",
+	"bm_wp_upg_fl_ass_peq15"            : "Insight Technology AN/PEQ-15",
+	"bm_wp_upg_fl_ass_utg"              : "LT-ELP38 Laser/Light Combo",
+	"bm_wp_upg_fl_pis_tlr1"             : "Streamlight TLR-1",
+	"bm_wp_upg_fl_pis_laser"            : "Generic Universal Laser Sight",
+	"bm_wp_upg_fl_crimson"              : "CN-201 Rail Master Universal Laser Sight",
+	"bm_wp_upg_fl_x400v"                : "SureFire X400V IRc LED Light  : Laser Sight",
+	"bm_wp_upg_fl_pis_m3x"              : "Insight Technologies M3X Tactical Illuminator",
+
+	"bm_wp_upg_i_singlefire" : "Single-Fire Lock",
+	"bm_wp_upg_i_autofire"   : "Full-Auto Lock",
+
+	"bm_wp_mg42_b_vg38" : "DLT-19 Heavy Blaster Rifle Barrel",
+
+	"bm_wp_ass_s552_fg_standard_green" : "OD Green Handguard",
+	"bm_wp_ass_s552_fg_railed"         : "SIG SG 553 Railed Handguard",
+	"bm_wp_ass_s552_b_long"            : "SIG SG 552 LB Kit",
+
+	"bm_wp_aug_fg_a3"    : "AUG A3 Foregrip",
+	"bm_wp_aug_body_f90" : "Thales EF88/F90 Receiver",
+
+	"bm_wp_l85a2_fg_short" : "GPS-SAW",
+
+	"bm_wp_famas_b_suppressed" : "Integrally Suppressed Barrel",
+	"bm_wp_famas_b_long"       : "G2 Civilian Barrel",
+	"bm_wp_famas_b_short"      : "G2 Commando Barrel",
+	"bm_wp_famas_b_sniper"     : "G2 Sniper Barrel",
+	"bm_wp_famas_g_retro"      : "G2 Grip",
+
+	"bm_wp_ak5_fg_ak5c" : "Bofors Ak 5C Foregrip",
+	"bm_wp_ak5_fg_fnc"  : "FN FNC Foregrip",
+	"bm_wp_ak5_s_ak5b"  : "FFV Ak 5B Stock",
+	"bm_wp_ak5_s_ak5c"  : "Bofors Ak 5C Stock",
+
+	"bm_wp_sub2000_fg_gen2" : "Gen 2 Kit",
+
+	"bm_wp_scar_s_sniper"        : "FN SSR Stock",
+	"bm_wp_scar_b_short"         : "Mk17 CQC Kit",
+	"bm_wp_scar_b_long"          : "Mk17 LB Kit",
+	"bm_wp_scar_scar_fg_railext" : "PWS SRX Rail Extension",
+
+	"bm_wp_m14_body_ebr"         : "M1A SOPMOD Chassis",
+	"bm_wp_m14_body_jae"         : "JAE-100 G3 Chassis Custom",
+	"bm_wp_upg_o_m14_scopemount" : "Mk14 Chassis",
+
+	"bm_wp_vhs_b_short" : "VHS-K2 Barrel"
+
+	"bm_wp_upg_ass_m4_lower_reciever_core"		 : "CORE15 Lower Receiver",
+	"bm_wp_m4_upper_reciever_edge"               : "VLTOR MUR-1A Upper Receiver",
+	"bm_wp_upg_ass_m4_upper_reciever_ballos"	 : "2A-Arms BALIOS-Lite Upper Receiver",
+	"bm_wp_upg_ass_m4_upper_reciever_core"		 : "CORE15 Upper Receiver",
+
+	"bm_wp_m16_fg_railed"       : "Daniel Defense AR15 Lite Rail III Custom",
+	"bm_wp_m16_fg_vietnam"      : "M16A1 Foregrip",
+	"bm_wp_upg_ass_m16_fg_stag" : "Diamondhead VRS-T Custom",
+	"bm_wp_m4_uupg_b_long"      : ".50 Beowulf Conversion Kit",
+
+	"bm_wp_m4_uupg_fg_lr300"   : "Z-M LR 300ML Foregrip",
+	"bm_wp_upg_fg_jp"          : "JPHG3-1M Carbon Fibre Custom Foregrip",
+	"bm_wp_upg_fg_smr"         : "Geissele SMR MKIII Foregrip",
+	"bm_wp_upg_ass_m4_fg_lvoa" : "War Sport LVOA Foregrip Custom",
+	"bm_wp_upg_ass_m4_fg_moe"  : "Magpul MOE SL H : Guard",
+	"bm_wp_m4_uupg_b_sd"       : "AAC Honey Badger Barrel",
+
+	"bm_wp_upg_ak_b_draco"       : "Draco Pistol Barrel",
+	"bm_wp_upg_ak_b_ak105"       : "AK-105 Barrel",
+	"bm_wp_upg_ass_ak_b_zastava" : "Zastava M76 Barrel",
+
+	"bm_wp_upg_o_ak_scopemount" : "K-VAR KV-04S Optic Mount",
+
+	"bm_wp_ak_fg_combo2"       : "Ultimak AK Optic Mount",
+	"bm_wp_ak_fg_combo3"       : "Ultimak AK Modular Rail Forend System",
+	"bm_wp_upg_ak_fg_tapco"    : "Tapco Intrafuse Handguard",
+	"bm_wp_upg_fg_midwest"     : "Midwest Industries Quad Rail",
+	"bm_wp_upg_ak_fg_krebs"    : "Krebs UFM Keymod System Handguard",
+	"bm_wp_upg_ak_fg_trax"     : "Strike Industries TRAX Handguard",
+	"bm_wp_saiga_fg_lowerrail" : "Ultimak AK-47 Multi-Rail Forend Custom Retrofit",
+	"bm_wp_saiga_fg_holy"      : "Fuglystick Rail System, 'Cobra' Pattern",
+
+	"bm_wp_upg_ak_g_hgrip" : "Hogue OverMolded AK Pistol Grip",
+	"bm_wp_upg_ak_g_pgrip" : "US PALM Enhanced Pistol Grip",
+	"bm_wp_upg_ak_g_wgrip" : "Wooden Grip",
+	"bm_wp_upg_ak_g_rk3"   : "ZenitCo PK-3 Pistol Grip",
+
+	"bm_wp_upg_ak_m_quad"   : "Concern Kalashnikov 60rnd Mag",
+	"bm_wp_upg_ak_m_uspalm" : "US PALM AK30 30rnd Mag",
+	"bm_wp_ak_m_quick"      : "Original Magpul AK Retrofit",
+
+	"bm_wp_upg_ak_s_solidstock" : "AK-74 Stock",
+	"bm_wp_ak_s_psl"            : "PSL Stock",
+
+	"bm_wp_asval_b_proto" : "SR-3M Barrel",
+	"bm_wp_asval_s_solid" : "VSS Vintorez Stock",
+
+	"bm_wp_polymer_barrel_precision" : "CRB Barrel Shroud",
+	"bm_wp_polymer_ns_silencer"      : "Defiance HPS 4GSK",
+
+	"bm_wp_uzi_b_suppressed" : "SIONICS 'Whispering Death' Retrofit Custom",
+	"bm_wp_uzi_fg_rail"      : "K-Grip",
+
+	"bm_wp_cobray_ns_silencer" : "SIONICS \"Whispering Death\"",
+	"bm_wp_mac10_body_ris"     : "G&P CQB Tactical Rail Kit Retrofit",
+
+	"bm_wp_sterling_b_e11"        : "E-11 Blaster Rifle Barrel",
+	"bm_wp_sterling_b_suppressed" : "Sterling L34A1 Barrel",
+	"bm_wp_sterling_b_short"      : "Sterling Mk 7 'Para-Pistol' Barrel",
+	"bm_wp_sterling_m_short"      : "E-11 Blaster Rifle Barrel",
+	"bm_wp_sterling_s_folded"     : "E-11 Blaster Rifle Stock",
+
+	"bm_wp_mp5_fg_mp5sd"   : "MP5SD5 Barrel",
+	"bm_wp_mp5_fg_m5k"     : "MP5K-N Barrel",
+	"bm_wp_mp5_s_ring"     : "MP5K Stock",
+	"bm_wp_mp5_s_adjust"   : "MP5A3 Stock",
+	"bm_wp_mp5_m_straight" : "10mm Rounds",
+
+	"bm_wp_mp7_b_suppressed" : "H&K MP7 QD Suppressor",
+
+	"bm_wp_mp9_b_suppressed" : "MP9 QD Suppressor",
+	"bm_wp_mp9_s_skel" : "Steyr TMP Stock Retrofit",
+
+	"bm_wp_p90_b_long"     : "PS90 Civilian Issue Barrel",
+	"bm_wp_p90_b_civilian" : "Moerse Lekker Sales Barrel Shroud",
+
+	"bm_wp_hajk_b_short" : "CZ 805 BREN A2 Barrel",
+
+	"bm_wp_scorpion_m_extended" : "Quick-Swap Magazine",
+
+	"bm_wp_pis_g_laser"      : "Crimson Trace Glock Laser Grip",
+	"bm_wp_pis_g_beavertail" : "Cytec Beavertail Grip",
+
+	"bm_wp_g18c_g_ergo" : "Hogue Handall Half-Size Universal Grip Sleeve",
+	"bm_wp_pis_s_stock" : "FAB Defense GLR-440",
+
+	"bm_wp_beretta_co_co1"       : "LA.RI.A AL-GI-MEC Compensator",
+	"bm_wp_beretta_sl_brigadier" : "92G Elitee II Parkerized Slide",
+
+	"bm_wp_pis_ppk_b_long" : "Walther PP Slide",
+
+	"bm_wp_r93_body_wood" : "Blaser R93 Semi-weight Sporting Variant",
+
+	"bm_wp_m95_b_barrel_suppressed" : "QDL Suppressor + Camo Shroud",
+
 	"bm_melee_model24"     : "Model 24 Stielhandgranate"
 	"bm_melee_pugio"       : "Extrema Ratio EX314BL Pugio"
 	"bm_melee_gerber"      : "Gerber DMF Auto Modified Clip Point"
