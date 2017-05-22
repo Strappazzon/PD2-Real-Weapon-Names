@@ -28,13 +28,162 @@
 	"bm_w_x_mp5"   : "Doppie H&K MP5",
 	"bm_w_x_akmsu" : "Doppie Izhmash AKMSU",
 
-	"bm_w_china"   : "Lanciagranate China Lake",
-	"bm_w_arbiter" : "XM25",
-	"bm_w_ray"     : "Lanciarazzi M202 FLASH",
-
 	"bm_w_serbu" : "Remington 870 a canna corta",
 
 	"bm_w_hunter" : "Pistola a balestra Amur Falcon",
+	"bm_w_china"   : "Lanciagranate China Lake",
+	"bm_w_arbiter" : "XM25",
+	"bm_w_ray"     : "Lanciarazzi M202 FLASH",
+	
+	"bm_wp_upg_o_t1micro"       : "Aimpoint Micro T-1 su slitta Weaver",
+	"bm_wp_upg_o_reflex"        : "Mirino Generic Open Reflex",
+	"bm_wp_upg_o_rx01"          : "Mirino Trijicon RX01 Polarized Reflex",
+	"bm_wp_upg_o_rx30"          : "Mirino Trijicon RX30 Reflex",
+	"bm_wp_upg_o_box"           : "Visore notturno Pulsar Digisight LRF N960 N970 con Telemetro",
+	"bm_wp_upg_o_rmr"           : "Mirino Trijicon RM06 RMR",
+
+	"bm_wp_m4_m_straight" : "Caricatore STANAG 22rnd",
+	"bm_wp_m4_uupg_m_std" : "Caricatore STANAG 38rnd",
+	"bm_wp_upg_m4_m_quad" : "Caricatore STANAG 60rnd",
+	"bm_wp_l85a2_m_emag"  : "Magpul EMAG",
+
+	"bm_wp_upg_o_sho_salvo_large"  : "Silenziatore SilencerCo Salvo 12",
+	"bm_wp_upg_ns_sho_salvo_large" : "Silenziatore SilencerCo Salvo 12",
+	"bm_wp_upg_ns_shot_thick"      : "Silenziatore Chigurh",
+	"bm_wp_upg_ns_ass_smg_small"   : "Silenziatore GEMTECH HALO",
+	"bm_wp_upg_ns_ass_pbs1"        : "Silenziatore PBS-1",
+	"bm_wp_upg_ns_medium_gem"      : "Silenziatore GEMTECH BLACKSIDE-45",
+	"bm_wp_upg_ns_large_kac"       : "Silenziatore Custom Knight's Armament Mk23",
+	"bm_wp_upg_ns_pis_small"       : "Silenziatore Custom Thompson Machine Poseidon",
+	"bm_wp_upg_ns_pis_large"       : "Silenziatore SilencerCo Osprey .45",
+	"bm_wp_mosin_b_sniper"         : "Silenziatore Bramit",
+
+	"bm_wp_upg_ass_ns_jprifles" : "Compensatore JP Standard-Profile",
+	"bm_wp_upg_ass_ns_linear"   : "Compensatore KIES Blast Master Linear",
+	"bm_wp_upg_ass_ns_surefire" : "Spegnifiamma SureFire MB556K",
+	"bm_wp_upg_ns_meatgrinder"  : "Compensatore WE Tech Tenderizer",
+
+	"bm_wp_m4_s_standard"   : "Calcio Bushmaster LE",
+	"bm_wp_m4_s_pts"        : "Calcio Magpul PTS",
+	"bm_wp_m4_uupg_s_fold"  : "Calcio pieghevole LR300",
+	"bm_wp_upg_m4_s_crane"  : "Calcio allungabile NSWC",
+	"bm_wp_upg_m4_s_mk46"   : "Calcio allungabile custom NSWC",
+	"bm_wp_ak_s_folding"    : "Calcio pieghevole AK",
+	"bm_wp_ak_s_skfoldable" : "Calcio pieghevole AK",
+	"bm_wp_upg_m4_s_ubr"    : "Calcio pieghevole custom Magpul UBR",
+	"bm_wp_m37_s_short"     : "Calcio accorciato",
+
+	"bm_wp_m4_g_ergo"      : "Impugnatura Command Arms UPG16",
+	"bm_wp_m4_g_sniper"    : "Impugnatura bilanciata generica",
+	"bm_wp_upg_m4_g_hgrip" : "Impugnatura in gomma Hogue OverMolded",
+	"bm_wp_upg_m4_g_mgrip" : "Impugnatura Magpul MOE-K",
+
+	"bm_wp_upg_fl_pis_laser"            : "Puntatore laser generico universale",
+	"bm_wp_upg_fl_crimson"              : "Puntatore laser universale CN-201 Rail Master",
+	"bm_wp_upg_fl_x400v"                : "Torcia a LED SureFire X400V IRc e puntatore laser",
+
+	"bm_wp_upg_i_singlefire" : "Modalità semiautomatica",
+	"bm_wp_upg_i_autofire"   : "Modalità automatica",
+
+	"bm_wp_mg42_b_vg38" : "Canna DLT-19 Heavy Blaster Rifle",
+
+	bm_wp_ass_s552_fg_standard_green" : "Impugnatura anteriore OD Green",
+	"bm_wp_ass_s552_fg_railed"         : "Impugnatura anteriore con slitta del SIG SG 553",
+
+	"bm_wp_aug_fg_a3"    : "Impugnatura anteriore dell'AUG A3",
+	"bm_wp_aug_body_f90" : "Castello Thales EF88/F90",
+
+	"bm_wp_famas_b_suppressed" : "Canna con silenziatore integrato",
+	"bm_wp_famas_b_long"       : "Canna civile del FAMAS G2",
+	"bm_wp_famas_b_short"      : "Canna del FAMAS G2 Commando",
+	"bm_wp_famas_b_sniper"     : "Canna di precisione del FAMAS G2",
+	"bm_wp_famas_g_retro"      : "Impugnatura del FAMAS G2",
+
+	"bm_wp_ak5_fg_ak5c" : "Impugnatura anteriore dell'AK5C",
+	"bm_wp_ak5_fg_fnc"  : "Impugnatura anteriore dell'FNC",
+	"bm_wp_ak5_s_ak5b"  : "Calcio del FFV AK5B",
+	"bm_wp_ak5_s_ak5c"  : "Calcio dell'AK5C",
+
+	"bm_wp_scar_s_sniper"        : "Calcio dell'FN SSR",
+	"bm_wp_scar_b_short"         : "Kit Mk17 CQC",
+	"bm_wp_scar_b_long"          : "Kit Mk17 LB",
+	"bm_wp_scar_scar_fg_railext" : "Estensione della slitta PWS SRX",
+
+	"bm_wp_m14_body_ebr"         : "Telaio dell'M1A SOPMOD",
+	"bm_wp_m14_body_jae"         : "Telaio custom del JAE-100 G3",
+	"bm_wp_upg_o_m14_scopemount" : "Telaio Mk14",
+
+	"bm_wp_vhs_b_short" : "Canna del VHS-K2"
+
+	"bm_wp_upg_ass_m4_lower_reciever_core"		 : "Castello inferiore CORE15",
+	"bm_wp_m4_upper_reciever_edge"               : "Castello superiore VLTOR MUR-1A",
+	"bm_wp_upg_ass_m4_upper_reciever_ballos"	 : "Castello superiore 2A-Arms BALIOS-Lite",
+	"bm_wp_upg_ass_m4_upper_reciever_core"		 : "Castello superiore CORE15",
+
+	"bm_wp_m16_fg_railed"       : "Slitta custom Daniel Defense AR15 Lite III",
+	"bm_wp_m16_fg_vietnam"      : "Impugnatura anteriore dell'M16A1",
+	"bm_wp_m4_uupg_b_long"      : "Kit di conversione .50 Beowulf",
+
+	"bm_wp_m4_uupg_fg_lr300"   : "Impugnatura anteriore Z-M LR 300ML",
+	"bm_wp_upg_fg_jp"          : "Impugnatura anteriore custom in fibra di carbonio JPHG3-1M",
+	"bm_wp_upg_fg_smr"         : "Impugnatura anteriore Geissele SMR MKIII",
+	"bm_wp_upg_ass_m4_fg_lvoa" : "Impugnatura anteriore custom War Sport LVOA",
+	"bm_wp_m4_uupg_b_sd"       : "Canna AAC Honey Badger",
+
+	"bm_wp_upg_ak_b_ak105"       : "Canna dell'AK-105",
+	"bm_wp_upg_ass_ak_b_zastava" : "Canna del Zastava M76",
+
+	"bm_wp_upg_ak_fg_tapco"    : "Impugnatura anteriore Tapco Intrafuse",
+	"bm_wp_upg_ak_fg_krebs"    : "Impugnatura anteriore Krebs UFM Keymod System",
+	"bm_wp_upg_ak_fg_trax"     : "Impugnatura anteriore Strike Industries TRAX",
+	"bm_wp_saiga_fg_lowerrail" : "Ultimak AK-47 Multi-Rail Forend Custom Retrofit",
+
+	"bm_wp_upg_ak_g_hgrip" : "Impugnatura per pistole Hogue OverMolded",
+	"bm_wp_upg_ak_g_pgrip" : "Impugnatura per pistole US PALM Enhanced",
+	"bm_wp_upg_ak_g_wgrip" : "Impugnatura in legno",
+	"bm_wp_upg_ak_g_rk3"   : "Impugnatura per pistole ZenitCo PK-3",
+
+	"bm_wp_upg_ak_m_quad"   : "Caricatore Concern Kalashnikov 60rnd",
+	"bm_wp_upg_ak_m_uspalm" : "Caricatore US PALM AK30 30rnd",
+
+	"bm_wp_upg_ak_s_solidstock" : "Calcio dell'AK-74",
+	"bm_wp_ak_s_psl"            : "Calcio PSL",
+
+	"bm_wp_asval_b_proto" : "Canna SR-3M",
+	"bm_wp_asval_s_solid" : "Calcio del VSS Vintorez",
+
+	"bm_wp_uzi_b_suppressed" : "SIONICS \"Morte Sussurrante\" Retrofit Custom",
+
+	"bm_wp_cobray_ns_silencer" : "SIONICS \"Morte Sussurrante\"",
+
+	"bm_wp_sterling_b_e11"        : "Canna E-11 Blaster Rifle",
+	"bm_wp_sterling_b_suppressed" : "Canna Sterling L34A1",
+	"bm_wp_sterling_b_short"      : "Canna Sterling Mk 7 \"Para-Pistol\"",
+	"bm_wp_sterling_m_short"      : "Canna E-11 Blaster Rifle",
+	"bm_wp_sterling_s_folded"     : "Calcio E-11 Blaster Rifle",
+
+	"bm_wp_mp5_fg_mp5sd"   : "Canna dell'MP5SD5",
+	"bm_wp_mp5_fg_m5k"     : "Canna dell'MP5K-N",
+	"bm_wp_mp5_s_ring"     : "Calcio dell'MP5K",
+	"bm_wp_mp5_s_adjust"   : "Calcio dell'MP5A3",
+	"bm_wp_mp5_m_straight" : "Proiettili 10mm",
+
+	"bm_wp_mp7_b_suppressed" : "Silenziatore dell'MP7 QD",
+
+	"bm_wp_mp9_b_suppressed" : "Silenziatore dell'MP9 QD",
+
+	"bm_wp_p90_b_long"     : "Canna del PS90 di dotazione civile",
+
+	"bm_wp_hajk_b_short" : "Canna del CZ 805 BREN A2",
+
+	"bm_wp_pis_g_laser"      : "Impugnatura con puntatore laser Crimson Trace",
+	"bm_wp_pis_g_beavertail" : "Impugnatura Cytec Beavertail",
+
+	"bm_wp_beretta_co_co1"       : "Compensatore LA.RI.A AL-GI-MEC",
+
+	"bm_wp_pis_ppk_b_long" : "Carrello della Walther PP",
+
+	"bm_wp_m95_b_barrel_suppressed" : "Silenziatore QDL + Camo",
 
 	"bm_melee_model24"     : "Stielhandgranate Modello 24"
 	"bm_melee_bullseye"    : "Accetta S&W Bullseye"
