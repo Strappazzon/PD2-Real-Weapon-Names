@@ -87,7 +87,7 @@
 
 	"bm_wp_mg42_b_vg38" : "Canna DLT-19 Heavy Blaster Rifle",
 
-	bm_wp_ass_s552_fg_standard_green" : "Impugnatura anteriore OD Green",
+	"bm_wp_ass_s552_fg_standard_green" : "Impugnatura anteriore OD Green",
 	"bm_wp_ass_s552_fg_railed"         : "Impugnatura anteriore con slitta del SIG SG 553",
 
 	"bm_wp_aug_fg_a3"    : "Impugnatura anteriore dell'AUG A3",
