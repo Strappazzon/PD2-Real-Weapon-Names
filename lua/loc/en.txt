@@ -193,7 +193,7 @@
 	"bm_wp_upg_m4_s_ubr"    : "Magpul UBR Collapsible Buttstock Custom",
 	"bm_wp_m37_s_short"     : "Sawed-Off Stock",
 
-	"bm_wp_m4_g_ergo"      : "Comm : Arms UPG16 Grip",
+	"bm_wp_m4_g_ergo"      : "Command Arms UPG16 Grip",
 	"bm_wp_m4_g_sniper"    : "Generic Weight-Balanced Synthetic Grip",
 	"bm_wp_upg_m4_g_hgrip" : "Hogue OverMolded Rubber Grip",
 	"bm_wp_upg_m4_g_mgrip" : "Magpul MOE-K Grip",
