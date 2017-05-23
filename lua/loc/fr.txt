@@ -17,6 +17,132 @@
 	"bm_w_china"  : "China Lake Launcher",
 	"bm_w_ray"    : "M202 FLASH Lance-roquettes",
 
+	"bm_wp_upg_o_eotech"        : "EOTech Modèle 553",
+	"bm_wp_upg_o_docter"        : "Viseur DOCTER II Plus",
+	"bm_wp_upg_o_eotech_xps"    : "EOTech Modèle EXPS3",
+	"bm_wp_upg_o_reflex"        : "Viseur Générique Open Reflex",
+	"bm_wp_upg_o_rx01"          : "Viseur Trijicon RX01 Polarized Reflex",
+	"bm_wp_upg_o_rx30"          : "Viseur Trijicon RX30 Reflex",
+	"bm_wp_fps_upg_o_45iron"    : "Viseur XTI Angle",
+	"bm_wp_upg_o_box"           : "Viseur Pulsar Digisight LRF N960 N970 nocturne avec chercheur de cibles",
+
+	"bm_wp_upg_o_sho_salvo_large"  : "Suppreseur SilencerCo Salvo 12",
+	"bm_wp_upg_ns_sho_salvo_large" : "Suppreseur SilencerCo Salvo 12",
+	"bm_wp_upg_ns_shot_thick"      : "Suppresseur Chigurh",
+	"bm_wp_upg_ns_ass_smg_medium"  : "Supresseur Customisé SAI M80",
+	"bm_wp_upg_ns_ass_smg_small"   : "SupresseurGEMTECH HALO",
+	"bm_wp_upg_ns_ass_smg_firepig" : "Supresseur de flammes Noveske KX3 Flash Suppressor",
+	"bm_wp_upg_ns_ass_pbs1"        : "Supresseur Sonore PBS-1",
+	"bm_wp_upg_ns_medium_gem"      : "Supresseur GEMTECH BLACKSIDE-45",
+	"bm_wp_upg_ns_large_kac"       : "Supresseur Customisé Knight's Armament Mk23",
+	"bm_wp_upg_ns_pis_small"       : "Supresseur Customisé Thompson Machine Poseidon",
+	"bm_wp_upg_ns_pis_large"       : "Supresseur SilencerCo Osprey .45",
+	"bm_wp_upg_ns_ass_filter"      : "Supresseur Filtre à Huile",
+	"bm_wp_mosin_b_sniper"         : "Supresseur Bramit",
+
+	"bm_wp_upg_ass_ns_jprifles" : "Compensateur JP Profil-standard",
+	"bm_wp_upg_ass_ns_linear"   : "Compensateur Linéaire KIES Blast Master",
+	"bm_wp_upg_ass_ns_surefire" : "Frein de Bouche SureFire MB556K",
+	"bm_wp_upg_ns_meatgrinder"  : "Compensateur WE Tech Tenderizer",
+
+	"bm_wp_m4_g_ergo"      : "Poignée Command Arms UPG16",
+	"bm_wp_m4_g_sniper"    : "Poignée Générique en synthétique à Poids-balancé",
+	"bm_wp_upg_m4_g_hgrip" : "Poignée en caoutchouc Hogue OverMolded",
+	"bm_wp_upg_m4_g_mgrip" : "Poignée Magpul MOE-K",
+
+	"bm_wp_upg_fl_ass_smg_sho_surefire"    : "Lampe Surefire Scout",
+	"bm_wp_upg_fl_ass_smg_sho_peqbox"      : "Insight Technology AN/PEQ-5",
+	"bm_wp_upg_fl_ass_smg_sho_peqbox_desc" : "La lunette de visée est mil-spec et projecte un point rouge visible. L'appareil est une version civile du plus large AN-PEQ-2, qui n'est seulement disponible que pour l'armée américaine.",
+	"bm_wp_upg_fl_ass_laser"               : "Offset Laser Mount & Sight",
+	"bm_wp_upg_fl_ass_peq15"               : "Insight Technology AN/PEQ-15",
+	"bm_wp_upg_fl_ass_peq15_desc"          : "C'est un léger, solide, et simple à utiliser système de visée designé à être utilisé avec ou sans dispositif de vision nocturne.\nTemps d'utilisation: Plus de 6 heures.",
+	"bm_wp_upg_fl_ass_utg"                 : "LT-ELP38 Laser/Lampe Combo",
+	"bm_wp_upg_fl_ass_utg_desc"            : "C'est le parfait acessoire pour gagner un advantage tactique. La lampe peut-être utilisée pour rapidement identifier votre cible tout en minimisant votre exposition en pleine nuit. Le laser vous permez de repérer votre cible en vous aidant à tirer dessus en plein combat.\nLongétivité du laser: 6000 heures.",
+	"bm_wp_upg_fl_pis_tlr1"                : "Streamlight TLR-1",
+	"bm_wp_upg_fl_pis_tlr1_desc"           : "Intensément clair, Virtuellement indestructible rail-monté lampe tactique, s'attache sur presque toutes les armes en quelques secondes.\nTemps d'utilisation: 2.5 heures.",
+	"bm_wp_upg_fl_pis_laser"               : "CMR-201 RAIL MASTER Viseur laser",
+	"bm_wp_upg_fl_pis_laser_desc"          : "C'est un puissant et versatile viseur laser désigné à rentrer sur les pistolets équipés de rails, fusils et fusils à pompes.\nTemps d'utilisation: 4 heures.",
+	"bm_wp_upg_fl_crimson"                 : "CN-201 RAIL MASTER Viseur laser",
+	"bm_wp_upg_fl_x400v"                   : "SureFire X400V IRc Lampe LED et viseur laser",
+	"bm_wp_upg_fl_x400v_desc"              : "C'est un très versatile, lampe dual-spectrum qui inclus aussi un viseur laser de Class 1 pouvant être utilisé avec différents dispositifs à vision nocturne.\nTemps d'utilisation: 2.5 heures.",
+	"bm_wp_upg_fl_pis_m3x"                 : "Insight Technology M3X Tactical Illuminator",
+	"bm_wp_upg_fl_pis_m3x_desc"            : "Cette lampe à étée construite pour exceller sous des conditions rigoureuses et résister aux pires environnements. Résultat: Cette lampe peut survivre à une profondeur de 66 pieds, est reste tout aussi étanche.\nTemps d'utilisation: 1 heure",
+
+	"bm_wp_upg_i_singlefire" : "Verouillage semi-automatique",
+	"bm_wp_upg_i_autofire"   : "Verrouillage automatique",
+
+	"bm_wp_mg42_b_vg38" : "Canon de fusil DLT-19 Heavy Blaster",
+
+	"bm_wp_famas_b_long"       : "Cannon civil G2",
+	"bm_wp_famas_b_short"      : "Cannon G2 Commando",
+	"bm_wp_famas_b_sniper"     : "Cannon G2 Sniper",
+
+	"bm_wp_m14_body_ebr"         : "Chassis M1A SOPMOD",
+	"bm_wp_m14_body_jae"         : "Chassis Customisé JAE-100 G3",
+	"bm_wp_upg_o_m14_scopemount" : "Chassis Mk14",
+
+	"bm_wp_vhs_b_short" : "Cannon VHS-K2"
+
+	"bm_wp_m4_uupg_b_long"      : "Kit de conversion .50 Beowulf",
+
+	"bm_wp_m4_uupg_b_sd"       : "Cannon AAC Honey Badger",
+
+	"bm_wp_upg_ak_b_draco"       : "Cannon Draco Pistol",
+	"bm_wp_upg_ak_b_ak105"       : "Cannon AK-105 Barrel",
+	"bm_wp_upg_ass_ak_b_zastava" : "Cannon Zastava M76",
+
+	"bm_wp_ak_fg_combo3"       : "Rail modulaire Ultimak AK Forend System",
+	"bm_wp_upg_fg_midwest"     : "Rail Midwest Industries Quad",
+	"bm_wp_saiga_fg_lowerrail" : "Multi-Rail Ultimak AK-47 Forend Custom Retrofit",
+
+	"bm_wp_asval_b_proto" : "Cannon SR-3M",
+	"bm_wp_hk21_b_long" : "Cannon HK23E"
+
+	"bm_wp_polymer_barrel_precision" : "Barrel CRB Shroud",
+
+	"bm_wp_sterling_b_e11"        : "Cannon de fusil E-11 Blaster",
+	"bm_wp_sterling_b_suppressed" : "Cannon Sterling L34A1",
+	"bm_wp_sterling_b_short"      : "Cannon Sterling Mk 7 \"Para-Pistol\"",
+	"bm_wp_sterling_m_short"      : "Cannon E-11 Blaster Rifle",
+
+	"bm_wp_mp5_fg_mp5sd"      : "Cannon MP5SD5",
+	"bm_wp_mp5_fg_m5k"        : "Cannon MP5K-N",
+	"bm_wp_mp5_fg_flash"      : "Lampe LED Handguard with G&P CREE",
+	"bm_wp_mp5_fg_flash_desc" : "This tactical handguard is a direct replacement of the MP5 fore handguard.",
+	"bm_wp_mp5_m_straight"    : "Munition 10mm",
+
+	"bm_wp_mp7_b_suppressed" : "Suppreseur H&K MP7 QD",
+
+	"bm_wp_mp9_b_suppressed" : "Suppreseur MP9 QD",
+
+	"bm_wp_p90_b_long"     : "Cannon civil PS90",
+
+	"bm_wp_hajk_b_short" : "Cannon CZ 805 BREN A2",
+
+	"bm_wp_scorpion_m_extended" : "Cartouche Quick-Swap",
+
+	"bm_wp_beretta_co_co1"       : "Compensateur LA.RI.A AL-GI-MEC",
+
+	"bm_wp_m95_b_barrel_suppressed" : "QDL Supresseur + Camo Shroud",
+
+	"bm_wp_upg_a_piercing_desc"       : "Une flechette est un projectile constitué d'une pointe métalique, avec un arrière pour stabiliser la trajectoire de la flechette.",
+	"bm_wp_upg_a_slug_desc"           : "Une chevrotine de fusil à pompe est un projectile lourd fait de plomb, cuivre, ou d'autre matériaux et est tiré par un fusil à pompe..\nUn chevrotine de fusil est habituellement plus importante qu'une balle de fusil.",
+	"bm_wp_upg_a_slug2_desc"          : "Une chevrotine de fusil à pompe est un projectile lourd fait de plomb, cuivre, ou d'autre matériaux et est tiré par un fusil à pompe..\nUn chevrotine de fusil est habituellement plus importante qu'une balle de fusil.",
+	"bm_wp_upg_a_dragons_breath_desc" : "Dragon's breath est un type spécial de chevrotine incendiaire pour les fusils à pompes de calibre 12. Les chevrotines Dragon's breath sont consistés en majorité de granulés de magnésium. Quand la chevrotine est tirée, éclats et flammes sont projetés jusqu'a une distance de 100 pieds.",
+
+	"bm_wp_mosin_ns_bayonet_desc" : "The Mosin Nagant bayonet is a spike bayonet, meaning unlike a knife-style bayonet, it is unable to be wielded by hand.\nMeasures 19 1/2 inches.",
+
+	"bm_melee_fairbair"    : "Couteau de combat Fairbairn-Sykes"
+	"bm_melee_taser"       : "Stun d'étourdissement ZAP 1M-Volt"
+	"bm_melee_nin"         : "Pistolet à clous PALSODE IM360CI 90MM"
+	"bm_melee_kabar_tanto" : "Lame KA-BAR Tanto"
+	"bm_melee_ballistic"   : "Couteaux Ballistiques USA-Style"
+	"bm_melee_bayonet"     : "'60s AKM Bayonet de seconde génération"
+	"bm_melee_oldbaton"    : "Baton Monadnock PR-24"
+	"bm_melee_beardy"      : "Hache Nordic Long-Bearded"
+	"bm_melee_topaz"       : "Outil d'alpiniste Black Diamond Cobra"
+	"bm_melee_cs"          : "Tronçonneuse Homelite Super 2"
+
 	"bm_melee_weapon_info"        : "",
 	"bm_melee_fists_info"         : "",
 	"bm_melee_kabar_info"         : "",
@@ -94,6 +220,11 @@
 	"bm_melee_catch_info"         : "",
 	"bm_melee_oxide_info"         : "",
 	"bm_melee_sword_info"         : "",
+	"bm_melee_brick_info"         : "Le motorola DynaTAC 8000X téléphone céllulaire à reçu l'approvation de l'U.S. FCC le 21 septembre, 1983. Avec une charge totale d'en gros 10 heures, et qui offrait 30 minutes d'appel. Il était aussi fourni avec un affichage LED pour appeler ou rappeler l'un des 30 numéros téléphoniques.Il était vendu à 3,995$ en 1984, l'année de sa commercialisation, ce qui est équivalent à 9,366$ en dollars actuels avec l'inflation. DynaTAC était l'abrévation de \"Dynamic Adaptive Total Area Coverage\".",
+	"bm_melee_gerber_info"        : "D.M.F., ou Dual Multi Function, est un couteau automatique qui peut être utilisé dans l'action avec la main gauche ou droite. Le tout automatique S30V steel blade offre une protection supérieur contre la corrosion. Le manche G10 offrait un mix entre solidité et légèreté.",
+	"bm_melee_model24_info"       : "La Stielhandgranate était une grenade à design unique Allemand qui était un standard dans l'empire Allemand durant la Première Guerre Mondiale, puis fût plus tard, un standard dans les forces armées nazies (Wehrmacht) durant la Seconde Guerre Mondiale. Son apparence très distinctive à laissée à se faire appelée une \"grenade à baton\", ou un \"écraseur de patates\" dans le jargon de l'armée Britannique.",
+	"bm_melee_gator_info"         : "C'est le top des machêtes Gerber. Sa résistance à la corrosion, sa polivalence permettant de l'utiliser comme d'une hache,machete ou couteau. Son fourreau est fait de nylon de qualitée militaire et inclut une pierre d'affaffûtage.",
+	"bm_melee_pugio_info"         : "C'est un couteau désigné et utilisé pour tuer. Période. \nLe pugio etait prévu en tant qu'arme subsidiaire, mais son exact usage pour les soldats reste inconnu. Le pugio était une dague utilisé par les soldats romains en tant qu'arme secondaire. La dague était une arme courante lors d'assasinats ou de suicide; par exemple, les conspirateurs qui tuont Julius Caesar ont utilisés des pugios.",
 
 	"bm_grenade_fir_com"                   : "M14 TH3 Grenade incendiaire",
 	"bm_grenade_fir_com_desc"              : "Une grenade cylendrique visuellement identique au M8, Le M14 à été conçue dans un but d'être une grenade incendiaire. Se basant sur l'intense et violente réaction du remplissage thermique, Le résultat final de la M14 est du fer fondu. Cela signifie que la M14 est employée premièrement sur des matériaux qui peuvent être détruit dans un environnement généralement sûr et pas en tant qu'arme offensive ou défensive. Vû que la réaction thermique utilise de l'oxide de fer au lieu d'oxygène en tant qu'agent d'oxidation, la grenade peut fonctionner sous l'eau.",
