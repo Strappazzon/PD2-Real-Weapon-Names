@@ -36,21 +36,24 @@
 	"bm_w_ray"     : "Lanciarazzi M202 FLASH",
 	
 	"bm_wp_upg_o_t1micro"       : "Aimpoint Micro T-1 su slitta Weaver",
+	"bm_wp_upg_o_docter"        : "Mirino DOCTER II Plus",
 	"bm_wp_upg_o_reflex"        : "Mirino Generic Open Reflex",
-	"bm_wp_upg_o_rx01"          : "Mirino Trijicon RX01 Polarized Reflex",
-	"bm_wp_upg_o_rx30"          : "Mirino Trijicon RX30 Reflex",
-	"bm_wp_upg_o_box"           : "Visore notturno Pulsar Digisight LRF N960 N970 con Telemetro",
+	"bm_wp_upg_o_rx01"          : "Mirino reflex polarizzato Trijicon RX01",
+	"bm_wp_upg_o_rx30"          : "Mirino reflex Trijicon RX30",
+	"bm_wp_upg_o_box"           : "Vis. notturno Pulsar Digisight LRF N960 N970 con Telemetro",
 	"bm_wp_upg_o_rmr"           : "Mirino Trijicon RM06 RMR",
 
 	"bm_wp_m4_m_straight" : "Caricatore STANAG 22rnd",
 	"bm_wp_m4_uupg_m_std" : "Caricatore STANAG 38rnd",
 	"bm_wp_upg_m4_m_quad" : "Caricatore STANAG 60rnd",
-	"bm_wp_l85a2_m_emag"  : "Magpul EMAG",
+	"bm_wp_l85a2_m_emag"  : "Caricatore Magpul EMAG",
 
 	"bm_wp_upg_o_sho_salvo_large"  : "Silenziatore SilencerCo Salvo 12",
 	"bm_wp_upg_ns_sho_salvo_large" : "Silenziatore SilencerCo Salvo 12",
+	"bm_wp_upg_ns_ass_smg_medium"  : "Silenziatore custom SAI M80",
 	"bm_wp_upg_ns_shot_thick"      : "Silenziatore Chigurh",
 	"bm_wp_upg_ns_ass_smg_small"   : "Silenziatore GEMTECH HALO",
+	"bm_wp_upg_ns_ass_smg_stubby"  : "Spegnifiamma VFC Stinger",
 	"bm_wp_upg_ns_ass_pbs1"        : "Silenziatore PBS-1",
 	"bm_wp_upg_ns_medium_gem"      : "Silenziatore GEMTECH BLACKSIDE-45",
 	"bm_wp_upg_ns_large_kac"       : "Silenziatore Custom Knight's Armament Mk23",
@@ -80,6 +83,7 @@
 
 	"bm_wp_upg_fl_ass_smg_sho_peqbox_desc" : "Il puntatore è un military standard e proietta un punto rosso visibile. È la versione civile del puntatore utilizzato dalle forze armate degli Stati Uniti AN/PEQ-2.",
 	"bm_wp_upg_fl_ass_peq15_desc"          : "Questo è un sistema di puntamento leggero, robusto e facile da usare, designato per l'utilizzo con o senza visori notturni.\nAutonomia: Più di 6 ore.",
+	"bm_wp_upg_fl_ass_utg"                 : "Torcia e puntatore laser LT-ELP38",
 	"bm_wp_upg_fl_ass_utg_desc"            : "Questo è l'accessorio perfetto per ottenere un vantaggio tattico. La torcia può essere utilizzata per identificare velocemente il bersaglio senza esporsi troppo durante la notte. Il laser ti permette di acquisire velocemente il bersaglio permettendoti di mandare a segno i tuoi colpi nel bel mezzo della battaglia.\nDurata del laser: 6000 ore.",
 	"bm_wp_upg_fl_pis_tlr1_desc"           : "Luminosità intensa, una torcia tattica praticamente indistruttibile, si monta su quasi tutte le armi in pochi secondi.\nAutonomia: 2.5 ore.",
 	"bm_wp_upg_fl_pis_laser"               : "Puntatore laser CMR-201 RAIL MASTER",
@@ -159,6 +163,8 @@
 	"bm_wp_asval_b_proto" : "Canna SR-3M",
 	"bm_wp_asval_s_solid" : "Calcio del VSS Vintorez",
 
+	"bm_wp_hk21_b_long" : "Canna dell'HK23E"
+
 	"bm_wp_uzi_b_suppressed" : "SIONICS \"Morte Sussurrante\" Retrofit Custom",
 
 	"bm_wp_cobray_ns_silencer" : "SIONICS \"Morte Sussurrante\"",
@@ -197,7 +203,7 @@
 	"bm_wp_upg_a_piercing_desc"       : "Una flechette è un proiettile d'acciaio appuntito, con una coda segnavento per dargli più stabilità. Il nome deriva dal francese fléchette, \"piccola freccia\" o \"dardo\".",
 	"bm_wp_upg_a_slug_desc"           : "Uno slug è un proiettile pesante fatto di piombo, rame ed altri materiali e sparato da un fucile a pompa.\nUno slug è tipicamente più massiccio di un normale proiettile.",
 	"bm_wp_upg_a_slug2_desc"          : "Uno slug è un proiettile pesante fatto di piombo, rame ed altri materiali e sparato da un fucile a pompa.\nUno slug è tipicamente più massiccio di un normale proiettile.",
-	"bm_wp_upg_a_dragons_breath_desc" : "I Dragon's breath sono degli speciali colpi incendiari per fucili a pompa calibro 12. Un Dragon's breath consiste principalmente in pallettoni di magneso. Quando il colpo viene sparato, scintille e fiamme possono propagarsi per circa 30 metri.",
+	"bm_wp_upg_a_dragons_breath_desc" : "I Dragon's breath sono degli speciali colpi incendiari per fucili a pompa calibro 12. Un Dragon's breath consiste principalmente in pallettoni di magnesio. Quando il colpo viene sparato, scintille e fiamme possono propagarsi per circa 30 metri.",
 
 	"bm_wp_mosin_ns_bayonet_desc" : "La baionetta Mosin Nagant è uno spuntone, ciò significa che non può essere tenuta in mano come un normale coltello\nMisura circa 50 centimetri.",
 
@@ -317,7 +323,7 @@
 
 	"menu_challenge_monthly_shadowraid_objective"  : "Completa il contratto \"OMBRE CINESI\" in difficoltà OVERKILL o superiore facendo in modo che la tua squadra usi soltanto il fucile d'assalto Colt Model 733, la pistola Glock 17, l'abito elegante e senza usare abilità.",
 	"menu_challenge_monthly_rats_objective"        : "Completa il contratto \"SPIE\" in difficoltà OVERKILL o superiore facendo in modo che la tua squadra usi soltanto il fucile d'assalto Colt Model 733, la pistola Glock 17, l'abito elegante e senza usare abilità.",
-	"menu_challenge_frog_1_objective"              : "Completa il contratto \"Hoxton Breakout\" in difficoltà OVERKILL o superiore facendo in modo che la squadra non usi nessuna abilità, che indossi l'abito elegante, ed equipaggino il fucile AKMS dorato e la pistola mitragliatrice Thompson M1928A1 LTD.",
+	"menu_challenge_frog_1_objective"              : "Completa il contratto \"EVASIONE DI HOXTON\" in difficoltà OVERKILL o superiore facendo in modo che la squadra non usi nessuna abilità, che indossi l'abito elegante, ed equipaggino il fucile AKMS dorato e la pistola mitragliatrice Thompson M1928A1 LTD.",
 	"menu_challenge_monthly_firestarter_objective" : "Completa il contratto \"PIROMANI\" in difficoltà OVERKILL o superiore facendo in modo che la tua squadra usi soltanto il fucile d'assalto Colt Model 733, la pistola Glock 17, l'abito elegante e senza usare abilità.",
 
 	"menu_assault_rifle" : "Fucili d'assalto",
