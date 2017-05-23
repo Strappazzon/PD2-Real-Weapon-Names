@@ -304,6 +304,8 @@
 	"bm_wp_polymer_barrel_precision" : "CRB Barrel Shroud",
 	"bm_wp_polymer_ns_silencer"      : "Defiance HPS 4GSK",
 
+	"bm_wp_hk21_b_long" : "HK23E Barrel"
+
 	"bm_wp_uzi_b_suppressed" : "SIONICS \"Whispering Death\" Retrofit Custom",
 	"bm_wp_uzi_fg_rail"      : "K-Grip",
 
