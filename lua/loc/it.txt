@@ -78,9 +78,16 @@
 	"bm_wp_upg_m4_g_hgrip" : "Impugnatura in gomma Hogue OverMolded",
 	"bm_wp_upg_m4_g_mgrip" : "Impugnatura Magpul MOE-K",
 
-	"bm_wp_upg_fl_pis_laser"            : "Puntatore laser generico universale",
-	"bm_wp_upg_fl_crimson"              : "Puntatore laser universale CN-201 Rail Master",
-	"bm_wp_upg_fl_x400v"                : "Torcia a LED SureFire X400V IRc e puntatore laser",
+	"bm_wp_upg_fl_ass_smg_sho_peqbox_desc" : "Il puntatore è un military standard e proietta un punto rosso visibile. È la versione civile del puntatore utilizzato dalle forze armate degli Stati Uniti AN/PEQ-2.",
+	"bm_wp_upg_fl_ass_peq15_desc"          : "Questo è un sistema di puntamento leggero, robusto e facile da usare, designato per l'utilizzo con o senza visori notturni.\nAutonomia: Più di 6 ore.",
+	"bm_wp_upg_fl_ass_utg_desc"            : "Questo è l'accessorio perfetto per ottenere un vantaggio tattico. La torcia può essere utilizzata per identificare velocemente il bersaglio senza esporsi troppo durante la notte. Il laser ti permette di acquisire velocemente il bersaglio permettendoti di mandare a segno i tuoi colpi nel bel mezzo della battaglia.\nDurata del laser: 6000 ore.",
+	"bm_wp_upg_fl_pis_tlr1_desc"           : "Luminosità intensa, una torcia tattica praticamente indistruttibile, si monta su quasi tutte le armi in pochi secondi.\nAutonomia: 2.5 ore.",
+	"bm_wp_upg_fl_pis_laser"               : "Puntatore laser CMR-201 RAIL MASTER",
+	"bm_wp_upg_fl_pis_laser_desc"          : "Questo puntatore laser è versatile quanto potente. Designato per poter essere montato su qualsiasi pistola, fucile o fucile a pompa dotati di una slitta.\nAutonomia: 4 ore.",
+	"bm_wp_upg_fl_crimson"                 : "Puntatore laser CN-201 RAIL MASTER",
+	"bm_wp_upg_fl_x400v"                   : "Torcia a LED SureFire X400V IRc e puntatore laser",
+	"bm_wp_upg_fl_x400v_desc"              : "Questa è una torcia a doppio spettro molto versatile che vanta anche un puntatore laser ad infrarossi di Classe 1 che può essere utilizzato con visori notturni.\nAutonomia: 2.5 ore.",
+	"bm_wp_upg_fl_pis_m3x_desc"            : "Questa torcia è stata costruita per funzionare e sopravvivere tra gli ambienti e condizioni più rigidi. Per questi motivi può scendere sotto i 20m ed essere ancora resistente all'acqua.\nAutonomia: 1 ora",
 
 	"bm_wp_upg_i_singlefire" : "Modalità semiautomatica",
 	"bm_wp_upg_i_autofire"   : "Modalità automatica",
@@ -162,11 +169,13 @@
 	"bm_wp_sterling_m_short"      : "Canna E-11 Blaster Rifle",
 	"bm_wp_sterling_s_folded"     : "Calcio E-11 Blaster Rifle",
 
-	"bm_wp_mp5_fg_mp5sd"   : "Canna dell'MP5SD5",
-	"bm_wp_mp5_fg_m5k"     : "Canna dell'MP5K-N",
-	"bm_wp_mp5_s_ring"     : "Calcio dell'MP5K",
-	"bm_wp_mp5_s_adjust"   : "Calcio dell'MP5A3",
-	"bm_wp_mp5_m_straight" : "Proiettili 10mm",
+	"bm_wp_mp5_fg_mp5sd"      : "Canna dell'MP5SD5",
+	"bm_wp_mp5_fg_m5k"        : "Canna dell'MP5K-N",
+	"bm_wp_mp5_fg_flash"      : "Impugnatura anteriore con torcia a LED G&P CREE",
+	"bm_wp_mp5_fg_flash_desc" : "Questa impugnatura anteriore tattica rimpiazza l'impugnatura anteriore dell'MP5.",
+	"bm_wp_mp5_s_ring"        : "Calcio dell'MP5K",
+	"bm_wp_mp5_s_adjust"      : "Calcio dell'MP5A3",
+	"bm_wp_mp5_m_straight"    : "Proiettili 10mm",
 
 	"bm_wp_mp7_b_suppressed" : "Silenziatore dell'MP7 QD",
 
@@ -184,6 +193,13 @@
 	"bm_wp_pis_ppk_b_long" : "Carrello della Walther PP",
 
 	"bm_wp_m95_b_barrel_suppressed" : "Silenziatore QDL + Camo",
+
+	"bm_wp_upg_a_piercing_desc"       : "Una flechette è un proiettile d'acciaio appuntito, con una coda segnavento per dargli più stabilità. Il nome deriva dal francese fléchette, \"piccola freccia\" o \"dardo\".",
+	"bm_wp_upg_a_slug_desc"           : "Uno slug è un proiettile pesante fatto di piombo, rame ed altri materiali e sparato da un fucile a pompa.\nUno slug è tipicamente più massiccio di un normale proiettile.",
+	"bm_wp_upg_a_slug2_desc"          : "Uno slug è un proiettile pesante fatto di piombo, rame ed altri materiali e sparato da un fucile a pompa.\nUno slug è tipicamente più massiccio di un normale proiettile.",
+	"bm_wp_upg_a_dragons_breath_desc" : "I Dragon's breath sono degli speciali colpi incendiari per fucili a pompa calibro 12. Un Dragon's breath consiste principalmente in pallettoni di magneso. Quando il colpo viene sparato, scintille e fiamme possono propagarsi per circa 30 metri.",
+
+	"bm_wp_mosin_ns_bayonet_desc" : "La baionetta Mosin Nagant è uno spuntone, ciò significa che non può essere tenuta in mano come un normale coltello\nMisura circa 50 centimetri.",
 
 	"bm_melee_model24"     : "Stielhandgranate Modello 24"
 	"bm_melee_bullseye"    : "Accetta S&W Bullseye"
