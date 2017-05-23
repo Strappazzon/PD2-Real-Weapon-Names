@@ -1,7 +1,7 @@
 ![](https://puu.sh/vS8qA.png)
 
 ## Real Weapon Names
-This mod changes the PAYDAY 2 weapon names with the real ones. It supports all weapons, melee weapons, throwables and also the HUD and Side Jobs!
+This mod changes the PAYDAY 2 weapon names with the real ones. It supports all weapons, weapon mods, melee weapons, throwables and also the HUD and Side Jobs!
 
 ## Download
 The mod can be downloaded on [Mod Workshop](https://modworkshop.net/mydownloads.php?action=view_down&did=19958) and [Payday Mods](http://paydaymods.com/mods/487/real_weapon_names).
