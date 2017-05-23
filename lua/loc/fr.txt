@@ -30,7 +30,7 @@
 	"bm_wp_upg_ns_sho_salvo_large" : "Suppreseur SilencerCo Salvo 12",
 	"bm_wp_upg_ns_shot_thick"      : "Suppresseur Chigurh",
 	"bm_wp_upg_ns_ass_smg_medium"  : "Supresseur Customisé SAI M80",
-	"bm_wp_upg_ns_ass_smg_small"   : "SupresseurGEMTECH HALO",
+	"bm_wp_upg_ns_ass_smg_small"   : "Supresseur GEMTECH HALO",
 	"bm_wp_upg_ns_ass_smg_firepig" : "Supresseur de flammes Noveske KX3 Flash Suppressor",
 	"bm_wp_upg_ns_ass_pbs1"        : "Supresseur Sonore PBS-1",
 	"bm_wp_upg_ns_medium_gem"      : "Supresseur GEMTECH BLACKSIDE-45",
@@ -108,7 +108,6 @@
 	"bm_wp_mp5_fg_mp5sd"      : "Cannon MP5SD5",
 	"bm_wp_mp5_fg_m5k"        : "Cannon MP5K-N",
 	"bm_wp_mp5_fg_flash"      : "Lampe LED Handguard with G&P CREE",
-	"bm_wp_mp5_fg_flash_desc" : "This tactical handguard is a direct replacement of the MP5 fore handguard.",
 	"bm_wp_mp5_m_straight"    : "Munition 10mm",
 
 	"bm_wp_mp7_b_suppressed" : "Suppreseur H&K MP7 QD",
@@ -129,8 +128,6 @@
 	"bm_wp_upg_a_slug_desc"           : "Une chevrotine de fusil à pompe est un projectile lourd fait de plomb, cuivre, ou d'autre matériaux et est tiré par un fusil à pompe..\nUn chevrotine de fusil est habituellement plus importante qu'une balle de fusil.",
 	"bm_wp_upg_a_slug2_desc"          : "Une chevrotine de fusil à pompe est un projectile lourd fait de plomb, cuivre, ou d'autre matériaux et est tiré par un fusil à pompe..\nUn chevrotine de fusil est habituellement plus importante qu'une balle de fusil.",
 	"bm_wp_upg_a_dragons_breath_desc" : "Dragon's breath est un type spécial de chevrotine incendiaire pour les fusils à pompes de calibre 12. Les chevrotines Dragon's breath sont consistés en majorité de granulés de magnésium. Quand la chevrotine est tirée, éclats et flammes sont projetés jusqu'a une distance de 100 pieds.",
-
-	"bm_wp_mosin_ns_bayonet_desc" : "The Mosin Nagant bayonet is a spike bayonet, meaning unlike a knife-style bayonet, it is unable to be wielded by hand.\nMeasures 19 1/2 inches.",
 
 	"bm_melee_fairbair"    : "Couteau de combat Fairbairn-Sykes"
 	"bm_melee_taser"       : "Stun d'étourdissement ZAP 1M-Volt"
