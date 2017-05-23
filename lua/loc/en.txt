@@ -198,16 +198,23 @@
 	"bm_wp_upg_m4_g_hgrip" : "Hogue OverMolded Rubber Grip",
 	"bm_wp_upg_m4_g_mgrip" : "Magpul MOE-K Grip",
 
-	"bm_wp_upg_fl_ass_smg_sho_surefire" : "Surefire Scout Light",
-	"bm_wp_upg_fl_ass_smg_sho_peqbox"   : "Insight Technology AN/PEQ-5",
-	"bm_wp_upg_fl_ass_laser"            : "Offset Laser Mount & Sight",
-	"bm_wp_upg_fl_ass_peq15"            : "Insight Technology AN/PEQ-15",
-	"bm_wp_upg_fl_ass_utg"              : "LT-ELP38 Laser/Light Combo",
-	"bm_wp_upg_fl_pis_tlr1"             : "Streamlight TLR-1",
-	"bm_wp_upg_fl_pis_laser"            : "Generic Universal Laser Sight",
-	"bm_wp_upg_fl_crimson"              : "CN-201 Rail Master Universal Laser Sight",
-	"bm_wp_upg_fl_x400v"                : "SureFire X400V IRc LED Light and Laser Sight",
-	"bm_wp_upg_fl_pis_m3x"              : "Insight Technologies M3X Tactical Illuminator",
+	"bm_wp_upg_fl_ass_smg_sho_surefire"    : "Surefire Scout Light",
+	"bm_wp_upg_fl_ass_smg_sho_peqbox"      : "Insight Technology AN/PEQ-5",
+	"bm_wp_upg_fl_ass_smg_sho_peqbox_desc" : "The sight is mil-spec and projects a visible red dot. The unit is a civilian version of the larger AN-PEQ-2, which is only available for use by the U.S. Military.",
+	"bm_wp_upg_fl_ass_laser"               : "Offset Laser Mount & Sight",
+	"bm_wp_upg_fl_ass_peq15"               : "Insight Technology AN/PEQ-15",
+	"bm_wp_upg_fl_ass_peq15_desc"          : "This is a lightweight, rugged, simple to use aiming system designed for use with or without a night vision device.\nRun Time: More than 6 hours.",
+	"bm_wp_upg_fl_ass_utg"                 : "LT-ELP38 Laser/Light Combo",
+	"bm_wp_upg_fl_ass_utg_desc"            : "This is the perfect accessory for gaining the tactical advantage. The flashlight can be used to quickly identify your target while minimizing your exposure at night. The laser allows you to quickly acquire your target making it easier to put your bullets on target in the heat of battle.\nLaser Life Time: 6000 hours.",
+	"bm_wp_upg_fl_pis_tlr1"                : "Streamlight TLR-1",
+	"bm_wp_upg_fl_pis_tlr1_desc"           : "Intensely bright, virtually indestructible rail-mounted tactical light, attaches to almost any gun in seconds.\nRun Time: 2.5 hours.",
+	"bm_wp_upg_fl_pis_laser"               : "CMR-201 RAIL MASTER Laser Sight",
+	"bm_wp_upg_fl_pis_laser_desc"          : "This is a powerful and versatile laser sight designed to fit rail-equipped pistols, rifles and shotguns.\nRun Time: 4 hours.",
+	"bm_wp_upg_fl_crimson"                 : "CN-201 RAIL MASTER Laser Sight",
+	"bm_wp_upg_fl_x400v"                   : "SureFire X400V IRc LED Light and Laser Sight",
+	"bm_wp_upg_fl_x400v_desc"              : "This is an highly versatile dual-spectrum light that also boasts an integral Class 1 infrared-laser sight for use with night vision devices.\nRun Time: 2.5 hours.",
+	"bm_wp_upg_fl_pis_m3x"                 : "Insight Technology M3X Tactical Illuminator",
+	"bm_wp_upg_fl_pis_m3x_desc"            : "This light was built to perform under the most rigorous conditions and survive the harshest environments. Because of this, it can go as deep as 66ft. and still remain waterproof.\nRun Time: 1 hour",
 
 	"bm_wp_upg_i_singlefire" : "Single-Fire Lock",
 	"bm_wp_upg_i_autofire"   : "Full-Auto Lock",
@@ -277,7 +284,7 @@
 	"bm_wp_upg_ak_fg_krebs"    : "Krebs UFM Keymod System Handguard",
 	"bm_wp_upg_ak_fg_trax"     : "Strike Industries TRAX Handguard",
 	"bm_wp_saiga_fg_lowerrail" : "Ultimak AK-47 Multi-Rail Forend Custom Retrofit",
-	"bm_wp_saiga_fg_holy"      : "Fuglystick Rail System, \"Cobra\" Pattern",
+	"bm_wp_saiga_fg_holy"      : "Fuglystick Rail System, 'Cobra' Pattern",
 
 	"bm_wp_upg_ak_g_hgrip" : "Hogue OverMolded AK Pistol Grip",
 	"bm_wp_upg_ak_g_pgrip" : "US PALM Enhanced Pistol Grip",
@@ -309,11 +316,13 @@
 	"bm_wp_sterling_m_short"      : "E-11 Blaster Rifle Barrel",
 	"bm_wp_sterling_s_folded"     : "E-11 Blaster Rifle Stock",
 
-	"bm_wp_mp5_fg_mp5sd"   : "MP5SD5 Barrel",
-	"bm_wp_mp5_fg_m5k"     : "MP5K-N Barrel",
-	"bm_wp_mp5_s_ring"     : "MP5K Stock",
-	"bm_wp_mp5_s_adjust"   : "MP5A3 Stock",
-	"bm_wp_mp5_m_straight" : "10mm Rounds",
+	"bm_wp_mp5_fg_mp5sd"      : "MP5SD5 Barrel",
+	"bm_wp_mp5_fg_m5k"        : "MP5K-N Barrel",
+	"bm_wp_mp5_fg_flash"      : "Handguard with G&P CREE LED Flashlight",
+	"bm_wp_mp5_fg_flash_desc" : "This tactical handguard is a direct replacement of the MP5 fore handguard.",
+	"bm_wp_mp5_s_ring"        : "MP5K Stock",
+	"bm_wp_mp5_s_adjust"      : "MP5A3 Stock",
+	"bm_wp_mp5_m_straight"    : "10mm Rounds",
 
 	"bm_wp_mp7_b_suppressed" : "H&K MP7 QD Suppressor",
 
@@ -336,11 +345,18 @@
 	"bm_wp_beretta_co_co1"       : "LA.RI.A AL-GI-MEC Compensator",
 	"bm_wp_beretta_sl_brigadier" : "92G Elitee II Parkerized Slide",
 
-	"bm_wp_pis_ppk_b_long" : "Walther PP Slide",
+	"bm_wp_pis_ppk_b_long"       : "Walther PP Slide",
 
 	"bm_wp_r93_body_wood" : "Blaser R93 Semi-weight Sporting Variant",
 
 	"bm_wp_m95_b_barrel_suppressed" : "QDL Suppressor + Camo Shroud",
+
+	"bm_wp_upg_a_piercing_desc"       : "A flechette is a pointed steel projectile, with a vaned tail for stable flight. The name comes from French fléchette, \"little arrow\" or \"dart\".",
+	"bm_wp_upg_a_slug_desc"           : "A shotgun slug is a heavy projectile made of lead, copper, or other material and fired from a shotgun.\nA shotgun slug is typically more massive than a rifle bullet.",
+	"bm_wp_upg_a_slug2_desc"          : "A shotgun slug is a heavy projectile made of lead, copper, or other material and fired from a shotgun.\nA shotgun slug is typically more massive than a rifle bullet.",
+	"bm_wp_upg_a_dragons_breath_desc" : "Dragon's breath is a special type of incendiary-effect round for a 12 gauge shotgun. Dragon's breath consists primarily of magnesium pellets. When the round is fired, sparks and flames can shoot out to about 100 feet.",
+
+	"bm_wp_mosin_ns_bayonet_desc" : "The Mosin Nagant bayonet is a spike bayonet, meaning unlike a knife-style bayonet, it is unable to be wielded by hand.\nMeasures 19 1/2 inches.",
 
 	"bm_melee_model24"     : "Model 24 Stielhandgranate"
 	"bm_melee_pugio"       : "Extrema Ratio EX314BL Pugio"
