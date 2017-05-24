@@ -24,3 +24,5 @@ Want to help localizing this mod into your language? Edit the corresponding file
 
 ## Contributors
  - [PoorpocketsMcNewhold](http://steamcommunity.com/profiles/76561198111231970/): French localization
+ - [Retreeb](https://github.com/Retreeb): Russian localization
+ 
