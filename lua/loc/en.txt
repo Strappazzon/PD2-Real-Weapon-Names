@@ -254,6 +254,7 @@
 
 	"bm_wp_vhs_b_short" : "VHS-K2 Barrel"
 
+
 	"bm_wp_upg_ass_m4_lower_reciever_core"		 : "CORE15 Lower Receiver",
 	"bm_wp_m4_upper_reciever_edge"               : "VLTOR MUR-1A Upper Receiver",
 	"bm_wp_upg_ass_m4_upper_reciever_ballos"	 : "2A-Arms BALIOS-Lite Upper Receiver",
@@ -268,7 +269,7 @@
 	"bm_wp_upg_fg_jp"          : "JPHG3-1M Carbon Fibre Custom Foregrip",
 	"bm_wp_upg_fg_smr"         : "Geissele SMR MKIII Foregrip",
 	"bm_wp_upg_ass_m4_fg_lvoa" : "War Sport LVOA Foregrip Custom",
-	"bm_wp_upg_ass_m4_fg_moe"  : "Magpul MOE SL H and Guard",
+	"bm_wp_upg_ass_m4_fg_moe"  : "Magpul MOE SL Handguard",
 	"bm_wp_m4_uupg_b_sd"       : "AAC Honey Badger Barrel",
 
 	"bm_wp_upg_ak_b_draco"       : "Draco Pistol Barrel",
