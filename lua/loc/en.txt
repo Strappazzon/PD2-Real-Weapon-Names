@@ -205,7 +205,7 @@
 	"bm_wp_upg_fl_ass_peq15"               : "Insight Technology AN/PEQ-15",
 	"bm_wp_upg_fl_ass_peq15_desc"          : "This is a lightweight, rugged, simple to use aiming system designed for use with or without a night vision device.\nRun Time: More than 6 hours.",
 	"bm_wp_upg_fl_ass_utg"                 : "LT-ELP38 Laser/Light Combo",
-	"bm_wp_upg_fl_ass_utg_desc"            : "This is the perfect accessory for gaining the tactical advantage. The flashlight can be used to quickly identify your target while minimizing your exposure at night. The laser allows you to quickly acquire your target making it easier to put your bullets on target in the heat of battle.\nLaser Life Time: 6000 hours.",
+	"bm_wp_upg_fl_ass_utg_desc"            : "This is the perfect accessory for gaining the tactical advantage. The flashlight can be used to quickly identify your target while minimizing your exposure at night. The laser allows you to quickly acquire your target making it easier to put your bullets on target in the heat of battle.\nLaser Lifetime: 6000 hours.",
 	"bm_wp_upg_fl_pis_tlr1"                : "Streamlight TLR-1",
 	"bm_wp_upg_fl_pis_tlr1_desc"           : "Intensely bright, virtually indestructible rail-mounted tactical light, attaches to almost any gun in seconds.\nRun Time: 2.5 hours.",
 	"bm_wp_upg_fl_pis_laser"               : "CMR-201 RAIL MASTER Laser Sight",
