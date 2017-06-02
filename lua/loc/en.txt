@@ -480,7 +480,7 @@
 	"bm_grenade_frag"                      : "M67 Frag Grenade",
 	"bm_grenade_frag_desc"                 : "The M67 grenade is a fragmentation hand grenade used by the United States Military. The M67 is a further development of the M33 grenade, a replacement for the M26-series grenades used during the Korean and Vietnam Wars.",
 	"bm_grenade_molotov"                   : "Molotov Cocktail",
-	"bm_grenade_molotov_desc"              : "A Molotov cocktail, also known as a petrol bomb, poor man's grenade and fire bomb is a generic name used for a variety of bottle-based improvised incendiary weapons. They are primarily intended to set targets ablaze rather than instantly destroy them.",
+	"bm_grenade_molotov_desc"              : "A Molotov cocktail, also known as a petrol bomb, poor man's grenade and fire bomb is a generic name used for a variety of bottle-based improvised incendiary weapons. They are primarily intended to set targets ablaze rather than instantly destroy them. It was named while the Soviet occupation of Finland. The Finns named their fire bombs after the Soviet Foreign Minister Vyacheslav Mikhaylovich Molotov.",
 	"bm_dynamite"                          : "Dynamite",
 	"bm_dynamite_desc"                     : "Dynamite is an explosive material based on nitroglycerin, using diatomaceous earth or another adsorbent substance such as powdered shells or clay. Dynamite was invented by the Swedish chemist and engineer Alfred Nobel in Geesthacht, Germany, and patented in 1867.",
 	"bm_wpn_prj_target"                    : "Tiger Thrower Throwing Knife",
