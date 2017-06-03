@@ -1,9 +1,4 @@
 {
-	"rwn_menu_title"       : "[RWN] Options",
-	"rwn_menu_desc"        : "Real Weapon Names options",
-	"rwn_mod_active_title" : "Activate mod",
-	"rwn_mod_active_desc"  : "Choose to enable or disable all modules of the mod.\nToggle to enable or disable the mod.",
-	
 	"bm_w_akm_gold"   : "Golden AKMS",
 	"bm_w_amcar"      : "Colt Model 733",
 	"bm_w_ak74"       : "Izhmash AKS-74",
@@ -22,7 +17,7 @@
 	"bm_w_g3"         : "H&K G3A3",
 	"bm_w_l85a2"      : "Enfield L85A2",
 	"bm_w_vhs"        : "HS Produkt VHS-D2",
-	"bm_w_asval"      : "TSNIITOCHMASH AS Val",
+	"bm_w_asval"      : "TsNIITochMash AS Val",
 	"bm_w_sub2000"    : "Kel-Tec SUB-2000",
 	"bm_w_tecci"      : "H&K HK416C",
 	"bm_w_contraband" : "H&K HK417 with M203 PI Grenade Launcher",
@@ -254,7 +249,6 @@
 
 	"bm_wp_vhs_b_short" : "VHS-K2 Barrel"
 
-
 	"bm_wp_upg_ass_m4_lower_reciever_core"		 : "CORE15 Lower Receiver",
 	"bm_wp_m4_upper_reciever_edge"               : "VLTOR MUR-1A Upper Receiver",
 	"bm_wp_upg_ass_m4_upper_reciever_ballos"	 : "2A-Arms BALIOS-Lite Upper Receiver",
@@ -361,32 +355,32 @@
 
 	"bm_wp_mosin_ns_bayonet_desc" : "The Mosin Nagant bayonet is a spike bayonet, meaning unlike a knife-style bayonet, it is unable to be wielded by hand.\nMeasures 19 1/2 inches.",
 
-	"bm_melee_model24"     : "Model 24 Stielhandgranate"
-	"bm_melee_pugio"       : "Extrema Ratio EX314BL Pugio"
-	"bm_melee_gerber"      : "Gerber DMF Auto Modified Clip Point"
-	"bm_melee_gator"       : "Gerber Gator Machete Pro"
-	"bm_melee_kampfmesser" : "Eickhorn-Solingen KM2000"
-	"bm_melee_kabar"       : "KA-BAR USMC"
-	"bm_melee_becker"      : "KA-BAR Becker TacTool"
-	"bm_melee_bullseye"    : "S&W Bullseye Hatchet"
-	"bm_melee_fairbair"    : "Fairbairn-Sykes Fighting Knife"
-	"bm_melee_taser"       : "ZAP 1M-Volt Stun Baton"
-	"bm_melee_tiger"       : "Tekko-Kagi"
-	"bm_melee_brick"       : "Motorola DynaTAC 8000X"
-	"bm_melee_nin"         : "PALSODE IM360CI 90MM Cordless Gas Framing Nailer"
-	"bm_melee_kabar_tanto" : "KA-BAR Tanto Blade"
-	"bm_melee_ballistic"   : "USA-Style Ballistic Knives"
-	"bm_melee_tomahawk"    : "Gerber Downrange Tomahawk"
-	"bm_melee_bayonet"     : "'60s 2nd Generation AKM Bayonet"
-	"bm_melee_dingdong"    : "Gerber Ding Dong Breaching Tool"
-	"bm_melee_oldbaton"    : "Monadnock PR-24 Baton"
-	"bm_melee_cqc"         : "Kunai"
-	"bm_melee_buck"        : "'Metal Fist' Buckler"
-	"bm_melee_beardy"      : "Nordic Long-Bearded Axe"
-	"bm_melee_great"       : "Zweihander"
-	"bm_melee_topaz"       : "Black Diamond Cobra Ice Tool"
-	"bm_melee_wing"        : "Balisong"
-	"bm_melee_cs"          : "Homelite Super 2 Chainsaw"
+	"bm_melee_model24"     : "Model 24 Stielhandgranate",
+	"bm_melee_pugio"       : "Extrema Ratio EX314BL Pugio",
+	"bm_melee_gerber"      : "Gerber DMF Auto Modified Clip Point",
+	"bm_melee_gator"       : "Gerber Gator Machete Pro",
+	"bm_melee_kampfmesser" : "Eickhorn-Solingen KM2000",
+	"bm_melee_kabar"       : "KA-BAR USMC",
+	"bm_melee_becker"      : "KA-BAR Becker TacTool",
+	"bm_melee_bullseye"    : "S&W Bullseye Hatchet",
+	"bm_melee_fairbair"    : "Fairbairn-Sykes Fighting Knife",
+	"bm_melee_taser"       : "ZAP 1M-Volt Stun Baton",
+	"bm_melee_tiger"       : "Tekko-Kagi",
+	"bm_melee_brick"       : "Motorola DynaTAC 8000X",
+	"bm_melee_nin"         : "PALSODE IM360CI 90MM Cordless Gas Framing Nailer",
+	"bm_melee_kabar_tanto" : "KA-BAR Tanto Blade",
+	"bm_melee_ballistic"   : "USA-Style Ballistic Knives",
+	"bm_melee_tomahawk"    : "Gerber Downrange Tomahawk",
+	"bm_melee_bayonet"     : "'60s 2nd Generation AKM Bayonet",
+	"bm_melee_dingdong"    : "Gerber Ding Dong Breaching Tool",
+	"bm_melee_oldbaton"    : "Monadnock PR-24 Baton",
+	"bm_melee_cqc"         : "Kunai",
+	"bm_melee_buck"        : "'Metal Fist' Buckler",
+	"bm_melee_beardy"      : "Nordic Long-Bearded Axe",
+	"bm_melee_great"       : "Zweihander",
+	"bm_melee_topaz"       : "Black Diamond Cobra Ice Tool",
+	"bm_melee_wing"        : "Balisong",
+	"bm_melee_cs"          : "Homelite Super 2 Chainsaw",
 
 	"bm_melee_weapon_info"        : "",
 	"bm_melee_fists_info"         : "",
@@ -471,6 +465,10 @@
 	"bm_melee_oxide_info"         : "",
 	"bm_melee_sword_info"         : "",
 
+	"bm_menu_barrel_ext"     : "Barrel Extension",
+	"bm_menu_custom"         : "Internal Mod",
+	"bm_menu_sight"          : "Optic",
+
 	"bm_grenade_fir_com"                   : "M14 TH3 Incendiary Grenade",
 	"bm_grenade_fir_com_desc"              : "A cylindrical grenade visually identical to the M8, the M14 is a purpose designed incendiary grenade. Working off the intense and violent reaction of the thermate filler, end result of the deployment of the M14 is molten iron. This means the M14 is primarily employed on material to be destroyed in a roughly secure environment and not as an offensive or defensive weapon. Since the thermate reaction uses iron oxide instead of oxygen for its oxidizing agent, the grenade can work under water.",
 	"bm_grenade_frag_com"                  : "Community M67 Frag Grenade",
@@ -480,7 +478,7 @@
 	"bm_grenade_frag"                      : "M67 Frag Grenade",
 	"bm_grenade_frag_desc"                 : "The M67 grenade is a fragmentation hand grenade used by the United States Military. The M67 is a further development of the M33 grenade, a replacement for the M26-series grenades used during the Korean and Vietnam Wars.",
 	"bm_grenade_molotov"                   : "Molotov Cocktail",
-	"bm_grenade_molotov_desc"              : "A Molotov cocktail, also known as a petrol bomb, poor man's grenade and fire bomb is a generic name used for a variety of bottle-based improvised incendiary weapons. They are primarily intended to set targets ablaze rather than instantly destroy them. It was named while the Soviet occupation of Finland. The Finns named their fire bombs after the Soviet Foreign Minister Vyacheslav Mikhaylovich Molotov.",
+	"bm_grenade_molotov_desc"              : "A Molotov cocktail, also known as a petrol bomb, poor man's grenade and fire bomb is a generic name used for a variety of bottle-based improvised incendiary weapons. They are primarily intended to set targets ablaze rather than instantly destroy them.\n\nThe name \"Molotov cocktail\" was coined by the Finns during the Winter War. The name was an insulting reference to Soviet foreign minister Vjačeslav Michajlovič Molotov.",
 	"bm_dynamite"                          : "Dynamite",
 	"bm_dynamite_desc"                     : "Dynamite is an explosive material based on nitroglycerin, using diatomaceous earth or another adsorbent substance such as powdered shells or clay. Dynamite was invented by the Swedish chemist and engineer Alfred Nobel in Geesthacht, Germany, and patented in 1867.",
 	"bm_wpn_prj_target"                    : "Tiger Thrower Throwing Knife",
