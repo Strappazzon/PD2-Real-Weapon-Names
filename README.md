@@ -18,6 +18,7 @@ Real Weapon Names supports many languages. You can see the localization progress
 
  - English
  - French
+ - German
  - Italian
  - Russian
 
@@ -25,4 +26,5 @@ Want to help localizing this mod into your language? Edit the corresponding file
 
 ## Contributors
  - [PoorpocketsMcNewhold](http://steamcommunity.com/profiles/76561198111231970/): French localization
+ - [ShiNRaX2](http://steamcommunity.com/profiles/76561198028016758/): German localization
  - [Retreeb](https://github.com/Retreeb): Russian localization
