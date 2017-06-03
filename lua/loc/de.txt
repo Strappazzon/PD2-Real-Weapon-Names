@@ -1,4 +1,5 @@
 {
+	"bm_w_akm_gold"   : "Goldene AKMS",
 	"bm_w_contraband" : "H&K HK417 mit M203 PI Granatwerfer",
 
 	"bm_w_gre_m79"          : "M79 Granatwerfer",
@@ -6,7 +7,7 @@
 	"bm_w_flamethrower_mk2" : "Flammenwerfer",
 	"bm_w_long"             : "Englischer Bogen",
 
-	"bm_w_hunter"  : "Amur Falcon Pistol Crossbow",
+	"bm_w_hunter"  : "Amur Falcon Pistolenarmbrust",
 	"bm_w_china"   : "China Lake Granatwerfer",
 	"bm_w_ray"     : "M202 FLASH Raketenwerfer",
 
@@ -89,6 +90,7 @@
 
 	"bm_wp_m16_fg_vietnam"      : "M16A1 Frontgriff",
 	"bm_wp_upg_ass_m16_fg_stag" : "Diamondhead VRS-T Custom",
+	"bm_wp_m4_uupg_b_long"      : ".50 Beowulf Umrüstungskit",
 
 	"bm_wp_m4_uupg_fg_lr300"   : "Z-M LR 300ML Frontgriff",
 	"bm_wp_upg_fg_jp"          : "JPHG3-1M angepasster Kohlefaserfrontgriff",
