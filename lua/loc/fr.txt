@@ -1,9 +1,4 @@
 {
-	"rwn_menu_title"       : "[RWN] Options",
-	"rwn_menu_desc"        : "Options de Real Weapon names",
-	"rwn_mod_active_title" : "Activer le mod",
-	"rwn_mod_active_desc"  : "Choisis pour activer ou désactiver tous les modules de ce mod.\nCoche pour activer ou désactiver le mod.",
-
 	"bm_w_akm_gold"   : "AKMS Dorée",
 	"bm_w_contraband" : "H&K HK417 avec M203 PI Lanceur de grenades",
 
@@ -129,16 +124,16 @@
 	"bm_wp_upg_a_slug2_desc"          : "Une chevrotine de fusil à pompe est un projectile lourd fait de plomb, cuivre, ou d'autre matériaux et est tiré par un fusil à pompe..\nUn chevrotine de fusil est habituellement plus importante qu'une balle de fusil.",
 	"bm_wp_upg_a_dragons_breath_desc" : "Dragon's breath est un type spécial de chevrotine incendiaire pour les fusils à pompes de calibre 12. Les chevrotines Dragon's breath sont consistés en majorité de granulés de magnésium. Quand la chevrotine est tirée, éclats et flammes sont projetés jusqu'a une distance de 100 pieds.",
 
-	"bm_melee_fairbair"    : "Couteau de combat Fairbairn-Sykes"
-	"bm_melee_taser"       : "Stun d'étourdissement ZAP 1M-Volt"
-	"bm_melee_nin"         : "Pistolet à clous PALSODE IM360CI 90MM"
-	"bm_melee_kabar_tanto" : "Lame KA-BAR Tanto"
-	"bm_melee_ballistic"   : "Couteaux Ballistiques USA-Style"
-	"bm_melee_bayonet"     : "'60s AKM Bayonet de seconde génération"
-	"bm_melee_oldbaton"    : "Baton Monadnock PR-24"
-	"bm_melee_beardy"      : "Hache Nordic Long-Bearded"
-	"bm_melee_topaz"       : "Outil d'alpiniste Black Diamond Cobra"
-	"bm_melee_cs"          : "Tronçonneuse Homelite Super 2"
+	"bm_melee_fairbair"    : "Couteau de combat Fairbairn-Sykes",
+	"bm_melee_taser"       : "Stun d'étourdissement ZAP 1M-Volt",
+	"bm_melee_nin"         : "Pistolet à clous PALSODE IM360CI 90MM",
+	"bm_melee_kabar_tanto" : "Lame KA-BAR Tanto",
+	"bm_melee_ballistic"   : "Couteaux Ballistiques USA-Style",
+	"bm_melee_bayonet"     : "'60s AKM Bayonet de seconde génération",
+	"bm_melee_oldbaton"    : "Baton Monadnock PR-24",
+	"bm_melee_beardy"      : "Hache Nordic Long-Bearded",
+	"bm_melee_topaz"       : "Outil d'alpiniste Black Diamond Cobra",
+	"bm_melee_cs"          : "Tronçonneuse Homelite Super 2",
 
 	"bm_melee_weapon_info"        : "",
 	"bm_melee_fists_info"         : "",
