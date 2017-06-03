@@ -1,4 +1,4 @@
-{
+﻿{
 	"bm_w_akm_gold"   : "AKMS Dorée",
 	"bm_w_contraband" : "H&K HK417 avec M203 PI Lanceur de grenades",
 
@@ -21,19 +21,19 @@
 	"bm_wp_fps_upg_o_45iron"    : "Viseur XTI Angle",
 	"bm_wp_upg_o_box"           : "Viseur Pulsar Digisight LRF N960 N970 nocturne avec chercheur de cibles",
 
-	"bm_wp_upg_o_sho_salvo_large"  : "Suppreseur SilencerCo Salvo 12",
-	"bm_wp_upg_ns_sho_salvo_large" : "Suppreseur SilencerCo Salvo 12",
+	"bm_wp_upg_o_sho_salvo_large"  : "Suppresseur SilencerCo Salvo 12",
+	"bm_wp_upg_ns_sho_salvo_large" : "Suppresseur SilencerCo Salvo 12",
 	"bm_wp_upg_ns_shot_thick"      : "Suppresseur Chigurh",
-	"bm_wp_upg_ns_ass_smg_medium"  : "Supresseur Customisé SAI M80",
-	"bm_wp_upg_ns_ass_smg_small"   : "Supresseur GEMTECH HALO",
-	"bm_wp_upg_ns_ass_smg_firepig" : "Supresseur de flammes Noveske KX3 Flash Suppressor",
-	"bm_wp_upg_ns_ass_pbs1"        : "Supresseur Sonore PBS-1",
-	"bm_wp_upg_ns_medium_gem"      : "Supresseur GEMTECH BLACKSIDE-45",
-	"bm_wp_upg_ns_large_kac"       : "Supresseur Customisé Knight's Armament Mk23",
-	"bm_wp_upg_ns_pis_small"       : "Supresseur Customisé Thompson Machine Poseidon",
-	"bm_wp_upg_ns_pis_large"       : "Supresseur SilencerCo Osprey .45",
-	"bm_wp_upg_ns_ass_filter"      : "Supresseur Filtre à Huile",
-	"bm_wp_mosin_b_sniper"         : "Supresseur Bramit",
+	"bm_wp_upg_ns_ass_smg_medium"  : "Suppresseur Customisé SAI M80",
+	"bm_wp_upg_ns_ass_smg_small"   : "Suppresseur GEMTECH HALO",
+	"bm_wp_upg_ns_ass_smg_firepig" : "Suppresseur de flammes Noveske KX3 Flash Suppressor",
+	"bm_wp_upg_ns_ass_pbs1"        : "Suppresseur Sonore PBS-1",
+	"bm_wp_upg_ns_medium_gem"      : "Suppresseur GEMTECH BLACKSIDE-45",
+	"bm_wp_upg_ns_large_kac"       : "Suppresseur Customisé Knight's Armament Mk23",
+	"bm_wp_upg_ns_pis_small"       : "Suppresseur Customisé Thompson Machine Poseidon",
+	"bm_wp_upg_ns_pis_large"       : "Suppresseur SilencerCo Osprey .45",
+	"bm_wp_upg_ns_ass_filter"      : "Suppresseur Filtre à Huile",
+	"bm_wp_mosin_b_sniper"         : "Suppresseur Bramit",
 
 	"bm_wp_upg_ass_ns_jprifles" : "Compensateur JP Profil-standard",
 	"bm_wp_upg_ass_ns_linear"   : "Compensateur Linéaire KIES Blast Master",
@@ -105,9 +105,9 @@
 	"bm_wp_mp5_fg_flash"      : "Lampe LED Handguard with G&P CREE",
 	"bm_wp_mp5_m_straight"    : "Munition 10mm",
 
-	"bm_wp_mp7_b_suppressed" : "Suppreseur H&K MP7 QD",
+	"bm_wp_mp7_b_suppressed" : "Suppresseur H&K MP7 QD",
 
-	"bm_wp_mp9_b_suppressed" : "Suppreseur MP9 QD",
+	"bm_wp_mp9_b_suppressed" : "Suppresseur MP9 QD",
 
 	"bm_wp_p90_b_long"     : "Cannon civil PS90",
 
@@ -117,7 +117,7 @@
 
 	"bm_wp_beretta_co_co1"       : "Compensateur LA.RI.A AL-GI-MEC",
 
-	"bm_wp_m95_b_barrel_suppressed" : "QDL Supresseur + Camo Shroud",
+	"bm_wp_m95_b_barrel_suppressed" : "QDL Suppresseur + Camo Shroud",
 
 	"bm_wp_upg_a_piercing_desc"       : "Une flechette est un projectile constitué d'une pointe métalique, avec un arrière pour stabiliser la trajectoire de la flechette.",
 	"bm_wp_upg_a_slug_desc"           : "Une chevrotine de fusil à pompe est un projectile lourd fait de plomb, cuivre, ou d'autre matériaux et est tiré par un fusil à pompe..\nUn chevrotine de fusil est habituellement plus importante qu'une balle de fusil.",
@@ -212,6 +212,10 @@
 	"bm_melee_catch_info"         : "",
 	"bm_melee_oxide_info"         : "",
 	"bm_melee_sword_info"         : "",
+
+	"bm_menu_barrel_ext"     : "Extension du Canon",
+	"bm_menu_sight"          : "Optique",
+
 	"bm_melee_brick_info"         : "Le motorola DynaTAC 8000X téléphone céllulaire à reçu l'approvation de l'U.S. FCC le 21 septembre, 1983. Avec une charge totale d'en gros 10 heures, et qui offrait 30 minutes d'appel. Il était aussi fourni avec un affichage LED pour appeler ou rappeler l'un des 30 numéros téléphoniques.Il était vendu à 3,995$ en 1984, l'année de sa commercialisation, ce qui est équivalent à 9,366$ en dollars actuels avec l'inflation. DynaTAC était l'abrévation de \"Dynamic Adaptive Total Area Coverage\".",
 	"bm_melee_gerber_info"        : "D.M.F., ou Dual Multi Function, est un couteau automatique qui peut être utilisé dans l'action avec la main gauche ou droite. Le tout automatique S30V steel blade offre une protection supérieur contre la corrosion. Le manche G10 offrait un mix entre solidité et légèreté.",
 	"bm_melee_model24_info"       : "La Stielhandgranate était une grenade à design unique Allemand qui était un standard dans l'empire Allemand durant la Première Guerre Mondiale, puis fût plus tard, un standard dans les forces armées nazies (Wehrmacht) durant la Seconde Guerre Mondiale. Son apparence très distinctive à laissée à se faire appelée une \"grenade à baton\", ou un \"écraseur de patates\" dans le jargon de l'armée Britannique.",
@@ -227,7 +231,7 @@
 	"bm_grenade_frag"                      : "Grenade à fragmentation M67",
 	"bm_grenade_frag_com_desc"             : "La grenade M67 est un grenade à fragmentation utilisée par l'armée des États-Unis. La M67 est un développement ultérieur de la grenade M33, un remplacement de la séries des grenades M26 utilisées les guerres Coréenne et Vietnamienne."
 	"bm_grenade_molotov"                   : "Cocktail Molotov",
-	"bm_grenade_molotov_desc"              : "Le cocktail Molotov, aussi connue sous le nom de bombe à essence, la grenade d'un homme pauvre et la bombe de feu est un nom général utilisée par une variété de bouteille basée sut l'improvisation des armes incendiaires. Ils sont principalement fait pour bruler les cibles en feu plutôt que de les tuées instantanément."
+	"bm_grenade_molotov_desc"              : "Le cocktail Molotov, aussi connue sous le nom de bombe à essence, la grenade d'un homme pauvre et la bombe de feu sont des noms généralement utilisé par une variété de bouteille basée sur l'improvisation des armes incendiaires. Elles sont principalement fait pour brûler les cibles en feu plutôt que de les tuer instantanément. \n\Le nom \"Cocktail Molotov\" à été choisit par les Finlandais durant la Guerre Froide. Le nom étant une insulte envers leur ministre soviétique actuellement au pouvoir, Vjačeslav Michajlovič Molotov."
 	"bm_dynamite"                          : "Dynamite",
 	"bm_dynamite_desc"                     : "La dynamite est un matériel basée sur la nitroglycérine, utilisant la terre de diatomées ou d'autres substances absorbante comme les balles avec de la poudre ou de l'argile. La dynamite a été créée par le chimiste et ingénieur suédois, Alfred Nobel à Geesthacht, en Allemagne, et breveté en 1867."
 	"bm_wpn_prj_target"                    : "Tiger Thrower Couteau de lancer",
