@@ -3,10 +3,10 @@
 	"description" : "Changes the PAYDAY 2 weapon names to their real names",
 	"author" : "Winston Wolfe",
 	"contact" : "www.steamcommunity.com/id/Winston-Wolfe",
-	"version" : "2.4",
+	"version" : "2.5",
 	"updates" : [
 		{
-			"revision" : 8,
+			"revision" : 9,
 			"identifier" : "real_weapon_names",
 			"display_name" : "Real Weapon Names",
 		}
