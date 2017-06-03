@@ -1,163 +1,18 @@
 {
-	"rwn_menu_title"       : "[RWN] Optionen",
-	"rwn_menu_desc"        : "\"Real Weapon Names\" Optionen",
-	"rwn_mod_active_title" : "Aktiviere die Mod",
-	"rwn_mod_active_desc"  : "Wähle alle Module der Mod zu de- oder aktivieren.\nSchalte um, um die Mod zu aktivieren oder deaktivieren.",
-	
-	"bm_w_akm_gold"   : "Golden AKMS",
-	"bm_w_amcar"      : "Colt Model 733",
-	"bm_w_ak74"       : "Izhmash AKS-74",
-	"bm_w_m4"         : "Colt M4A1",
-	"bm_w_aug"        : "Steyr AUG A2",
-	"bm_w_akm"        : "Izhmash AKMS",
-	"bm_w_g36"        : "H&K G36KV",
-	"bm_w_m14"        : "Springfield Armory M14",
-	"bm_w_ak5"        : "Bofors AK5",
-	"bm_w_m16"        : "Colt M16A4",
-	"bm_w_s552"       : "SIG SG 552-2",
-	"bm_w_scar"       : "FN SCAR-H STD",
-	"bm_w_fal"        : "DSA SA58 FAL",
-	"bm_w_famas"      : "FAMAS F1",
-	"bm_w_galil"      : "IMI Galil ARM",
-	"bm_w_g3"         : "H&K G3A3",
-	"bm_w_l85a2"      : "Enfield L85A2",
-	"bm_w_vhs"        : "HS Produkt VHS-D2",
-	"bm_w_asval"      : "TSNIITOCHMASH AS Val",
-	"bm_w_sub2000"    : "Kel-Tec SUB-2000",
-	"bm_w_tecci"      : "H&K HK416C",
 	"bm_w_contraband" : "H&K HK417 mit M203 PI Granatwerfer",
-	"bm_w_ak12"       : "AK-12",
-
-	"bm_w_spas12"   : "Franchi SPAS-12",
-	"bm_w_b682"     : "CZ Redhead Deluxe O/U",
-	"bm_w_r870"     : "Remington Model 870",
-	"bm_w_saiga"    : "Izhmash Saiga-12K",
-	"bm_w_huntsman" : "Coach Gun",
-	"bm_w_benelli"  : "Benelli M4 Super 90",
-	"bm_w_ksg"      : "Kel-Tec KSG",
-	"bm_w_aa12"     : "MPS AA-12 CQB",
-	"bm_w_boot"     : "Model 1887",
-
-	"bm_w_jowi"         : "Akimbo Glock 26",
-	"bm_w_x_1911"       : "Akimbo 1911 Lightweight Operator",
-	"bm_w_x_b92fs"      : "Akimbo Beretta 92FS Centurion",
-	"bm_w_x_deagle"     : "Akimbo IMI Desert Eagle Mark XIX",
-	"bm_w_x_g17"        : "Akimbo Glock 17",
-	"bm_w_x_g22c"       : "Akimbo Glock 22C",
-	"bm_w_x_usp"        : "Akimbo H&K USP45 Tactical",
-	"bm_w_x_packrat"    : "Akimbo H&K P30L",
-	"bm_w_x_chinchilla" : "Akimbo Smith & Wesson Model 29",
-
-	"bm_w_x_sr2"   : "Akimbo TsNIITochMash SR-2M Veresk",
-	"bm_w_x_mp5"   : "Akimbo H&K MP5",
-	"bm_w_x_akmsu" : "Akimbo Izhmash AKMSU",
 
 	"bm_w_gre_m79"          : "M79 Granatwerfer",
-	"bm_w_saw"              : "OVE9000 Saw",
-	"bm_w_m134"             : "M134 Minigun",
 	"bm_w_m32"              : "Milkor MGL Mk 1L Granatwerfer",
 	"bm_w_flamethrower_mk2" : "Flammenwerfer",
 	"bm_w_long"             : "Englischer Bogen",
 
-	"bm_w_msr"            : "Remington MSR",
-	"bm_w_r93"            : "Blaser R93 LRS2",
-	"bm_w_m95"            : "Barrett M95",
-	"bm_w_mosin"          : "Mosin Nagant M1907 Carbine",
-	"bm_w_winchester1874" : "Winchester Model 1873",
-	"bm_w_wa2000"         : "Walther WA 2000",
-	"bm_w_model70"        : "Winchester Model 70",
-	"bm_w_desertfox"      : "DTA Stealth Recon Scout A1",
-	"bm_w_tti"            : "Taran Tactical Innovations TR-1 Ultra-light",
-	"bm_w_siltstone"      : "SVD Dragunov",
-
-	"bm_w_rpk"  : "Izhmash RPK",
-	"bm_w_m249" : "FN M249 Para",
-	"bm_w_hk21" : "H&K HK21E",
-	"bm_w_mg42" : "MG 42",
-	"bm_w_par"  : "FN M240",
-
-	"bm_w_usp"         : "H&K USP45 Tactical",
-	"bm_w_g22c"        : "Glock 22C",
-	"bm_wp_pis_g26"    : "Glock 26",
-	"bm_w_glock_17"    : "Glock 17",
-	"bm_w_colt_1911"   : "1911 Lightweight Operator",
-	"bm_w_b92fs"       : "Beretta 92FS Centurion",
-	"bm_w_raging_bull" : "Taurus Raging Bull",
-	"bm_w_glock_18c"   : "Glock 18C",
-	"bm_w_deagle"      : "IMI Desert Eagle Mark XIX",
-	"bm_w_ppk"         : "Walther PPK",
-	"bm_w_p226"        : "SIG-Sauer P226R",
-	"bm_w_c96"         : "Mauser C96",
-	"bm_w_hs2000"      : "Springfield Armory XDM",
-	"bm_w_peacemaker"  : "Colt Single Action Army",
-	"bm_w_mateba"      : "Mateba 2006M",
-	"bm_w_sparrow"     : "IWI Jericho 941 PL",
-	"bm_w_pl14"        : "Kalashnikov Concern PL-14 Lebedev",
-	"bm_w_packrat"     : "H&K P30L",
-	"bm_w_lemming"     : "FN Five-seveN FDE"
-
-	"bm_w_m1928"    : "Thompson M1928A1 LTD",
-	"bm_w_mac10"    : "Ingram MAC-11",
-	"bm_w_mp5"      : "H&K MP5",
-	"bm_w_mp9"      : "Brügger & Thomet MP9",
-	"bm_w_olympic"  : "Olympic Arms K23B Tactical",
-	"bm_w_akmsu"    : "Izhmash AKMSU",
-	"bm_w_p90"      : "FN P90 TR",
-	"bm_w_m45"      : "Carl Gustav M/45B",
-	"bm_w_mp7"      : "H&K MP7A2",
-	"bm_w_scorpion" : "Sa. Vz.61 Skorpion",
-	"bm_w_tec9"     : "Intratec TEC-9",
-	"bm_w_uzi"      : "IMI UZI",
-	"bm_w_sterling" : "Sterling L2A3",
-	"bm_w_cobray"   : "Cobray M11/9",
-	"bm_w_polymer"  : "KRISS Vector",
-	"bm_w_baka"     : "IMI Micro UZI",
-	"bm_w_sr2"      : "TsNIITochMash SR-2M Veresk",
-	"bm_w_hajk"     : "CZ 805 BREN A1",
-	"bm_w_schakal"  : "H&K UMP45",
-	"bm_w_coal"     : "Izhmash PP-19 Bizon-2",
-
-	"bm_w_judge"   : "Taurus 4510PLYFS",
-	"bm_w_serbu"   : "Remington 870 Short-barreled",
-	"bm_w_striker" : "Sentinel Arms Striker-12",
-	"bm_w_m37"     : "Ithaca 37",
-	"bm_w_rota"    : "Crye Precision SIX12",
-
-	"bm_w_rpg7"    : "RPG-7",
 	"bm_w_hunter"  : "Amur Falcon Pistol Crossbow",
-	"bm_w_china"   : "China Lake Launcher",
-	"bm_w_arbiter" : "ATK XM25",
+	"bm_w_china"   : "China Lake Granatwerfer",
 	"bm_w_ray"     : "M202 FLASH Raketenwerfer",
-
-	"bm_wp_upg_o_eotech"        : "EOTech Model 553",
-	"bm_wp_upg_o_t1micro"       : "Aimpoint Weaver-Mounted Micro T-1",
-	"bm_wp_upg_o_docter"        : "DOCTER Sight II Plus",
-	"bm_wp_upg_o_acog"          : "Trijicon ACOG",
-	"bm_wp_upg_o_aimpoint"      : "Aimpoint PRO Rifle Optic 12841",
-	"bm_wp_upg_o_specter"       : "ELCAN Specter DR 1x/4x",
-	"bm_wp_upg_o_cmore"         : "C-MORE Railway ARW",
-	"bm_wp_upg_o_cs"            : "Aimpoint CS",
-	"bm_wp_upg_o_eotech_xps"    : "EOTech Model EXPS3",
-	"bm_wp_upg_o_reflex"        : "Generic Open Reflex Sight",
-	"bm_wp_upg_o_rx01"          : "Trijicon RX01 Polarized Reflex Sight",
-	"bm_wp_upg_o_rx30"          : "Trijicon RX30 Reflex Sight",
-	"bm_wp_upg_o_ak_scopemount" : "K-VAR KV-045 Optic Mount",
-	"bm_wp_fps_upg_o_45iron"    : "XTI Angle Mount Sight",
-	"bm_wp_upg_o_leupold"       : "Leupold Mk 4 ER/T + BORS",
-	"bm_wpn_fps_o_45rds"        : "Leupold DeltaPoint Pro",
-	"bm_wp_upg_o_box"           : "Pulsar Digisight LRF N960 N970 Nachtsichtvisier mit Reichweitenfinder",
-	"bm_wpg_o_mbus_rear"        : "MBUS Front and Rear Sights",
-	"bm_wpn_fps_upg_o_45iron"   : "XTI Angle Mount Sight",
-	"bm_wp_upg_o_rmr"           : "Trijicon RM06 RMR Sight",
 
 	"bm_wp_m4_m_straight" : "STANAG 22rnd Magazin",
 	"bm_wp_m4_uupg_m_std" : "STANAG 38rnd Magazin",
-	"bm_wp_m4_m_pmag"     : "Magpul PMAG",
 	"bm_wp_upg_m4_m_quad" : "STANAG 60rnd Magazin",
-	"bm_wp_l85a2_m_emag"  : "Magpul EMAG",
-	"bm_wp_upg_m4_m_l5"   : "L5AWM",
-	"bm_wp_m4_m_quick"    : "Original Magpul 5.56 NATO",
-	"bm_wp_sr2_m_quick"   : "Original Magpul 9mm Veresk Retrofit",
 
 	"bm_wp_upg_o_sho_salvo_large"  : "SilencerCo Salvo 12 Schalldämpfer",
 	"bm_wp_upg_ns_sho_salvo_large" : "SilencerCo Salvo 12 Schalldämpfer",
@@ -177,11 +32,7 @@
 	"bm_wp_upg_ass_ns_jprifles" : "JP Standard-Profile Kompensator",
 	"bm_wp_upg_ass_ns_linear"   : "KIES Blast Master Linear Kompensator",
 	"bm_wp_upg_ass_ns_surefire" : "SureFire MB556K Mündungsbremse",
-	"bm_wp_ns_battle"           : "BattleComp 2.0 Melonite",
-	"bm_wp_upg_ns_shot_shark"   : "Tromix Shark Brake Door Breacher",
-	"bm_wp_upg_shot_ns_king"    : "King Armory 12ga Breacher",
 	"bm_wp_upg_ns_meatgrinder"  : "WE Tech Tenderizer Kompensator",
-	"bm_wp_ns_duck"	            : "Duckbill Choke",
 
 	"bm_wp_m4_s_standard"   : "Bushmaster LE Schaft",
 	"bm_wp_m4_s_pts"        : "Magpul PTS Schaft",
@@ -198,37 +49,23 @@
 	"bm_wp_upg_m4_g_hgrip" : "Hogue OverMolded Gummigriff",
 	"bm_wp_upg_m4_g_mgrip" : "Magpul MOE-K Griff",
 
-	"bm_wp_upg_fl_ass_smg_sho_surefire"    : "Surefire Scout Light",
-	"bm_wp_upg_fl_ass_smg_sho_peqbox"      : "Insight Technology AN/PEQ-5",
 	"bm_wp_upg_fl_ass_smg_sho_peqbox_desc" : "Das Visier erfüllt Militär-Spezifikation und projeziert einen sichtbaren roten Punkt. Es ist eine zivile Version des größeren AN-PEQ-2, welches nur für das U.S. Militär verfügbar ist.",
-	"bm_wp_upg_fl_ass_laser"               : "Offset Laser Mount & Sight",
-	"bm_wp_upg_fl_ass_peq15"               : "Insight Technology AN/PEQ-15",
 	"bm_wp_upg_fl_ass_peq15_desc"          : "Es ist ein leichtes, robustes, einfach zu bedienendes Zielsystem für den Einsatz mit oder ohne Nachtsichtgerät.\nLaufzeit: Mehr als 6 Stunden.",
-	"bm_wp_upg_fl_ass_utg"                 : "LT-ELP38 Laser/Light Combo",
 	"bm_wp_upg_fl_ass_utg_desc"            : "Dies ist das perfekte Accessoire, um den taktischen Vorteil zu erlangen. Die Taschenlampe kann verwendet werden, um Ihr Ziel schnell zu identifizieren und gleichzeitig Ihre Sichtbarkeit in der Nacht zu minimieren. Der Laser ermöglicht es Ihnen, schnell Ihr Ziel zu erfassen und macht es einfacher, Ihr Ziel in der Hitze des Kampfes zu treffen.\nLaserlebensdauer: 6000 Stunden.",
-	"bm_wp_upg_fl_pis_tlr1"                : "Streamlight TLR-1",
 	"bm_wp_upg_fl_pis_tlr1_desc"           : "Intensiv helles, praktisch unzerstörbares, schienengebundenes taktisches Licht, lässt sich an fast jeder Waffe in Sekunden anbringen.\nLaufzeit: 2,5 Stunden.",
 	"bm_wp_upg_fl_pis_laser"               : "CMR-201 RAIL MASTER Laservisier",
 	"bm_wp_upg_fl_pis_laser_desc"          : "Dies ist ein leistungsstarkes und vielseitiges Laservisier, die für Pistolen, Gewehre und Schrotflinten mit Zubehörschiene geeignet ist.\nLaufzeit: 4 Stunden.",
 	"bm_wp_upg_fl_crimson"                 : "CN-201 RAIL MASTER Laservisier",
 	"bm_wp_upg_fl_x400v"                   : "SureFire X400V IRc LED Licht and Laservisier",
 	"bm_wp_upg_fl_x400v_desc"              : "Dies ist ein vielseitig einsetzbares Dual-Spektrum-Licht, das auch ein integrierte Klasse 1 Infrarot-Laservisier für den Einsatz mit Nachtsichtgeräten bietet.\nLaufzeit: 2,5 Stunden.",
-	"bm_wp_upg_fl_pis_m3x"                 : "Insight Technology M3X Tactical Illuminator",
 	"bm_wp_upg_fl_pis_m3x_desc"            : "Dieses Licht wurde gebaut, um unter den strengsten Bedingungen zu funktionieren und die härtesten Umgebungen zu überleben. Aus diesem Grund kann es 66 Fuß tief tauchen und noch wasserdicht bleiben.\nLaufzeit: 1 Stunde",
-
-	"bm_wp_upg_i_singlefire" : "Single-Fire Lock",
-	"bm_wp_upg_i_autofire"   : "Full-Auto Lock",
 
 	"bm_wp_mg42_b_vg38" : "DLT-19 Heavy Blaster Gewehrlauf",
 
 	"bm_wp_ass_s552_fg_standard_green" : "OD Grüner Handschutz",
 	"bm_wp_ass_s552_fg_railed"         : "SIG SG 553 Handschutz mit Schiene",
-	"bm_wp_ass_s552_b_long"            : "SIG SG 552 LB Kit",
 
 	"bm_wp_aug_fg_a3"    : "AUG A3 Frontgriff",
-	"bm_wp_aug_body_f90" : "Thales EF88/F90 Receiver",
-
-	"bm_wp_l85a2_fg_short" : "GPS-SAW",
 
 	"bm_wp_famas_b_suppressed" : "Lauf mit integriertem Schalldämpfer",
 	"bm_wp_famas_b_long"       : "G2 Ziviler Lauf",
@@ -241,11 +78,7 @@
 	"bm_wp_ak5_s_ak5b"  : "FFV AK5B Schaft",
 	"bm_wp_ak5_s_ak5c"  : "Bofors AK5C Schaft",
 
-	"bm_wp_sub2000_fg_gen2" : "Gen 2 Kit",
-
 	"bm_wp_scar_s_sniper"        : "FN SSR Schaft",
-	"bm_wp_scar_b_short"         : "Mk17 CQC Kit",
-	"bm_wp_scar_b_long"          : "Mk17 LB Kit",
 	"bm_wp_scar_scar_fg_railext" : "PWS SRX Schienenerweiterung",
 
 	"bm_wp_m14_body_ebr"         : "M1A SOPMOD Gehäuse",
@@ -254,16 +87,8 @@
 
 	"bm_wp_vhs_b_short" : "VHS-K2 Lauf"
 
-
-	"bm_wp_upg_ass_m4_lower_reciever_core"		 : "CORE15 Lower Receiver",
-	"bm_wp_m4_upper_reciever_edge"               : "VLTOR MUR-1A Upper Receiver",
-	"bm_wp_upg_ass_m4_upper_reciever_ballos"	 : "2A-Arms BALIOS-Lite Upper Receiver",
-	"bm_wp_upg_ass_m4_upper_reciever_core"		 : "CORE15 Upper Receiver",
-
-	"bm_wp_m16_fg_railed"       : "Daniel Defense AR15 Lite Rail III Custom",
 	"bm_wp_m16_fg_vietnam"      : "M16A1 Frontgriff",
 	"bm_wp_upg_ass_m16_fg_stag" : "Diamondhead VRS-T Custom",
-	"bm_wp_m4_uupg_b_long"      : ".50 Beowulf Conversion Kit",
 
 	"bm_wp_m4_uupg_fg_lr300"   : "Z-M LR 300ML Frontgriff",
 	"bm_wp_upg_fg_jp"          : "JPHG3-1M angepasster Kohlefaserfrontgriff",
@@ -303,14 +128,11 @@
 	"bm_wp_asval_s_solid" : "VSS Vintorez Schaft",
 
 	"bm_wp_polymer_barrel_precision" : "CRB umantelter Lauf",
-	"bm_wp_polymer_ns_silencer"      : "Defiance HPS 4GSK",
 
 	"bm_wp_hk21_b_long" : "HK23E Lauf"
 
 	"bm_wp_uzi_b_suppressed" : "SIONICS \"Whispering Death\" angepasste Nachrüstung",
-	"bm_wp_uzi_fg_rail"      : "K-Griff",
 
-	"bm_wp_cobray_ns_silencer" : "SIONICS \"Whispering Death\"",
 	"bm_wp_mac10_body_ris"     : "G&P CQB taktisches Schienen-Kit Nachrüstung",
 
 	"bm_wp_sterling_b_e11"        : "E-11 Blaster Gewehrlauf",
@@ -343,7 +165,6 @@
 	"bm_wp_pis_g_beavertail" : "Cytec Beavertail Griff",
 
 	"bm_wp_g18c_g_ergo" : "Hogue Handall Half-Size Universal Griff",
-	"bm_wp_pis_s_stock" : "FAB Defense GLR-440",
 
 	"bm_wp_beretta_co_co1"       : "LA.RI.A AL-GI-MEC Kompensator",
 	"bm_wp_beretta_sl_brigadier" : "92G Elitee II Parkerized Schlitten",
@@ -359,35 +180,13 @@
 	"bm_wp_upg_a_slug2_desc"          : "Ein Slug ist ein schweres Geschoss aus Blei, Kupfer oder anderem Material und aus einer Schrotflinte gefeuert.\nDas Geschoss ist typischerweise massiver als ein Gewehrkugel.",
 	"bm_wp_upg_a_dragons_breath_desc" : "Drachenatem ist eine besondere Art von Brand-Effekt-Munition für 12-Gauge-Schrotflinten. Drachenatem besteht hauptsächlich aus Magnesiumpellets. Wenn die Munition gefeuert wird, können Funken und Flammen auf etwa 100 Fuß treffen.",
 
-	"bm_wp_mosin_ns_bayonet_desc" : "117/5000
-Das Mosin Nagant Bajonett ist ein Stachelbajonett, was bedeutet, im Gegensatz zu einem Messerbajonett, ist es nicht in der Lage, von Hand benutzt zu werden.\nEs misst 19,5 Zoll(49,5cm).",
+	"bm_wp_mosin_ns_bayonet_desc" : "Das Mosin Nagant Bajonett ist ein Stachelbajonett, was bedeutet, im Gegensatz zu einem Messerbajonett, ist es nicht in der Lage, von Hand benutzt zu werden.\nEs misst 19,5 Zoll(49,5cm).",
 
-	"bm_melee_model24"     : "Modell 24 Stielhandgranate"
-	"bm_melee_pugio"       : "Extrema Ratio EX314BL Pugio"
-	"bm_melee_gerber"      : "Gerber DMF Auto Modified Clip Point"
-	"bm_melee_gator"       : "Gerber Gator Machete Pro"
-	"bm_melee_kampfmesser" : "Eickhorn-Solingen KM2000"
-	"bm_melee_kabar"       : "KA-BAR USMC"
-	"bm_melee_becker"      : "KA-BAR Becker TacTool"
-	"bm_melee_bullseye"    : "S&W Bullseye Hatchet"
-	"bm_melee_fairbair"    : "Fairbairn-Sykes Fighting Knife"
-	"bm_melee_taser"       : "ZAP 1M-Volt Stun Baton"
-	"bm_melee_tiger"       : "Tekko-Kagi"
-	"bm_melee_brick"       : "Motorola DynaTAC 8000X"
-	"bm_melee_nin"         : "PALSODE IM360CI 90MM kabellose Gasnagelpistole"
-	"bm_melee_kabar_tanto" : "KA-BAR Tanto Klinge"
-	"bm_melee_ballistic"   : "USA-Style Ballistische Messer"
-	"bm_melee_tomahawk"    : "Gerber Downrange Tomahawk"
-	"bm_melee_bayonet"     : "'60s 2nd Generation AKM Bayonet"
-	"bm_melee_dingdong"    : "Gerber Ding Dong Breaching Tool"
-	"bm_melee_oldbaton"    : "Monadnock PR-24 Baton"
-	"bm_melee_cqc"         : "Kunai"
-	"bm_melee_buck"        : "'Metal Fist' Buckler"
-	"bm_melee_beardy"      : "Nordische lange Bartaxt"
-	"bm_melee_great"       : "Zweihänder"
-	"bm_melee_topaz"       : "Black Diamond Cobra Ice Tool"
-	"bm_melee_wing"        : "Balisong"
-	"bm_melee_cs"          : "Homelite Super 2 Kettensäge"
+	"bm_melee_nin"         : "PALSODE IM360CI 90MM kabellose Gasnagelpistole",
+	"bm_melee_kabar_tanto" : "KA-BAR Tanto Klinge",
+	"bm_melee_ballistic"   : "USA-Style Ballistische Messer",
+	"bm_melee_beardy"      : "Nordische lange Bartaxt",
+	"bm_melee_cs"          : "Homelite Super 2 Kettensäge",
 
 	"bm_melee_weapon_info"        : "",
 	"bm_melee_fists_info"         : "",
@@ -480,7 +279,6 @@ Das Mosin Nagant Bajonett ist ein Stachelbajonett, was bedeutet, im Gegensatz zu
 	"bm_concussion_desc"                   : "Die M84, auch bekannt als \"Flashbang\", ist die derzeit ausgegebene Betäubungsgranate des U.S. Militär. Bei der Detonation gibt es einen intensiv lauten Knall von 170-180 Dezibel und einen blendenden Blitz von mehr als einer Million Candela innerhalb von fünf Fuß der Einleitung, die ausreicht, um sofortige  Blitz-Blindheit, Taubheit, Tinnitus und innere Ohrstörung zu verursachen. Getroffene Personen erleiden Desorientierung, Verwirrung und Verlust der Koordination und Balance.",
 	"bm_grenade_frag"                      : "M67 Splittergranate",
 	"bm_grenade_frag_desc"                 : "Die M67 Granate ist eine Splittergranate, die vom U.S. Militär verwendet wird. Die M67 ist eine Weiterentwicklung der M33-Granate, ein Ersatz für die Granaten der M26-Serie, die während dem Korea- und Vietnam-Krieg verwendet wurden.",
-	"bm_grenade_molotov"                   : "Molotov Cocktail",
 	"bm_grenade_molotov_desc"              : "Ein Molotow-Cocktail, auch bekannt als Benzinbombe, Arme-Leute-Granate und Feuerbombe ist ein generischer Name, der für eine Vielzahl von flaschenbasierten improvisierten Brandwaffen verwendet wird. Sie sind in erster Linie dazu geeignet, Ziele in Brand zu setzen, anstatt sie sofort zu zerstören. Seinen Namen erhielt er, während der sovietischen Besatzung Finnlands. Die Finnen benannten ihre Brandbomben nach dem sovietischen Außenminister Wjatscheslaw Michailowitsch Molotow.",
 	"bm_dynamite"                          : "Dynamit",
 	"bm_dynamite_desc"                     : "Dynamit ist ein explosives Material auf der Basis von Nitroglycerin, mit Diatomeenerde oder einer anderen adsorbierenden Substanz wie pulverrisierten Muscheln oder Ton. Dynamit wurde von dem schwedischen Chemiker und Ingenieur Alfred Nobel in Geesthacht erfunden und im Jahre 1867 patentiert.",
@@ -497,12 +295,7 @@ Das Mosin Nagant Bajonett ist ein Stachelbajonett, was bedeutet, im Gegensatz zu
 	"menu_challenge_frog_1_objective"              : "Im \"HOXTONS AUSBRUCH\" Auftrag, beende den Raub auf OVERKILL oder darüber und jedes Crewmitglied benutzt keine Fähigkeiten, den zwei-teiligen Anzug, Goldenen AKMS Gewehre und Thompson M1928A1 LTD Maschinenpistolen.",
 	"menu_challenge_monthly_firestarter_objective" : "Schließe \"BRANDSTIFTER\" auf OVERKILL oder darüber ab, während du Colt Model 733, Glock 17, den zwei-teiligen Anzug und keine Fähigkeiten benutzt.",
 
-	"hud_carry_weapon"       : "Izhmash AKS-74",
-	"hud_carry_weapon_scar"  : "FN SCAR-H STD",
-	"hud_carry_weapon_glock" : "Glock 17",
-
 	"menu_assault_rifle" : "Sturmgewehre",
-	"menu_akimbo"        : "Akimbo",
 	"menu_snp"           : "Scharfschützengewehre",
 	"menu_shotgun"       : "Schrotflinten",
 	"menu_lmg"           : "Maschinengewehr",
