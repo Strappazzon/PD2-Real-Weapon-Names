@@ -1,9 +1,4 @@
 {
-	"rwn_menu_title" : "[RWN] Опции",
-	"rwn_menu_desc" : "Настройки Real Weapon Names",
-	"rwn_mod_active_title" : "Активировать модификацию",
-	"rwn_mod_active_desc" : "Выберите, чтобы включить или отключить все модули данной модификации.\nToggle чтобы включить или отключить модификацию.",
-
 	"bm_w_akm_gold"   : "Золотой AKMS",
 	"bm_w_contraband" : "H&K HK417 с подствольным гранатометом M203",
 
@@ -32,25 +27,25 @@
 	"bm_w_china"   : "Гранатомет China Lake",
 	"bm_w_ray"     : "Ракетная установка M202 FLASH",
 
-	"bm_melee_model24"     : "Ручная граната М-24"
-	"bm_melee_becker"      : "Мачете KA-BAR Becker"
-	"bm_melee_bullseye"    : "Топорик S&W Bullseye"
-	"bm_melee_fairbair"    : "Боевой нож Fairbairn-Sykes"
-	"bm_melee_taser"       : "Шокер ZAP 1M-Volt"
-	"bm_melee_nin"         : "Гвоздомет PASLODE IM360CI 90MM"
-	"bm_melee_kabar_tanto" : "Нож Танто KA-BAR"
-	"bm_melee_ballistic"   : "Американские баллистические ножи"
-	"bm_melee_tomahawk"    : "Томагавк Gerber Downrange"
-	"bm_melee_bayonet"     : "Штык-нож АКМ"
-	"bm_melee_dingdong"    : "Молот Gerber Ding Dong"
-	"bm_melee_oldbaton"    : "Дубинка Monadnock PR-24"
-	"bm_melee_cqc"         : "Кунаи"
-	"bm_melee_buck"        : "Щит 'Железный Кулак'"
-	"bm_melee_beardy"      : "Нордический длиннобородый топор"
-	"bm_melee_great"       : "Цвайхендер"
-	"bm_melee_topaz"       : "Ледоруб Black Diamond Cobra"
-	"bm_melee_wing"        : "Нож-бабочка"
-	"bm_melee_cs"          : "Бензопила Homelite Super 2"
+	"bm_melee_model24"     : "Ручная граната М-24",
+	"bm_melee_becker"      : "Мачете KA-BAR Becker",
+	"bm_melee_bullseye"    : "Топорик S&W Bullseye",
+	"bm_melee_fairbair"    : "Боевой нож Fairbairn-Sykes",
+	"bm_melee_taser"       : "Шокер ZAP 1M-Volt",
+	"bm_melee_nin"         : "Гвоздомет PASLODE IM360CI 90MM",
+	"bm_melee_kabar_tanto" : "Нож Танто KA-BAR",
+	"bm_melee_ballistic"   : "Американские баллистические ножи",
+	"bm_melee_tomahawk"    : "Томагавк Gerber Downrange",
+	"bm_melee_bayonet"     : "Штык-нож АКМ",
+	"bm_melee_dingdong"    : "Молот Gerber Ding Dong",
+	"bm_melee_oldbaton"    : "Дубинка Monadnock PR-24",
+	"bm_melee_cqc"         : "Кунаи",
+	"bm_melee_buck"        : "Щит \"Железный Кулак\"",
+	"bm_melee_beardy"      : "Нордический длиннобородый топор",
+	"bm_melee_great"       : "Цвайхендер",
+	"bm_melee_topaz"       : "Ледоруб Black Diamond Cobra",
+	"bm_melee_wing"        : "Нож-бабочка",
+	"bm_melee_cs"          : "Бензопила Homelite Super 2",
 
 	"bm_melee_weapon_info"        : "",
 	"bm_melee_fists_info"         : "",
