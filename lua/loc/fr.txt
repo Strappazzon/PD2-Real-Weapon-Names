@@ -212,15 +212,14 @@
 	"bm_melee_catch_info"         : "",
 	"bm_melee_oxide_info"         : "",
 	"bm_melee_sword_info"         : "",
-
-	"bm_menu_barrel_ext"     : "Extension du Canon",
-	"bm_menu_sight"          : "Optique",
-
 	"bm_melee_brick_info"         : "Le motorola DynaTAC 8000X téléphone céllulaire à reçu l'approvation de l'U.S. FCC le 21 septembre, 1983. Avec une charge totale d'en gros 10 heures, et qui offrait 30 minutes d'appel. Il était aussi fourni avec un affichage LED pour appeler ou rappeler l'un des 30 numéros téléphoniques.Il était vendu à 3,995$ en 1984, l'année de sa commercialisation, ce qui est équivalent à 9,366$ en dollars actuels avec l'inflation. DynaTAC était l'abrévation de \"Dynamic Adaptive Total Area Coverage\".",
 	"bm_melee_gerber_info"        : "D.M.F., ou Dual Multi Function, est un couteau automatique qui peut être utilisé dans l'action avec la main gauche ou droite. Le tout automatique S30V steel blade offre une protection supérieur contre la corrosion. Le manche G10 offrait un mix entre solidité et légèreté.",
 	"bm_melee_model24_info"       : "La Stielhandgranate était une grenade à design unique Allemand qui était un standard dans l'empire Allemand durant la Première Guerre Mondiale, puis fût plus tard, un standard dans les forces armées nazies (Wehrmacht) durant la Seconde Guerre Mondiale. Son apparence très distinctive à laissée à se faire appelée une \"grenade à baton\", ou un \"écraseur de patates\" dans le jargon de l'armée Britannique.",
 	"bm_melee_gator_info"         : "C'est le top des machêtes Gerber. Sa résistance à la corrosion, sa polivalence permettant de l'utiliser comme d'une hache,machete ou couteau. Son fourreau est fait de nylon de qualitée militaire et inclut une pierre d'affaffûtage.",
-	"bm_melee_pugio_info"         : "C'est un couteau désigné et utilisé pour tuer. Période. \nLe pugio etait prévu en tant qu'arme subsidiaire, mais son exact usage pour les soldats reste inconnu. Le pugio était une dague utilisé par les soldats romains en tant qu'arme secondaire. La dague était une arme courante lors d'assasinats ou de suicide; par exemple, les conspirateurs qui tuont Julius Caesar ont utilisés des pugios.",
+	"bm_melee_pugio_info"         : "C'est un couteau désigné et utilisé pour tuer. Période.\nLe pugio etait prévu en tant qu'arme subsidiaire, mais son exact usage pour les soldats reste inconnu. Le pugio était une dague utilisé par les soldats romains en tant qu'arme secondaire. La dague était une arme courante lors d'assasinats ou de suicide; par exemple, les conspirateurs qui tuont Julius Caesar ont utilisés des pugios.",
+
+	"bm_menu_barrel_ext"     : "Extension du Canon",
+	"bm_menu_sight"          : "Optique",
 
 	"bm_grenade_fir_com"                   : "M14 TH3 Grenade incendiaire",
 	"bm_grenade_fir_com_desc"              : "Une grenade cylendrique visuellement identique au M8, Le M14 à été conçue dans un but d'être une grenade incendiaire. Se basant sur l'intense et violente réaction du remplissage thermique, Le résultat final de la M14 est du fer fondu. Cela signifie que la M14 est employée premièrement sur des matériaux qui peuvent être détruit dans un environnement généralement sûr et pas en tant qu'arme offensive ou défensive. Vû que la réaction thermique utilise de l'oxide de fer au lieu d'oxygène en tant qu'agent d'oxidation, la grenade peut fonctionner sous l'eau.",
@@ -238,7 +237,7 @@
 	"bm_wpn_prj_hur"                       : "KitRae AirCobra KR0055 Hache de lancer",
 	"bm_wpn_prj_hur_desc"                  : "Le Kit Rae est bien connu pour ses couteaux et épées sortie de la fantaisie, mais le Kit à aussi été un couteau de lancer pour passionnés et une hache pour passionnés pendant de nombreuse années. Le Aircobra est constitué d'une pièce de AUS-6 d'acier inoxydable. C'est les caractéristiques d'une conception équilibré d'une lame à poignée pour un lancement parfait, avec la pointe de la lame arrière. La poignée est enveloppée de cuir ."
 	"bm_ability_chico_injector"            : "Auto-injecteur d'Epinephrine",
-	"bm_ability_chico_injector_desc"       : "L'Auto-injecteur d'épinéphrine est un appareil médical conçue pour injecter une dose mesurée d'epinephrine (ou d'adrenaline). \n\nL'appareil contient une dose mesurée d'epinephrine et une aiguille à ressort qui sort de la pointe ou du bord de l'appareil et pénêtre la peau de la personne, pour délivrer un soin via une injection intramusculaire.",
+	"bm_ability_chico_injector_desc"       : "L'Auto-injecteur d'épinéphrine est un appareil médical conçue pour injecter une dose mesurée d'epinephrine (ou d'adrenaline).\n\nL'appareil contient une dose mesurée d'epinephrine et une aiguille à ressort qui sort de la pointe ou du bord de l'appareil et pénêtre la peau de la personne, pour délivrer un soin via une injection intramusculaire.",
 	"bm_grenade_smoke_screen_grenade"      : "Grenade fumigène M18",
 	"bm_grenade_smoke_screen_grenade_desc" : "La grenade fumigène colorée M18 est un grenade l'armée des Etats-Unis utilisée en tant qu' appareil de signalisation, d'une cible ou d'une zone de marquage. La M18 à remplacée la grenade M16 de la seconde guerre mondiale qui ne brulait pas assez longptemps ou pas assez vivement. La M16 était disponible dans les mêmes couleurs que la M18, mais aussi en bleue, orange, et noire. La M18 étée initiallement prévue d'être produite dans les mêmes couleurs en incluant le blanc, mais il a été décidé de la limiter à seulement 4 couleurs pour plus de simplicité. Il à été découvert au Vietnam, que la fumée verte éloigne les troupeaux d'abeilles..",
 
