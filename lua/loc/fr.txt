@@ -251,5 +251,5 @@
 	"menu_shotgun"       : "Fusil à pompes",
 	"menu_lmg"           : "Mitrailleuses légères",
 	"menu_pistol"        : "Pistolets",
-	"menu_smg"           : "Mitraillettes",
+	"menu_smg"           : "Mitraillettes"
 }

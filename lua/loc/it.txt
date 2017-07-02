@@ -331,5 +331,5 @@
 	"menu_shotgun"       : "Fucili a pompa",
 	"menu_lmg"           : "Mitragliatrici leggere",
 	"menu_pistol"        : "Pistole",
-	"menu_smg"           : "Pistole mitragliatrici",
+	"menu_smg"           : "Pistole mitragliatrici"
 }

@@ -302,5 +302,5 @@
 	"menu_shotgun"       : "Schrotflinten",
 	"menu_lmg"           : "Maschinengewehr",
 	"menu_pistol"        : "Pistolen",
-	"menu_smg"           : "Maschinenpistole",
+	"menu_smg"           : "Maschinenpistole"
 }

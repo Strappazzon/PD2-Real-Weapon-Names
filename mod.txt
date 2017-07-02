@@ -8,9 +8,9 @@
 		{
 			"revision" : 11,
 			"identifier" : "real_weapon_names",
-			"display_name" : "Real Weapon Names",
+			"display_name" : "Real Weapon Names"
 		}
-	]
+	],
 	"hooks" : [
 		{ "hook_id" : "lib/managers/localizationmanager", "script_path" : "lua/RWN.lua" },
 		{ "hook_id" : "lib/managers/menu/blackmarketgui", "script_path" : "lua/Blackmarket.lua" },
