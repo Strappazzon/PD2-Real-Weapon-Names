@@ -504,5 +504,5 @@
 	"menu_shotgun"       : "Shotguns",
 	"menu_lmg"           : "Light Machine Guns",
 	"menu_pistol"        : "Pistols",
-	"menu_smg"           : "Sub-Machine Guns",
+	"menu_smg"           : "Sub-Machine Guns"
 }
