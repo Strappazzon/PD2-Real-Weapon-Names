@@ -2,6 +2,11 @@
 	"name" : "Real Weapon Names",
 	"description" : "Changes the PAYDAY 2 weapon names to their real names",
 	"author" : "Winston Wolfe",
+	"image" : "RWN.png",
+	"blt_version" : 2,
+	"color" : "0 47 191",
+	"undisablable" : false,
+	"disable_safe_mode" : true,
 	"contact" : "www.steamcommunity.com/id/Winston-Wolfe",
 	"version" : "2.7",
 	"updates" : [
