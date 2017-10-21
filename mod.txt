@@ -8,10 +8,10 @@
 	"undisablable" : false,
 	"disable_safe_mode" : true,
 	"contact" : "www.steamcommunity.com/id/Winston-Wolfe",
-	"version" : "2.7",
+	"version" : "2.7.1",
 	"updates" : [
 		{
-			"revision" : 14,
+			"revision" : 15,
 			"identifier" : "real_weapon_names",
 			"display_name" : "Real Weapon Names"
 		}
