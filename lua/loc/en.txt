@@ -499,7 +499,7 @@
 	
 	"menu_aru_job2_obj_desc" : "Kill 50 enemies using the Luger P08",
 	"menu_aru_job3_obj_desc" : "Kill 100 enemies using the Steyr MP40",
-	"menu_aru_job4_obj_desc" : "Kill 200 enemies using the Springfield Armory M1 Garand"
+	"menu_aru_job4_obj_desc" : "Kill 200 enemies using the Springfield Armory M1 Garand",
 
 	"hud_carry_weapon"       : "Izhmash AKS-74",
 	"hud_carry_weapon_scar"  : "FN SCAR-H STD",
