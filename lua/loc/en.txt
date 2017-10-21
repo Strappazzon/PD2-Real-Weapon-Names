@@ -497,9 +497,9 @@
 	"menu_challenge_frog_1_objective"              : "In the \"HOXTON BREAKOUT\" job, complete the heist on OVERKILL difficulty or above with each crew member using no skills, wearing Suits, wielding Golden AKMS rifles and Thompson M1928A1 LTD submachine guns.",
 	"menu_challenge_monthly_firestarter_objective" : "Complete the \"FIRESTARTER\" job on OVERKILL or above using only Colt Model 733, Glock 17, the Two-piece Suit and no skills.",
 	
-	"menu_aru_job2_obj_desc" : "Kill 50 enemies using the Luger P08",
-	"menu_aru_job3_obj_desc" : "Kill 100 enemies using the Steyr MP40",
-	"menu_aru_job4_obj_desc" : "Kill 200 enemies using the Springfield Armory M1 Garand",
+	"menu_aru_job_2_obj_desc" : "Kill 50 enemies using the Luger P08",
+	"menu_aru_job_3_obj_desc" : "Kill 100 enemies using the Steyr MP40",
+	"menu_aru_job_4_obj_desc" : "Kill 200 enemies using the Springfield Armory M1 Garand",
 
 	"hud_carry_weapon"       : "Izhmash AKS-74",
 	"hud_carry_weapon_scar"  : "FN SCAR-H STD",

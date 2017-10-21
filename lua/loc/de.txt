@@ -297,9 +297,9 @@
 	"menu_challenge_frog_1_objective"              : "Im \"HOXTONS AUSBRUCH\" Auftrag, beende den Raub auf OVERKILL oder darüber und jedes Crewmitglied benutzt keine Fähigkeiten, den zwei-teiligen Anzug, Goldenen AKMS Gewehre und Thompson M1928A1 LTD Maschinenpistolen.",
 	"menu_challenge_monthly_firestarter_objective" : "Schließe \"BRANDSTIFTER\" auf OVERKILL oder darüber ab, während du Colt Model 733, Glock 17, den zwei-teiligen Anzug und keine Fähigkeiten benutzt.",
 
-	"menu_aru_job2_obj_desc" : "Töte 50 Gegner mit der Luger P08",
-	"menu_aru_job3_obj_desc" : "Töte 100 Gegner mit der Steyr MP40",
-	"menu_aru_job4_obj_desc" : "Töte 200 Gegner mit dem Springfield Armory M1 Garand",
+	"menu_aru_job_2_obj_desc" : "Töte 50 Gegner mit der Luger P08",
+	"menu_aru_job_3_obj_desc" : "Töte 100 Gegner mit der Steyr MP40",
+	"menu_aru_job_4_obj_desc" : "Töte 200 Gegner mit dem Springfield Armory M1 Garand",
 	
 	"menu_assault_rifle" : "Sturmgewehre",
 	"menu_snp"           : "Scharfschützengewehre",
