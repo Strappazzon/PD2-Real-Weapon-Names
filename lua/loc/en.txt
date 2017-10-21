@@ -22,6 +22,7 @@
 	"bm_w_tecci"      : "H&K HK416C",
 	"bm_w_contraband" : "H&K HK417 with M203 PI Grenade Launcher",
 	"bm_w_ak12"       : "AK-12",
+	"bm_w_ching"      : "Springfield Armory M1 Garand",
 
 	"bm_w_spas12"   : "Franchi SPAS-12",
 	"bm_w_b682"     : "CZ Redhead Deluxe O/U",
@@ -89,7 +90,8 @@
 	"bm_w_sparrow"     : "IWI Jericho 941 PL",
 	"bm_w_pl14"        : "Kalashnikov Concern PL-14 Lebedev",
 	"bm_w_packrat"     : "H&K P30L",
-	"bm_w_lemming"     : "FN Five-seveN FDE"
+	"bm_w_lemming"     : "FN Five-seveN FDE",
+	"bm_w_breech"      : "Luger P08",
 
 	"bm_w_m1928"    : "Thompson M1928A1 LTD",
 	"bm_w_mac10"    : "Ingram MAC-11",
@@ -111,6 +113,7 @@
 	"bm_w_hajk"     : "CZ 805 BREN A1",
 	"bm_w_schakal"  : "H&K UMP45",
 	"bm_w_coal"     : "Izhmash PP-19 Bizon-2",
+	"bm_w_erma"     : "Steyr MP40",
 
 	"bm_w_judge"   : "Taurus 4510PLYFS",
 	"bm_w_serbu"   : "Remington 870 Short-barreled",
@@ -493,6 +496,10 @@
 	"menu_challenge_monthly_rats_objective"        : "Complete the \"RATS\" job on OVERKILL or above using only Colt Model 733, Glock 17, the Two-piece Suit and no skills.",
 	"menu_challenge_frog_1_objective"              : "In the \"HOXTON BREAKOUT\" job, complete the heist on OVERKILL difficulty or above with each crew member using no skills, wearing Suits, wielding Golden AKMS rifles and Thompson M1928A1 LTD submachine guns.",
 	"menu_challenge_monthly_firestarter_objective" : "Complete the \"FIRESTARTER\" job on OVERKILL or above using only Colt Model 733, Glock 17, the Two-piece Suit and no skills.",
+	
+	"menu_aru_job2_obj_desc" : "Kill 50 enemies using the Luger P08",
+	"menu_aru_job3_obj_desc" : "Kill 100 enemies using the Steyr MP40",
+	"menu_aru_job4_obj_desc" : "Kill 200 enemies using the Springfield Armory M1 Garand"
 
 	"hud_carry_weapon"       : "Izhmash AKS-74",
 	"hud_carry_weapon_scar"  : "FN SCAR-H STD",
