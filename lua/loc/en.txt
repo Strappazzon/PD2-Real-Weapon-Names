@@ -69,7 +69,7 @@
 	"bm_w_m249" : "FN M249 Para",
 	"bm_w_hk21" : "H&K HK21E",
 	"bm_w_mg42" : "MG 42",
-	"bm_w_par"  : "FN M240",
+	"bm_w_par"  : "FN M240G",
 
 	"bm_w_usp"         : "H&K USP45 Tactical",
 	"bm_w_g22c"        : "Glock 22C",
