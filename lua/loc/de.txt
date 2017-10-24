@@ -7,6 +7,8 @@
 	"bm_w_flamethrower_mk2" : "Flammenwerfer",
 	"bm_w_long"             : "Englischer Bogen",
 
+	"bm_w_basset"  : "CBRPS Spike X1S Saika 12K CQB Umbau",
+	
 	"bm_w_hunter"  : "Amur Falcon Pistolenarmbrust",
 	"bm_w_china"   : "China Lake Granatwerfer",
 	"bm_w_ray"     : "M202 FLASH Raketenwerfer",
@@ -182,6 +184,9 @@
 	"bm_wp_upg_a_slug2_desc"          : "Ein Slug ist ein schweres Geschoss aus Blei, Kupfer oder anderem Material und aus einer Schrotflinte gefeuert.\nDas Geschoss ist typischerweise massiver als ein Gewehrkugel.",
 	"bm_wp_upg_a_dragons_breath_desc" : "Drachenatem ist eine besondere Art von Brand-Effekt-Munition für 12-Gauge-Schrotflinten. Drachenatem besteht hauptsächlich aus Magnesiumpellets. Wenn die Munition gefeuert wird, können Funken und Flammen auf etwa 100 Fuß treffen.",
 
+	"bm_wp_basset_fg_short"  : "Verkürzter Lauf und Schiene"
+	"bm_wp_basset_m_extened" : "SGM Tactical SAIGA Shotgun 12 Schuss Magazin",
+	
 	"bm_wp_mosin_ns_bayonet_desc" : "Das Mosin Nagant Bajonett ist ein Stachelbajonett, was bedeutet, im Gegensatz zu einem Messerbajonett, ist es nicht in der Lage, von Hand benutzt zu werden.\nEs misst 19,5 Zoll(49,5cm).",
 
 	"bm_melee_nin"         : "PALSODE IM360CI 90MM kabellose Gasnagelpistole",
@@ -272,6 +277,10 @@
 	"bm_melee_catch_info"         : "",
 	"bm_melee_oxide_info"         : "",
 	"bm_melee_sword_info"         : "",
+	
+	"bm_menu_barrel_ext"     : "Lauferweiterung",
+	"bm_menu_custom"         : "Interne Modifikation",
+	"bm_menu_sight"          : "Visier",
 
 	"bm_grenade_fir_com"                   : "M14 TH3 Brandgranate",
 	"bm_grenade_fir_com_desc"              : "Eine zylindrische Granate, die visuell identisch mit der M8 ist, ist die M14 eine zweckgebundene Brandgranate. Ausgehend von der intensiven und heftigen Reaktion der Thermitfüllung ist das Endergebnis des Einsatzes der M14 geschmolzenes Eisen. Das bedeutet, dass die M14 vorwiegend auf Material angewendet wird, das in einer ungefähr sicheren Umgebung zerstört werden soll und nicht als Offensiv- oder Verteidigungswaffe. Da die thermische Reaktion Eisenoxid anstelle von Sauerstoff als sein Oxidationsmittel verwendet, kann die Granate auch unter Wasser arbeiten.",
