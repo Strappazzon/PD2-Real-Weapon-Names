@@ -43,6 +43,7 @@
 	"bm_w_x_usp"        : "Akimbo H&K USP45 Tactical",
 	"bm_w_x_packrat"    : "Akimbo H&K P30L",
 	"bm_w_x_chinchilla" : "Akimbo Smith & Wesson Model 29",
+	"bm_w_x_basset"     : "Akimbo CBRPS Spike X1S Saika 12K CQB",
 
 	"bm_w_x_sr2"   : "Akimbo TsNIITochMash SR-2M Veresk",
 	"bm_w_x_mp5"   : "Akimbo H&K MP5",
@@ -120,6 +121,7 @@
 	"bm_w_striker" : "Sentinel Arms Striker-12",
 	"bm_w_m37"     : "Ithaca 37",
 	"bm_w_rota"    : "Crye Precision SIX12",
+	"bm_w_basset"  : "CBRPS Spike X1S Saika 12K CQB Conversion",
 
 	"bm_w_rpg7"    : "RPG-7",
 	"bm_w_hunter"  : "Amur Falcon Pistol Crossbow",
@@ -355,6 +357,9 @@
 	"bm_wp_upg_a_slug_desc"           : "A shotgun slug is a heavy projectile made of lead, copper, or other material and fired from a shotgun.\nA shotgun slug is typically more massive than a rifle bullet.",
 	"bm_wp_upg_a_slug2_desc"          : "A shotgun slug is a heavy projectile made of lead, copper, or other material and fired from a shotgun.\nA shotgun slug is typically more massive than a rifle bullet.",
 	"bm_wp_upg_a_dragons_breath_desc" : "Dragon's breath is a special type of incendiary-effect round for a 12 gauge shotgun. Dragon's breath consists primarily of magnesium pellets. When the round is fired, sparks and flames can shoot out to about 100 feet.",
+	
+	"bm_wp_basset_fg_short"  : "Shortened Barrel and Rail"
+	"bm_wp_basset_m_extened" : "SGM Tactical SAIGA Shotgun 12 Round Magazine",
 
 	"bm_wp_mosin_ns_bayonet_desc" : "The Mosin Nagant bayonet is a spike bayonet, meaning unlike a knife-style bayonet, it is unable to be wielded by hand.\nMeasures 19 1/2 inches.",
 
