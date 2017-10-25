@@ -7,7 +7,7 @@
 	"bm_w_flamethrower_mk2" : "Flammenwerfer",
 	"bm_w_long"             : "Englischer Bogen",
 
-	"bm_w_basset"  : "CBRPS Spike X1S Saika 12K CQB Umbau",
+	"bm_w_basset"  : "CBRPS Spike X1S Saiga-12K CQB Umbau",
 	
 	"bm_w_hunter"  : "Amur Falcon Pistolenarmbrust",
 	"bm_w_china"   : "China Lake Granatwerfer",
