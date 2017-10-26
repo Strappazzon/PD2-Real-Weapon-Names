@@ -12,7 +12,7 @@
 	"updates" : [
 		{
 			"revision" : 17,
-			"identifier" : "real_weapon_names",
+			"identifier" : "19958",
 			"display_name" : "Real Weapon Names"
 		}
 	],
