@@ -358,8 +358,12 @@
 	"bm_wp_upg_a_slug2_desc"          : "A shotgun slug is a heavy projectile made of lead, copper, or other material and fired from a shotgun.\nA shotgun slug is typically more massive than a rifle bullet.",
 	"bm_wp_upg_a_dragons_breath_desc" : "Dragon's breath is a special type of incendiary-effect round for a 12 gauge shotgun. Dragon's breath consists primarily of magnesium pellets. When the round is fired, sparks and flames can shoot out to about 100 feet.",
 	
-	"bm_wp_basset_fg_short"  : "Shortened Barrel and Rail"
+	"bm_wp_basset_fg_short"   : "Shortened Barrel and Rail"
 	"bm_wp_basset_m_extended" : "SGM Tactical SAIGA Shotgun 12 Round Magazine",
+	
+	"bm_wp_ching_b_short"  : "Criterion Barrels M1 Garand Tanker Contour Barrel",
+	"bm_wp_ching_fg_raied" : "Fulton Armory Scout Rail, Gen III",
+	"bm_wp_ching_s_pouch"  : "Olongapo Outfitters Garand Stock Pouch",
 
 	"bm_wp_mosin_ns_bayonet_desc" : "The Mosin Nagant bayonet is a spike bayonet, meaning unlike a knife-style bayonet, it is unable to be wielded by hand.\nMeasures 19 1/2 inches.",
 
