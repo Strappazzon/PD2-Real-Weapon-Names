@@ -43,6 +43,8 @@
 	"bm_w_x_usp"        : "Akimbo H&K USP45 Tactical",
 	"bm_w_x_packrat"    : "Akimbo H&K P30L",
 	"bm_w_x_chinchilla" : "Akimbo Smith & Wesson Model 29",
+	"bm_w_x_shrew"      : "Akimbo Colt Defender",
+	
 	"bm_w_x_basset"     : "Akimbo CBRPS Spike X1S Saiga-12K CQB",
 
 	"bm_w_x_sr2"   : "Akimbo TsNIITochMash SR-2M Veresk",
@@ -93,6 +95,7 @@
 	"bm_w_packrat"     : "H&K P30L",
 	"bm_w_lemming"     : "FN Five-seveN FDE",
 	"bm_w_breech"      : "Luger P08",
+	"bm_w_shrew"       : "Colt Defender",
 
 	"bm_w_m1928"    : "Thompson M1928A1 LTD",
 	"bm_w_mac10"    : "Ingram MAC-11",
@@ -364,6 +367,8 @@
 	"bm_wp_ching_b_short"  : "Criterion Barrels M1 Garand Tanker Contour Barrel",
 	"bm_wp_ching_fg_raied" : "Fulton Armory Scout Rail, Gen III",
 	"bm_wp_ching_s_pouch"  : "Olongapo Outfitters Garand Stock Pouch",
+	
+	"bm_wp_erma_s_folded" : "Folded Stock",
 
 	"bm_wp_mosin_ns_bayonet_desc" : "The Mosin Nagant bayonet is a spike bayonet, meaning unlike a knife-style bayonet, it is unable to be wielded by hand.\nMeasures 19 1/2 inches.",
 

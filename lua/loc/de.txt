@@ -190,6 +190,8 @@
 	"bm_wp_ching_b_short"  : "Criterion Barrels M1 Garand Tanker Contour Lauf",
 	"bm_wp_ching_s_pouch"  : "Olongapo Outfitters Garand Schafttasche",
 	
+	"bm_wp_erma_s_folded" : "Eingeklappter Schaft",
+	
 	"bm_wp_mosin_ns_bayonet_desc" : "Das Mosin Nagant Bajonett ist ein Stachelbajonett, was bedeutet, im Gegensatz zu einem Messerbajonett, ist es nicht in der Lage, von Hand benutzt zu werden.\nEs misst 19,5 Zoll(49,5cm).",
 
 	"bm_melee_nin"         : "PALSODE IM360CI 90MM kabellose Gasnagelpistole",
