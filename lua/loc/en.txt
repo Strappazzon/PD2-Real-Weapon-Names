@@ -94,7 +94,7 @@
 	"bm_w_pl14"        : "Kalashnikov Concern PL-14 Lebedev",
 	"bm_w_packrat"     : "H&K P30L",
 	"bm_w_lemming"     : "FN Five-seveN FDE",
-	"bm_w_breech"      : "Luger P08",
+	"bm_w_breech"      : "DWM Pistole 08",
 	"bm_w_shrew"       : "Colt Defender",
 
 	"bm_w_m1928"    : "Thompson M1928A1 LTD",
@@ -117,7 +117,7 @@
 	"bm_w_hajk"     : "CZ 805 BREN A1",
 	"bm_w_schakal"  : "H&K UMP45",
 	"bm_w_coal"     : "Izhmash PP-19 Bizon-2",
-	"bm_w_erma"     : "Steyr MP40",
+	"bm_w_erma"     : "ERMA Maschinenpistole 40",
 
 	"bm_w_judge"   : "Taurus 4510PLYFS",
 	"bm_w_serbu"   : "Remington 870 Short-barreled",
