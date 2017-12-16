@@ -28,6 +28,6 @@ Want to help localizing this mod into your language? Edit the corresponding file
 
 ## Contributors
  - [PoorpocketsMcNewhold](http://steamcommunity.com/profiles/76561198111231970/): French localization
- - [ShiNRaX2](http://steamcommunity.com/profiles/76561198028016758/): German localization
+ - [ShiNRaX2](http://steamcommunity.com/profiles/76561198028016758/): German localization & further Maintaining
  - [Retreeb](https://github.com/Retreeb): Russian localization
  - [BangL](https://github.com/BangL): Fixes
