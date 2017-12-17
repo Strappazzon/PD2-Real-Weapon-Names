@@ -23,7 +23,7 @@
 	"bm_w_contraband" : "H&K HK417 with M203 PI Grenade Launcher",
 	"bm_w_ak12"       : "AK-12",
 	"bm_w_ching"      : "Springfield Armory M1 Garand",
-	"bm_w_corgi"      : "FN FS2000 Tactical TR",
+	"bm_w_corgi"      : "FN FS2000 CQB",
 
 	"bm_w_spas12"   : "Franchi SPAS-12",
 	"bm_w_b682"     : "CZ Redhead Deluxe O/U",
