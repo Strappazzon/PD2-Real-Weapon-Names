@@ -1,4 +1,4 @@
-﻿﻿{
+﻿{
 	"bm_w_akm_gold"   : "AKMS Dorée",
 	"bm_w_contraband" : "H&K HK417 avec M203 PI Lanceur de grenades",
 
