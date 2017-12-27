@@ -76,7 +76,7 @@
 	"bm_wp_m14_body_jae"         : "Chassis Customisé JAE-100 G3",
 	"bm_wp_upg_o_m14_scopemount" : "Chassis Mk14",
 
-	"bm_wp_vhs_b_short" : "Cannon VHS-K2"
+	"bm_wp_vhs_b_short" : "Cannon VHS-K2",
 
 	"bm_wp_m4_uupg_b_long"      : "Kit de conversion .50 Beowulf",
 
@@ -91,7 +91,7 @@
 	"bm_wp_saiga_fg_lowerrail" : "Multi-Rail Ultimak AK-47 Forend Custom Retrofit",
 
 	"bm_wp_asval_b_proto" : "Cannon SR-3M",
-	"bm_wp_hk21_b_long" : "Cannon HK23E"
+	"bm_wp_hk21_b_long" : "Cannon HK23E",
 
 	"bm_wp_polymer_barrel_precision" : "Barrel CRB Shroud",
 
@@ -224,18 +224,18 @@
 	"bm_grenade_fir_com"                   : "M14 TH3 Grenade incendiaire",
 	"bm_grenade_fir_com_desc"              : "Une grenade cylendrique visuellement identique au M8, Le M14 à été conçue dans un but d'être une grenade incendiaire. Se basant sur l'intense et violente réaction du remplissage thermique, Le résultat final de la M14 est du fer fondu. Cela signifie que la M14 est employée premièrement sur des matériaux qui peuvent être détruit dans un environnement généralement sûr et pas en tant qu'arme offensive ou défensive. Vû que la réaction thermique utilise de l'oxide de fer au lieu d'oxygène en tant qu'agent d'oxidation, la grenade peut fonctionner sous l'eau.",
 	"bm_grenade_frag_com"                  : "Grenade à fragmentation M67 communautaire",
-	"bm_grenade_frag_desc"                 : "La grenade M67 est un grenade à fragmentation utilisée par l'armée des États-Unis. La M67 est un développement ultérieur de la grenade M33, un remplacement de la séries des grenades M26 utilisées les guerres Coréenne et Vietnamienne."
+	"bm_grenade_frag_desc"                 : "La grenade M67 est un grenade à fragmentation utilisée par l'armée des États-Unis. La M67 est un développement ultérieur de la grenade M33, un remplacement de la séries des grenades M26 utilisées les guerres Coréenne et Vietnamienne.",
 	"bm_concussion"                        : "Grenade assourdissante M84",
 	"bm_concussion_desc"                   : "La M84, aussi connue en tant que flashbang, est actuellement une grenade assourdissante de l'armée des Etats-Unis. À sa détonation, Elle émit un très fort \"BANG\" de 170-180 decibels et un flash clignotant de plus d'un million de candela dans une zone d'1,5 m a partir de sa zone de détonation, suffisant pour causer une cécité rapide, une surdité,un acouphène, et des perturbations de l'oreille interne. Les personnes qui ont été frappés par cette grenade ont expériencés de la désorientation, de la confusion et la perte de la coordination et de l'équilibre.",
 	"bm_grenade_frag"                      : "Grenade à fragmentation M67",
-	"bm_grenade_frag_com_desc"             : "La grenade M67 est un grenade à fragmentation utilisée par l'armée des États-Unis. La M67 est un développement ultérieur de la grenade M33, un remplacement de la séries des grenades M26 utilisées les guerres Coréenne et Vietnamienne."
+	"bm_grenade_frag_com_desc"             : "La grenade M67 est un grenade à fragmentation utilisée par l'armée des États-Unis. La M67 est un développement ultérieur de la grenade M33, un remplacement de la séries des grenades M26 utilisées les guerres Coréenne et Vietnamienne.",
 	"bm_grenade_molotov"                   : "Cocktail Molotov",
-	"bm_grenade_molotov_desc"              : "Le cocktail Molotov, aussi connue sous le nom de bombe à essence, la grenade d'un homme pauvre et la bombe de feu sont des noms généralement utilisé par une variété de bouteille basée sur l'improvisation des armes incendiaires. Elles sont principalement fait pour brûler les cibles en feu plutôt que de les tuer instantanément. \n\Le nom \"Cocktail Molotov\" à été choisit par les Finlandais durant la Guerre Froide. Le nom étant une insulte envers leur ministre soviétique actuellement au pouvoir, Vjačeslav Michajlovič Molotov."
+	"bm_grenade_molotov_desc"              : "Le cocktail Molotov, aussi connue sous le nom de bombe à essence, la grenade d'un homme pauvre et la bombe de feu sont des noms généralement utilisé par une variété de bouteille basée sur l'improvisation des armes incendiaires. Elles sont principalement fait pour brûler les cibles en feu plutôt que de les tuer instantanément. \n\Le nom \"Cocktail Molotov\" à été choisit par les Finlandais durant la Guerre Froide. Le nom étant une insulte envers leur ministre soviétique actuellement au pouvoir, Vjačeslav Michajlovič Molotov.",
 	"bm_dynamite"                          : "Dynamite",
-	"bm_dynamite_desc"                     : "La dynamite est un matériel basée sur la nitroglycérine, utilisant la terre de diatomées ou d'autres substances absorbante comme les balles avec de la poudre ou de l'argile. La dynamite a été créée par le chimiste et ingénieur suédois, Alfred Nobel à Geesthacht, en Allemagne, et breveté en 1867."
+	"bm_dynamite_desc"                     : "La dynamite est un matériel basée sur la nitroglycérine, utilisant la terre de diatomées ou d'autres substances absorbante comme les balles avec de la poudre ou de l'argile. La dynamite a été créée par le chimiste et ingénieur suédois, Alfred Nobel à Geesthacht, en Allemagne, et breveté en 1867.",
 	"bm_wpn_prj_target"                    : "Tiger Thrower Couteau de lancer",
 	"bm_wpn_prj_hur"                       : "KitRae AirCobra KR0055 Hache de lancer",
-	"bm_wpn_prj_hur_desc"                  : "Le Kit Rae est bien connu pour ses couteaux et épées sortie de la fantaisie, mais le Kit à aussi été un couteau de lancer pour passionnés et une hache pour passionnés pendant de nombreuse années. Le Aircobra est constitué d'une pièce de AUS-6 d'acier inoxydable. C'est les caractéristiques d'une conception équilibré d'une lame à poignée pour un lancement parfait, avec la pointe de la lame arrière. La poignée est enveloppée de cuir ."
+	"bm_wpn_prj_hur_desc"                  : "Le Kit Rae est bien connu pour ses couteaux et épées sortie de la fantaisie, mais le Kit à aussi été un couteau de lancer pour passionnés et une hache pour passionnés pendant de nombreuse années. Le Aircobra est constitué d'une pièce de AUS-6 d'acier inoxydable. C'est les caractéristiques d'une conception équilibré d'une lame à poignée pour un lancement parfait, avec la pointe de la lame arrière. La poignée est enveloppée de cuir .",
 	"bm_ability_chico_injector"            : "Auto-injecteur d'Epinephrine",
 	"bm_ability_chico_injector_desc"       : "L'Auto-injecteur d'épinéphrine est un appareil médical conçue pour injecter une dose mesurée d'epinephrine (ou d'adrenaline).\n\nL'appareil contient une dose mesurée d'epinephrine et une aiguille à ressort qui sort de la pointe ou du bord de l'appareil et pénêtre la peau de la personne, pour délivrer un soin via une injection intramusculaire.",
 	"bm_grenade_smoke_screen_grenade"      : "Grenade fumigène M18",

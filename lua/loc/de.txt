@@ -88,7 +88,7 @@
 	"bm_wp_m14_body_jae"         : "JAE-100 G3 angepasstes Gehäuse",
 	"bm_wp_upg_o_m14_scopemount" : "Mk14 Gehäuse",
 
-	"bm_wp_vhs_b_short" : "VHS-K2 Lauf"
+	"bm_wp_vhs_b_short" : "VHS-K2 Lauf",
 
 	"bm_wp_m16_fg_vietnam"      : "M16A1 Frontgriff",
 	"bm_wp_upg_ass_m16_fg_stag" : "Diamondhead VRS-T Custom",
@@ -133,7 +133,7 @@
 
 	"bm_wp_polymer_barrel_precision" : "CRB umantelter Lauf",
 
-	"bm_wp_hk21_b_long" : "HK23E Lauf"
+	"bm_wp_hk21_b_long" : "HK23E Lauf",
 
 	"bm_wp_uzi_b_suppressed" : "SIONICS \"Whispering Death\" angepasste Nachrüstung",
 
@@ -184,7 +184,7 @@
 	"bm_wp_upg_a_slug2_desc"          : "Ein Slug ist ein schweres Geschoss aus Blei, Kupfer oder anderem Material und aus einer Schrotflinte gefeuert.\nDas Geschoss ist typischerweise massiver als ein Gewehrkugel.",
 	"bm_wp_upg_a_dragons_breath_desc" : "Drachenatem ist eine besondere Art von Brand-Effekt-Munition für 12-Gauge-Schrotflinten. Drachenatem besteht hauptsächlich aus Magnesiumpellets. Wenn die Munition gefeuert wird, können Funken und Flammen auf etwa 100 Fuß treffen.",
 
-	"bm_wp_basset_fg_short"  : "Verkürzter Lauf und Schiene"
+	"bm_wp_basset_fg_short"  : "Verkürzter Lauf und Schiene",
 	"bm_wp_basset_m_extended" : "SGM Tactical SAIGA Shotgun 12 Schuss Magazin",
 	
 	"bm_wp_ching_b_short"  : "Criterion Barrels M1 Garand Tanker Contour Lauf",

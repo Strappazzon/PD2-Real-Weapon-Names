@@ -119,7 +119,7 @@
 	"bm_wp_m14_body_jae"         : "Telaio custom del JAE-100 G3",
 	"bm_wp_upg_o_m14_scopemount" : "Telaio Mk14",
 
-	"bm_wp_vhs_b_short" : "Canna del VHS-K2"
+	"bm_wp_vhs_b_short" : "Canna del VHS-K2",
 
 	"bm_wp_upg_ass_m4_lower_reciever_core"		 : "Castello inferiore CORE15",
 	"bm_wp_m4_upper_reciever_edge"               : "Castello superiore VLTOR MUR-1A",
@@ -159,7 +159,7 @@
 	"bm_wp_asval_b_proto" : "Canna SR-3M",
 	"bm_wp_asval_s_solid" : "Calcio del VSS Vintorez",
 
-	"bm_wp_hk21_b_long" : "Canna dell'HK23E"
+	"bm_wp_hk21_b_long" : "Canna dell'HK23E",
 
 	"bm_wp_uzi_b_suppressed" : "SIONICS \"Morte Sussurrante\" Retrofit Custom",
 

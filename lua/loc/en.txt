@@ -257,7 +257,7 @@
 	"bm_wp_m14_body_jae"         : "JAE-100 G3 Chassis Custom",
 	"bm_wp_upg_o_m14_scopemount" : "Mk14 Chassis",
 
-	"bm_wp_vhs_b_short" : "VHS-K2 Barrel"
+	"bm_wp_vhs_b_short" : "VHS-K2 Barrel",
 
 	"bm_wp_upg_ass_m4_lower_reciever_core"		 : "CORE15 Lower Receiver",
 	"bm_wp_m4_upper_reciever_edge"               : "VLTOR MUR-1A Upper Receiver",
@@ -279,8 +279,6 @@
 	"bm_wp_upg_ak_b_draco"       : "Draco Pistol Barrel",
 	"bm_wp_upg_ak_b_ak105"       : "AK-105 Barrel",
 	"bm_wp_upg_ass_ak_b_zastava" : "Zastava M76 Barrel",
-
-	"bm_wp_upg_o_ak_scopemount" : "K-VAR KV-04S Optic Mount",
 
 	"bm_wp_ak_fg_combo2"       : "Ultimak AK Optic Mount",
 	"bm_wp_ak_fg_combo3"       : "Ultimak AK Modular Rail Forend System",
@@ -309,7 +307,7 @@
 	"bm_wp_polymer_barrel_precision" : "CRB Barrel Shroud",
 	"bm_wp_polymer_ns_silencer"      : "Defiance HPS 4GSK",
 
-	"bm_wp_hk21_b_long" : "HK23E Barrel"
+	"bm_wp_hk21_b_long" : "HK23E Barrel",
 
 	"bm_wp_uzi_b_suppressed" : "SIONICS \"Whispering Death\" Retrofit Custom",
 	"bm_wp_uzi_fg_rail"      : "K-Grip",
@@ -363,7 +361,7 @@
 	"bm_wp_upg_a_slug2_desc"          : "A shotgun slug is a heavy projectile made of lead, copper, or other material and fired from a shotgun.\nA shotgun slug is typically more massive than a rifle bullet.",
 	"bm_wp_upg_a_dragons_breath_desc" : "Dragon's breath is a special type of incendiary-effect round for a 12 gauge shotgun. Dragon's breath consists primarily of magnesium pellets. When the round is fired, sparks and flames can shoot out to about 100 feet.",
 	
-	"bm_wp_basset_fg_short"   : "Shortened Barrel and Rail"
+	"bm_wp_basset_fg_short"   : "Shortened Barrel and Rail",
 	"bm_wp_basset_m_extended" : "SGM Tactical SAIGA Shotgun 12 Round Magazine",
 	
 	"bm_wp_ching_b_short"  : "Criterion Barrels M1 Garand Tanker Contour Barrel",
