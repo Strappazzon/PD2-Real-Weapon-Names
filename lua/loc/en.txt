@@ -130,8 +130,9 @@
 	"bm_w_rpg7"    : "RPG-7",
 	"bm_w_hunter"  : "Amur Falcon Pistol Crossbow",
 	"bm_w_china"   : "China Lake Launcher",
-	"bm_w_arbiter" : "ATK XM25",
+	"bm_w_arbiter" : "H&K XM25",
 	"bm_w_ray"     : "M202 FLASH Rocket Launcher",
+	"bm_w_slap"    : "H&K M320",
 
 	"bm_wp_upg_o_eotech"        : "EOTech Model 553",
 	"bm_wp_upg_o_t1micro"       : "Aimpoint Weaver-Mounted Micro T-1",
