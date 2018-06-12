@@ -6,8 +6,8 @@
 	"bm_w_aug"        : "Steyr AUG A2",
 	"bm_w_akm"        : "Izhmash AKMS",
 	"bm_w_g36"        : "H&K G36KV",
-	"bm_w_m14"        : "Springfield Armory M14",
-	"bm_w_ak5"        : "Bofors AK5",
+	"bm_w_m14"        : "M14 Designated Marksman Rifle",
+	"bm_w_ak5"        : "Bofors Ak 5",
 	"bm_w_m16"        : "Colt M16A4",
 	"bm_w_s552"       : "SIG SG 552-2",
 	"bm_w_scar"       : "FN SCAR-H STD",
@@ -22,14 +22,14 @@
 	"bm_w_tecci"      : "H&K HK416C",
 	"bm_w_contraband" : "H&K HK417 with M203 PI Grenade Launcher",
 	"bm_w_ak12"       : "AK-12",
-	"bm_w_ching"      : "Springfield Armory M1 Garand",
-	"bm_w_corgi"      : "FN F2000 CQB",
+	"bm_w_ching"      : "M1 Garand",
+	"bm_w_corgi"      : "FN F2000 Tactical TR",
 
 	"bm_w_spas12"   : "Franchi SPAS-12",
 	"bm_w_b682"     : "CZ Redhead Deluxe O/U",
 	"bm_w_r870"     : "Remington Model 870",
 	"bm_w_saiga"    : "Izhmash Saiga-12K",
-	"bm_w_huntsman" : "Coach Gun",
+	"bm_w_huntsman" : "Stoeger/IGA",
 	"bm_w_benelli"  : "Benelli M4 Super 90",
 	"bm_w_ksg"      : "Kel-Tec KSG",
 	"bm_w_aa12"     : "MPS AA-12 CQB",
@@ -49,7 +49,7 @@
 	"bm_w_x_pl14"       : "Akimbo Kalashnikov Concern PL-14 Lebedev",
 	"bm_w_x_sparrow"    : "Akimbo IWI Jericho 941 PL",
 	"bm_w_x_c96"        : "Akimbo Mauser C96",
-	"bm_w_x_breech"     : "Akimbo DWM Pistole 08",
+	"bm_w_x_breech"     : "Akimbo Luger P08",
 	"bm_w_x_hs2000"     : "Akimbo Springfield Armory XDM",
 	"bm_w_x_g18c"       : "Akimbo Glock 18C",
 	"bm_w_x_2006m"      : "Akimbo Mateba 2006M",
@@ -68,16 +68,16 @@
 	"bm_w_x_cobray"     : "Akimbo Cobray M11/9",
 	"bm_w_x_m1928"      : "Akimbo Thompson M1928A1 LTD",
 	"bm_w_x_scorpion"   : "Akimbo Sa. Vz.61 Skorpion",
-	"bm_w_x_baka"       : "Akimbo IMI Micro UZI",
+	"bm_w_x_baka"       : "Akimbo IMI Micro Uzi",
 	"bm_w_x_mp9"        : "Akimbo Brügger & Thomet MP9",
 	"bm_w_x_olympic"    : "Akimbo Olympic Arms K23B Tactical",
 	"bm_w_x_schakal"    : "Akimbo H&K UMP45",
-	"bm_w_x_erma"       : "Akimbo ERMA Maschinenpistole 40",
+	"bm_w_x_erma"       : "Akimbo MP40",
 	"bm_w_x_tec9"	    : "Akimbo Intratec TEC-9",
 	"bm_w_x_p90"        : "Akimbo FN P90 TR",
 	"bm_w_x_polymer"    : "Akimbo KRISS Vector",
 	"bm_w_x_sterling"   : "Akimbo Sterling L2A3",
-	"bm_w_x_uzi"        : "Akimbo IMI UZI",
+	"bm_w_x_uzi"        : "Akimbo IMI Uzi",
 	"bm_w_x_m45"        : "Akimbo Carl Gustav M/45B",
 	"bm_w_x_mp7"        : "Akimbo H&K MP7A2",
 	"bm_w_x_coal"       : "Akimbo Izhmash PP-19 Bizon-2",
@@ -120,15 +120,15 @@
 	"bm_w_p226"         : "SIG-Sauer P226R",
 	"bm_w_c96"          : "Mauser C96",
 	"bm_w_hs2000"       : "Springfield Armory XDM",
-	"bm_w_peacemaker"   : "Colt Single Action Army",
+	"bm_w_peacemaker"   : "Ruger New Vaquero",
 	"bm_w_mateba"       : "Mateba 2006M",
 	"bm_w_sparrow"      : "IWI Jericho 941 PL",
 	"bm_w_pl14"         : "Kalashnikov Concern PL-14 Lebedev",
 	"bm_w_packrat"      : "H&K P30L",
 	"bm_w_lemming"      : "FN Five-seveN FDE",
-	"bm_w_breech"       : "DWM Pistole 08",
+	"bm_w_breech"       : "Luger P08",
 	"bm_w_shrew"        : "Colt Defender",
-	"bm_w_x_chinchilla" : "Smith & Wesson Model 29",
+	"bm_w_chinchilla" : "Smith & Wesson Model 29",
 
 	"bm_w_m1928"    : "Thompson M1928A1 LTD",
 	"bm_w_mac10"    : "Ingram MAC-11",
@@ -141,16 +141,16 @@
 	"bm_w_mp7"      : "H&K MP7A2",
 	"bm_w_scorpion" : "Sa. Vz.61 Skorpion",
 	"bm_w_tec9"     : "Intratec TEC-9",
-	"bm_w_uzi"      : "IMI UZI",
+	"bm_w_uzi"      : "IMI Uzi",
 	"bm_w_sterling" : "Sterling L2A3",
 	"bm_w_cobray"   : "Cobray M11/9",
 	"bm_w_polymer"  : "KRISS Vector",
-	"bm_w_baka"     : "IMI Micro UZI",
+	"bm_w_baka"     : "IMI Micro Uzi",
 	"bm_w_sr2"      : "TsNIITochMash SR-2M Veresk",
 	"bm_w_hajk"     : "CZ 805 BREN A1",
 	"bm_w_schakal"  : "H&K UMP45",
 	"bm_w_coal"     : "Izhmash PP-19 Bizon-2",
-	"bm_w_erma"     : "ERMA Maschinenpistole 40",
+	"bm_w_erma"     : "MP40",
 
 	"bm_w_judge"   : "Taurus 4510PLYFS",
 	"bm_w_serbu"   : "Remington 870 Short-barreled",
@@ -265,7 +265,7 @@
 	"bm_wp_aug_fg_a3"    : "AUG A3 Foregrip",
 	"bm_wp_aug_body_f90" : "Thales EF88/F90 Receiver",
 
-	"bm_wp_l85a2_fg_short" : "GPS-SAW",
+	"bm_wp_l85a2_fg_short" : "Daniel Defense Railed Foregrip",
 
 	"bm_wp_famas_b_suppressed" : "Integrally Suppressed Barrel",
 	"bm_wp_famas_b_long"       : "G2 Civilian Barrel",
@@ -278,7 +278,8 @@
 	"bm_wp_ak5_s_ak5b"  : "FFV AK5B Stock",
 	"bm_wp_ak5_s_ak5c"  : "Bofors AK5C Stock",
 
-	"bm_wp_sub2000_fg_gen2" : "Gen 2 Kit",
+	"bm_wp_sub2000_fg_gen2"       : "Gen 2 Kit",
+	"bm_wp_sub2000_fg_suppressed" : "GemTech MK-9K Suppressor",
 
 	"bm_wp_scar_s_sniper"        : "FN SSR Stock",
 	"bm_wp_scar_b_short"         : "Mk17 CQC Kit",
@@ -308,7 +309,7 @@
 	"bm_wp_upg_ass_m4_fg_moe"  : "Magpul MOE SL Handguard",
 	"bm_wp_m4_uupg_b_sd"       : "AAC Honey Badger Barrel",
 
-	"bm_wp_upg_ak_b_draco"       : "Draco Pistol Barrel",
+	"bm_wp_upg_ak_b_draco"       : "Romanian AIMR Barrel",
 	"bm_wp_upg_ak_b_ak105"       : "AK-105 Barrel",
 	"bm_wp_upg_ass_ak_b_zastava" : "Zastava M76 Barrel",
 
@@ -350,7 +351,7 @@
 	"bm_wp_sterling_b_e11"        : "E-11 Blaster Rifle Barrel",
 	"bm_wp_sterling_b_suppressed" : "Sterling L34A1 Barrel",
 	"bm_wp_sterling_b_short"      : "Sterling Mk 7 \"Para-Pistol\" Barrel",
-	"bm_wp_sterling_m_short"      : "E-11 Blaster Rifle Barrel",
+	"bm_wp_sterling_m_short"      : "E-11 Blaster Rifle Magazine",
 	"bm_wp_sterling_s_folded"     : "E-11 Blaster Rifle Stock",
 
 	"bm_wp_mp5_fg_mp5sd"      : "MP5SD5 Barrel",
@@ -359,6 +360,7 @@
 	"bm_wp_mp5_fg_flash_desc" : "This tactical handguard is a direct replacement of the MP5 fore handguard.",
 	"bm_wp_mp5_s_ring"        : "MP5K Stock",
 	"bm_wp_mp5_s_adjust"      : "MP5A3 Stock",
+	"bm_wp_mp5_s_folding"     : "MP5K PDW Stock",
 	"bm_wp_mp5_m_straight"    : "10mm Rounds",
 
 	"bm_wp_mp7_b_suppressed" : "H&K MP7 QD Suppressor",
@@ -376,15 +378,29 @@
 	"bm_wp_pis_g_laser"      : "Crimson Trace Glock Laser Grip",
 	"bm_wp_pis_g_beavertail" : "Cytec Beavertail Grip",
 	
-	"bm_wp_g18c_s_stock"     : "FAB Defense GLR-440 Stock",
-
+	"bm_wp_g18c_s_stock"     : "FAB Defense GLR-440",
 	"bm_wp_g18c_g_ergo" : "Hogue Handall Half-Size Universal Grip Sleeve",
+	
 	"bm_wp_pis_s_stock" : "FAB Defense GLR-440",
 
 	"bm_wp_beretta_co_co1"       : "LA.RI.A AL-GI-MEC Compensator",
 	"bm_wp_beretta_sl_brigadier" : "92G Elitee II Parkerized Slide",
 
-	"bm_wp_pis_ppk_b_long"       : "Walther PP Slide",
+	"bm_wp_pis_ppk_b_long"       : "Stainless Walther PP Slide",
+	
+	"bm_wp_pis_usp_b_match" : "Stainless Slide with Match Compensator",
+	
+	"bm_wp_g22c_b_long" : "Glock 35 Slide",
+	
+	"bm_wp_c96_b_long"     : "Carbine Barrel",
+	"bm_wp_c96_m_extended" : "M72 Schnellfeuer Magazine",
+	
+	"bm_wp_hs2000_sl_custom" : "XD-9 V10 4 Inch Barrel",
+	"bm_wp_hs2000_sl_long"   : "XDM 5.25 Stainless Slide",
+	
+	"bm_wp_peacemaker_barrel_long" : "Buntline Special Barrel",
+	
+	"bm_wp_sparrow_body_941" : "Jericho 941 F Kit",
 
 	"bm_wp_r93_body_wood" : "Blaser R93 Semi-weight Sporting Variant",
 
@@ -403,6 +419,48 @@
 	"bm_wp_ching_s_pouch"  : "Olongapo Outfitters Garand Stock Pouch",
 	
 	"bm_wp_erma_s_folded" : "Folded Stock",
+	
+	"bm_wp_m1928_b_long" : "Auto-Ordnance Barrel",
+	
+	"bm_wp_tec9_b_standard" : "AB-10 Barrel",
+	
+	"bm_wp_schakal_b_civil"     : "USC Barrel",
+	"bm_wp_schakal_s_civil"     : "USC Stock",
+	"bm_wp_schakal_vg_surefire" : "Surefire M900 Foregrip",
+	
+	"bm_wp_g36_s_kv"  : "Folding HK Stock",
+	"bm_wp_g36_s_sl8" : "SR8 Stock",
+	
+	"bm_wp_olympic_s_short" : "K23P Stock",
+	
+	"bm_wp_fal_s_01"          : "SA58 OSW Stock",
+	"bm_wp_fal_g_01"          : "SA58 OSW Grip",
+	"bm_wp_fal_body_standard" : "SA58 OSW Foregrip",
+	"bm_wp_fal_fg_03"         : "IMI Romat Foregrip",
+	
+	"bm_wp_galil_fg_sar"     : "Galil SAR Foregrip",
+	"bm_wp_galil_s_skeletal" : "Galil MAR Stock",
+	"bm_wp_galil_fg_mar"     : "Galil MAR Foregrip",
+	
+	"bm_wp_g3_b_sniper"         : "PSG1 Barrel",
+	"bm_wp_g3_fg_psg"           : "PSG1 Foregrip",
+	"bm_wp_g3_g_sniper"         : "PSG1 Grip",
+	"bm_wp_g3_s_sniper"         : "PSG1 Stock",
+	"bm_wp_g3_s_wood"           : "CETME Stock",
+	"bm_wp_g3_fg_retro"         : "CETME Foregrip",
+	"bm_wp_g3_fg_retro_plastic" : "Slimline Handguard",
+	
+	"bm_wp_aa12_barrel_long" : "Regular AA-12 Barrel",
+	
+	"bm_wp_m249_b_long" : "M249-E2 SAW Barrel",
+	"bm_wp_m249_s_solid" : "M249-E2 SAW Stock",
+	"bm_wp_m249_fg_mk46" : "MK46 Mod 0 Foregrip",
+	
+	"bm_wp_wa2000_b_long" : "Gen 2 Barrel",
+	
+	"bm_wp_desertfox_b_long" : "eARLY QUAD-RAIL Handguard",
+	
+	
 
 	"bm_wp_mosin_ns_bayonet_desc" : "The Mosin Nagant bayonet is a spike bayonet, meaning unlike a knife-style bayonet, it is unable to be wielded by hand.\nMeasures 19 1/2 inches.",
 
@@ -546,11 +604,11 @@
 	"menu_challenge_monthly_firestarter_objective" : "Complete the \"FIRESTARTER\" job on OVERKILL or above using only Colt Model 733, Glock 17, the Two-piece Suit and no skills.",
 	
 	"menu_aru_job_2_obj_desc" : "Kill 50 enemies using the Luger P08",
-	"menu_aru_job_3_obj_desc" : "Kill 100 enemies using the Steyr MP40",
-	"menu_aru_job_4_obj_desc" : "Kill 200 enemies using the Springfield Armory M1 Garand",
+	"menu_aru_job_3_obj_desc" : "Kill 100 enemies using the MP40",
+	"menu_aru_job_4_obj_desc" : "Kill 200 enemies using the M1 Garand",
 
 	"hud_carry_weapon"       : "Izhmash AKS-74",
-	"hud_carry_weapon_scar"  : "FN SCAR-H STD",
+	"hud_carry_weapon_scar"  : "FN SCAR-H",
 	"hud_carry_weapon_glock" : "Glock 17",
 
 	"menu_assault_rifle" : "Assault Rifles",
