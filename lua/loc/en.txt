@@ -442,7 +442,7 @@
 	"bm_wp_galil_s_skeletal" : "Galil MAR Stock",
 	"bm_wp_galil_fg_mar"     : "Galil MAR Foregrip",
 	
-	"bm_wp_g3_b_sniper"         : "PSG1 Barrel",
+	"bm_wp_g3_b_sniper"         : "PSG1 Kit",
 	"bm_wp_g3_fg_psg"           : "PSG1 Foregrip",
 	"bm_wp_g3_g_sniper"         : "PSG1 Grip",
 	"bm_wp_g3_s_sniper"         : "PSG1 Stock",
