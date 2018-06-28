@@ -1,18 +1,27 @@
 {
 	"bm_w_akm_gold"   : "Goldene AKMS",
 	"bm_w_contraband" : "H&K HK417 mit M203 PI Granatwerfer",
-
+	
 	"bm_w_gre_m79"          : "M79 Granatwerfer",
+	"bm_w_saw"              : "OVE9000 Säge",
 	"bm_w_m32"              : "Milkor MGL Mk 1L Granatwerfer",
 	"bm_w_flamethrower_mk2" : "Flammenwerfer",
 	"bm_w_long"             : "Englischer Bogen",
-
+	
+	"bm_w_mosin"          : "Mosin Nagant M1907 Karabiner",
+	
 	"bm_w_basset"  : "CBRPS Spike X1S Saiga-12K CQB Umbau",
+	"bm_w_serbu"   : "Remington 870 Kurzer Lauf",
 	
 	"bm_w_hunter"  : "Amur Falcon Pistolenarmbrust",
 	"bm_w_china"   : "China Lake Granatwerfer",
 	"bm_w_ray"     : "M202 FLASH Raketenwerfer",
-
+	
+	"bm_wp_upg_o_docter"        : "DOCTER Visier II Plus",
+	"bm_wp_upg_o_reflex"        : "Offenes Reflex Visier",
+	"bm_wp_upg_o_rx01"          : "Trijicon RX01 Polariztes Reflex Visier",
+	"bm_wp_upg_o_rx30"          : "Trijicon RX30 Reflex Visier",
+	
 	"bm_wp_m4_m_straight" : "STANAG 22rnd Magazin",
 	"bm_wp_m4_uupg_m_std" : "STANAG 38rnd Magazin",
 	"bm_wp_upg_m4_m_quad" : "STANAG 60rnd Magazin",
@@ -312,13 +321,17 @@
 	"menu_challenge_monthly_firestarter_objective" : "Schließe \"BRANDSTIFTER\" auf OVERKILL oder darüber ab, während du Colt Model 733, Glock 17, den zwei-teiligen Anzug und keine Fähigkeiten benutzt.",
 
 	"menu_aru_job_2_obj_desc" : "Töte 50 Gegner mit der Luger P08",
-	"menu_aru_job_3_obj_desc" : "Töte 100 Gegner mit der Steyr MP40",
-	"menu_aru_job_4_obj_desc" : "Töte 200 Gegner mit dem Springfield Armory M1 Garand",
+	"menu_aru_job_3_obj_desc" : "Töte 100 Gegner mit der MP40",
+	"menu_aru_job_4_obj_desc" : "Töte 200 Gegner mit dem M1 Garand",
 	
 	"menu_assault_rifle" : "Sturmgewehre",
 	"menu_snp"           : "Scharfschützengewehre",
 	"menu_shotgun"       : "Schrotflinten",
 	"menu_lmg"           : "Maschinengewehr",
 	"menu_pistol"        : "Pistolen",
-	"menu_smg"           : "Maschinenpistole"
+	"menu_smg"           : "Maschinenpistole",
+	
+	"bm_wp_tti_s_vltor" : "VOLTOR EMOD Schaft",
+	
+	"bm_wp_mg42_b_mg34" : "MG 34 Lauf"
 }

@@ -128,7 +128,7 @@
 	"bm_w_lemming"      : "FN Five-seveN FDE",
 	"bm_w_breech"       : "Luger P08",
 	"bm_w_shrew"        : "Colt Defender",
-	"bm_w_chinchilla" : "Smith & Wesson Model 29",
+	"bm_w_chinchilla"   : "Smith & Wesson Model 29",
 
 	"bm_w_m1928"    : "Thompson M1928A1 LTD",
 	"bm_w_mac10"    : "Ingram MAC-11",
@@ -182,10 +182,11 @@
 	"bm_wp_fps_upg_o_45iron"    : "XTI Angle Mount Sight",
 	"bm_wp_upg_o_leupold"       : "Leupold Mk 4 ER/T + BORS",
 	"bm_wpn_fps_o_45rds"        : "Leupold DeltaPoint Pro",
+	"bm_wpn_fps_upg_o_45rds_v2" : "Aimpoint Micro T-2 Angled Sight",
 	"bm_wp_upg_o_box"           : "Pulsar Digisight LRF N960 N970 Night Vision Scope with Rangefinder",
 	"bm_wpg_o_mbus_rear"        : "MBUS Front and Rear Sights",
-	"bm_wpn_fps_upg_o_45iron"   : "XTI Angle Mount Sight",
 	"bm_wp_upg_o_rmr"           : "Trijicon RM06 RMR Sight",
+	"bm_wp_upg_o_spot"          : "NcSTAR Advanced Dual Optic Sight",
 
 	"bm_wp_m4_m_straight" : "STANAG 22rnd Mag",
 	"bm_wp_m4_uupg_m_std" : "STANAG 38rnd Mag",
@@ -232,7 +233,7 @@
 
 	"bm_wp_m4_g_ergo"      : "Command Arms UPG16 Grip",
 	"bm_wp_m4_g_sniper"    : "Generic Weight-Balanced Synthetic Grip",
-	"bm_wp_upg_m4_g_hgrip" : "Hogue OverMolded Rubber Grip",
+	"bm_wp_upg_m4_g_hgrip" : "Hogue OverMolded Soft Rubber Grip",
 	"bm_wp_upg_m4_g_mgrip" : "Magpul MOE-K Grip",
 
 	"bm_wp_upg_fl_ass_smg_sho_surefire"    : "Surefire Scout Light",
@@ -256,16 +257,21 @@
 	"bm_wp_upg_i_singlefire" : "Single-Fire Lock",
 	"bm_wp_upg_i_autofire"   : "Full-Auto Lock",
 
+	"bm_wp_mg42_b_mg34" : "MG 34 Barrel",
 	"bm_wp_mg42_b_vg38" : "DLT-19 Heavy Blaster Rifle Barrel",
 
 	"bm_wp_ass_s552_fg_standard_green" : "OD Green Handguard",
 	"bm_wp_ass_s552_fg_railed"         : "SIG SG 553 Railed Handguard",
 	"bm_wp_ass_s552_b_long"            : "SIG SG 552 LB Kit",
+	"bm_wp_ass_s552_g_standard_green"  : "OD Green Grip",
+	"bm_wp_ass_s552_s_standard_green"  : "OD Green Stock",
 
 	"bm_wp_aug_fg_a3"    : "AUG A3 Foregrip",
 	"bm_wp_aug_body_f90" : "Thales EF88/F90 Receiver",
+	"bm_wp_aug_b_short"  : "AUG Carbine 16 Inch Barrel",
 
 	"bm_wp_l85a2_fg_short" : "Daniel Defense Railed Foregrip",
+	"bm_wp_l85a2_b_short"  : "L22 Prototype Barrel",
 
 	"bm_wp_famas_b_suppressed" : "Integrally Suppressed Barrel",
 	"bm_wp_famas_b_long"       : "G2 Civilian Barrel",
@@ -273,10 +279,11 @@
 	"bm_wp_famas_b_sniper"     : "G2 Sniper Barrel",
 	"bm_wp_famas_g_retro"      : "G2 Grip",
 
-	"bm_wp_ak5_fg_ak5c" : "Bofors AK5C Foregrip",
+	"bm_wp_ak5_fg_ak5c" : "Bofors AK 5C Foregrip",
 	"bm_wp_ak5_fg_fnc"  : "FN FNC Foregrip",
-	"bm_wp_ak5_s_ak5b"  : "FFV AK5B Stock",
-	"bm_wp_ak5_s_ak5c"  : "Bofors AK5C Stock",
+	"bm_wp_ak5_s_ak5b"  : "FFV AK 5B Stock",
+	"bm_wp_ak5_s_ak5c"  : "Bofors AK 5C Stock",
+	"bm_wp_ak5_b_short" : "Bofors AK 5C Barrel",
 
 	"bm_wp_sub2000_fg_gen2"       : "Gen 2 Kit",
 	"bm_wp_sub2000_fg_suppressed" : "GemTech MK-9K Suppressor",
@@ -285,6 +292,7 @@
 	"bm_wp_scar_b_short"         : "Mk17 CQC Kit",
 	"bm_wp_scar_b_long"          : "Mk17 LB Kit",
 	"bm_wp_scar_scar_fg_railext" : "PWS SRX Rail Extension",
+	"bm_wp_scar_fg_railext"      : "Primary Weapon Systems SRX Rail Extension",
 
 	"bm_wp_m14_body_ebr"         : "M1A SOPMOD Chassis",
 	"bm_wp_m14_body_jae"         : "JAE-100 G3 Chassis Custom",
@@ -384,7 +392,9 @@
 	"bm_wp_pis_s_stock" : "FAB Defense GLR-440",
 
 	"bm_wp_beretta_co_co1"       : "LA.RI.A AL-GI-MEC Compensator",
-	"bm_wp_beretta_sl_brigadier" : "92G Elitee II Parkerized Slide",
+	"bm_wp_beretta_sl_brigadier" : "Brigadier 92FS Slide",
+	"bm_wp_beretta_g_ergo"       : "Wooden Grip",
+	"bm_wp_beretta_g_engraved"   : "Engraved Grip",
 
 	"bm_wp_pis_ppk_b_long"       : "Stainless Walther PP Slide",
 	
@@ -394,13 +404,17 @@
 	
 	"bm_wp_c96_b_long"     : "Carbine Barrel",
 	"bm_wp_c96_m_extended" : "M72 Schnellfeuer Magazine",
+	"bm_wp_c96_nozzle"     : "DL-44 Flash Hider",
+	"bm_wp_c96_sight"      : "DL-44 Scope",
 	
 	"bm_wp_hs2000_sl_custom" : "XD-9 V10 4 Inch Barrel",
 	"bm_wp_hs2000_sl_long"   : "XDM 5.25 Stainless Slide",
 	
 	"bm_wp_peacemaker_barrel_long" : "Buntline Special Barrel",
+	"bm_wp_peacemaker_barrel_short" : "Colt SAA artillery 5.5 Inch Barrel",
 	
 	"bm_wp_sparrow_body_941" : "Jericho 941 F Kit",
+	"bm_wp_sparrow_g_cowboy" : "Jericho 941 R Frame",
 
 	"bm_wp_r93_body_wood" : "Blaser R93 Semi-weight Sporting Variant",
 
@@ -414,7 +428,7 @@
 	"bm_wp_basset_fg_short"   : "Shortened Barrel and Rail",
 	"bm_wp_basset_m_extended" : "SGM Tactical SAIGA Shotgun 12 Round Magazine",
 	
-	"bm_wp_ching_b_short"  : "Criterion Barrels M1 Garand Tanker Contour Barrel",
+	"bm_wp_ching_b_short"  : "T26 Carbine barrel",
 	"bm_wp_ching_fg_raied" : "Fulton Armory Scout Rail, Gen III",
 	"bm_wp_ching_s_pouch"  : "Olongapo Outfitters Garand Stock Pouch",
 	
@@ -428,8 +442,13 @@
 	"bm_wp_schakal_s_civil"     : "USC Stock",
 	"bm_wp_schakal_vg_surefire" : "Surefire M900 Foregrip",
 	
-	"bm_wp_g36_s_kv"  : "Folding HK Stock",
-	"bm_wp_g36_s_sl8" : "SR8 Stock",
+	"bm_wp_g36_s_kv"    : "Folding HK Stock",
+	"bm_wp_g36_s_sl8"   : "SR8 Stock",
+	"bm_wp_g36_fg_c"    : "G36C Foregrip",
+	"bm_wp_g36_fg_ksk"  : "Knight Armaments G36 RAS Foregrip",
+	"bm_wp_g36_fg_long" : "G36E Foregrip",
+	"bm_wp_g36_m_quick" : "G36 Magpul Magazine",
+	"bm_wp_g36_o_vintage" : "ZF 3x4°",
 	
 	"bm_wp_olympic_s_short" : "K23P Stock",
 	
@@ -437,20 +456,34 @@
 	"bm_wp_fal_g_01"          : "SA58 OSW Grip",
 	"bm_wp_fal_body_standard" : "SA58 OSW Foregrip",
 	"bm_wp_fal_fg_03"         : "IMI Romat Foregrip",
+	"bm_wp_fal_fg_04"         : "Imbel Custom Sniper Foregrip",
+	"bm_wp_fal_s_03"          : "Magpul PRS2 Precision-Adjustable Stock",
+	"bm_wp_fal_m_01"          : "STANAG 40rnd Magazine",
 	
 	"bm_wp_galil_fg_sar"     : "Galil SAR Foregrip",
 	"bm_wp_galil_s_skeletal" : "Galil MAR Stock",
 	"bm_wp_galil_fg_mar"     : "Galil MAR Foregrip",
+	"bm_wp_galil_fg_fab"     : "FAB Defense VFR-GA Rail System",
+	"bm_wp_galil_fg_sniper"  : "Galil 7.62 Foregrip",
+	"bm_wp_galil_s_fab"      : "Micro Galil Custom FAB Defense Stock",
+	"bm_wp_galil_s_plastic"  : "Original IMI Stock",
+	"bm_wp_galil_s_sniper"   : "Galil Galatz Sniper Stock",
 	
-	"bm_wp_g3_b_sniper"         : "PSG1 Kit",
-	"bm_wp_g3_fg_psg"           : "PSG1 Foregrip",
+	"bm_wp_g3_b_sniper"         : "G3SG/1 Kit",
+	"bm_wp_g3_fg_psg"           : "MSG90 Foregrip",
 	"bm_wp_g3_g_sniper"         : "PSG1 Grip",
 	"bm_wp_g3_s_sniper"         : "PSG1 Stock",
 	"bm_wp_g3_s_wood"           : "CETME Stock",
 	"bm_wp_g3_fg_retro"         : "CETME Foregrip",
-	"bm_wp_g3_fg_retro_plastic" : "Slimline Handguard",
+	"bm_wp_g3_fg_retro_plastic" : "AK 4 Retrofit Handguard",
+	"bm_wp_g3_fg_railed"        : "Railed Foregrip",
 	
 	"bm_wp_aa12_barrel_long" : "Regular AA-12 Barrel",
+	
+	"bm_wp_1911_g_ergo"   : "American Legend Pachmayr Grip",
+	"bm_wp_1911_g_bling"  : "Wooden Grip",
+	"bm_wp_1911_b_vented" : "Springfield Armory V-12 Vented Slide",
+	"bm_wp_1911_b_long"   : "Springfield Armory V-16 Vented Long Slide",
 	
 	"bm_wp_m249_b_long" : "M249-E2 SAW Barrel",
 	"bm_wp_m249_s_solid" : "M249-E2 SAW Stock",
@@ -458,10 +491,34 @@
 	
 	"bm_wp_wa2000_b_long" : "Gen 2 Barrel",
 	
-	"bm_wp_desertfox_b_long" : "eARLY QUAD-RAIL Handguard",
+	"bm_wp_desertfox_b_long" : "Early Quad-Rail Handguard",
 	
+	"bm_wp_tti_s_vltor"  : "VOLTOR EMOD Stock",
+	"bm_wp_tti_g_grippy" : "Hogue OverMolded Pistol Grip",
 	
+	"bm_wpn_fps_upg_o_xpsg33_magnifier" : "Aimpoint 3XMag Magnifier",
+	
+	"bm_wp_chinchilla_b_satan" : "Custom Kokusai Devil Barrel",
+	"bm_wp_chinchilla_g_black" : "Synthetic Grip",
+	
+	"bm_wp_breech_b_reinforced" : "Sports Parabellum Mauser Barrel",
+	
+	"bm_wp_deagle_co_short" : "Magum Research DE50MB Compensator",
+	"bm_wp_deagle_co_long" : "Boondock Compensator",
+	
+	"bm_wp_p226_b_equinox" : "P226 Equinox Slide",
+	"bm_wp_p226_b_long"    : "P226 X-Six Slide",
 
+	"bm_wp_shrew_g_ergo"   : "Hogue Officer M1911 Rubber Finger Grip",
+	
+	"bm_wp_2006m_b_medium" : "Medium Barrel",
+	"bm_wp_2006m_b_short"  : "Small Barrel",
+	"bm_wp_2006m_b_long"   : "Heavy Barrel",
+	
+	"bm_wp_g26_b_custom"     : "Salient Arms Tier 1 Barrel",
+	"bm_wp_g26_m_custom"     : "Salient Arms Tier 1 Magazine",
+	"bm_wp_g26_body_salient" : "Salient Arms Tier 1 Frame",
+	
 	"bm_wp_mosin_ns_bayonet_desc" : "The Mosin Nagant bayonet is a spike bayonet, meaning unlike a knife-style bayonet, it is unable to be wielded by hand.\nMeasures 19 1/2 inches.",
 
 	"bm_melee_model24"     : "Model 24 Stielhandgranate",
