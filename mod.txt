@@ -8,7 +8,7 @@
 	"undisablable" : false,
 	"disable_safe_mode" : true,
 	"contact" : "www.steamcommunity.com/id/Winston-Wolfe",
-	"version" : "2.7.9",
+	"version" : "2.7.10",
 	"updates" : [
 		{
 			"identifier" : "19958"
