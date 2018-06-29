@@ -11,7 +11,12 @@
 	"version" : "2.7.10",
 	"updates" : [
 		{
-			"identifier" : "19958"
+			"identifier" : "RealWeaponNames",
+			"host" : {
+				"meta" : "https://raw.githubusercontent.com/xDarkWolf/PD2-Real-Weapon-Names/master/meta.json",
+				"download" : "https://github.com/xDarkWolf/PD2-Real-Weapon-Names/blob/master/RWN.zip?raw=true",
+				"patchnotes" : "https://modworkshop.net/mydownloads.php?action=view_down&did=19958#changelog"
+				}
 		}
 	],
 	"hooks" : [
