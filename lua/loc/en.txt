@@ -493,7 +493,7 @@
 	
 	"bm_wp_desertfox_b_long" : "Early Quad-Rail Handguard",
 	
-	"bm_wp_tti_s_vltor"  : "VOLTOR EMOD Stock",
+	"bm_wp_tti_s_vltor"  : "VLTOR EMOD Stock",
 	"bm_wp_tti_g_grippy" : "Hogue OverMolded Pistol Grip",
 	
 	"bm_wpn_fps_upg_o_xpsg33_magnifier" : "Aimpoint 3XMag Magnifier",
