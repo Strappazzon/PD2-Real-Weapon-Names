@@ -58,7 +58,7 @@
 
 	"bm_wp_m4_g_ergo"      : "Command Arms UPG16 Griff",
 	"bm_wp_m4_g_sniper"    : "Generischer gewichtsausgeglichener Kunststoffgriff",
-	"bm_wp_upg_m4_g_hgrip" : "Hogue OverMolded Gummigriff",
+	"bm_wp_upg_m4_g_hgrip" : "Hogue OverMolded Weichgummigriff",
 	"bm_wp_upg_m4_g_mgrip" : "Magpul MOE-K Griff",
 
 	"bm_wp_upg_fl_ass_smg_sho_peqbox_desc" : "Das Visier erfüllt Militär-Spezifikation und projeziert einen sichtbaren roten Punkt. Es ist eine zivile Version des größeren AN-PEQ-2, welches nur für das U.S. Militär verfügbar ist.",
@@ -76,8 +76,12 @@
 
 	"bm_wp_ass_s552_fg_standard_green" : "OD Grüner Handschutz",
 	"bm_wp_ass_s552_fg_railed"         : "SIG SG 553 Handschutz mit Schiene",
+	"bm_wp_ass_s552_g_standard_green"  : "OD Grüner Griff",
+	"bm_wp_ass_s552_s_standard_green"  : "OD Grüner Schaft",
 
 	"bm_wp_aug_fg_a3"    : "AUG A3 Frontgriff",
+	"bm_wp_aug_body_f90" : "Thales EF88/F90 Receiver",
+	"bm_wp_aug_b_short"  : "AUG 16 Inch Karabinerlauf",
 
 	"bm_wp_famas_b_suppressed" : "Lauf mit integriertem Schalldämpfer",
 	"bm_wp_famas_b_long"       : "G2 Ziviler Lauf",
@@ -85,10 +89,10 @@
 	"bm_wp_famas_b_sniper"     : "G2 Scharfschützenlauf",
 	"bm_wp_famas_g_retro"      : "G2 Griff",
 
-	"bm_wp_ak5_fg_ak5c" : "Bofors AK5C Frontgriff",
+	"bm_wp_ak5_fg_ak5c" : "Bofors Ak 5C Frontgriff",
 	"bm_wp_ak5_fg_fnc"  : "FN FNC Frontgriff",
-	"bm_wp_ak5_s_ak5b"  : "FFV AK5B Schaft",
-	"bm_wp_ak5_s_ak5c"  : "Bofors AK5C Schaft",
+	"bm_wp_ak5_s_ak5b"  : "FFV Ak 5B Schaft",
+	"bm_wp_ak5_s_ak5c"  : "Bofors Ak 5C Schaft",
 
 	"bm_wp_scar_s_sniper"        : "FN SSR Schaft",
 	"bm_wp_scar_scar_fg_railext" : "PWS SRX Schienenerweiterung",
@@ -110,7 +114,7 @@
 	"bm_wp_upg_ass_m4_fg_moe"  : "Magpul MOE SL Handschutz",
 	"bm_wp_m4_uupg_b_sd"       : "AAC Honey Badger Lauf",
 
-	"bm_wp_upg_ak_b_draco"       : "Draco Pistolen Lauf",
+	"bm_wp_upg_ak_b_draco"       : "Romänischer AIMR Lauf",
 	"bm_wp_upg_ak_b_ak105"       : "AK-105 Lauf",
 	"bm_wp_upg_ass_ak_b_zastava" : "Zastava M76 Lauf",
 
@@ -151,7 +155,7 @@
 	"bm_wp_sterling_b_e11"        : "E-11 Blaster Gewehrlauf",
 	"bm_wp_sterling_b_suppressed" : "Sterling L34A1 Lauf",
 	"bm_wp_sterling_b_short"      : "Sterling Mk 7 \"Para-Pistol\" Lauf",
-	"bm_wp_sterling_m_short"      : "E-11 Blaster Gewehrlauf",
+	"bm_wp_sterling_m_short"      : "E-11 Blaster Gewehrmagazin",
 	"bm_wp_sterling_s_folded"     : "E-11 Blaster Gewehrschaft",
 
 	"bm_wp_mp5_fg_mp5sd"      : "MP5SD5 Lauf",
@@ -160,6 +164,7 @@
 	"bm_wp_mp5_fg_flash_desc" : "Dieser taktische Handschutz ist ein direkter Ersatz des vorderen MP5 Handschutzes.",
 	"bm_wp_mp5_s_ring"        : "MP5K Schaft",
 	"bm_wp_mp5_s_adjust"      : "MP5A3 Schaft",
+	"bm_wp_mp5_s_folding"     : "MP5K PDW Schaft",
 	"bm_wp_mp5_m_straight"    : "10mm Munition",
 
 	"bm_wp_mp7_b_suppressed" : "H&K MP7 QD Schalldämpfer",
@@ -177,12 +182,33 @@
 	"bm_wp_pis_g_laser"      : "Crimson Trace Glock Laser Griff",
 	"bm_wp_pis_g_beavertail" : "Cytec Beavertail Griff",
 
-	"bm_wp_g18c_g_ergo" : "Hogue Handall Half-Size Universal Griff",
+	"bm_wp_g18c_g_ergo"      : "Hogue Handall Half-Size Universal Griff",
+	"bm_wp_g18c_s_stock"     : "FAB Defense GLR-440",
 
 	"bm_wp_beretta_co_co1"       : "LA.RI.A AL-GI-MEC Kompensator",
-	"bm_wp_beretta_sl_brigadier" : "92G Elitee II Parkerized Schlitten",
+	"bm_wp_beretta_sl_brigadier" : "Brigadier 92FS Schlitten",
+	"bm_wp_beretta_g_ergo"       : "Holzgriff",
+	"bm_wp_beretta_g_engraved"   : "Gravierter Griff",
 
-	"bm_wp_pis_ppk_b_long"       : "Walther PP Schlitten",
+	"bm_wp_pis_ppk_b_long"       : "Rostfreier Walther PP Schlitten",
+	
+	"bm_wp_pis_usp_b_match" : "Rostfreier Schlitten mit \"Match\" Kompensator",
+	
+	"bm_wp_g22c_b_long" : "Glock 35 Schlitten",
+	
+	"bm_wp_c96_b_long"     : "Karabinerlauf",
+	"bm_wp_c96_m_extended" : "M72 Schnellfeuer Magazin",
+	"bm_wp_c96_nozzle"     : "DL-44 Mündungsfeuerdämpfer",
+	"bm_wp_c96_sight"      : "DL-44 Visier",
+	
+	"bm_wp_hs2000_sl_custom" : "XD-9 V10 4 Inch Lauf",
+	"bm_wp_hs2000_sl_long"   : "XDM 5.25 Rostfreier Schlitten",
+	
+	"bm_wp_peacemaker_barrel_long" : "Buntline Special Lauf",
+	"bm_wp_peacemaker_barrel_short" : "Colt SAA Artillery 5.5 Inch Lauf",
+	
+	"bm_wp_sparrow_body_941" : "Jericho 941 F Kit",
+	"bm_wp_sparrow_g_cowboy" : "Jericho 941 R Rahmen",
 
 	"bm_wp_r93_body_wood" : "Blaser R93 leichtgewichtige Sportvariante",
 
@@ -196,10 +222,68 @@
 	"bm_wp_basset_fg_short"  : "Verkürzter Lauf und Schiene",
 	"bm_wp_basset_m_extended" : "SGM Tactical SAIGA Shotgun 12 Schuss Magazin",
 	
-	"bm_wp_ching_b_short"  : "Criterion Barrels M1 Garand Tanker Contour Lauf",
+	"bm_wp_ching_b_short"  : "T26 Karabinerlauf",
 	"bm_wp_ching_s_pouch"  : "Olongapo Outfitters Garand Schafttasche",
 	
 	"bm_wp_erma_s_folded" : "Eingeklappter Schaft",
+	
+	"bm_wp_m1928_b_long" : "Auto-Ordnance Lauf",
+	
+	"bm_wp_tec9_b_standard" : "AB-10 Lauf",
+	
+	"bm_wp_schakal_b_civil"     : "USC Lauf",
+	"bm_wp_schakal_s_civil"     : "USC Schaft",
+	"bm_wp_schakal_vg_surefire" : "Surefire M900 Frontgriff",
+	
+	"bm_wp_g36_s_kv"  : "Faltbarer H&K Schaft",
+	"bm_wp_g36_s_sl8" : "SR8 Schaft",
+	"bm_wp_g36_fg_c"    : "G36C Frontgriff",
+	"bm_wp_g36_fg_ksk"  : "Knight Armaments G36 RAS Frontgriff",
+	"bm_wp_g36_fg_long" : "G36E Frontgriff",
+	"bm_wp_g36_m_quick" : "G36 Schnelllade-Magazin",
+	
+	"bm_wp_olympic_s_short" : "K23P Schaft",
+	
+	"bm_wp_fal_s_01"          : "SA58 OSW Schaft",
+	"bm_wp_fal_g_01"          : "SA58 OSW Griff",
+	"bm_wp_fal_body_standard" : "SA58 OSW Frontgriff",
+	"bm_wp_fal_fg_03"         : "IMI Romat Frontgriff",
+	"bm_wp_fal_fg_04"         : "Imbel Angepasster Scharfschützenfrontgriff",
+	"bm_wp_fal_s_03"          : "Magpul PRS2 Einstellbarer Schaft",
+	"bm_wp_fal_m_01"          : "STANAG 40rnd Magazin",
+	
+	"bm_wp_galil_fg_sar"     : "Galil SAR Frontgriff",
+	"bm_wp_galil_s_skeletal" : "Galil MAR Schaft",
+	"bm_wp_galil_fg_mar"     : "Galil MAR Frontgriff",
+	"bm_wp_galil_fg_fab"     : "FAB Defense VFR-GA Schienensystem",
+	"bm_wp_galil_fg_sniper"  : "Galil 7.62 Frontgriff",
+	"bm_wp_galil_s_fab"      : "Micro Galil Custom FAB Defense Schaft",
+	"bm_wp_galil_s_plastic"  : "Original IMI Schaft",
+	"bm_wp_galil_s_sniper"   : "Galil Galatz Scharfschützenschaft",
+	
+	"bm_wp_g3_b_sniper"         : "G3SG/1 Lauf",
+	"bm_wp_g3_fg_psg"           : "MSG90 Frontgriff",
+	"bm_wp_g3_g_sniper"         : "PSG1 Griff",
+	"bm_wp_g3_s_sniper"         : "PSG1 Schaft",
+	"bm_wp_g3_s_wood"           : "CETME Schaft",
+	"bm_wp_g3_fg_retro"         : "CETME Frontgriff",
+	"bm_wp_g3_fg_retro_plastic" : "AK 4 Handschutznachrüstung",
+	"bm_wp_g3_fg_railed"        : "Frontgriff mit Schienen",
+
+	"bm_wp_aa12_barrel_long" : "Regulärer AA-12 Lauf",
+	
+	"bm_wp_1911_g_ergo"   : "American Legend Pachmayr Griff",
+	"bm_wp_1911_g_bling"  : "Holzgriff",
+	"bm_wp_1911_b_vented" : "Springfield Armory V-12 Belüfteter Schlitten",
+	"bm_wp_1911_b_long"   : "Springfield Armory V-16 Belüfteter Langer Schlitten",
+	
+	"bm_wp_m249_b_long" : "M249-E2 SAW Lauf",
+	"bm_wp_m249_s_solid" : "M249-E2 SAW Schaft",
+	"bm_wp_m249_fg_mk46" : "MK46 Mod 0 Frontgriff",
+	
+	"bm_wp_wa2000_b_long" : "Gen 2 Lauf",
+	
+	"bm_wp_desertfox_b_long" : "Early Quad-Rail Handschutz",
 	
 	"bm_wp_mosin_ns_bayonet_desc" : "Das Mosin Nagant Bajonett ist ein Stachelbajonett, was bedeutet, im Gegensatz zu einem Messerbajonett, ist es nicht in der Lage, von Hand benutzt zu werden.\nEs misst 19,5 Zoll(49,5cm).",
 
@@ -331,7 +415,38 @@
 	"menu_pistol"        : "Pistolen",
 	"menu_smg"           : "Maschinenpistole",
 	
-	"bm_wp_tti_s_vltor" : "VOLTOR EMOD Schaft",
+	"bm_wp_tti_s_vltor" : "VLTOR EMOD Schaft",
+	"bm_wp_tti_g_grippy" : "Hogue OverMolded Pistolengriff",
+	
+	"bm_wpn_fps_upg_o_xpsg33_magnifier" : "Aimpoint 3XMag Vergrößerung",
+	
+	"bm_wp_chinchilla_b_satan" : "Angepasster Kokusai Devil Lauf",
+	"bm_wp_chinchilla_g_black" : "Synthetikgriff",
+	
+	"bm_wp_l85a2_fg_short" : "Daniel Defense Frontgriff mit Schienen",
+	"bm_wp_l85a2_b_short"  : "L22 Prototypenlauf",
+	
+	"bm_wp_sub2000_fg_suppressed" : "GemTech MK-9K Schalldämpfer",
+	
+	"bm_wp_breech_b_reinforced" : "Sports Parabellum Mauser Lauf",
+ 	
+ 	
+	"bm_wp_deagle_co_short" : "Magum Research DE50MB Kompensator",
+	"bm_wp_deagle_co_long" : "Boondock Kompensator",
+	
+	"bm_wp_p226_b_equinox" : "P226 Equinox Schlitten",
+	"bm_wp_p226_b_long"    : "P226 X-Six Schlitten",
+ 
+ 
+	"bm_wp_shrew_g_ergo"   : "Hogue Officer M1911 Gummigriff",
+	
+	"bm_wp_2006m_b_medium" : "Medium Lauf",
+	"bm_wp_2006m_b_short"  : "Kleiner Lauf",
+	"bm_wp_2006m_b_long"   : "Größer Lauf",
+	
+	"bm_wp_g26_b_custom"     : "Salient Arms Tier 1 Lauf",
+	"bm_wp_g26_m_custom"     : "Salient Arms Tier 1 Magazin",
+	"bm_wp_g26_body_salient" : "Salient Arms Tier 1 Rahmen",
 	
 	"bm_wp_mg42_b_mg34" : "MG 34 Lauf"
 }
