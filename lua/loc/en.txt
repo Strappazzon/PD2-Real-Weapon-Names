@@ -21,7 +21,7 @@
 	"bm_w_sub2000"    : "Kel-Tec SUB-2000",
 	"bm_w_tecci"      : "H&K HK416C",
 	"bm_w_contraband" : "H&K HK417 with M203 PI Grenade Launcher",
-	"bm_w_ak12"       : "AK-12",
+	"bm_w_ak12"       : "Izhmash AK-12",
 	"bm_w_ching"      : "M1 Garand",
 	"bm_w_corgi"      : "FN F2000 Tactical TR",
 
