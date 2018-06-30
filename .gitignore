@@ -40,5 +40,7 @@ luac.out
 *.hex
 *.bat
 
+hash.txt
+
 # EXLCUDE
 !RWN.zip # build file
