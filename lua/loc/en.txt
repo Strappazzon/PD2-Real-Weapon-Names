@@ -70,7 +70,7 @@
 	"bm_w_x_scorpion"   : "Akimbo Sa. Vz.61 Skorpion",
 	"bm_w_x_baka"       : "Akimbo IMI Micro Uzi",
 	"bm_w_x_mp9"        : "Akimbo Brügger & Thomet MP9",
-	"bm_w_x_olympic"    : "Akimbo Olympic Arms K23B Tactical",
+	"bm_w_x_olympic"    : "Akimbo Olympic Arms K23B",
 	"bm_w_x_schakal"    : "Akimbo H&K UMP45",
 	"bm_w_x_erma"       : "Akimbo MP40",
 	"bm_w_x_tec9"	    : "Akimbo Intratec TEC-9",
@@ -134,7 +134,7 @@
 	"bm_w_mac10"    : "Ingram MAC-11",
 	"bm_w_mp5"      : "H&K MP5",
 	"bm_w_mp9"      : "Brügger & Thomet MP9",
-	"bm_w_olympic"  : "Olympic Arms K23B Tactical",
+	"bm_w_olympic"  : "Olympic Arms K23B",
 	"bm_w_akmsu"    : "Izhmash AKMSU",
 	"bm_w_p90"      : "FN P90 TR",
 	"bm_w_m45"      : "Carl Gustav M/45B",
@@ -219,7 +219,7 @@
 	"bm_wp_upg_ns_shot_shark"   : "Tromix Shark Brake Door Breacher",
 	"bm_wp_upg_shot_ns_king"    : "King Armory 12ga Breacher",
 	"bm_wp_upg_ns_meatgrinder"  : "WE Tech Tenderizer Compensator",
-	"bm_wp_ns_duck"	            : "Duckbill Choke",
+	"bm_wp_ns_duck"	            : "Paradigm SRP Gator Shotgun Spreader",
 
 	"bm_wp_m4_s_standard"   : "Bushmaster LE Stock",
 	"bm_wp_m4_s_pts"        : "Magpul PTS Stock",
@@ -352,6 +352,7 @@
 
 	"bm_wp_uzi_b_suppressed" : "SIONICS \"Whispering Death\" Retrofit Custom",
 	"bm_wp_uzi_fg_rail"      : "K-Grip",
+	"bm_wp_uzi_s_solid"      : "Original Wooden Grip",
 
 	"bm_wp_cobray_ns_silencer" : "SIONICS \"Whispering Death\"",
 	"bm_wp_mac10_body_ris"     : "G&P CQB Tactical Rail Kit Retrofit",
@@ -382,6 +383,7 @@
 	"bm_wp_hajk_b_short" : "CZ 805 BREN A2 Barrel",
 
 	"bm_wp_scorpion_m_extended" : "Quick-Swap Magazine",
+	"bm_wp_scorpion_g_wood"     : "Original Wooden Grip",
 
 	"bm_wp_pis_g_laser"      : "Crimson Trace Glock Laser Grip",
 	"bm_wp_pis_g_beavertail" : "Cytec Beavertail Grip",
@@ -437,10 +439,13 @@
 	"bm_wp_m1928_b_long" : "Auto-Ordnance Barrel",
 	
 	"bm_wp_tec9_b_standard" : "AB-10 Barrel",
+	"bm_wp_tec9_ns_ext"     : "Extended Barrel",
+	"bm_wp_tec9_s_unfolded" : "Unfolded Stock",
 	
 	"bm_wp_schakal_b_civil"     : "USC Barrel",
 	"bm_wp_schakal_s_civil"     : "USC Stock",
 	"bm_wp_schakal_vg_surefire" : "Surefire M900 Foregrip",
+	"bm_wp_schakal_ns_silencer" : "GemTech UMP-45 Suppressor",
 	
 	"bm_wp_g36_s_kv"    : "Folding HK Stock",
 	"bm_wp_g36_s_sl8"   : "SR8 Stock",
@@ -450,7 +455,8 @@
 	"bm_wp_g36_m_quick" : "G36 Magpul Magazine",
 	"bm_wp_g36_o_vintage" : "ZF 3x4°",
 	
-	"bm_wp_olympic_s_short" : "K23P Stock",
+	"bm_wp_olympic_s_short"   : "K23P Stock",
+	"bm_wp_olympic_fg_railed" : "K23B Tactical Handguard",
 	
 	"bm_wp_fal_s_01"          : "SA58 OSW Stock",
 	"bm_wp_fal_g_01"          : "SA58 OSW Grip",
@@ -519,6 +525,16 @@
 	"bm_wp_g26_m_custom"     : "Salient Arms Tier 1 Magazine",
 	"bm_wp_g26_body_salient" : "Salient Arms Tier 1 Frame",
 	
+	"bm_wp_r870_s_folding" : "Folding Stock",
+	"bm_wp_r870_fg_wood"   : "Wooden Pump",
+	
+	"bm_wp_b682_s_ammopouch" : "Shell Carrier",
+	
+	"bm_wp_ben_b_short"     : "M4 NFA Barrel",
+	"bm_wp_ben_fg_standard" : "M4 Tactical Stock",
+	
+	"bm_wp_ksg_b_short" : "KSG-12 Tactical Barrel",
+	
 	"bm_wp_mosin_ns_bayonet_desc" : "The Mosin Nagant bayonet is a spike bayonet, meaning unlike a knife-style bayonet, it is unable to be wielded by hand.\nMeasures 19 1/2 inches.",
 
 	"bm_melee_model24"     : "Model 24 Stielhandgranate",
@@ -547,6 +563,8 @@
 	"bm_melee_topaz"       : "Black Diamond Cobra Ice Tool",
 	"bm_melee_wing"        : "Balisong",
 	"bm_melee_cs"          : "Homelite Super 2 Chainsaw",
+	"bm_melee_rambo"       : "Bowie Knife",
+	"bm_melee_x46"         : "Robson X46 Utility Survival Knife",
 
 	"bm_melee_weapon_info"        : "",
 	"bm_melee_fists_info"         : "",
