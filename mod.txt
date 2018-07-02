@@ -14,7 +14,7 @@
 			"identifier" : "RealWeaponNames",
 			"host" : {
 				"meta" : "https://raw.githubusercontent.com/xDarkWolf/PD2-Real-Weapon-Names/master/meta.json",
-				"download" : "https://github.com/xDarkWolf/PD2-Real-Weapon-Names/blob/master/RWN.zip?raw=true",
+				"download" :"https://raw.githubusercontent.com/xDarkWolf/PD2-Real-Weapon-Names/master/RWN.zip",
 				"patchnotes" : "https://modworkshop.net/mydownloads.php?action=view_down&did=19958#changelog"
 				}
 		}
