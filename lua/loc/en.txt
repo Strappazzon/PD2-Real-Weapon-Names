@@ -352,7 +352,7 @@
 
 	"bm_wp_uzi_b_suppressed" : "SIONICS \"Whispering Death\" Retrofit Custom",
 	"bm_wp_uzi_fg_rail"      : "K-Grip",
-	"bm_wp_uzi_s_solid"      : "Original Wooden Grip",
+	"bm_wp_uzi_s_solid"      : "Original Wooden Buttstock",
 
 	"bm_wp_cobray_ns_silencer" : "SIONICS \"Whispering Death\"",
 	"bm_wp_mac10_body_ris"     : "G&P CQB Tactical Rail Kit Retrofit",
