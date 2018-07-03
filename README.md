@@ -31,3 +31,4 @@ Want to help localizing this mod into your language? Edit the corresponding file
  - [ShiNRaX2](http://steamcommunity.com/profiles/76561198028016758/): German localization & further Maintaining
  - [Retreeb](https://github.com/Retreeb): Russian localization
  - [BangL](https://github.com/BangL): Fixes
+ - [Rooster Teeth](https://steamcommunity.com/id/Ernestoleftenant/): Spanish localization & Additions
