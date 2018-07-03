@@ -421,6 +421,7 @@
 	"bm_wp_r93_body_wood" : "Blaser R93 Semi-weight Sporting Variant",
 
 	"bm_wp_m95_b_barrel_suppressed" : "QDL Suppressor + Camo Shroud",
+	"bm_wp_m95_b_barrel_long"       : "Accuracy International AW50F Barrel",
 
 	"bm_wp_upg_a_piercing_desc"       : "A flechette is a pointed steel projectile, with a vaned tail for stable flight. The name comes from French fléchette, \"little arrow\" or \"dart\".",
 	"bm_wp_upg_a_slug_desc"           : "A shotgun slug is a heavy projectile made of lead, copper, or other material and fired from a shotgun.\nA shotgun slug is typically more massive than a rifle bullet.",
@@ -497,7 +498,8 @@
 	
 	"bm_wp_wa2000_b_long" : "Gen 2 Barrel",
 	
-	"bm_wp_desertfox_b_long" : "Early Quad-Rail Handguard",
+	"bm_wp_desertfox_b_long"     : "Early Quad-Rail Handguard",
+	"bm_wp_desertfox_b_silenced" : "DTSS .338 Suppressor",
 	
 	"bm_wp_tti_s_vltor"  : "VLTOR EMOD Stock",
 	"bm_wp_tti_g_grippy" : "Hogue OverMolded Pistol Grip",
@@ -534,6 +536,11 @@
 	"bm_wp_ben_fg_standard" : "M4 Tactical Stock",
 	
 	"bm_wp_ksg_b_short" : "KSG-12 Tactical Barrel",
+	
+	"bm_wp_snp_msr_ns_suppressor" : "TiTAN-QD .338 AAC Suppressor",
+	
+	"bm_wp_mosin_b_short" : "M1907 M38 Carbine Barrel",
+	"bm_wp_mosin_b_long"  : "M1907's M91/30 Barrel",
 	
 	"bm_wp_mosin_ns_bayonet_desc" : "The Mosin Nagant bayonet is a spike bayonet, meaning unlike a knife-style bayonet, it is unable to be wielded by hand.\nMeasures 19 1/2 inches.",
 

@@ -419,6 +419,10 @@
 	"bm_wp_r93_body_wood" : "ARMAZÓN DE MADERA BLASER SPORTING",
 
 	"bm_wp_m95_b_barrel_suppressed" : "SUPRESOR QDL + MANTO DE CAMUFLAJE",
+	"bm_wp_m95_b_barrel_long"       : "CAÑÓN DE ACURRACY INTERNATIONAL AW50F",
+	
+	"bm_wp_mosin_b_short" : "CAÑÓN DE CARABINA M1907 M38",
+	"bm_wp_mosin_b_long"  : "CAÑÓN DE M1907 M91/30",
 
 	"bm_wp_upg_a_piercing_desc"       : "Una flechette es un proyectil de acero puntiagudo, con una cola con aletas para un vuelo estable. El nombre proviene de fléchette Francés, \"pequeña flecha\" o \"dardo\".",
 	"bm_wp_upg_a_slug_desc"           : "Una posta de escopeta es un proyectil pesado hecho de plomo, cobre u otro material y se dispara desde una escopeta.\nUna posta de escopeta es típicamente más masiva que una bala de rifle.",
@@ -491,7 +495,8 @@
 	
 	"bm_wp_wa2000_b_long" : "CAÑÓN DE GENERACIÓN 2",
 	
-	"bm_wp_desertfox_b_long" : "GUARD. CON RIEL CUÁDRUPLE CLÁSICO",
+	"bm_wp_desertfox_b_long"     : "GUARD. CON RIEL CUÁDRUPLE CLÁSICO",
+	"bm_wp_desertfox_b_silenced" : "SUPRESOR DTSS .338",
 	
 	"bm_wp_tti_s_vltor"  : "CULATA VLTOR EMOD",
 	"bm_wp_tti_g_grippy" : "EMP. DE PISTOLA HOGUE OVERMOLDED",
@@ -535,6 +540,8 @@
 	"bm_wp_g26_b_custom"     : "CAÑÓN SALIENT ARMS TIER 1",
 	"bm_wp_g26_m_custom"     : "CARGADOR SALIENT ARMS TIER 1",
 	"bm_wp_g26_body_salient" : "CORREDERA SALIENT ARMS TIER 1",
+	
+	"bm_wp_snp_msr_ns_suppressor" : "SUPRESOR TITAN-QD .338 AAC",
 	
 	
 	
