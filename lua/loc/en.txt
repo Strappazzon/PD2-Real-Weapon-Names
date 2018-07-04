@@ -88,7 +88,7 @@
 	"bm_w_m32"              : "Milkor MGL Mk 1L Grenade Launcher",
 	"bm_w_flamethrower_mk2" : "Flamethrower",
 	"bm_w_long"             : "English Bow",
-	"bm_w_shuno"            : "Empty Shell LLC XM556 Mircogun",
+	"bm_w_shuno"            : "Empty Shell LLC XM556 Microgun",
 
 	"bm_w_msr"            : "Remington MSR",
 	"bm_w_r93"            : "Blaser R93 LRS2",
@@ -511,7 +511,7 @@
 	
 	"bm_wp_breech_b_reinforced" : "Sports Parabellum Mauser Barrel",
 	
-	"bm_wp_deagle_co_short" : "Magum Research DE50MB Compensator",
+	"bm_wp_deagle_co_short" : "Magnum Research DE50MB Compensator",
 	"bm_wp_deagle_co_long" : "Boondock Compensator",
 	
 	"bm_wp_p226_b_equinox" : "P226 Equinox Slide",
