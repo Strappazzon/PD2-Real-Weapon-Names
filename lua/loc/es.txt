@@ -125,7 +125,7 @@
 	"bm_w_sparrow"      : "JERICHO 941 PL",
 	"bm_w_pl14"         : "PL-14 LEBEDEV",
 	"bm_w_packrat"      : "HECKLER & KOCH P30L",
-	"bm_w_lemming"      : "FN FIVE-SEVEN",
+	"bm_w_lemming"      : "FN FIVE-SEVEN FDE",
 	"bm_w_breech"       : "LUGER P08",
 	"bm_w_shrew"        : "COLT DEFENDER",
 	"bm_w_chinchilla"   : "SMITH & WESSON MODEL 29",
@@ -135,7 +135,7 @@
 	"bm_w_mp5"      : "HECKLER & KOCH MP5",
 	"bm_w_mp9"      : "BRÜGGER & THOMET MP9",
 	"bm_w_olympic"  : "OLYMPIC ARMS K23B",
-	"bm_w_akmsu"    : "Izhmash AKMSU",
+	"bm_w_akmsu"    : "AKMSU",
 	"bm_w_p90"      : "FN P90 TR",
 	"bm_w_m45"      : "CARL GUSTAV M/45B",
 	"bm_w_mp7"      : "HECKLER & KOCH MP7A1",
@@ -219,7 +219,7 @@
 	"bm_wp_upg_ns_shot_shark"   : "REDUCTOR TROMIX SHARK BRAKE",
 	"bm_wp_upg_shot_ns_king"    : "COMP. KING ARMORY 12GA BREACHER",
 	"bm_wp_upg_ns_meatgrinder"  : "COMPENSADOR WE TECH TENDERIZER",
-	"bm_wp_ns_duck"	            : "NIVELADOR PARADIGM SRP GATOR.",
+	"bm_wp_ns_duck"	            : "NIVELADOR PARADIGM SRP GATOR",
 
 	"bm_wp_m4_s_standard"   : "CULATA BUSHMASTER LE",
 	"bm_wp_m4_s_pts"        : "CULATA MAGPUL PTS",
@@ -232,7 +232,7 @@
 	"bm_wp_m37_s_short"     : "CULATA RECORTADA",
 
 	"bm_wp_m4_g_ergo"      : "EMPUÑADURA COMMAND ARMS UPG16",
-	"bm_wp_m4_g_sniper"    : "EMP. DE MATERIAL SINTÉTICO BALANCEADO",
+	"bm_wp_m4_g_sniper"    : "EMP. SINTÉTICA BALANCEADA",
 	"bm_wp_upg_m4_g_hgrip" : "EMP. DE GOMA HOGUE OVERMOLDED",
 	"bm_wp_upg_m4_g_mgrip" : "EMPUÑADURA MAGPUL MOE-K",
 
@@ -267,8 +267,8 @@
 	"bm_wp_ass_s552_s_standard_green"  : "GUARDAMANOS ORIGINAL VERDE",
 
 	"bm_wp_aug_fg_a3"    : "GUARDAMANOS DE AUG A3",
-	"bm_wp_aug_body_f90" : "MEC. DE THALES EF88/F90",
-	"bm_wp_aug_b_short"  : "CAÑÓN DE 16 PULGADAS DE CARABINA AUG",
+	"bm_wp_aug_body_f90" : "CHÁSIS DE THALES EF88/F90",
+	"bm_wp_aug_b_short"  : "CAÑÓN DE CARABINA AUG",
 
 	"bm_wp_l85a2_fg_short" : "GUARDAMANOS DANIEL DEFENSE",
 	"bm_wp_l85a2_b_short"  : "CAÑÓN PROTOItPO DE L22",
@@ -295,7 +295,7 @@
 	"bm_wp_scar_fg_railext"      : "EXTENSIÓN DE RIEL PWS SRX",
 
 	"bm_wp_m14_body_ebr"         : "CHÁSIS DE M1A SOPMOD",
-	"bm_wp_m14_body_jae"         : "CHÁSIS PERSONALIZADO JAE-100 G3 CHASSIS",
+	"bm_wp_m14_body_jae"         : "CHÁSIS JAE-100 G3 CUSTOM",
 	"bm_wp_upg_o_m14_scopemount" : "CHÁSIS DE MK14",
 
 	"bm_wp_vhs_b_short" : "CAÑÓN DE VHS-K2",
@@ -352,6 +352,7 @@
 
 	"bm_wp_uzi_b_suppressed" : "SUPRESOR SIONICS ADAPTADO",
 	"bm_wp_uzi_fg_rail"      : "EMPUÑADURA K",
+	"bm_wp_uzi_s_solid"      : "CULATA DE MADERA ORIGINAL",
 
 	"bm_wp_cobray_ns_silencer" : "SUPRESOR SIONICS",
 	"bm_wp_mac10_body_ris"     : "RIEL TÁCTICO ADAPTADO G&P CQB",
@@ -382,7 +383,8 @@
 	"bm_wp_hajk_b_short" : "CAÑÓN DE CZ 805 BREN A2",
 
 	"bm_wp_scorpion_m_extended" : "CARGADOR DE EXTRACCIÓN RÁPIDA",
-
+    "bm_wp_scorpion_g_wood"     : "EMPUÑADURA DE MADERA ORIGINAL",
+	
 	"bm_wp_pis_g_laser"      : "EMP. LÁSER CRIMSON TRACE GLOCK",
 	"bm_wp_pis_g_beavertail" : "EMPUÑADURA CYTEC BEAVERTAIL",
 	
@@ -419,11 +421,9 @@
 	"bm_wp_r93_body_wood" : "ARMAZÓN DE MADERA BLASER SPORTING",
 
 	"bm_wp_m95_b_barrel_suppressed" : "SUPRESOR QDL + MANTO DE CAMUFLAJE",
-	"bm_wp_m95_b_barrel_long"       : "CAÑÓN DE ACURRACY INTERNATIONAL AW50F",
-	
+	"bm_wp_m95_b_barrel_long"       : "CAÑÓN DE ACURRACY INT. AW50F",
 	"bm_wp_mosin_b_short" : "CAÑÓN DE CARABINA M1907 M38",
-	"bm_wp_mosin_b_long"  : "CAÑÓN DE M1907 M91/30",
-
+	"bm_wp_mosin_b_long"  : "CAÑÓN DE M1907 M91/30",													 
 	"bm_wp_upg_a_piercing_desc"       : "Una flechette es un proyectil de acero puntiagudo, con una cola con aletas para un vuelo estable. El nombre proviene de fléchette Francés, \"pequeña flecha\" o \"dardo\".",
 	"bm_wp_upg_a_slug_desc"           : "Una posta de escopeta es un proyectil pesado hecho de plomo, cobre u otro material y se dispara desde una escopeta.\nUna posta de escopeta es típicamente más masiva que una bala de rifle.",
 	"bm_wp_upg_a_slug2_desc"          : "Una posta de escopeta es un proyectil pesado hecho de plomo, cobre u otro material y se dispara desde una escopeta.\nUna posta de escopeta es típicamente más masiva que una bala de rifle.",
@@ -441,10 +441,13 @@
 	"bm_wp_m1928_b_long" : "CAÑÓN DE AUTO-ORDNANCE",
 	
 	"bm_wp_tec9_b_standard" : "CAÑÓN DE AB-10",
+	"bm_wp_tec9_ns_ext"     : "CAÑÓN LARGO",
+	"bm_wp_tec9_s_unfolded" : "CULATA DESPLEGADA",
 	
 	"bm_wp_schakal_b_civil"     : "CAÑÓN DE H&K USC",
 	"bm_wp_schakal_s_civil"     : "CULATA DE H&K USC",
 	"bm_wp_schakal_vg_surefire" : "EMPUÑADURA VERTICAL SUREFIRE M900",
+	"bm_wp_schakal_ns_silencer" : "SUPRESOR GEMTECH DE UMP45",
 	
 	"bm_wp_g36_s_kv"    : "CULATA H&K PLEGABLE",
 	"bm_wp_g36_s_sl8"   : "CULATA DE SR8",
@@ -454,7 +457,8 @@
 	"bm_wp_g36_m_quick" : "CARGADOR MAGPULL PARA G36",
 	"bm_wp_g36_o_vintage" : "ZF 3x4°",
 	
-	"bm_wp_olympic_s_short" : "CULATA DE K23P",
+	"bm_wp_olympic_s_short"   : "CULATA DE K23P",
+	"bm_wp_olympic_fg_railed" : "GUARDAMANOS DE K23B TACTICAL",
 	
 	"bm_wp_fal_s_01"          : "CULATA DE SA58 OSW",
 	"bm_wp_fal_g_01"          : "EMPUÑADURA DE SA58 OSW",
@@ -466,7 +470,7 @@
 	
 	"bm_wp_galil_fg_sar"     : "GUARDAMANOS DE GALIL SAR",
 	"bm_wp_galil_s_skeletal" : "CULATA DE GALIL MAR",
-	"bm_wp_galil_fg_mar"     : "GALIL MAR FOREGRIP",
+	"bm_wp_galil_fg_mar"     : "GUARDAMANOS DE GALIL MAR",
 	"bm_wp_galil_fg_fab"     : "SISTEMA DE RIELES FAB DEFENSE VFR-GA",
 	"bm_wp_galil_fg_sniper"  : "GUARDAMANOS DE GALIL 7.62",
 	"bm_wp_galil_s_fab"      : "CULATA DE MICRO GALIL FAB DEFENSE",
@@ -516,23 +520,6 @@
 
 	"bm_wp_shrew_g_ergo"   : "EMP. DE GOMA HOGUE OFFICER 1911",
 	
-	"bm_wp_r870_s_folding" : "CULATA PLEGABLE",
-	"bm_wp_r870_fg_wood"   : "CORREDERA DE MADERA",
-	
-	"bm_wp_tec9_ns_ext"     : "CAÑÓN LARGO",
-	"bm_wp_tec9_s_unfolded" : "CULATA DESPLEGADA",
-	
-	"bm_wp_b682_s_ammopouch" : "PORTACARTUCHOS",
-	
-	
-	"bm_wp_olympic_fg_railed" : "GUARDAMANOS DE K23B TACTICAL",
-	
-	"bm_wp_scorpion_g_wood"     : "EMPUÑADURA DE MADERA ORIGINAL",
-	
-	"bm_wp_uzi_s_solid"      : "CULATA DE MADERA ORIGINAL",
-	
-	"bm_wp_schakal_ns_silencer" : "SUPRESOR GEMTECH DE UMP-45",
-	
 	"bm_wp_2006m_b_medium" : "CAÑÓN MEDIANO",
 	"bm_wp_2006m_b_short"  : "CAÑÓN PEQUEÑO",
 	"bm_wp_2006m_b_long"   : "CAÑÓN LARGO",
@@ -541,40 +528,53 @@
 	"bm_wp_g26_m_custom"     : "CARGADOR SALIENT ARMS TIER 1",
 	"bm_wp_g26_body_salient" : "CORREDERA SALIENT ARMS TIER 1",
 	
+	"bm_wp_r870_s_folding" : "CULATA PLEGABLE",
+	"bm_wp_r870_fg_wood"   : "CORREDERA DE MADERA",
+	
+	"bm_wp_b682_s_ammopouch" : "PORTACARTUCHOS",
+	
+	"bm_wp_ben_b_short"     : "CAÑÓN DE M4 NFA",
+	"bm_wp_ben_fg_standard" : "CAÑÓN DE M4 TACTICAL",
+	
+	"bm_wp_ksg_b_short" : "CAÑÓN DE KSG-12 TACTICAL",
+	
 	"bm_wp_snp_msr_ns_suppressor" : "SUPRESOR TITAN-QD .338 AAC",
 	
+	"bm_wp_schakal_ns_silencer" : "SUPRESOR GEMTECH DE UMP-45",
 	
+	"bm_wp_mosin_b_short" : "CAÑÓN DE CARABINA M1907 M38",
+	"bm_wp_mosin_b_long"  : "CAÑÓN DE M1907 M91/30",
 	
-	"bm_wp_mosin_ns_bayonet_desc" : "The Mosin Nagant bayonet is a spike bayonet, meaning unlike a knife-style bayonet, it is unable to be wielded by hand.\nMeasures 19 1/2 inches.",
+	"bm_wp_mosin_ns_bayonet_desc" : "La bayoneta del Mosin Nagant es una bayoneta de punta, lo que significa que a diferencia de una bayoneta estilo cuchillo, no se puede empuñar con la mano.\nMide 48 1/2 centímetros.",
 
 	"bm_melee_model24"     : "STIELHANDGRANATE MODELO 24",
-	"bm_melee_pugio"       : "Extrema Ratio EX314BL Pugio",
+	"bm_melee_pugio"       : "PUGIO EXTREMA RATIO EX314BL",
 	"bm_melee_gerber"      : "NAVAJA PLEGABLE GERBER DMF AUTO",
 	"bm_melee_gator"       : "MACHETE GERBER GATOR PRO",
 	"bm_melee_kampfmesser" : "EICKHORN-SOLINGEN KM2000",
 	"bm_melee_kabar"       : "KA-BAR USMC",
 	"bm_melee_becker"      : "KA-BAR BECKER TACTOOL",
 	"bm_melee_bullseye"    : "HACHA S&W BULLSEYE",
-	"bm_melee_fairbair"    : "CUCHILLO DE COMNATE FAIRBAIRN-SYKES",
+	"bm_melee_fairbair"    : "CUCHILLO DE COMBATE FAIRBAIRN-SYKES",
 	"bm_melee_taser"       : "BASTÓN ATURDIDOR ZAP 1M-VOLT",
 	"bm_melee_tiger"       : "TEKKO-KAGI",
 	"bm_melee_brick"       : "MOTOROLA DYNATAC 8000X",
-	"bm_melee_nin"         : "PISTOLA DE CLAVOS PALSODE IM360CI 90MM",
+	"bm_melee_nin"         : "PISTOLA DE CLAVOS PALSODE IM360CI",
 	"bm_melee_kabar_tanto" : "DAGA KA-BAR",
-	"bm_melee_ballistic"   : "CUCHILLOS BALÍSTICOS ESTILO AMERICANO",
-	"bm_melee_tomahawk"    : "TOMAHAWK Gerber Downrange",
-	"bm_melee_bayonet"     : "BAYONETA AKM DE 2DA GENERACIÓN DE LOS'60S",
+	"bm_melee_ballistic"   : "CUCHILLOS BALÍSTICOS AMERICANOS",
+	"bm_melee_tomahawk"    : "TOMAHAWK GERBER DOWNRANGE",
+	"bm_melee_bayonet"     : "BAYONETA DE AKM DE 2DA GENERACIÓN",
 	"bm_melee_dingdong"    : "MARTILLO DE BRECHA GERBER DING DONG",
 	"bm_melee_oldbaton"    : "PORRA MONADNOCK PR-24",
 	"bm_melee_cqc"         : "KUNAI",
 	"bm_melee_buck"        : "ESCUDO METÁLICO",
 	"bm_melee_beardy"      : "HACHA LARGA NÓRDICA",
 	"bm_melee_great"       : "ZWEIHANDER",
-	"bm_melee_topaz"       : "HACHA DE HIELO BLACK DIAMOND COBRA",
+	"bm_melee_topaz"       : "GANCHO DE HIELO BLACK DIAMOND COBRA",
 	"bm_melee_wing"        : "BALISONG",
 	"bm_melee_cs"          : "MOTOSIERRA HOMELITE SUPER 2",
 	"bm_melee_rambo"       : "CUCHILLO BOWIE",
-	"bm_melee_x46"         : "CUCHILLO DE SUPERVIVENCIA ROBSON X46 UTILITY",
+	"bm_melee_x46"         : "CUCHILLO ROBSON X46 UTILITY",
 
 	"bm_melee_weapon_info"        : "",
 	"bm_melee_fists_info"         : "",
