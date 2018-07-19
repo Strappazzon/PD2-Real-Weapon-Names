@@ -8,7 +8,7 @@
 	"undisablable" : false,
 	"disable_safe_mode" : true,
 	"contact" : "www.steamcommunity.com/id/Winston-Wolfe",
-	"version" : "2.8.0",
+	"version" : "2.8.1",
 	"updates" : [
 		{
 			"identifier" : "RealWeaponNames",
@@ -24,7 +24,6 @@
 		{ "hook_id" : "lib/managers/localizationmanager", "script_path" : "lua/Updates.lua" },
 		{ "hook_id" : "lib/managers/menu/blackmarketgui", "script_path" : "lua/Blackmarket.lua" },
 		{ "hook_id" : "lib/tweak_data/blackmarket/meleeweaponstweakdata", "script_path" : "lua/Blackmarket.lua" },
-		{ "hook_id" : "lib/tweak_data/economytweakdata", "script_path" : "lua/CommunityMarketFix.lua" },
-		{ "hook_id" : "lib/managers/localizationmanager", "script_path" : "dev/test_strings.lua" }
+		{ "hook_id" : "lib/tweak_data/economytweakdata", "script_path" : "lua/CommunityMarketFix.lua" }
 	]
 }
