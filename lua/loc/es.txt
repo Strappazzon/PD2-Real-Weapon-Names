@@ -540,10 +540,6 @@
 	
 	"bm_wp_snp_msr_ns_suppressor" : "SUPRESOR TITAN-QD .338 AAC",
 	
-	"bm_wp_schakal_ns_silencer" : "SUPRESOR GEMTECH DE UMP-45",
-	
-	"bm_wp_mosin_b_short" : "CAÑÓN DE CARABINA M1907 M38",
-	"bm_wp_mosin_b_long"  : "CAÑÓN DE M1907 M91/30",
 	
 	"bm_wp_mosin_ns_bayonet_desc" : "La bayoneta del Mosin Nagant es una bayoneta de punta, lo que significa que a diferencia de una bayoneta estilo cuchillo, no se puede empuñar con la mano.\nMide 48 1/2 centímetros.",
 
