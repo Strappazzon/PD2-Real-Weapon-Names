@@ -89,6 +89,7 @@
 	"bm_w_flamethrower_mk2" : "Flamethrower",
 	"bm_w_long"             : "English Bow",
 	"bm_w_shuno"            : "Empty Shell LLC XM556 Microgun",
+	"bm_w_system"			: "The Boring Company Not A Flamethrower",
 
 	"bm_w_msr"            : "Remington MSR",
 	"bm_w_r93"            : "Blaser R93 LRS2",
