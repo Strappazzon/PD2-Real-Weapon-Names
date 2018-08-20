@@ -81,6 +81,7 @@
 	"bm_w_x_m45"        : "CARL GUSTAV M/45B DUALES",
 	"bm_w_x_mp7"        : "HECKLER & KOCH MP7A1 DUALES",
 	"bm_w_x_coal"       : "PP-19 BIZON-2 DUALES",
+	"bm_w_x_shepheard"  : "SIG-SAUER MPX DUALES",
 
 	"bm_w_gre_m79"          : "LANZAGRANADAS M79",
 	"bm_w_saw"              : "SIERRA OVE9000",
@@ -151,6 +152,7 @@
 	"bm_w_schakal"  : "HECKLER & KOCH UMP45",
 	"bm_w_coal"     : "PP-19 BIZON-2",
 	"bm_w_erma"     : "MP40",
+	"bm_w_shepheard"  : "SIG-SAUER MPX",
 
 	"bm_w_judge"   : "TAURUS 4510PLYFS",
 	"bm_w_serbu"   : "REMINGTON MODEL 870 SHORT-BARRELED",
@@ -257,8 +259,8 @@
 	"bm_wp_upg_i_singlefire" : "SÓLO SEMIAUTOMÁTICO",
 	"bm_wp_upg_i_autofire"   : "SÓLO AUTOMÁTICO",
 
-	"bm_wp_mg42_b_mg34" : "Cañón de MG 34",
-	"bm_wp_mg42_b_vg38" : "Cañón de DLT-19 Heavy Blaster Rifle",
+	"bm_wp_mg42_b_mg34" : "CAÑÓN DE MG 34",
+	"bm_wp_mg42_b_vg38" : "CAÑÓN DE RIFLE DLT-19 HEAVY BLASTER",
 
 	"bm_wp_ass_s552_fg_standard_green" : "GUARDAMANOS ORIGINAL VERDE",
 	"bm_wp_ass_s552_fg_railed"         : "GUARDAMANOS CON RIEL DE SIG SG 553",
@@ -422,8 +424,7 @@
 
 	"bm_wp_m95_b_barrel_suppressed" : "SUPRESOR QDL + MANTO DE CAMUFLAJE",
 	"bm_wp_m95_b_barrel_long"       : "CAÑÓN DE ACURRACY INT. AW50F",
-	"bm_wp_mosin_b_short" : "CAÑÓN DE CARABINA M1907 M38",
-	"bm_wp_mosin_b_long"  : "CAÑÓN DE M1907 M91/30",													 
+	
 	"bm_wp_upg_a_piercing_desc"       : "Una flechette es un proyectil de acero puntiagudo, con una cola con aletas para un vuelo estable. El nombre proviene de fléchette Francés, \"pequeña flecha\" o \"dardo\".",
 	"bm_wp_upg_a_slug_desc"           : "Una posta de escopeta es un proyectil pesado hecho de plomo, cobre u otro material y se dispara desde una escopeta.\nUna posta de escopeta es típicamente más masiva que una bala de rifle.",
 	"bm_wp_upg_a_slug2_desc"          : "Una posta de escopeta es un proyectil pesado hecho de plomo, cobre u otro material y se dispara desde una escopeta.\nUna posta de escopeta es típicamente más masiva que una bala de rifle.",
@@ -540,6 +541,11 @@
 	
 	"bm_wp_snp_msr_ns_suppressor" : "SUPRESOR TITAN-QD .338 AAC",
 	
+	"bm_wp_mosin_b_short" : "CAÑÓN DE CARABINA M1907 M38",
+	"bm_wp_mosin_b_long"  : "CAÑÓN DE M1907 M91/30",
+	
+	"bm_wp_shepheard_body_short" : "GUARDAMANOS DE MPX-K",
+	"bm_wp_shepheard_s_no"       : "EMPUÑADURA DE MPX-K",
 	
 	"bm_wp_mosin_ns_bayonet_desc" : "La bayoneta del Mosin Nagant es una bayoneta de punta, lo que significa que a diferencia de una bayoneta estilo cuchillo, no se puede empuñar con la mano.\nMide 48 1/2 centímetros.",
 
@@ -671,10 +677,10 @@
 	"bm_grenade_molotov_desc"              : "Un cóctel Molotov, también conocido como bomba de gasolina, granada de pobre y bomba de fuego es un nombre genérico utilizado para una variedad de armas incendiarias improvisadas en forma de botella. Están destinados principalmente a incendiar objetivos en lugar de destruirlos instantáneamente.\n\nEl nombre \"Cóctel Molotov\" fue acuñado por los finlandeses durante la Guerra de Invierno. El nombre era una referencia insultante al ministro de Asuntos Exteriores Soviético Viacheslav Mijáilovich Mólotov.",
 	"bm_dynamite"                          : "DINAMITA",
 	"bm_dynamite_desc"                     : "La dinamita es un material explosivo a base de nitroglicerina, que usa tierra de diatomeas u otra sustancia aBsorbente como cartuchos con polvo o arcilla. La dinamita fue inventada por el químico e ingeniero sueco Alfred Nobel en Geesthacht, Alemania, y patentada en 1867.",
-	"bm_wpn_prj_target"                    : "CUCHILLO ARROJADIZO Tiger Thrower",
+	"bm_wpn_prj_target"                    : "CUCHILLO ARROJADIZO TIGER THROWER",
 	"bm_wpn_prj_hur"                       : "HACHA ARROJADIZA KITRAE AIRCOBRA KR0055",
 	"bm_wpn_prj_hur_desc"                  : "Kit Rae es bien conocido por sus espadas y navajas de fantasía, pero Kit también ha sido un entusiasta de cuchillos arrojadizos y hachas durante muchos años. La AirCobra está construida con una pieza sólida de acero inoxidable AUS-6. Cuenta con un diseño equilibrado del mango para un lanzamiento perfecto, con punta de cuchilla trasera. Empuñadura envuelta en cuero.",
-	"bm_ability_chico_injector"            : "Injección de Epinefrina",
+	"bm_ability_chico_injector"            : "INJECCIÓN DE EPINEFRINA",
 	"bm_ability_chico_injector_desc"       : "Un autoinyector de epinefrina es un dispositivo médico para inyectar una dosis medida o dosis de epinefrina (adrenalina).\n\nEl dispositivo contiene una dosis fija de epinefrina y una aguja con resorte que sale de la punta o el borde del dispositivo y penetra en la piel del receptor, para administrar el medicamento mediante inyección intramuscular.",
 	"bm_grenade_smoke_screen_grenade"      : "GRANADA DE HUMO M18",
 	"bm_grenade_smoke_screen_grenade_desc" : "La granada de humo de color M18 es una granada del ejército de EEUU. Utilizada como un dispositivo de señalización, para marcar objetivos o zonas de aterrizaje. La M18 reemplazó la M16 de la Segunda Guerra Mundial, que no se quemaba tanto o tan vívidamente. La M16 estaba disponible en los mismos colores que la M18, pero también en azul, naranja y negro. La M18 inicialmente iba a ser producida en los mismos colores, incluido el blanco, pero se decidió limitarlo a cuatro colores para mayor simplicidad. Se descubrió en Vietnam que el humo verde alejaba a los enjambres de abejas.",
