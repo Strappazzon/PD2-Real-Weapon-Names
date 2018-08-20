@@ -149,6 +149,7 @@
 	"bm_wp_hk21_b_long" : "HK23E Lauf",
 
 	"bm_wp_uzi_b_suppressed" : "SIONICS \"Whispering Death\" angepasste Nachrüstung",
+	"bm_wp_uzi_s_solid"      : "Originaler Holzschaft",
 
 	"bm_wp_mac10_body_ris"     : "G&P CQB taktisches Schienen-Kit Nachrüstung",
 
@@ -178,6 +179,7 @@
 	"bm_wp_hajk_b_short" : "CZ 805 BREN A2 Lauf",
 
 	"bm_wp_scorpion_m_extended" : "Schnelllade-Magazin",
+	"bm_wp_scorpion_g_wood"     : "Originaler Holzgriff",
 
 	"bm_wp_pis_g_laser"      : "Crimson Trace Glock Laser Griff",
 	"bm_wp_pis_g_beavertail" : "Cytec Beavertail Griff",
@@ -230,10 +232,13 @@
 	"bm_wp_m1928_b_long" : "Auto-Ordnance Lauf",
 	
 	"bm_wp_tec9_b_standard" : "AB-10 Lauf",
+	"bm_wp_tec9_ns_ext"     : "Erweiterter Lauf",
+	"bm_wp_tec9_s_unfolded" : "Ausgefalteter Schaft",
 	
 	"bm_wp_schakal_b_civil"     : "USC Lauf",
 	"bm_wp_schakal_s_civil"     : "USC Schaft",
 	"bm_wp_schakal_vg_surefire" : "Surefire M900 Frontgriff",
+	"bm_wp_schakal_ns_silencer" : "GemTech UMP-45 Schalldämpfer",
 	
 	"bm_wp_g36_s_kv"  : "Faltbarer H&K Schaft",
 	"bm_wp_g36_s_sl8" : "SR8 Schaft",
@@ -242,7 +247,8 @@
 	"bm_wp_g36_fg_long" : "G36E Frontgriff",
 	"bm_wp_g36_m_quick" : "G36 Schnelllade-Magazin",
 	
-	"bm_wp_olympic_s_short" : "K23P Schaft",
+	"bm_wp_olympic_s_short"   : "K23P Schaft",
+	"bm_wp_olympic_fg_railed" : "K23B Taktischer Handschutz",
 	
 	"bm_wp_fal_s_01"          : "SA58 OSW Schaft",
 	"bm_wp_fal_g_01"          : "SA58 OSW Griff",
@@ -285,6 +291,13 @@
 	
 	"bm_wp_desertfox_b_long" : "Early Quad-Rail Handschutz",
 	
+	"bm_wp_ns_duck"	            : "Paradigm SRP Gator Schrotspreizer",
+	"bm_wp_r870_s_folding"  : "Faltschaft",
+	"bm_wp_b682_s_ammopouch" : "Patronenhalter",
+	"bm_wp_r870_fg_wood"   : "Hölzerner Frontgriff",
+	
+	
+	
 	"bm_wp_mosin_ns_bayonet_desc" : "Das Mosin Nagant Bajonett ist ein Stachelbajonett, was bedeutet, im Gegensatz zu einem Messerbajonett, ist es nicht in der Lage, von Hand benutzt zu werden.\nEs misst 19,5 Zoll(49,5cm).",
 
 	"bm_melee_nin"         : "PALSODE IM360CI 90MM kabellose Gasnagelpistole",
@@ -292,6 +305,8 @@
 	"bm_melee_ballistic"   : "USA-Style Ballistische Messer",
 	"bm_melee_beardy"      : "Nordische lange Bartaxt",
 	"bm_melee_cs"          : "Homelite Super 2 Kettensäge",
+	"bm_melee_rambo"       : "Bowie Messer",
+	"bm_melee_x46"         : "Robson X46 Überlebensmesser",
 
 	"bm_melee_weapon_info"        : "",
 	"bm_melee_fists_info"         : "",
@@ -447,6 +462,9 @@
 	"bm_wp_g26_b_custom"     : "Salient Arms Tier 1 Lauf",
 	"bm_wp_g26_m_custom"     : "Salient Arms Tier 1 Magazin",
 	"bm_wp_g26_body_salient" : "Salient Arms Tier 1 Rahmen",
+	
+	"bm_wp_shepheard_body_short" : "MPX-K Handschutz",
+	"bm_wp_shepheard_s_no"       : "MPX-K Schaft",
 	
 	"bm_wp_mg42_b_mg34" : "MG 34 Lauf"
 }
