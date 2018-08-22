@@ -304,6 +304,8 @@
   "bm_wp_mosin_b_short" : "Canon de Carabine M1907 M38",
   "bm_wp_mosin_b_long"  : "Canon M1907's M91/30",
   
+  "bm_wp_shepheard_body_short" : "Garde-main MPX-K",
+  
   "bm_wp_mosin_ns_bayonet_desc" : "La baïonnette Mosin Nagant est une baïonnette à pointe, ce qui signifie que contrairement à une baïonnette de type couteau, elle ne peut pas être maniée à la main.\nMesure 19 pouces et demi.",
   
 	"bm_melee_bullseye"    : "Hachette S&W Bullseye",
