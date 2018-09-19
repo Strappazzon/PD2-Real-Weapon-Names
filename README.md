@@ -8,9 +8,9 @@ The mod can be downloaded on [Mod Workshop](https://modworkshop.net/mydownloads.
 To download the mod from here [click here](https://github.com/xDarkWolf/PD2-Real-Weapon-Names/releases/latest).
 
 ## Requirements
-This mod requires the [BLT Hook](http://paydaymods.com/download/) installed in order to work.
+This mod requires the [BLT Hook](http://paydaymods.com/download/) or [SuperBLT](https://superblt.znix.xyz/) installed in order to work.
 
-For auto-update ["Update this Mod"](https://modworkshop.net/mydownloads.php?action=view_down&did=19117) is needed but it's optional.
+For auto-update [SuperBLT](https://superblt.znix.xyz/) or ["Update this Mod"](https://modworkshop.net/mydownloads.php?action=view_down&did=19117) is needed but it's optional.
 
 ## How to install the mod
 To install the mod simply extract the **Real Weapon Names** folder from inside the ZIP archive, then paste it inside the `\PAYDAY 2\mods\` folder.
@@ -33,3 +33,4 @@ Want to help localizing this mod into your language? Edit the corresponding file
  - [Retreeb](https://github.com/Retreeb): Russian localization
  - [BangL](https://github.com/BangL): Fixes
  - [Rooster Teeth](https://steamcommunity.com/id/Ernestoleftenant/): Spanish localization & Additions
+ - [Snh20](https://modworkshop.net/member.php?action=profile&uid=9746): Achievement Toogle Code from strind_id Revealer
