@@ -1,4 +1,4 @@
-String_ShowTranslated = String_ShowTranslated or true
+String_ShowTranslated = String_ShowTranslated or false
 local text_actual = LocalizationManager.text
 local t = {
 	--pistols
