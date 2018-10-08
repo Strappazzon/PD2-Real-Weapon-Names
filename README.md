@@ -34,3 +34,4 @@ Want to help localizing this mod into your language? Edit the corresponding file
  - [BangL](https://github.com/BangL): Fixes
  - [Rooster Teeth](https://steamcommunity.com/id/Ernestoleftenant/): Spanish localization & Additions
  - [Snh20](https://modworkshop.net/member.php?action=profile&uid=9746): Achievement Toogle Code from strind_id Revealer
+ - [NewPJzuza](https://modworkshop.net/member.php?action=profile&uid=34731): Help with Testing and Fixing
