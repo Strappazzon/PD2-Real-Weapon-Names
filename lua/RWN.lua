@@ -38,13 +38,13 @@ Hooks:Add("LocalizationManagerPostInit", "RWNLoc_LocalizationManagerPostInit", f
 
     if current_language then -- Controlla che la lingua sia stata identificata nel modo corretto
 		log("RWN: Current language is: " .. current_language)
-        local _path = RWNLoc._path .. current_language .. ".txt"
+        local _path = RWNLoc._path .. current_language .. ".json"
 
         if io.file_is_readable(_path) then -- Il file esiste?
-            loc:load_localization_file(RWNLoc._path .. current_language .. ".txt") -- current_language == nome del file!
-            loc:load_localization_file(RWNLoc._path .. "en.txt", false) -- Se mancano stringhe nelle altre lingue vengono usate quelle inglesi
+            loc:load_localization_file(RWNLoc._path .. current_language .. ".json") -- current_language == nome del file!
+            loc:load_localization_file(RWNLoc._path .. "en.json", false) -- Se mancano stringhe nelle altre lingue vengono usate quelle inglesi
         else -- Se altrimenti non esistono altri file carica la localizzazione inglese
-            loc:load_localization_file(RWNLoc._path .. "en.txt")
+            loc:load_localization_file(RWNLoc._path .. "en.json")
         end
     end
 end)
