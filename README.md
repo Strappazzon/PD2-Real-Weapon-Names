@@ -33,5 +33,5 @@ Want to help localizing this mod into your language? Edit the corresponding file
  - [Retreeb](https://github.com/Retreeb): Russian localization
  - [BangL](https://github.com/BangL): Fixes
  - [Rooster Teeth](https://steamcommunity.com/id/Ernestoleftenant/): Spanish localization & Additions
- - [Snh20](https://modworkshop.net/member.php?action=profile&uid=9746): Achievement Toogle Code from strind_id Revealer
+ - [Snh20](https://modworkshop.net/member.php?action=profile&uid=9746): Achievement Toogle Code from [strind_id Revealer](https://modworkshop.net/mydownloads.php?action=view_down&did=14801)
  - [NewPJzuza](https://modworkshop.net/member.php?action=profile&uid=34731): Help with Testing and Fixing
