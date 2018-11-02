@@ -24,6 +24,7 @@
 	"bm_w_ak12"       : "Izhmash AK-12",
 	"bm_w_ching"      : "M1 Garand",
 	"bm_w_corgi"      : "FN F2000 Tactical TR",
+	"bm_w_komodo"     : "IWI X95",
 
 	"bm_w_spas12"   : "Franchi SPAS-12",
 	"bm_w_b682"     : "CZ Redhead Deluxe O/U",
@@ -34,6 +35,7 @@
 	"bm_w_ksg"      : "Kel-Tec KSG",
 	"bm_w_aa12"     : "MPS AA-12 CQB",
 	"bm_w_boot"     : "Winchester Model 1887",
+	"bm_w_coach"	: "Remington Exposed Hammer SxS",
 
 	"bm_w_jowi"         : "Akimbo Glock 26",
 	"bm_w_x_1911"       : "Akimbo 1911 Lightweight Operator",
@@ -55,6 +57,7 @@
 	"bm_w_x_2006m"      : "Akimbo Mateba 2006M",
 	"bm_w_x_p226"       : "Akimbo SIG-Sauer P226R",
 	"bm_w_x_ppk"        : "Akimbo Walther PPK",
+	"bm_w_x_legacy"		: "Akimbo H&K P7M13",
 	
 	"bm_w_x_basset"     : "Akimbo CBRPS Spike X1S Saiga-12K CQB",
 	"bm_w_x_rota"       : "Akimbo Crye Precision SIX12",
@@ -131,6 +134,7 @@
 	"bm_w_breech"       : "Luger P08",
 	"bm_w_shrew"        : "Colt Defender",
 	"bm_w_chinchilla"   : "Smith & Wesson Model 29",
+	"bm_w_legacy"		: "H&K P7M13",
 
 	"bm_w_m1928"      : "Thompson M1928A1 LTD",
 	"bm_w_mac10"      : "Ingram MAC-11",
