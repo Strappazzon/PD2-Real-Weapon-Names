@@ -8,7 +8,7 @@
 	"undisablable" : false,
 	"disable_safe_mode" : true,
 	"contact" : "www.steamcommunity.com/id/Winston-Wolfe",
-	"version" : "2.9.1",
+	"version" : "2.9.2",
 	"updates" : [
 		{
 			"identifier" : "RealWeaponNames",
