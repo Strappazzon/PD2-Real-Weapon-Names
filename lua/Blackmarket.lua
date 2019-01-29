@@ -24,7 +24,7 @@ Hooks:PostHook( BlackMarketGui , "update_info_text" , "RWN_BlackMarketGuiPostUpd
 	end
 end )
 
--- Mostra le descrizioni delle armi da mischia al passaggio del mouse e sposta eventuali stringhe che potrebbero intralciare verso l'alto
+-- Toggle melee weapons description on mouse hover. If the description is too long some strings might be moved on the top
 Hooks:PostHook( BlackMarketGui , "mouse_moved" , "RWN_BlackMarketGuiPostMouseMoved" , function( self , o , x , y )
 
 	if not self._selected then return end
@@ -57,7 +57,7 @@ Hooks:PostHook( BlackMarketGui , "mouse_moved" , "RWN_BlackMarketGuiPostMouseMov
 	end
 end )
 
--- Mostra le descrizioni delle armi da mischia
+-- Melee weapons description
 Hooks:PostHook( BlackMarketTweakData , "_init_melee_weapons" , "RWN_BlackMarketTweakDataPostInitMeleeWeapons" , function( self , tweak_data )
 
 	for k , v in pairs( self.melee_weapons ) do

@@ -5,7 +5,7 @@ function EconomyTweakData:create_weapon_skin_market_search_url(weapon_id, cosmet
 	if cosmetic_name and weapon_name then
 		cosmetic_name = string.gsub(cosmetic_name, " ", "+")
 		weapon_name = string.gsub(weapon_name, " ", "+")
-		return string.gsub("http://steamcommunity.com/market/search?appid=218620&q=" .. cosmetic_name .. "+" .. weapon_name, "++", "+")
+		return string.gsub("https://steamcommunity.com/market/search?appid=218620&q=" .. cosmetic_name .. "+" .. weapon_name, "++", "+")
 	end
 	return nil
 end

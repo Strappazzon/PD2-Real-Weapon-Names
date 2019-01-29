@@ -4,19 +4,16 @@
 This mod changes the PAYDAY 2 weapon names with the real ones. It supports all weapons, weapon mods, melee weapons, throwables and also the HUD and Side Jobs!
 
 ## Download
-The mod can be downloaded on [Mod Workshop](https://modworkshop.net/mydownloads.php?action=view_down&did=19958).
-To download the mod from here [click here](https://github.com/xDarkWolf/PD2-Real-Weapon-Names/releases/latest).
+The mod can be downloaded from [Mod Workshop](https://modwork.shop/19958) or from the [Releases page](https://github.com/Strappazzon/PD2-Real-Weapon-Names/releases/latest).
 
 ## Requirements
-This mod requires the [BLT Hook](http://paydaymods.com/download/) or [SuperBLT](https://superblt.znix.xyz/) installed in order to work.
-
-For auto-update [SuperBLT](https://superblt.znix.xyz/) or ["Update this Mod"](https://modworkshop.net/mydownloads.php?action=view_down&did=19117) is needed but it's optional.
+ - Either [BLT Hook](http://paydaymods.com/download/) or [SuperBLT](https://superblt.znix.xyz/)
+ - [SuperBLT](https://superblt.znix.xyz/) or [Update This Mod](https://modwork.shop/19117) to enable auto-updates
 
 ## How to install the mod
-To install the mod simply extract the **Real Weapon Names** folder from inside the ZIP archive, then paste it inside the `\PAYDAY 2\mods\` folder.
+Extract the **Real Weapon Names** folder inside the ZIP archive to `\PAYDAY 2\mods\`
 
 ## Supported Languages
-Real Weapon Names supports many languages. You can see the localization progress down below:
 
  - English
  - French
@@ -25,13 +22,14 @@ Real Weapon Names supports many languages. You can see the localization progress
  - Russian
  - Spanish
 
-Want to help localizing this mod into your language? Edit the corresponding file inside `lua\loc\` and then send a pull request. If your language is not listed here add a new file inside the folder mentioned before and then send a pull request!
+Want to help localizing this mod into your language? Edit the corresponding file inside `lua\loc\` then send a pull request.
+If the file corresponding to your language is not present add it.
 
 ## Contributors
- - [PoorpocketsMcNewhold](http://steamcommunity.com/profiles/76561198111231970/): French localization
- - [ShiNRaX2](http://steamcommunity.com/profiles/76561198028016758/): German localization & further Maintaining
+ - [PoorpocketsMcNewhold](https://steamcommunity.com/profiles/76561198111231970/): French localization
+ - [ShiNRaX2](https://steamcommunity.com/profiles/76561198028016758/): German localization & further maintaining
  - [Retreeb](https://github.com/Retreeb): Russian localization
  - [BangL](https://github.com/BangL): Fixes
  - [Rooster Teeth](https://steamcommunity.com/id/Ernestoleftenant/): Spanish localization & Additions
- - [Snh20](https://modworkshop.net/member.php?action=profile&uid=9746): Achievement Toogle Code from [strind_id Revealer](https://modworkshop.net/mydownloads.php?action=view_down&did=14801)
+ - [Snh20](https://modworkshop.net/member.php?action=profile&uid=9746): Achievement Toogle Code from [string_id Revealer](https://modwork.shop/14801)
  - [NewPJzuza](https://modworkshop.net/member.php?action=profile&uid=34731): Help with Testing and Fixing

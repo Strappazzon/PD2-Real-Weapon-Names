@@ -2,7 +2,7 @@ if not _G.RWNLoc then
 _G.RWNLoc = _G.RWNLoc or {}
 RWNLoc._path = ModPath .. "lua/loc/"
 
--- Determina le lingue supportate dalla mod e le identifica
+-- Supported languages
 Hooks:Add("LocalizationManagerPostInit", "RWNLoc_LocalizationManagerPostInit", function(loc)
     local current_language = nil
     local supported_languages = {
@@ -36,14 +36,14 @@ Hooks:Add("LocalizationManagerPostInit", "RWNLoc_LocalizationManagerPostInit", f
 			end		
 	end
 
-    if current_language then -- Controlla che la lingua sia stata identificata nel modo corretto
+    if current_language then -- Check current language
 		log("RWN: Current language is: " .. current_language)
         local _path = RWNLoc._path .. current_language .. ".json"
 
-        if io.file_is_readable(_path) then -- Il file esiste?
-            loc:load_localization_file(RWNLoc._path .. current_language .. ".json") -- current_language == nome del file!
-            loc:load_localization_file(RWNLoc._path .. "en.json", false) -- Se mancano stringhe nelle altre lingue vengono usate quelle inglesi
-        else -- Se altrimenti non esistono altri file carica la localizzazione inglese
+        if io.file_is_readable(_path) then -- Does the corresponding file exist?
+            loc:load_localization_file(RWNLoc._path .. current_language .. ".json") -- current_language == file name!
+            loc:load_localization_file(RWNLoc._path .. "en.json", false) -- If a string is not localized, load the english one
+        else -- If the mod is not localized load the default one
             loc:load_localization_file(RWNLoc._path .. "en.json")
         end
     end
