@@ -211,13 +211,17 @@
 	"bm_wp_upg_ns_ass_smg_small"   : "GEMTECH HALO Suppressor",
 	"bm_wp_upg_ns_ass_smg_firepig" : "Noveske KX3 Flash Suppressor",
 	"bm_wp_upg_ns_ass_smg_stubby"  : "VFC Stinger Flash Hider",
+	"bm_wp_upg_ns_ass_smg_large"   : "Generic Big Suppressor",
 	"bm_wp_upg_ns_ass_pbs1"        : "PBS-1 Sound Suppressor",
 	"bm_wp_upg_ns_medium_gem"      : "GEMTECH BLACKSIDE-45 Suppressor",
-	"bm_wp_upg_ns_large_kac"       : "Knight's Armament Mk23 Suppressor Custom",
-	"bm_wp_upg_ns_pis_small"       : "Thompson Machine Poseidon Suppressor Custom",
+	"bm_wp_upg_ns_large_kac"       : "Knight's Armament Mk23 Suppressor",
+	"bm_wp_upg_ns_pis_small"       : "Thompson Machine Poseidon Suppressor",
 	"bm_wp_upg_ns_pis_large"       : "SilencerCo Osprey .45 Suppressor",
 	"bm_wp_upg_ns_ass_filter"      : "Oil Filter Suppressor",
 	"bm_wp_mosin_b_sniper"         : "Bramit Suppressor",
+	"bm_wp_upg_ns_pis_jungle"      : "M1911A1 Custom Camouflaged Supressor",
+	"bm_wp_upg_ns_pis_medium_slim" : "Chromed Suppressor",
+	"bm_wp_sr2_ns_silencer"        : "9x39mm Suppressor",
 
 	"bm_wp_upg_ass_ns_jprifles" : "JP Standard-Profile Compensator",
 	"bm_wp_upg_ass_ns_linear"   : "KIES Blast Master Linear Compensator",
@@ -234,9 +238,8 @@
 	"bm_wp_upg_m4_s_crane"  : "NSWC Crane Stock",
 	"bm_wp_upg_m4_s_mk46"   : "NSWC Crane Stock Custom",
 	"bm_wp_ak_s_folding"    : "Folding AK Stock",
-	"bm_wp_ak_s_skfoldable" : "Folding AK Stock",
+	"bm_wp_ak_s_skfoldable" : "AKS-74 Stock",
 	"bm_wp_upg_m4_s_ubr"    : "Magpul UBR Collapsible Buttstock Custom",
-	"bm_wp_m37_s_short"     : "Sawed-Off Stock",
 
 	"bm_wp_m4_g_ergo"      : "Command Arms UPG16 Grip",
 	"bm_wp_m4_g_sniper"    : "Generic Weight-Balanced Synthetic Grip",
@@ -276,9 +279,12 @@
 	"bm_wp_aug_fg_a3"    : "AUG A3 Foregrip",
 	"bm_wp_aug_body_f90" : "Thales EF88/F90 Receiver",
 	"bm_wp_aug_b_short"  : "AUG Carbine 16 Inch Barrel",
+	"bm_wp_aug_b_long"   : "AUG HBAR Barrel",
 
 	"bm_wp_l85a2_fg_short" : "Daniel Defense Railed Foregrip",
 	"bm_wp_l85a2_b_short"  : "L22 Prototype Barrel",
+	"bm_wp_l85a2_b_long"   : "L86A1 Barrel",
+	"bm_wp_l85a2_g_worn"   : "Worn Grip",
 
 	"bm_wp_famas_b_suppressed" : "Integrally Suppressed Barrel",
 	"bm_wp_famas_b_long"       : "G2 Civilian Barrel",
@@ -294,6 +300,9 @@
 
 	"bm_wp_sub2000_fg_gen2"       : "Gen 2 Kit",
 	"bm_wp_sub2000_fg_suppressed" : "GemTech MK-9K Suppressor",
+	"bm_wp_sub2000_fg_railed"     : "Red Lion Precision Gen I SUB-2000 Foregrip",
+	
+	"bm_wp_tecci_b_long" : "LMG Barrel",
 
 	"bm_wp_scar_s_sniper"        : "FN SSR Stock",
 	"bm_wp_scar_b_short"         : "Mk17 CQC Kit",
@@ -305,17 +314,20 @@
 	"bm_wp_m14_body_jae"         : "JAE-100 G3 Chassis Custom",
 	"bm_wp_upg_o_m14_scopemount" : "Mk14 Chassis",
 
-	"bm_wp_vhs_b_short" : "VHS-K2 Barrel",
+	"bm_wp_vhs_b_short"    : "VHS-K2 Barrel",
+	"bm_wp_vhs_b_sniper"   : "Long Barrel",
+	"bm_wp_vhs_b_silenced" : "Integral Suppressor",
 
 	"bm_wp_upg_ass_m4_lower_reciever_core"		 : "CORE15 Lower Receiver",
 	"bm_wp_m4_upper_reciever_edge"               : "VLTOR MUR-1A Upper Receiver",
 	"bm_wp_upg_ass_m4_upper_reciever_ballos"	 : "2A-Arms BALIOS-Lite Upper Receiver",
 	"bm_wp_upg_ass_m4_upper_reciever_core"		 : "CORE15 Upper Receiver",
 
-	"bm_wp_m16_fg_railed"       : "Daniel Defense AR15 Lite Rail III Custom",
-	"bm_wp_m16_fg_vietnam"      : "M16A1 Foregrip",
-	"bm_wp_upg_ass_m16_fg_stag" : "Diamondhead VRS-T Custom",
-	"bm_wp_m4_uupg_b_long"      : ".50 Beowulf Conversion Kit",
+	"bm_wp_m16_fg_railed"           : "Daniel Defense AR15 Lite Rail III Custom",
+	"bm_wp_m16_fg_vietnam"          : "M16A1 Foregrip",
+	"bm_wp_upg_ass_m16_fg_stag"     : "Diamondhead VRS-T Custom",
+	"bm_wp_m4_upg_ass_m4_b_beowolf" : ".50 Beowulf Conversion Kit",
+	"bm_wp_m4_uupg_b_short"         : "LR 300 Barrel",
 
 	"bm_wp_m4_uupg_fg_lr300"   : "Z-M LR 300ML Foregrip",
 	"bm_wp_upg_fg_jp"          : "JPHG3-1M Carbon Fibre Custom Foregrip",
@@ -327,6 +339,8 @@
 	"bm_wp_upg_ak_b_draco"       : "Romanian AIMR Barrel",
 	"bm_wp_upg_ak_b_ak105"       : "AK-105 Barrel",
 	"bm_wp_upg_ass_ak_b_zastava" : "Zastava M76 Barrel",
+	"bm_wp_akmsu_fg_rail"        : "Generic Railed Handguard",
+	"bm_wp_upg_ak_fg_zenit"      : "RIS Handguard",
 
 	"bm_wp_ak_fg_combo2"       : "Ultimak AK Optic Mount",
 	"bm_wp_ak_fg_combo3"       : "Ultimak AK Modular Rail Forend System",
@@ -355,42 +369,55 @@
 	"bm_wp_polymer_barrel_precision" : "CRB Barrel Shroud",
 	"bm_wp_polymer_ns_silencer"      : "Defiance HPS 4GSK",
 
-	"bm_wp_hk21_b_long" : "HK23E Barrel",
+	"bm_wp_hk21_b_long"   : "HK23E Barrel",
+	"bm_wp_hk21_fg_short" : "Short Handguard",
 
 	"bm_wp_uzi_b_suppressed" : "SIONICS \"Whispering Death\" Retrofit Custom",
 	"bm_wp_uzi_fg_rail"      : "K-Grip",
 	"bm_wp_uzi_s_solid"      : "Original Wooden Buttstock",
 
-	"bm_wp_cobray_ns_silencer" : "SIONICS \"Whispering Death\"",
-	"bm_wp_mac10_body_ris"     : "G&P CQB Tactical Rail Kit Retrofit",
+	"bm_wp_cobray_ns_barrelext" : "Barrel Shroud",
+	"bm_wp_cobray_ns_silencer"  : "SIONICS \"Whispering Death\"",
+	"bm_wp_mac10_body_ris"      : "G&P CQB Tactical Rail Kit Retrofit",
+	"bm_wp_mac10_m_extended"    : "32rnd Magazine",
+	"bm_wp_mac10_m_quick"       : "32rnd Magpul Magazine",
+	
+	"bm_wp_baka_b_comp" : "Compensated Barrel",
 
 	"bm_wp_sterling_b_e11"        : "E-11 Blaster Rifle Barrel",
 	"bm_wp_sterling_b_suppressed" : "Sterling L34A1 Barrel",
 	"bm_wp_sterling_b_short"      : "Sterling Mk 7 \"Para-Pistol\" Barrel",
 	"bm_wp_sterling_m_short"      : "E-11 Blaster Rifle Magazine",
 	"bm_wp_sterling_s_folded"     : "E-11 Blaster Rifle Stock",
+	"bm_wp_sterling_b_long"       : "Barrel Extension",
 
+	"bm_wp_mp5_fg_mp5a5"      : "Picatiny Tri-Rail Handguard",
 	"bm_wp_mp5_fg_mp5sd"      : "MP5SD5 Barrel",
 	"bm_wp_mp5_fg_m5k"        : "MP5K-N Barrel",
 	"bm_wp_mp5_fg_flash"      : "Handguard with G&P CREE LED Flashlight",
-	"bm_wp_mp5_fg_flash_desc" : "This tactical handguard is a direct replacement of the MP5 fore handguard.",
+	"bm_wp_mp5_fg_flash_desc" : "This tactical handguard is a direct replacement of the MP5 handguard.",
 	"bm_wp_mp5_s_ring"        : "MP5K Stock",
 	"bm_wp_mp5_s_adjust"      : "MP5A3 Stock",
 	"bm_wp_mp5_s_folding"     : "MP5K PDW Stock",
-	"bm_wp_mp5_m_straight"    : "10mm Rounds",
+	"bm_wp_mp5_m_straight"    : "MP5/10 Magazine",
 
 	"bm_wp_mp7_b_suppressed" : "H&K MP7 QD Suppressor",
 
 	"bm_wp_mp9_b_suppressed" : "MP9 QD Suppressor",
-	"bm_wp_mp9_s_skel" : "Steyr TMP Stock Retrofit",
+	"bm_wp_mp9_s_skel"       : "Steyr TMP Stock Retrofit",
+	"bm_wp_mp9_m_extended"   : "30rnd Magazine",
 
 	"bm_wp_p90_b_long"     : "PS90 Civilian Issue Barrel",
 	"bm_wp_p90_b_civilian" : "Moerse Lekker Sales Barrel Shroud",
+	"bm_wp_p90_b_ninja"    : "Custom Japanese Suppressor",
+	"bm_wp_p90_m_strap"    : "P90 Magpul Magazine",
 
-	"bm_wp_hajk_b_short" : "CZ 805 BREN A2 Barrel",
+	"bm_wp_hajk_b_short"  : "CZ 805 BREN A2 Barrel",
+	"bm_wp_hajk_b_medium" : "Standart Barrel",
 
-	"bm_wp_scorpion_m_extended" : "Quick-Swap Magazine",
-	"bm_wp_scorpion_g_wood"     : "Original Wooden Grip",
+	"bm_wp_scorpion_m_extended"   : "Quick-Swap Magazine",
+	"bm_wp_scorpion_g_wood"       : "Original Wooden Grip",
+	"bm_wp_scorpion_b_suppressed" : ".32 ACP Suppressor",
 
 	"bm_wp_pis_g_laser"      : "Crimson Trace Glock Laser Grip",
 	"bm_wp_pis_g_beavertail" : "Cytec Beavertail Grip",
@@ -399,6 +426,8 @@
 	"bm_wp_g18c_g_ergo" : "Hogue Handall Half-Size Universal Grip Sleeve",
 	
 	"bm_wp_pis_s_stock" : "FAB Defense GLR-440",
+	
+	"bm_wp_p14_b_comp" : "Ported Barrel Extension",
 
 	"bm_wp_beretta_co_co1"       : "LA.RI.A AL-GI-MEC Compensator",
 	"bm_wp_beretta_sl_brigadier" : "Brigadier 92FS Slide",
@@ -407,7 +436,9 @@
 
 	"bm_wp_pis_ppk_b_long"       : "Stainless Walther PP Slide",
 	
-	"bm_wp_pis_usp_b_match" : "Stainless Slide with Match Compensator",
+	"bm_wp_pis_usp_b_match"    : "Stainless Slide with Match Compensator",
+	"bm_wp_pis_usp_m_big"      : "25rnd Magazine",
+	"bm_wp_pis_usp_m_extended" : "21rnd Magazine",
 	
 	"bm_wp_g22c_b_long" : "Glock 35 Slide",
 	
@@ -419,13 +450,15 @@
 	"bm_wp_hs2000_sl_custom" : "XD-9 V10 4 Inch Barrel",
 	"bm_wp_hs2000_sl_long"   : "XDM 5.25 Stainless Slide",
 	
-	"bm_wp_peacemaker_barrel_long" : "Buntline Special Barrel",
+	"bm_wp_peacemaker_barrel_long"  : "Buntline Special Barrel",
 	"bm_wp_peacemaker_barrel_short" : "Colt SAA artillery 5.5 Inch Barrel",
+	"bm_wp_peacemaker_rifle_stock"   : "Skeletal Stock",
 	
 	"bm_wp_sparrow_body_941" : "Jericho 941 F Kit",
 	"bm_wp_sparrow_g_cowboy" : "Jericho 941 R Frame",
 
-	"bm_wp_r93_body_wood" : "Blaser R93 Semi-weight Sporting Variant",
+	"bm_wp_r93_body_wood" : "Blaser R93 Semi Weight Sporting Chassis",
+	"bm_wp_r93_b_suppressed" : ".338 Lapua Suppressor",
 
 	"bm_wp_m95_b_barrel_suppressed" : "QDL Suppressor + Camo Shroud",
 	"bm_wp_m95_b_barrel_long"       : "Accuracy International AW50F Barrel",
@@ -438,16 +471,19 @@
 	"bm_wp_basset_fg_short"   : "Shortened Barrel and Rail",
 	"bm_wp_basset_m_extended" : "SGM Tactical SAIGA Shotgun 12 Round Magazine",
 	
-	"bm_wp_ching_b_short"  : "T26 Carbine barrel",
-	"bm_wp_ching_fg_raied" : "Fulton Armory Scout Rail, Gen III",
-	"bm_wp_ching_s_pouch"  : "Olongapo Outfitters Garand Stock Pouch",
+	"bm_wp_ching_b_short"   : "T26 Carbine barrel",
+	"bm_wp_ching_fg_railed" : "Fulton Armory Scout Rail, Gen III",
+	"bm_wp_ching_s_pouch"   : "Olongapo Outfitters Garand Stock Pouch",
 	
 	"bm_wp_erma_s_folded" : "Folded Stock",
 	
-	"bm_wp_m1928_b_long" : "Auto-Ordnance Barrel",
+	"bm_wp_m1928_b_long"      : "M1927 Auto-Ordnance Barrel",
+	"bm_wp_m1928_s_discrete"  : "Synthetic Stock",
+	"bm_wp_m1928_g_discrete"  : "Synthetic Grip",
+	"bm_wp_m1928_fg_discrete" : "Synthetic Foregrip",
 	
 	"bm_wp_tec9_b_standard" : "AB-10 Barrel",
-	"bm_wp_tec9_ns_ext"     : "Extended Barrel",
+	"bm_wp_tec9_ns_ext"     : "Barrel Extension",
 	"bm_wp_tec9_s_unfolded" : "Unfolded Stock",
 	
 	"bm_wp_schakal_b_civil"     : "USC Barrel",
@@ -463,8 +499,10 @@
 	"bm_wp_g36_m_quick" : "G36 Magpul Magazine",
 	"bm_wp_g36_o_vintage" : "ZF 3x4°",
 	
-	"bm_wp_olympic_s_short"   : "K23P Stock",
-	"bm_wp_olympic_fg_railed" : "K23B Tactical Handguard",
+	"bm_wp_olympic_s_short"          : "K23P Stock",
+	"bm_wp_olympic_fg_railed"        : "K23B Tactical Handguard",
+	"bm_wp_m4_uupg_b_medium"         : "Mk 18 Mod 0 Barrel",
+	"bm_wp_upg_smg_olympic_fg_lr300" : "Aftermarket Short Handguard",
 	
 	"bm_wp_fal_s_01"          : "SA58 OSW Stock",
 	"bm_wp_fal_g_01"          : "SA58 OSW Grip",
@@ -493,23 +531,43 @@
 	"bm_wp_g3_fg_railed"        : "Railed Foregrip",
 	
 	"bm_wp_aa12_barrel_long" : "Regular AA-12 Barrel",
+	"bm_wp_aa12_barrel_silenced" : "Integral Suppressor",
 	
-	"bm_wp_1911_g_ergo"   : "American Legend Pachmayr Grip",
-	"bm_wp_1911_g_bling"  : "Wooden Grip",
-	"bm_wp_1911_b_vented" : "Springfield Armory V-12 Vented Slide",
-	"bm_wp_1911_b_long"   : "Springfield Armory V-16 Vented Long Slide",
+	"bm_wp_1911_g_ergo"     : "American Legend Pachmayr Grip",
+	"bm_wp_1911_g_bling"    : "Wooden Grip",
+	"bm_wp_1911_g_engraved" : "Engraved Grip",
+	"bm_wp_1911_m_big"      : "ProMag 22rnd Magazine",
+	"bm_wp_1911_b_vented"   : "Springfield Armory V-12 Vented Slide",
+	"bm_wp_1911_b_long"     : "Springfield Armory V-16 Vented Long Slide",
 	
-	"bm_wp_m249_b_long" : "M249-E2 SAW Barrel",
+	"bm_wp_rage_b_short" : "444 Multi-S/S Barrel",
+	"bm_wp_rage_b_long"  : "444SS8 Barrel",
+	
+	"bm_wp_m249_b_long"  : "M249-E2 SAW Barrel",
 	"bm_wp_m249_s_solid" : "M249-E2 SAW Stock",
 	"bm_wp_m249_fg_mk46" : "MK46 Mod 0 Foregrip",
 	
-	"bm_wp_wa2000_b_long" : "Gen 2 Barrel",
+	"bm_wp_wa2000_b_long"       : "Gen 2 Barrel",
+	"bm_wp_wa2000_b_suppressed" : "Integral Suppressor",
+	"bm_wp_wa2000_g_walnut"     : "Walnut Furniture",
+	"bm_wp_wa2000_g_light"      : "Lightweight Furniture",
+	"bm_wp_wa2000_g_stealth"    : "Black Furniture",
+	
+	"bm_wp_siltstone_b_silenced"     : "7.62x54mm Suppressor",
+	"bm_wp_siltstone_ns_variation_b" : "Custom Compensator",
+	"bm_wp_siltstone_fg_polymer"     : "SVD Tiger Handguard",
+	"bm_wp_siltstone_s_polymer"      : "SVD Tiger Stock",
 	
 	"bm_wp_desertfox_b_long"     : "Early Quad-Rail Handguard",
 	"bm_wp_desertfox_b_silenced" : "DTSS .338 Suppressor",
 	
 	"bm_wp_tti_s_vltor"  : "VLTOR EMOD Stock",
 	"bm_wp_tti_g_grippy" : "Hogue OverMolded Pistol Grip",
+	"bm_wp_tti_ns_hex"   : "5.56x45mm Suppressor",
+	
+	"bm_wp_m134_barrel_extreme"   : "GAU-17/A Barrel",
+	"bm_wp_m134_barrel_short"     : "Cut-Down Barrel",
+	"bm_wp_m134_body_upper_light" : "Low Power Battery",
 	
 	"bm_wpn_fps_upg_o_xpsg33_magnifier" : "Aimpoint 3XMag Magnifier",
 	
@@ -518,26 +576,50 @@
 	
 	"bm_wp_breech_b_reinforced" : "Sports Parabellum Mauser Barrel",
 	
-	"bm_wp_deagle_co_short" : "Magnum Research DE50MB Compensator",
-	"bm_wp_deagle_co_long" : "Boondock Compensator",
+	"bm_wp_deagle_co_short"  : "Magnum Research DE50MB Compensator",
+	"bm_wp_deagle_co_long"   : "Boondock Compensator",
+	"bm_wp_pis_deagle_extra" : "Railed Scope Mount",
+	"bm_wp_deagle_g_bling"   : "Ivory Grip",
+	"bm_wp_deagle_b_long"    : "10 Inch Barrel",
+	"bm_wp_deagle_b_modern"  : "Ported Barrel",
 	
 	"bm_wp_p226_b_equinox" : "P226 Equinox Slide",
 	"bm_wp_p226_b_long"    : "P226 X-Six Slide",
 
 	"bm_wp_shrew_g_ergo"   : "Hogue Officer M1911 Rubber Finger Grip",
+	"bm_wp_shrew_g_bling"  : "Engraved Grip",
 	
-	"bm_wp_2006m_b_medium" : "Medium Barrel",
-	"bm_wp_2006m_b_short"  : "Small Barrel",
-	"bm_wp_2006m_b_long"   : "Heavy Barrel",
+	"bm_wp_2006m_b_medium" : "4 Inch Barrel",
+	"bm_wp_2006m_b_short"  : "3 Inch Barrel",
+	"bm_wp_2006m_b_long"   : "6 Inch Barrel",
+	"bm_wp_2006m_g_bling"  : "Synthetic Grip",
 	
 	"bm_wp_g26_b_custom"     : "Salient Arms Tier 1 Barrel",
 	"bm_wp_g26_m_custom"     : "Salient Arms Tier 1 Magazine",
 	"bm_wp_g26_body_salient" : "Salient Arms Tier 1 Frame",
+		
+	"bm_wp_m37_s_short" : "Sawed-Off Stock",
+	"bm_wp_m37_b_short" : "Stakeout Barrel",
 	
-	"bm_wp_r870_s_folding" : "Folding Stock",
-	"bm_wp_r870_fg_wood"   : "Wooden Pump",
+	"bm_wp_spas12_b_long"  : "Extended Magazine Tube",
+	"bm_wp_spas12_s_solid" : "Fixed Stock",
+	
+	"bm_wp_rota_b_silenced" : "Integral Suppressor",
+	
+	"bm_wp_r870_s_folding"     : "Folding Stock",
+	"bm_wp_r870_fg_wood"       : "Wooden Pump",
+	"bm_wp_r870_m_extended"    : "Extended Magazine Tube",
+	"bm_wp_r870_s_nostock_big" : "Scope Mount",
+	"bm_wp_r870_s_solid_big"   : "Standart Stock with Scope Mount",
+	
+	"bm_wp_shorty_m_extended_short" : "Extended Magazine Tube",
+	"bm_wp_serbu_s_solid_short"     : "Standart Stock with Scope Mount",
+	"bm_wp_serbu_s_nostock_short"   : "Scope Mount",
+	
+	"bm_wp_coach_s_short" : "Sawed-Off Stock",
 	
 	"bm_wp_b682_s_ammopouch" : "Shell Carrier",
+	"bm_wp_b682_s_short"     : "Sawed-Off Stock",
 	
 	"bm_wp_ben_b_short"     : "M4 NFA Barrel",
 	"bm_wp_ben_fg_standard" : "M4 Tactical Stock",
@@ -546,11 +628,23 @@
 	
 	"bm_wp_snp_msr_ns_suppressor" : "TiTAN-QD .338 AAC Suppressor",
 	
-	"bm_wp_mosin_b_short" : "M1907 M38 Carbine Barrel",
-	"bm_wp_mosin_b_long"  : "M1907's M91/30 Barrel",
+	"bm_wp_mosin_b_short"      : "M1907 M38 Carbine Barrel",
+	"bm_wp_mosin_b_long"       : "M1907's M91/30 Barrel",
+	"bm_wp_mosin_ns_bayonet"   : "Mosin Nagant Bayonet",
+	"bm_wp_mosin_body_conceal" : "Synthetic Stock",
 	
 	"bm_wp_shepheard_body_short" : "MPX-K Handguard",
 	"bm_wp_shepheard_s_no"       : "MPX-K Stock",
+	
+	"bm_wp_smg_m45_b_small"    : "Short Barrel",
+	"bm_wp_smg_m45_b_green"    : "M/45B Swedish Green Barrel",
+	"bm_wp_smg_m45_g_bling"    : "Ivory Grip",
+	"bm_wp_smg_m45_g_ergo"     : "Black Grip",
+	"bm_wp_smg_m45_body_green" : "M/45B Swedish Green Finish",
+	
+	"bm_wp_rpk_s_standard" : "RPK-74M Stock",
+	
+	"bm_wp_m32_barrel_short" : "Milkor Mark 14 Barrel",
 	
 	"bm_wp_mosin_ns_bayonet_desc" : "The Mosin Nagant bayonet is a spike bayonet, meaning unlike a knife-style bayonet, it is unable to be wielded by hand.\nMeasures 19 1/2 inches.",
 
@@ -679,7 +773,7 @@
 	"bm_grenade_frag"                      : "M67 Frag Grenade",
 	"bm_grenade_frag_desc"                 : "The M67 grenade is a fragmentation hand grenade used by the United States Military. The M67 is a further development of the M33 grenade, a replacement for the M26-series grenades used during the Korean and Vietnam Wars.",
 	"bm_grenade_molotov"                   : "Molotov Cocktail",
-	"bm_grenade_molotov_desc"              : "A Molotov cocktail, also known as a petrol bomb, poor man's grenade and fire bomb is a generic name used for a variety of bottle-based improvised incendiary weapons. They are primarily intended to set targets ablaze rather than instantly destroy them.\n\nThe name \"Molotov cocktail\" was coined by the Finns during the Winter War. The name was an insulting reference to Soviet foreign minister Vjačeslav Michajlovič Molotov.",
+	"bm_grenade_molotov_desc"              : "A Molotov cocktail, also known as a petrol bomb, poor man's grenade and fire bomb is a generic name used for a variety of bottle-based improvised incendiary weapons. They are primarily intended to set targets ablaze rather than instantly destroy them.\n\nThe name \"Molotov cocktail\" was coined by the Finns during the Winter War. The name was an insulting reference to Soviet foreign minister Vjacheslav Michajlovich Molotov.",
 	"bm_dynamite"                          : "Dynamite",
 	"bm_dynamite_desc"                     : "Dynamite is an explosive material based on nitroglycerin, using diatomaceous earth or another adsorbent substance such as powdered shells or clay. Dynamite was invented by the Swedish chemist and engineer Alfred Nobel in Geesthacht, Germany, and patented in 1867.",
 	"bm_wpn_prj_target"                    : "Tiger Thrower Throwing Knife",
