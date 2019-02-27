@@ -4,11 +4,11 @@
 	"author" : "Winston Wolfe, ShiNRaX2",
 	"image" : "RWN.png",
 	"blt_version" : 2,
-	"color" : "0 47 191",
+	"color" : "30 114 165",
 	"undisablable" : false,
 	"disable_safe_mode" : true,
-	"contact" : "steamcommunity.com/profiles/76561198071727541",
-	"version" : "2.9.2",
+	"contact" : "https://modwork.shop/19958",
+	"version" : "3.0.0",
 	"updates" : [
 		{
 			"identifier" : "RealWeaponNames",

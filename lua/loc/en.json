@@ -450,7 +450,7 @@
 	"bm_wp_hs2000_sl_custom" : "XD-9 V10 4 Inch Barrel",
 	"bm_wp_hs2000_sl_long"   : "XDM 5.25 Stainless Slide",
 	
-	"bm_wp_peacemaker_barrel_long"  : "Buntline Special Barrel",
+	"bm_wp_peacemaker_barrel_long"  : "Colt Buntline Special Barrel",
 	"bm_wp_peacemaker_barrel_short" : "Colt SAA artillery 5.5 Inch Barrel",
 	"bm_wp_peacemaker_rifle_stock"   : "Skeletal Stock",
 	
@@ -610,10 +610,10 @@
 	"bm_wp_r870_fg_wood"       : "Wooden Pump",
 	"bm_wp_r870_m_extended"    : "Extended Magazine Tube",
 	"bm_wp_r870_s_nostock_big" : "Scope Mount",
-	"bm_wp_r870_s_solid_big"   : "Standart Stock with Scope Mount",
+	"bm_wp_r870_s_solid_big"   : "Standard Stock with Scope Mount",
 	
 	"bm_wp_shorty_m_extended_short" : "Extended Magazine Tube",
-	"bm_wp_serbu_s_solid_short"     : "Standart Stock with Scope Mount",
+	"bm_wp_serbu_s_solid_short"     : "Standard Stock with Scope Mount",
 	"bm_wp_serbu_s_nostock_short"   : "Scope Mount",
 	
 	"bm_wp_coach_s_short" : "Sawed-Off Stock",
@@ -641,11 +641,11 @@
 	"bm_wp_smg_m45_g_bling"    : "Ivory Grip",
 	"bm_wp_smg_m45_g_ergo"     : "Black Grip",
 	"bm_wp_smg_m45_body_green" : "M/45B Swedish Green Finish",
-	
+
 	"bm_wp_rpk_s_standard" : "RPK-74M Stock",
-	
+
 	"bm_wp_m32_barrel_short" : "Milkor Mark 14 Barrel",
-	
+
 	"bm_wp_mosin_ns_bayonet_desc" : "The Mosin Nagant bayonet is a spike bayonet, meaning unlike a knife-style bayonet, it is unable to be wielded by hand.\nMeasures 19 1/2 inches.",
 
 	"bm_melee_model24"     : "Model 24 Stielhandgranate",
@@ -690,7 +690,7 @@
 	"bm_melee_moneybundle_info"   : "",
 	"bm_melee_baseballbat_info"   : "",
 	"bm_melee_x46_info"           : "",
-	"bm_melee_dingdong_info"      : "",
+	"bm_melee_dingdong_info"      : "When ringing the doorbell isn't a reality but the need to get through a barrier is, the Ding Dong combines 3 essential breaching tools. Designed for MOLLE compatibility, this sledgehammer, battering ram, pry bar hybrid is all business.",
 	"bm_melee_bayonet_info"       : "",
 	"bm_melee_bullseye_info"      : "",
 	"bm_melee_bat_info"           : "",
