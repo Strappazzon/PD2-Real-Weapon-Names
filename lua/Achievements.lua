@@ -92,7 +92,7 @@ local t = {
 local function achievement_string(self, string_id, ...)
 	if String_ShowTranslated == true then	
 		if t[string_id] then
-			return t[string_id]
+			return text_actual(self, "RWN_"..string_id, ...)
 		end
 	end
 	return text_actual(self, string_id, ...)
