@@ -11,8 +11,8 @@ if superblt == false then
 			mod_id = 'Real Weapon Names',
 			data = {
 				modworkshop_id = 19958,
-				dl_url = 'https://raw.githubusercontent.com/xDarkWolf/PD2-Real-Weapon-Names/master/RWN.zip',
-				info_url = 'https://raw.githubusercontent.com/xDarkWolf/PD2-Real-Weapon-Names/master/mod.txt'
+				dl_url = 'https://raw.githubusercontent.com/Strappazzon/PD2-Real-Weapon-Names/master/RWN.zip',
+				info_url = 'https://raw.githubusercontent.com/Strappazzon/PD2-Real-Weapon-Names/master/mod.txt'
 			}
 		})
 	end
