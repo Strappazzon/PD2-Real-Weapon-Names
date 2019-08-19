@@ -34,9 +34,8 @@ See the [Readme](https://github.com/Strappazzon/PD2-Real-Weapon-Names/blob/maste
 
  - [ShiNRaX2](https://steamcommunity.com/profiles/76561198028016758/): Further maintaining & German localization
  - [PoorpocketsMcNewhold](https://steamcommunity.com/profiles/76561198111231970/): French localization
- - [Retreeb](https://github.com/Retreeb): Russian localization
+ - [Retreeb](https://github.com/Retreeb) and [OverkeelSpy](https://github.com/OverkeelSpy): Russian localization
  - [BangL](https://github.com/BangL): Fixes
  - [Rooster Teeth](https://steamcommunity.com/id/Ernestoleftenant/): Additions & Spanish localization
  - [Snh20](https://modworkshop.net/member.php?action=profile&uid=9746): Achievement Toogle Code based on [string_id Revealer](https://modwork.shop/14801)
  - [NewPJzuza](https://modworkshop.net/member.php?action=profile&uid=34731): Testing and Fixing
- - [OverkeelSpy](https://github.com/OverkeelSpy): Russian localization
