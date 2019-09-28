@@ -1,4 +1,4 @@
-![](https://puu.sh/vS8qA.png)
+![](https://kmu.files.cnow.at/s/9aAQTMzab2afbrp/preview)
 
 ## Real Weapon Names
 
