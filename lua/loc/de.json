@@ -78,7 +78,7 @@
 	"bm_wp_upg_fl_pis_laser"               : "CMR-201 RAIL MASTER Laservisier",
 	"bm_wp_upg_fl_pis_laser_desc"          : "Dies ist ein leistungsstarkes und vielseitiges Laservisier, die für Pistolen, Gewehre und Schrotflinten mit Zubehörschiene geeignet ist.\nLaufzeit: 4 Stunden.",
 	"bm_wp_upg_fl_crimson"                 : "CN-201 RAIL MASTER Laservisier",
-	"bm_wp_upg_fl_x400v"                   : "SureFire X400V IRc LED Licht and Laservisier",
+	"bm_wp_upg_fl_x400v"                   : "SureFire X400V IRc Licht and Laservisier",
 	"bm_wp_upg_fl_x400v_desc"              : "Dies ist ein vielseitig einsetzbares Dual-Spektrum-Licht, das auch ein integrierte Klasse 1 Infrarot-Laservisier für den Einsatz mit Nachtsichtgeräten bietet.\nLaufzeit: 2,5 Stunden.",
 	"bm_wp_upg_fl_pis_m3x_desc"            : "Dieses Licht wurde gebaut, um unter den strengsten Bedingungen zu funktionieren und die härtesten Umgebungen zu überleben. Aus diesem Grund kann es 66 Fuß tief tauchen und noch wasserdicht bleiben.\nLaufzeit: 1 Stunde",
 
@@ -574,6 +574,23 @@
 	"bm_wp_l85a2_fg_short" : "Daniel Defense Frontgriff mit Schienen",
 	"bm_wp_l85a2_b_short"  : "L22 Prototypenlauf",
 	
+    "bm_wp_beer_b_robo"     : "\"RoboCop\"-Lauf",
+    "bm_wp_beer_g_robo"     : "\"RoboCop\"-Griff",
+    "bm_wp_beer_g_lux"      : "Hölzerner Griff",
+    "bm_wp_beer_s_std"      : "Drahtrahmenschaft",
+    "bm_wp_beer_m_extended" : "Erweitertes Magazin",
+    
+    "bm_wp_czech_b_long"        : "Lauferweiterung",
+    "bm_wp_czech_g_sport"       : "Angepasster Griff",
+    "bm_wp_czech_g_luxury"      : "Hölzerner Griff",
+    "bm_wp_czech_s_standard"    : "Drahtrahmenschaft",
+    "bm_wp_czech_m_extended"    : "Erweitertes Magazin",
+    
+    "bm_wp_stech_b_long"        : "Lauferweiterung",
+    "bm_wp_stech_g_tactical"    : "Angepasster Gummigriff",
+    "bm_wp_stech_g_luxury"      : "Angepasster Holzgriff",
+    "bm_wp_stech_s_standard"    : "Hölzerner Schaft",
+    "bm_wp_stech_m_extended"    : "Erweitertes Magazin",
+    
 	"bm_wp_sub2000_fg_suppressed" : "GemTech MK-9K Schalldämpfer"
-	
 }

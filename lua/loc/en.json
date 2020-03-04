@@ -58,6 +58,9 @@
 	"bm_w_x_p226"       : "Akimbo SIG-Sauer P226R",
 	"bm_w_x_ppk"        : "Akimbo Walther PPK",
 	"bm_w_x_legacy"		: "Akimbo H&K P7M13",
+    "bm_w_x_stech"      : "Akimbo Stechkin APS",
+    "bm_w_x_beer"       : "Akimbo Beretta 93R",
+    "bm_w_x_czech"      : "Akimbo CZ 75",
 	
 	"bm_w_x_basset"     : "Akimbo CBRPS Spike X1S Saiga-12K CQB",
 	"bm_w_x_rota"       : "Akimbo Crye Precision SIX12",
@@ -135,6 +138,9 @@
 	"bm_w_shrew"        : "Colt Defender",
 	"bm_w_chinchilla"   : "Smith & Wesson Model 29",
 	"bm_w_legacy"		: "H&K P7M13",
+    "bm_w_stech"        : "Stechkin APS",
+    "bm_w_beer"         : "Beretta 93R",
+    "bm_w_czech"        : "CZ 75",
 
 	"bm_w_m1928"      : "Thompson M1928A1 LTD",
 	"bm_w_mac10"      : "Ingram MAC-11",
@@ -259,7 +265,7 @@
 	"bm_wp_upg_fl_pis_laser"               : "CMR-201 RAIL MASTER Laser Sight",
 	"bm_wp_upg_fl_pis_laser_desc"          : "This is a powerful and versatile laser sight designed to fit rail-equipped pistols, rifles and shotguns.\nRun Time: 4 hours.",
 	"bm_wp_upg_fl_crimson"                 : "CN-201 RAIL MASTER Laser Sight",
-	"bm_wp_upg_fl_x400v"                   : "SureFire X400V IRc LED Light and Laser Sight",
+	"bm_wp_upg_fl_x400v"                   : "SureFire X400V IRc Light and Laser Sight",
 	"bm_wp_upg_fl_x400v_desc"              : "This is an highly versatile dual-spectrum light that also boasts an integral Class 1 infrared-laser sight for use with night vision devices.\nRun Time: 2.5 hours.",
 	"bm_wp_upg_fl_pis_m3x"                 : "Insight Technology M3X Tactical Illuminator",
 	"bm_wp_upg_fl_pis_m3x_desc"            : "This light was built to perform under the most rigorous conditions and survive the harshest environments. Because of this, it can go as deep as 66ft. and still remain waterproof.\nRun Time: 1 hour",
@@ -804,6 +810,34 @@
 	"menu_lmg"           : "Light Machine Guns",
 	"menu_pistol"        : "Pistols",
 	"menu_smg"           : "Sub-Machine Guns",
+    
+    "bm_wp_upg_o_rms"   : "Shield RMSc",
+    "bm_wp_upg_ns_typhoon" : "Tandemkross Game Changer Compensator",
+
+    "bm_wp_upg_g_m4_surgeon" : "Surgeon CNC Aluminum Skeletonized Grip",
+    "bm_wp_upg_ns_ass_smg_v6" : "V6 Industries V6",
+    "bm_wp_upg_o_fc1" : "PPT 1X FC1",
+    "bm_wp_upg_o_uh" : "Vortex Razor AMG UH-1",
+    "bm_wp_upg_o_bmg" : "Trijicon ACOG 6x48 BAC",
+    "bm_wpn_fps_upg_o_sig" : "Sig Sauer Juliet3 3x24mm Magnifier",    
+    
+    "bm_wp_beer_b_robo"     : "RoboCop Barrel",
+    "bm_wp_beer_g_robo"     : "RoboCop Grip",
+    "bm_wp_beer_g_lux"      : "Wooden Grip",
+    "bm_wp_beer_s_std"      : "Wire-frame Stock",
+    "bm_wp_beer_m_extended" : "Extended Magazine",
+    
+    "bm_wp_czech_b_long"        : "Barrel Extension",
+    "bm_wp_czech_g_sport"       : "Custom Grip",
+    "bm_wp_czech_g_luxury"      : "Wooden Grip",
+    "bm_wp_czech_s_standard"    : "Wire-frame Stock",
+    "bm_wp_czech_m_extended"    : "Extended Magazine",
+    
+    "bm_wp_stech_b_long"        : "Barrel Extension",
+    "bm_wp_stech_g_tactical"    : "Custom Rubber Grip",
+    "bm_wp_stech_g_luxury"      : "Custom Wooden Grip",
+    "bm_wp_stech_s_standard"    : "Wooden Stock",
+    "bm_wp_stech_m_extended"    : "Extended Magazine",
 	
 	"RWN_bm_w_c96" : "Broomstick Pistol",
 	"RWN_bm_w_usp" : "Interceptor 45 Pistol",
