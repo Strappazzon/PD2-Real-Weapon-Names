@@ -819,7 +819,8 @@
     "bm_wp_upg_o_fc1" : "PPT 1X FC1",
     "bm_wp_upg_o_uh" : "Vortex Razor AMG UH-1",
     "bm_wp_upg_o_bmg" : "Trijicon ACOG 6x48 BAC",
-    "bm_wpn_fps_upg_o_sig" : "Sig Sauer Juliet3 3x24mm Magnifier",    
+    "bm_wpn_fps_upg_o_sig" : "Sig Sauer Juliet3 3x24mm Magnifier",
+    "bm_wp_upg_o_rikt" : "Aimpoint Acro P-1",
     
     "bm_wp_beer_b_robo"     : "RoboCop Barrel",
     "bm_wp_beer_g_robo"     : "RoboCop Grip",

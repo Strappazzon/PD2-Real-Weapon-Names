@@ -247,7 +247,7 @@
 	
 	"bm_wp_peacemaker_barrel_long"  : "Colt Buntline Special Lauf",
 	"bm_wp_peacemaker_barrel_short" : "Colt SAA artillery 5.5 Zoll Lauf",
-	"bm_wp_peacemaker_rifle_stock"   : "Skeletschaft",
+	"bm_wp_peacemaker_rifle_stock"   : "Skelettschaft",
 	
 	"bm_wp_sparrow_body_941" : "Jericho 941 F Kit",
 	"bm_wp_sparrow_g_cowboy" : "Jericho 941 R Rahmen",
@@ -591,6 +591,11 @@
     "bm_wp_stech_g_luxury"      : "Angepasster Holzgriff",
     "bm_wp_stech_s_standard"    : "Hölzerner Schaft",
     "bm_wp_stech_m_extended"    : "Erweitertes Magazin",
+    
+    "bm_wp_upg_ns_typhoon" : "Tandemkross Game Changer Kompensator",
+
+    "bm_wp_upg_g_m4_surgeon" : "Surgeon CNC Aluminum Skelettgriff",
+    "bm_wpn_fps_upg_o_sig" : "Sig Sauer Juliet3 3x24mm Vergrößerer",
     
 	"bm_wp_sub2000_fg_suppressed" : "GemTech MK-9K Schalldämpfer"
 }
