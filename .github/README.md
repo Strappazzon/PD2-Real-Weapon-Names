@@ -30,7 +30,7 @@ The mod can be downloaded from [Mod Workshop](https://modwork.shop/19958) or fro
 2. Download the mod from from [Mod Workshop](https://modwork.shop/19958) or the [Releases page](https://github.com/Strappazzon/PD2-Real-Weapon-Names/releases/latest)
 3. Open **RWN.zip** with an archive manager
 4. Drag the **"Real Weapon Names"** folder into `\PAYDAY 2\mods\`
-   * Default fodler: **C:\Program Files (x86)\Steam\steamapps\common\PAYDAY 2\mods\\**
+   * Default folder: **C:\Program Files (x86)\Steam\steamapps\common\PAYDAY 2\mods\\**
 
 ## Supported Languages
 
