@@ -1,5 +1,5 @@
---from Snh20's string_id Revealer mod
---https://modworkshop.net/mydownloads.php?action=view_down&did=14801
+-- From Snh20's string_id Revealer mod
+-- //modworkshop.net/mydownloads.php?action=view_down&did=14801
 if not StringIDReveal_InChat or StringIDReveal_InChat() then
 	return
 end
