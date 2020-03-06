@@ -45,7 +45,7 @@ The mod can be downloaded from [Mod Workshop](https://modwork.shop/19958) or fro
 
 ### Adding translations
 
-See the [Readme](https://github.com/Strappazzon/PD2-Real-Weapon-Names/blob/master/lua/loc/README.md) inside the **loc** folder.
+See the [Readme](https://github.com/Strappazzon/PD2-Real-Weapon-Names/blob/master/lua/loc/README.md) inside the `./lua/loc` folder.
 
 ## Contributing
 
