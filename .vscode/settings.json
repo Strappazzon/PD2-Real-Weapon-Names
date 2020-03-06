@@ -1,0 +1,4 @@
+{
+	"lua.format.useTabs": true,
+	"lua.format.lineWidth": 175
+}
