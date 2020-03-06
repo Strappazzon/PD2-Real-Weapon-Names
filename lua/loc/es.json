@@ -55,7 +55,7 @@
 	"bm_w_x_2006m"      : "MATEBA 2006M DUALES",
 	"bm_w_x_p226"       : "SIG-SAUER P226R DUALES",
 	"bm_w_x_ppk"        : "WALTHER PPK DUALES",
-	
+
 	"bm_w_x_basset"     : "CBRPS SPIKE X1S DUALES",
 	"bm_w_x_rota"       : "CRYE PRECISION SIX12 DUALES",
 	"bm_w_x_judge"      : "TAURUS 4510PLYFS DUALES",
@@ -386,13 +386,13 @@
 
 	"bm_wp_scorpion_m_extended" : "CARGADOR DE EXTRACCIÓN RÁPIDA",
     "bm_wp_scorpion_g_wood"     : "EMPUÑADURA DE MADERA ORIGINAL",
-	
+
 	"bm_wp_pis_g_laser"      : "EMP. LÁSER CRIMSON TRACE GLOCK",
 	"bm_wp_pis_g_beavertail" : "EMPUÑADURA CYTEC BEAVERTAIL",
-	
+
 	"bm_wp_g18c_s_stock"     : "CULATA FAB DEFENSE GLR-440",
 	"bm_wp_g18c_g_ergo" : "EMP. HOGUE HANDALL HALF-SIZE UNIVERSAL",
-	
+
 	"bm_wp_pis_s_stock" : "CULATA FAB DEFENSE GLR-440",
 
 	"bm_wp_beretta_co_co1"       : "COMPENSADOR LA.RI.A AL-GI-MEC",
@@ -401,22 +401,22 @@
 	"bm_wp_beretta_g_engraved"   : "EMPUÑADURA CON GRABADOS",
 
 	"bm_wp_pis_ppk_b_long"       : "CORREDERA INOXIDABLE DE WALTHER PP",
-	
+
 	"bm_wp_pis_usp_b_match" : "CORR. INOX. Y COMPENSADOR MATCH",
-	
+
 	"bm_wp_g22c_b_long" : "CORREDERA DE GLOCK 35",
-	
+
 	"bm_wp_c96_b_long"     : "CAÑÓN DE CARABINA",
 	"bm_wp_c96_m_extended" : "CARGADOR DE M72 SCHNELLFEUER",
 	"bm_wp_c96_nozzle"     : "SUPRESOR DE FOGONAZO DE DL-44",
 	"bm_wp_c96_sight"      : "MIRA DE DL-44",
-	
+
 	"bm_wp_hs2000_sl_custom" : "CAÑÓN DE 4 PULGADAS DE XD-9 V10",
 	"bm_wp_hs2000_sl_long"   : "CORREERA INOXIDABLE DE XDM 5.25",
-	
+
 	"bm_wp_peacemaker_barrel_long" : "CAÑÓN ESPECIAL BUNTLINE",
 	"bm_wp_peacemaker_barrel_short" : "CAÑÓN DE COLT SAA ARTILLERY",
-	
+
 	"bm_wp_sparrow_body_941" : "CONJUNTO DE JERICHO 941 F",
 	"bm_wp_sparrow_g_cowboy" : "EMPUÑADURA DE JERICHO 941 R",
 
@@ -424,32 +424,32 @@
 
 	"bm_wp_m95_b_barrel_suppressed" : "SUPRESOR QDL + MANTO DE CAMUFLAJE",
 	"bm_wp_m95_b_barrel_long"       : "CAÑÓN DE ACURRACY INT. AW50F",
-	
+
 	"bm_wp_upg_a_piercing_desc"       : "Una flechette es un proyectil de acero puntiagudo, con una cola con aletas para un vuelo estable. El nombre proviene de fléchette Francés, \"pequeña flecha\" o \"dardo\".",
 	"bm_wp_upg_a_slug_desc"           : "Una posta de escopeta es un proyectil pesado hecho de plomo, cobre u otro material y se dispara desde una escopeta.\nUna posta de escopeta es típicamente más masiva que una bala de rifle.",
 	"bm_wp_upg_a_slug2_desc"          : "Una posta de escopeta es un proyectil pesado hecho de plomo, cobre u otro material y se dispara desde una escopeta.\nUna posta de escopeta es típicamente más masiva que una bala de rifle.",
 	"bm_wp_upg_a_dragons_breath_desc" : "La Dragon's breath es un tipo especial de munción con efecto incendiario para escopetas de calibre 12. La Dragon's breath consiste principalmente en perdigones de magnesio. Cuando se dispara la munición, las chispas y las llamas pueden extenderse a unos 30 metros.",
-	
+
 	"bm_wp_basset_fg_short"   : "CAÑÓN Y RIEL ACORTADO",
 	"bm_wp_basset_m_extended" : "CARGADOR DE TAMBOR SGM TACTICAL SAIGA",
-	
+
 	"bm_wp_ching_b_short"  : "CAÑÓN DE CARABINA T26",
 	"bm_wp_ching_fg_raied" : "RIEL FULTON ARMORY SCOUT, GEN III",
 	"bm_wp_ching_s_pouch"  : "BOLSOS DE MUNICIÓN OLONGAPO",
-	
+
 	"bm_wp_erma_s_folded" : "CULATA PLEGADA",
-	
+
 	"bm_wp_m1928_b_long" : "CAÑÓN DE AUTO-ORDNANCE",
-	
+
 	"bm_wp_tec9_b_standard" : "CAÑÓN DE AB-10",
 	"bm_wp_tec9_ns_ext"     : "CAÑÓN LARGO",
 	"bm_wp_tec9_s_unfolded" : "CULATA DESPLEGADA",
-	
+
 	"bm_wp_schakal_b_civil"     : "CAÑÓN DE H&K USC",
 	"bm_wp_schakal_s_civil"     : "CULATA DE H&K USC",
 	"bm_wp_schakal_vg_surefire" : "EMPUÑADURA VERTICAL SUREFIRE M900",
 	"bm_wp_schakal_ns_silencer" : "SUPRESOR GEMTECH DE UMP45",
-	
+
 	"bm_wp_g36_s_kv"    : "CULATA H&K PLEGABLE",
 	"bm_wp_g36_s_sl8"   : "CULATA DE SR8",
 	"bm_wp_g36_fg_c"    : "GUARDAMANOS DE G36C",
@@ -457,10 +457,10 @@
 	"bm_wp_g36_fg_long" : "GUARDAMANOS DE G36E",
 	"bm_wp_g36_m_quick" : "CARGADOR MAGPULL PARA G36",
 	"bm_wp_g36_o_vintage" : "ZF 3x4°",
-	
+
 	"bm_wp_olympic_s_short"   : "CULATA DE K23P",
 	"bm_wp_olympic_fg_railed" : "GUARDAMANOS DE K23B TACTICAL",
-	
+
 	"bm_wp_fal_s_01"          : "CULATA DE SA58 OSW",
 	"bm_wp_fal_g_01"          : "EMPUÑADURA DE SA58 OSW",
 	"bm_wp_fal_body_standard" : "GUARDAMANOS DE SA58 OSW",
@@ -468,7 +468,7 @@
 	"bm_wp_fal_fg_04"         : "GUARD. DE IMBEL CUSTOM SNIPER",
 	"bm_wp_fal_s_03"          : "CULATA MAGPUL PRS2 PRECISION",
 	"bm_wp_fal_m_01"          : "CARGADOR STANAG 40RND",
-	
+
 	"bm_wp_galil_fg_sar"     : "GUARDAMANOS DE GALIL SAR",
 	"bm_wp_galil_s_skeletal" : "CULATA DE GALIL MAR",
 	"bm_wp_galil_fg_mar"     : "GUARDAMANOS DE GALIL MAR",
@@ -477,7 +477,7 @@
 	"bm_wp_galil_s_fab"      : "CULATA DE MICRO GALIL FAB DEFENSE",
 	"bm_wp_galil_s_plastic"  : "CULATA DE IMI ORIGINAL",
 	"bm_wp_galil_s_sniper"   : "CULATA DE GALIL GALATZ",
-	
+
 	"bm_wp_g3_b_sniper"         : "CONJUNTO DE G3SG/1",
 	"bm_wp_g3_fg_psg"           : "GUARDAMANOS DE MSG90",
 	"bm_wp_g3_g_sniper"         : "EMPUÑADURA DE PSG1",
@@ -486,67 +486,67 @@
 	"bm_wp_g3_fg_retro"         : "GUARDAMANOS DE CETME",
 	"bm_wp_g3_fg_retro_plastic" : "GUARDAMANOS DE AK 4 ADAPTADO",
 	"bm_wp_g3_fg_railed"        : "GUARDAMANOS CON RIEL",
-	
+
 	"bm_wp_aa12_barrel_long" : "CAÑÓN DE AA-12 REGULAR",
-	
+
 	"bm_wp_1911_g_ergo"   : "EMP. AMERICAN LEGEND PACHMAYR",
 	"bm_wp_1911_g_bling"  : "EMPUÑADURA DE MADERA",
 	"bm_wp_1911_b_vented" : "CORREDERA VENTILADA SA V-12",
 	"bm_wp_1911_b_long"   : "CORREDERA LARGA Y VENTILADA SA V-16",
-	
+
 	"bm_wp_m249_b_long" : "CAÑÓN DE M249-E2 SAW",
 	"bm_wp_m249_s_solid" : "CULATA DE M249-E2 SAW",
 	"bm_wp_m249_fg_mk46" : "GUARDAMANOS DE MK46 MOD 0",
-	
+
 	"bm_wp_wa2000_b_long" : "CAÑÓN DE GENERACIÓN 2",
-	
+
 	"bm_wp_desertfox_b_long"     : "GUARD. CON RIEL CUÁDRUPLE CLÁSICO",
 	"bm_wp_desertfox_b_silenced" : "SUPRESOR DTSS .338",
-	
+
 	"bm_wp_tti_s_vltor"  : "CULATA VLTOR EMOD",
 	"bm_wp_tti_g_grippy" : "EMP. DE PISTOLA HOGUE OVERMOLDED",
-	
+
 	"bm_wpn_fps_upg_o_xpsg33_magnifier" : "MAGNIFICADOR AIMPOINT 3XMAG",
-	
+
 	"bm_wp_chinchilla_b_satan" : "CAÑÓN PERSONALIZADO KOKUSAI DEVIL",
 	"bm_wp_chinchilla_g_black" : "EMPUÑADURA SINTÉTICA",
-	
+
 	"bm_wp_breech_b_reinforced" : "CAÑÓN DE SPORTS PARABELLUM MAUSER",
-	
+
 	"bm_wp_deagle_co_short" : "COMP. MAGNUM RESEARCH DE50MB",
 	"bm_wp_deagle_co_long" : "COMPENSADOR BOONDOCK",
-	
+
 	"bm_wp_p226_b_equinox" : "CORREDERA DE P226 EQUINOX",
 	"bm_wp_p226_b_long"    : "CORREDERA DE P226 X-SIX",
 
 	"bm_wp_shrew_g_ergo"   : "EMP. DE GOMA HOGUE OFFICER 1911",
-	
+
 	"bm_wp_2006m_b_medium" : "CAÑÓN MEDIANO",
 	"bm_wp_2006m_b_short"  : "CAÑÓN PEQUEÑO",
 	"bm_wp_2006m_b_long"   : "CAÑÓN LARGO",
-	
+
 	"bm_wp_g26_b_custom"     : "CAÑÓN SALIENT ARMS TIER 1",
 	"bm_wp_g26_m_custom"     : "CARGADOR SALIENT ARMS TIER 1",
 	"bm_wp_g26_body_salient" : "CORREDERA SALIENT ARMS TIER 1",
-	
+
 	"bm_wp_r870_s_folding" : "CULATA PLEGABLE",
 	"bm_wp_r870_fg_wood"   : "CORREDERA DE MADERA",
-	
+
 	"bm_wp_b682_s_ammopouch" : "PORTACARTUCHOS",
-	
+
 	"bm_wp_ben_b_short"     : "CAÑÓN DE M4 NFA",
 	"bm_wp_ben_fg_standard" : "CAÑÓN DE M4 TACTICAL",
-	
+
 	"bm_wp_ksg_b_short" : "CAÑÓN DE KSG-12 TACTICAL",
-	
+
 	"bm_wp_snp_msr_ns_suppressor" : "SUPRESOR TITAN-QD .338 AAC",
-	
+
 	"bm_wp_mosin_b_short" : "CAÑÓN DE CARABINA M1907 M38",
 	"bm_wp_mosin_b_long"  : "CAÑÓN DE M1907 M91/30",
-	
+
 	"bm_wp_shepheard_body_short" : "GUARDAMANOS DE MPX-K",
 	"bm_wp_shepheard_s_no"       : "EMPUÑADURA DE MPX-K",
-	
+
 	"bm_wp_mosin_ns_bayonet_desc" : "La bayoneta del Mosin Nagant es una bayoneta de punta, lo que significa que a diferencia de una bayoneta estilo cuchillo, no se puede empuñar con la mano.\nMide 48 1/2 centímetros.",
 
 	"bm_melee_model24"     : "STIELHANDGRANATE MODELO 24",
@@ -689,7 +689,7 @@
 	"menu_challenge_monthly_rats_objective"        : "Complete the \"RATAS\" usando solo el COLT MODEL 773, GLOCK 17, el traje de dos piezas y sin equipar ninguna habilidad en dificultad OVERKILL o más alta.",
 	"menu_challenge_frog_1_objective"              : "Completa el trabajo \"LA FUGA DE HOXTON\" con cada miembro del equipo sin equipar ninguna habilidad, usando el traje de dos piezas, usando el fusil AKM y el subfusil Thompson M1928A1 en dificultad OVERKILL o más alta.",
 	"menu_challenge_monthly_firestarter_objective" : "Completa el trabajo \"PIRÓMANOS\" usando solo el COLT MODEL 773, GLOCK 17, el traje de dos piezas y sin equipar ninguna habilidad en dificultad OVERKILL o más alta.",
-	
+
 	"menu_aru_job_2_obj_desc" : "Mata 50 enemigos usando la LUGER P08",
 	"menu_aru_job_3_obj_desc" : "Mata 100 enemigos usando la MP40",
 	"menu_aru_job_4_obj_desc" : "Mata 200 enemigos usando el M1 GARAND",

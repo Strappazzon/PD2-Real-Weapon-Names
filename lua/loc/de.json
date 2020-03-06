@@ -1,22 +1,22 @@
 {
 	"bm_w_akm_gold"   : "Goldene AKMS",
 	"bm_w_contraband" : "H&K HK417 mit M203 PI Granatwerfer",
-	
+
 	"bm_w_gre_m79"          : "M79 Granatwerfer",
 	"bm_w_saw"              : "OVE9000 Säge",
 	"bm_w_m32"              : "Milkor MGL Mk 1L Granatwerfer",
 	"bm_w_flamethrower_mk2" : "Flammenwerfer",
 	"bm_w_long"             : "Englischer Bogen",
-	
+
 	"bm_w_mosin"          : "Mosin Nagant M1907 Karabiner",
-	
+
 	"bm_w_basset"  : "CBRPS Spike X1S Saiga-12K CQB Umbau",
 	"bm_w_serbu"   : "Remington 870 Kurzer Lauf",
-	
+
 	"bm_w_hunter"  : "Amur Falcon Pistolenarmbrust",
 	"bm_w_china"   : "China Lake Granatwerfer",
 	"bm_w_ray"     : "M202 FLASH Raketenwerfer",
-	
+
 	"bm_wp_upg_o_docter"        : "DOCTER Visier II Plus",
 	"bm_wp_upg_o_reflex"        : "Offenes Reflex Visier",
 	"bm_wp_upg_o_rx01"          : "Trijicon RX01 Polariziertes Reflex Visier",
@@ -26,7 +26,7 @@
 	"bm_wp_fps_upg_o_45iron"    : "XTI abgewinkeltes Visier",
 	"bm_wpn_fps_upg_o_45rds_v2" : "Aimpoint Micro T-2 abgewinkeltes Visier",
 	"bm_wp_upg_o_rmr"           : "Trijicon RM06 RMR Visier",
-	
+
 	"bm_wp_m4_m_straight" : "STANAG 22rnd Magazin",
 	"bm_wp_m4_uupg_m_std" : "STANAG 38rnd Magazin",
 	"bm_wp_upg_m4_m_quad" : "STANAG 60rnd Magazin",
@@ -84,7 +84,7 @@
 
 	"bm_wp_upg_i_singlefire" : "Einzelfeuersperre",
 	"bm_wp_upg_i_autofire"   : "Automatischfeuersperre",
-	
+
 	"bm_wp_mg42_b_mg34" : "MG 34 Lauf",
 	"bm_wp_mg42_b_vg38" : "DLT-19 Heavy Blaster Gewehrlauf",
 
@@ -97,7 +97,7 @@
 	"bm_wp_aug_body_f90" : "Thales EF88/F90 Receiver",
 	"bm_wp_aug_b_short"  : "AUG 16 Zoll Karabinerlauf",
 	"bm_wp_aug_b_long"   : "AUG HBAR Lauf",
-	
+
 	"bm_wp_l85a2_b_long"   : "L86A1 Lauf",
 	"bm_wp_l85a2_g_worn"   : "Abgenutzter Griff",
 
@@ -180,7 +180,7 @@
 	"bm_wp_mac10_body_ris"     : "G&P CQB taktisches Schienen-Kit Nachrüstung",
 	"bm_wp_mac10_m_extended"    : "32rnd Magazin",
 	"bm_wp_mac10_m_quick"       : "32rnd Magpul Magazin",
-	
+
 	"bm_wp_baka_b_comp" : "Lauf mit Kompensator",
 
 	"bm_wp_sterling_b_e11"        : "E-11 Blaster Gewehrlauf",
@@ -221,7 +221,7 @@
 	"bm_wp_pis_g_beavertail" : "Cytec Beavertail Griff",
 
 	"bm_wp_g18c_g_ergo"      : "Hogue Handall Half-Size Universal Griff",
-	
+
 	"bm_wp_p14_b_comp" : "Gelochte Lauferweiterung",
 
 	"bm_wp_beretta_co_co1"       : "LA.RI.A AL-GI-MEC Kompensator",
@@ -230,25 +230,25 @@
 	"bm_wp_beretta_g_engraved"   : "Gravierter Griff",
 
 	"bm_wp_pis_ppk_b_long"       : "Rostfreier Walther PP Schlitten",
-	
+
 	"bm_wp_pis_usp_b_match" : "Rostfreier Schlitten mit \"Match\" Kompensator",
 	"bm_wp_pis_usp_m_big"      : "25rnd Magazin",
 	"bm_wp_pis_usp_m_extended" : "21rnd Magazin",
-	
+
 	"bm_wp_g22c_b_long" : "Glock 35 Schlitten",
-	
+
 	"bm_wp_c96_b_long"     : "Karabinerlauf",
 	"bm_wp_c96_m_extended" : "M72 Schnellfeuer Magazin",
 	"bm_wp_c96_nozzle"     : "DL-44 Mündungsfeuerdämpfer",
 	"bm_wp_c96_sight"      : "DL-44 Visier",
-	
+
 	"bm_wp_hs2000_sl_custom" : "XD-9 V10 4 Inch Lauf",
 	"bm_wp_hs2000_sl_long"   : "XDM 5.25 Rostfreier Schlitten",
-	
+
 	"bm_wp_peacemaker_barrel_long"  : "Colt Buntline Special Lauf",
 	"bm_wp_peacemaker_barrel_short" : "Colt SAA artillery 5.5 Zoll Lauf",
 	"bm_wp_peacemaker_rifle_stock"   : "Skelettschaft",
-	
+
 	"bm_wp_sparrow_body_941" : "Jericho 941 F Kit",
 	"bm_wp_sparrow_g_cowboy" : "Jericho 941 R Rahmen",
 
@@ -265,38 +265,38 @@
 
 	"bm_wp_basset_fg_short"  : "Verkürzter Lauf und Schiene",
 	"bm_wp_basset_m_extended" : "SGM Tactical SAIGA Shotgun 12 Schuss Magazin",
-	
+
 	"bm_wp_ching_b_short"  : "T26 Karabinerlauf",
 	"bm_wp_ching_s_pouch"  : "Olongapo Outfitters Garand Schafttasche",
-	
+
 	"bm_wp_erma_s_folded" : "Eingeklappter Schaft",
-	
+
 	"bm_wp_m1928_b_long"      : "M1927 Auto-Ordnance Lauf",
 	"bm_wp_m1928_s_discrete"  : "Synthetisher Schaft",
 	"bm_wp_m1928_g_discrete"  : "Synthetischer Griff",
 	"bm_wp_m1928_fg_discrete" : "Synthetischer Frontgriff",
-	
+
 	"bm_wp_tec9_b_standard" : "AB-10 Lauf",
 	"bm_wp_tec9_ns_ext"     : "Erweiterter Lauf",
 	"bm_wp_tec9_s_unfolded" : "Ausgefalteter Schaft",
-	
+
 	"bm_wp_schakal_b_civil"     : "USC Lauf",
 	"bm_wp_schakal_s_civil"     : "USC Schaft",
 	"bm_wp_schakal_vg_surefire" : "Surefire M900 Frontgriff",
 	"bm_wp_schakal_ns_silencer" : "GemTech UMP-45 Schalldämpfer",
-	
+
 	"bm_wp_g36_s_kv"  : "Faltbarer H&K Schaft",
 	"bm_wp_g36_s_sl8" : "SR8 Schaft",
 	"bm_wp_g36_fg_c"    : "G36C Frontgriff",
 	"bm_wp_g36_fg_ksk"  : "Knight Armaments G36 RAS Frontgriff",
 	"bm_wp_g36_fg_long" : "G36E Frontgriff",
 	"bm_wp_g36_m_quick" : "G36 Schnelllade-Magazin",
-	
+
 	"bm_wp_olympic_s_short"   : "K23P Schaft",
 	"bm_wp_olympic_fg_railed" : "K23B Taktischer Handschutz",
 	"bm_wp_m4_uupg_b_medium"         : "Mk 18 Mod 0 Lauf",
 	"bm_wp_upg_smg_olympic_fg_lr300" : "Aftermarket kurzer Handgriff",
-	
+
 	"bm_wp_fal_s_01"          : "SA58 OSW Schaft",
 	"bm_wp_fal_g_01"          : "SA58 OSW Griff",
 	"bm_wp_fal_body_standard" : "SA58 OSW Frontgriff",
@@ -304,7 +304,7 @@
 	"bm_wp_fal_fg_04"         : "Imbel Angepasster Scharfschützenfrontgriff",
 	"bm_wp_fal_s_03"          : "Magpul PRS2 Einstellbarer Schaft",
 	"bm_wp_fal_m_01"          : "STANAG 40rnd Magazin",
-	
+
 	"bm_wp_galil_fg_sar"     : "Galil SAR Frontgriff",
 	"bm_wp_galil_s_skeletal" : "Galil MAR Schaft",
 	"bm_wp_galil_fg_mar"     : "Galil MAR Frontgriff",
@@ -313,7 +313,7 @@
 	"bm_wp_galil_s_fab"      : "Micro Galil Custom FAB Defense Schaft",
 	"bm_wp_galil_s_plastic"  : "Original IMI Schaft",
 	"bm_wp_galil_s_sniper"   : "Galil Galatz Scharfschützenschaft",
-	
+
 	"bm_wp_g3_b_sniper"         : "G3SG/1 Lauf",
 	"bm_wp_g3_fg_psg"           : "MSG90 Frontgriff",
 	"bm_wp_g3_g_sniper"         : "PSG1 Griff",
@@ -325,110 +325,110 @@
 
 	"bm_wp_aa12_barrel_long" : "Regulärer AA-12 Lauf",
 	"bm_wp_aa12_barrel_silenced" : "Integrierter Schalldämpfer",
-	
+
 	"bm_wp_1911_g_ergo"   : "American Legend Pachmayr Griff",
 	"bm_wp_1911_g_bling"  : "Holzgriff",
 	"bm_wp_1911_g_engraved" : "Gravierter Griff",
 	"bm_wp_1911_m_big"      : "ProMag 22rnd Magazin",
 	"bm_wp_1911_b_vented" : "Springfield Armory V-12 Belüfteter Schlitten",
 	"bm_wp_1911_b_long"   : "Springfield Armory V-16 Belüfteter Langer Schlitten",
-	
+
 	"bm_wp_rage_b_short" : "444 Multi-S/S Lauf",
 	"bm_wp_rage_b_long"  : "444SS8 Lauf",
-	
+
 	"bm_wp_m249_b_long" : "M249-E2 SAW Lauf",
 	"bm_wp_m249_s_solid" : "M249-E2 SAW Schaft",
 	"bm_wp_m249_fg_mk46" : "MK46 Mod 0 Frontgriff",
-	
+
 	"bm_wp_wa2000_b_long" : "Gen 2 Lauf",
 	"bm_wp_wa2000_b_suppressed" : "Integrierter Schalldämpfer",
 	"bm_wp_wa2000_g_walnut"     : "Walnuss Schaft",
 	"bm_wp_wa2000_g_light"      : "Leichter Schaft",
 	"bm_wp_wa2000_g_stealth"    : "Schwarzer Schaft",
-	
+
 	"bm_wp_siltstone_b_silenced"     : "7.62x54mm Schalldämpfer",
 	"bm_wp_siltstone_ns_variation_b" : "Angepasster Kompensator",
 	"bm_wp_siltstone_fg_polymer"     : "SVD Tiger Handschutz",
 	"bm_wp_siltstone_s_polymer"      : "SVD Tiger Schaft",
-	
+
 	"bm_wp_desertfox_b_long" : "Early Quad-Rail Handschutz",
 	"bm_wp_desertfox_b_silenced" : "DTSS .338 Schalldämpfer",
-	
+
 	"bm_wp_ns_duck"	            : "Paradigm SRP Gator Schrotspreizer",
 	"bm_wp_r870_s_folding"  : "Faltschaft",
 	"bm_wp_b682_s_ammopouch" : "Patronenhalter",
 	"bm_wp_r870_fg_wood"   : "Hölzerner Frontgriff",
-	
+
 	"bm_wp_tti_s_vltor"  : "VLTOR EMOD Schaft",
 	"bm_wp_tti_g_grippy" : "Hogue OverMolded Pistolengriff",
 	"bm_wp_tti_ns_hex"   : "5.56x45mm Schalldämpfer",
-	
+
 	"bm_wp_m134_barrel_extreme"   : "GAU-17/A Lauf",
 	"bm_wp_m134_barrel_short"     : "Abgesägter Lauf",
 	"bm_wp_m134_body_upper_light" : "Schwache Batterie",
-	
+
 	"bm_wpn_fps_upg_o_xpsg33_magnifier" : "Aimpoint 3XMag Vergrößerer",
-	
+
 	"bm_wp_chinchilla_b_satan" : "Angepasster Kokusai Devil Lauf",
 	"bm_wp_chinchilla_g_black" : "Synthetischer Griff",
-	
+
 	"bm_wp_breech_b_reinforced" : "Sports Parabellum Mauser Lauf",
-	
+
 	"bm_wp_deagle_co_short"  : "Magnum Research DE50MB Kompensator",
 	"bm_wp_deagle_co_long"   : "Boondock Kompensator",
 	"bm_wp_pis_deagle_extra" : "Visierbefestigung mit Schienen",
 	"bm_wp_deagle_g_bling"   : "Elfenbeingriff",
 	"bm_wp_deagle_b_long"    : "10 Zoll Lauf",
 	"bm_wp_deagle_b_modern"  : "Belüfteter Lauf",
-	
+
 	"bm_wp_p226_b_equinox" : "P226 Equinox Schlitten",
 	"bm_wp_p226_b_long"    : "P226 X-Six Schlitten",
 
 	"bm_wp_shrew_g_ergo"   : "Hogue Officer M1911 Gummigriff",
 	"bm_wp_shrew_g_bling"  : "Gravierter Griff",
-	
+
 	"bm_wp_2006m_b_medium" : "4 Zoll Lauf",
 	"bm_wp_2006m_b_short"  : "3 Zoll Lauf",
 	"bm_wp_2006m_b_long"   : "6 Zoll Lauf",
 	"bm_wp_2006m_g_bling"  : "Synthetischer Griff",
-	
+
 	"bm_wp_g26_b_custom"     : "Salient Arms Tier 1 Lauf",
 	"bm_wp_g26_m_custom"     : "Salient Arms Tier 1 Magazin",
 	"bm_wp_g26_body_salient" : "Salient Arms Tier 1 Rahmen",
-		
+
 	"bm_wp_m37_b_short" : "Stakeout Lauf",
-	
+
 	"bm_wp_spas12_b_long"  : "Erweitertes Magazin",
 	"bm_wp_spas12_s_solid" : "Fester Schaft",
-	
+
 	"bm_wp_rota_b_silenced" : "Integrierter Schalldämpfer",
-	
+
 	"bm_wp_r870_m_extended"    : "Erweitertes Magazin",
 	"bm_wp_r870_s_nostock_big" : "Visierbefestigung",
 	"bm_wp_r870_s_solid_big"   : "Standardschaft mit Visierbefestigung",
-	
+
 	"bm_wp_shorty_m_extended_short" : "Erweitertes Magazin",
 	"bm_wp_serbu_s_solid_short"     : "Standardschaft mit Visierbefestigung",
 	"bm_wp_serbu_s_nostock_short"   : "Visierbefestigung",
-	
+
 	"bm_wp_coach_s_short" : "Abgesägter Schaft",
-	
+
 	"bm_wp_b682_s_short"     : "Abgesägter Schaft",
-	
+
 	"bm_wp_ben_b_short"     : "M4 NFA Lauf",
 	"bm_wp_ben_fg_standard" : "M4 Tactical Schaft",
-	
+
 	"bm_wp_ksg_b_short" : "KSG-12 Tactical Lauf",
-	
+
 	"bm_wp_snp_msr_ns_suppressor" : "TiTAN-QD .338 AAC Schalldämpfer",
-	
+
 	"bm_wp_mosin_b_short"      : "M1907 M38 Karabinerlauf",
 	"bm_wp_mosin_b_long"       : "M1907's M91/30 Lauf",
 	"bm_wp_mosin_body_conceal" : "Synthetischer Schaft",
-	
+
 	"bm_wp_shepheard_body_short" : "MPX-K Handschutz",
 	"bm_wp_shepheard_s_no"       : "MPX-K Schaft",
-	
+
 	"bm_wp_smg_m45_b_small"    : "Kurzer Lauf",
 	"bm_wp_smg_m45_b_green"    : "M/45B Swedish Green Lauf",
 	"bm_wp_smg_m45_g_bling"    : "Elfenbeingriff",
@@ -438,7 +438,7 @@
 	"bm_wp_rpk_s_standard" : "RPK-74M Schaft",
 
 	"bm_wp_m32_barrel_short" : "Milkor Mark 14 Lauf",
-	
+
 	"bm_wp_mosin_ns_bayonet_desc" : "Das Mosin Nagant Bajonett ist ein Stachelbajonett, was bedeutet, im Gegensatz zu einem Messerbajonett, ist es nicht in der Lage, von Hand benutzt zu werden.\nEs misst 19,5 Zoll(49,5cm).",
 
 	"bm_melee_nin"         : "PALSODE IM360CI 90MM kabellose Gasnagelpistole",
@@ -531,7 +531,7 @@
 	"bm_melee_catch_info"         : "",
 	"bm_melee_oxide_info"         : "",
 	"bm_melee_sword_info"         : "",
-	
+
 	"bm_menu_barrel_ext"     : "Lauferweiterung",
 	"bm_menu_custom"         : "Interne Modifikation",
 	"bm_menu_sight"          : "Visier",
@@ -563,39 +563,39 @@
 	"menu_aru_job_2_obj_desc" : "Töte 50 Gegner mit der Luger P08",
 	"menu_aru_job_3_obj_desc" : "Töte 100 Gegner mit der MP40",
 	"menu_aru_job_4_obj_desc" : "Töte 200 Gegner mit dem M1 Garand",
-	
+
 	"menu_assault_rifle" : "Sturmgewehre",
 	"menu_snp"           : "Scharfschützengewehre",
 	"menu_shotgun"       : "Schrotflinten",
 	"menu_lmg"           : "Maschinengewehr",
 	"menu_pistol"        : "Pistolen",
 	"menu_smg"           : "Maschinenpistole",
-	
+
 	"bm_wp_l85a2_fg_short" : "Daniel Defense Frontgriff mit Schienen",
 	"bm_wp_l85a2_b_short"  : "L22 Prototypenlauf",
-	
+
     "bm_wp_beer_b_robo"     : "\"RoboCop\"-Lauf",
     "bm_wp_beer_g_robo"     : "\"RoboCop\"-Griff",
     "bm_wp_beer_g_lux"      : "Hölzerner Griff",
     "bm_wp_beer_s_std"      : "Drahtrahmenschaft",
     "bm_wp_beer_m_extended" : "Erweitertes Magazin",
-    
+
     "bm_wp_czech_b_long"        : "Lauferweiterung",
     "bm_wp_czech_g_sport"       : "Angepasster Griff",
     "bm_wp_czech_g_luxury"      : "Hölzerner Griff",
     "bm_wp_czech_s_standard"    : "Drahtrahmenschaft",
     "bm_wp_czech_m_extended"    : "Erweitertes Magazin",
-    
+
     "bm_wp_stech_b_long"        : "Lauferweiterung",
     "bm_wp_stech_g_tactical"    : "Angepasster Gummigriff",
     "bm_wp_stech_g_luxury"      : "Angepasster Holzgriff",
     "bm_wp_stech_s_standard"    : "Hölzerner Schaft",
     "bm_wp_stech_m_extended"    : "Erweitertes Magazin",
-    
+
     "bm_wp_upg_ns_typhoon" : "Tandemkross Game Changer Kompensator",
 
     "bm_wp_upg_g_m4_surgeon" : "Surgeon CNC Aluminum Skelettgriff",
     "bm_wpn_fps_upg_o_sig" : "Sig Sauer Juliet3 3x24mm Vergrößerer",
-    
+
 	"bm_wp_sub2000_fg_suppressed" : "GemTech MK-9K Schalldämpfer"
 }

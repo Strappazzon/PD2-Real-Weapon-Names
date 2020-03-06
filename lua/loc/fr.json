@@ -147,7 +147,7 @@
   "bm_wp_sub2000_fg_gen2"       : "Kit Gen 2",
   "bm_wp_sub2000_fg_suppressed" : "Suppresseur GemTech MK-9K",
 	"bm_wp_sub2000_fg_railed"     : "Poignée avant Red Lion Precision de première gén;eration période '00",
-	
+
 	"bm_wp_tecci_b_long" : "Canon LMG",
 
 	"bm_wp_scar_s_sniper"        : "Crosse FN SSR",
@@ -225,7 +225,7 @@
   "bm_wp_mac10_body_ris"      : "Kit de rail tactique G&P CQB Retrofit",
 	"bm_wp_mac10_m_extended"    : "Magasin de 32 cartouches",
 	"bm_wp_mac10_m_quick"       : "Magasin de 32 cartouches Magpul",
-	
+
 	"bm_wp_baka_b_comp" : "Canon compensé",
 
 	"bm_wp_sterling_b_e11"        : "Canon de fusil E-11 Blaster",
@@ -266,12 +266,12 @@
 	"bm_wp_g18c_g_ergo" : "Poignée gantée universelle Hogue Handall Half-Size",
 
 	"bm_wp_p14_b_comp" : "Extension de canon porté",
-	
+
 	"bm_wp_beretta_co_co1"       : "Compensateur LA.RI.A AL-GI-MEC",
 	"bm_wp_beretta_sl_brigadier" : "Glissière Brigadier 92FS",
   "bm_wp_beretta_g_ergo"       : "Poignée en bois",
 	"bm_wp_beretta_g_engraved"   : "Poignée engravée",
-	
+
 	"bm_wp_pis_ppk_b_long"       : "Glissière inoxydable Walther PP",
 
 	"bm_wp_pis_usp_b_match"    : "Glissière inoxydable avec compensateur match",
@@ -279,7 +279,7 @@
 	"bm_wp_pis_usp_m_extended" : "Magasin de 21 cartouches",
 
 	"bm_wp_g22c_b_long" : "Glissière Glock 35",
-	
+
   "bm_wp_c96_b_long"     : "Canon de carabine",
 	"bm_wp_c96_m_extended" : "Magasin M72 Schnellfeuer",
 	"bm_wp_c96_nozzle"     : "Cache-flammes DL-44",
@@ -297,7 +297,7 @@
 
 	"bm_wp_r93_body_wood" : "Chassis de sport semi allégée Blaser R93",
 	"bm_wp_r93_b_suppressed" : "Suppresseur .338 Lapua",
-	
+
 	"bm_wp_m95_b_barrel_suppressed" : "Suppresseur QDL + Camo Shroud",
 	"bm_wp_m95_b_barrel_long"       : "Canon Accuracy International AW50F",
 
@@ -369,7 +369,7 @@
 
   "bm_wp_aa12_barrel_long" 		 : "Canon Régulier AA-12",
 	"bm_wp_aa12_barrel_silenced" : "Integral Suppressor",
-	
+
 	"bm_wp_1911_g_ergo"   	: "Poignée American Legend Pachmayr",
   "bm_wp_1911_g_bling"  	: "Poignée en bois",
 	"bm_wp_1911_g_engraved" : "Poignée engravée",
@@ -379,7 +379,7 @@
 
 	"bm_wp_rage_b_short" : "Canon 444 Multi-S/S",
 	"bm_wp_rage_b_long"  : "Canon 444SS8",
-	
+
   "bm_wp_m249_b_long" 	: "Canon M249-E2 SAW",
 	"bm_wp_m249_s_solid" 	: "Crosse M249-E2 SAW",
   "bm_wp_m249_fg_mk46" 	: "Poignée avant MK46 Mod 0",
@@ -401,7 +401,7 @@
 	"bm_wp_tti_s_vltor"  : "Crosse VLTOR EMOD",
   "bm_wp_tti_g_grippy" : "Poignée de pistolet Hogue OverMolded",
 	"bm_wp_tti_ns_hex"   : "Suppresseur 5.56x45mm",
-	
+
 	"bm_wp_m134_barrel_extreme"   : "Canon GAU-17/A",
 	"bm_wp_m134_barrel_short"     : "Canon réduit de moitié",
 	"bm_wp_m134_body_upper_light" : "Batterie à faible énérgie",
@@ -437,24 +437,24 @@
 
 	"bm_wp_m37_s_short" : "Crosse Sawed-Off",
 	"bm_wp_m37_b_short" : "Canon de surveillance",
-	
+
 	"bm_wp_spas12_b_long"  : "Tube de magasin étendu",
 	"bm_wp_spas12_s_solid" : "Crosse fixée",
-	
+
 	"bm_wp_rota_b_silenced" : "Suppresseur intégral",
-	
+
 	"bm_wp_r870_s_folding"     : "Crosse pliable",
 	"bm_wp_r870_fg_wood"       : "Pompe en bois",
 	"bm_wp_r870_m_extended"    : "Tube de magasin étendu",
 	"bm_wp_r870_s_nostock_big" : "Support de viseur",
 	"bm_wp_r870_s_solid_big"   : "Crosse standard avec support de viseur",
-	
+
 	"bm_wp_shorty_m_extended_short" : "Tube de magasin étendu",
 	"bm_wp_serbu_s_solid_short"     : "Crosse standard avec support de viseur",
 	"bm_wp_serbu_s_nostock_short"   : "Support de viseur",
-	
+
 	"bm_wp_coach_s_short" : "Crosse Sawed-Off",
-	
+
   "bm_wp_b682_s_ammopouch" : "Porte-cartouches",
 	"bm_wp_b682_s_short"     : "Crosse Sawed-Off",
 
@@ -478,11 +478,11 @@
 	"bm_wp_smg_m45_g_bling"    : "Poignée en ivoire",
 	"bm_wp_smg_m45_g_ergo"     : "Poignée noire",
 	"bm_wp_smg_m45_body_green" : "Finition vert suédois M/45B",
-	
+
 	"bm_wp_rpk_s_standard" : "Crosse RPK-74M",
-	
+
 	"bm_wp_m32_barrel_short" : "Canon Milkor Mark 14",
-	
+
   "bm_wp_mosin_ns_bayonet_desc" : "La baïonnette Mosin Nagant est une baïonnette à pointe, ce qui signifie que contrairement à une baïonnette de type couteau, elle ne peut pas être maniée à la main.\nMesure 19 pouces et demi.",
 
 	"bm_melee_bullseye"    : "Hachette S&W Bullseye",

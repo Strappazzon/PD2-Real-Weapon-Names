@@ -61,7 +61,7 @@
     "bm_w_x_stech"      : "Akimbo Stechkin APS",
     "bm_w_x_beer"       : "Akimbo Beretta 93R",
     "bm_w_x_czech"      : "Akimbo CZ 75",
-	
+
 	"bm_w_x_basset"     : "Akimbo CBRPS Spike X1S Saiga-12K CQB",
 	"bm_w_x_rota"       : "Akimbo Crye Precision SIX12",
 	"bm_w_x_judge"      : "Akimbo Taurus 4510PLYFS",
@@ -307,7 +307,7 @@
 	"bm_wp_sub2000_fg_gen2"       : "Gen 2 Kit",
 	"bm_wp_sub2000_fg_suppressed" : "GemTech MK-9K Suppressor",
 	"bm_wp_sub2000_fg_railed"     : "Red Lion Precision Gen I SUB-2000 Foregrip",
-	
+
 	"bm_wp_tecci_b_long" : "LMG Barrel",
 
 	"bm_wp_scar_s_sniper"        : "FN SSR Stock",
@@ -387,7 +387,7 @@
 	"bm_wp_mac10_body_ris"      : "G&P CQB Tactical Rail Kit Retrofit",
 	"bm_wp_mac10_m_extended"    : "32rnd Magazine",
 	"bm_wp_mac10_m_quick"       : "32rnd Magpul Magazine",
-	
+
 	"bm_wp_baka_b_comp" : "Compensated Barrel",
 
 	"bm_wp_sterling_b_e11"        : "E-11 Blaster Rifle Barrel",
@@ -427,12 +427,12 @@
 
 	"bm_wp_pis_g_laser"      : "Crimson Trace Glock Laser Grip",
 	"bm_wp_pis_g_beavertail" : "Cytec Beavertail Grip",
-	
+
 	"bm_wp_g18c_s_stock"     : "FAB Defense GLR-440",
 	"bm_wp_g18c_g_ergo" : "Hogue Handall Half-Size Universal Grip Sleeve",
-	
+
 	"bm_wp_pis_s_stock" : "FAB Defense GLR-440",
-	
+
 	"bm_wp_p14_b_comp" : "Ported Barrel Extension",
 
 	"bm_wp_beretta_co_co1"       : "LA.RI.A AL-GI-MEC Compensator",
@@ -441,25 +441,25 @@
 	"bm_wp_beretta_g_engraved"   : "Engraved Grip",
 
 	"bm_wp_pis_ppk_b_long"       : "Stainless Walther PP Slide",
-	
+
 	"bm_wp_pis_usp_b_match"    : "Stainless Slide with Match Compensator",
 	"bm_wp_pis_usp_m_big"      : "25rnd Magazine",
 	"bm_wp_pis_usp_m_extended" : "21rnd Magazine",
-	
+
 	"bm_wp_g22c_b_long" : "Glock 35 Slide",
-	
+
 	"bm_wp_c96_b_long"     : "Carbine Barrel",
 	"bm_wp_c96_m_extended" : "M72 Schnellfeuer Magazine",
 	"bm_wp_c96_nozzle"     : "DL-44 Flash Hider",
 	"bm_wp_c96_sight"      : "DL-44 Scope",
-	
+
 	"bm_wp_hs2000_sl_custom" : "XD-9 V10 4 Inch Barrel",
 	"bm_wp_hs2000_sl_long"   : "XDM 5.25 Stainless Slide",
-	
+
 	"bm_wp_peacemaker_barrel_long"  : "Colt Buntline Special Barrel",
 	"bm_wp_peacemaker_barrel_short" : "Colt SAA artillery 5.5 Inch Barrel",
 	"bm_wp_peacemaker_rifle_stock"   : "Skeletal Stock",
-	
+
 	"bm_wp_sparrow_body_941" : "Jericho 941 F Kit",
 	"bm_wp_sparrow_g_cowboy" : "Jericho 941 R Frame",
 
@@ -473,30 +473,30 @@
 	"bm_wp_upg_a_slug_desc"           : "A shotgun slug is a heavy projectile made of lead, copper, or other material and fired from a shotgun.\nA shotgun slug is typically more massive than a rifle bullet.",
 	"bm_wp_upg_a_slug2_desc"          : "A shotgun slug is a heavy projectile made of lead, copper, or other material and fired from a shotgun.\nA shotgun slug is typically more massive than a rifle bullet.",
 	"bm_wp_upg_a_dragons_breath_desc" : "Dragon's breath is a special type of incendiary-effect round for a 12 gauge shotgun. Dragon's breath consists primarily of magnesium pellets. When the round is fired, sparks and flames can shoot out to about 100 feet.",
-	
+
 	"bm_wp_basset_fg_short"   : "Shortened Barrel and Rail",
 	"bm_wp_basset_m_extended" : "SGM Tactical SAIGA Shotgun 12 Round Magazine",
-	
+
 	"bm_wp_ching_b_short"   : "T26 Carbine barrel",
 	"bm_wp_ching_fg_railed" : "Fulton Armory Scout Rail, Gen III",
 	"bm_wp_ching_s_pouch"   : "Olongapo Outfitters Garand Stock Pouch",
-	
+
 	"bm_wp_erma_s_folded" : "Folded Stock",
-	
+
 	"bm_wp_m1928_b_long"      : "M1927 Auto-Ordnance Barrel",
 	"bm_wp_m1928_s_discrete"  : "Synthetic Stock",
 	"bm_wp_m1928_g_discrete"  : "Synthetic Grip",
 	"bm_wp_m1928_fg_discrete" : "Synthetic Foregrip",
-	
+
 	"bm_wp_tec9_b_standard" : "AB-10 Barrel",
 	"bm_wp_tec9_ns_ext"     : "Barrel Extension",
 	"bm_wp_tec9_s_unfolded" : "Unfolded Stock",
-	
+
 	"bm_wp_schakal_b_civil"     : "USC Barrel",
 	"bm_wp_schakal_s_civil"     : "USC Stock",
 	"bm_wp_schakal_vg_surefire" : "Surefire M900 Foregrip",
 	"bm_wp_schakal_ns_silencer" : "GemTech UMP-45 Suppressor",
-	
+
 	"bm_wp_g36_s_kv"    : "Folding HK Stock",
 	"bm_wp_g36_s_sl8"   : "SR8 Stock",
 	"bm_wp_g36_fg_c"    : "G36C Foregrip",
@@ -504,12 +504,12 @@
 	"bm_wp_g36_fg_long" : "G36E Foregrip",
 	"bm_wp_g36_m_quick" : "G36 Magpul Magazine",
 	"bm_wp_g36_o_vintage" : "ZF 3x4°",
-	
+
 	"bm_wp_olympic_s_short"          : "K23P Stock",
 	"bm_wp_olympic_fg_railed"        : "K23B Tactical Handguard",
 	"bm_wp_m4_uupg_b_medium"         : "Mk 18 Mod 0 Barrel",
 	"bm_wp_upg_smg_olympic_fg_lr300" : "Aftermarket Short Handguard",
-	
+
 	"bm_wp_fal_s_01"          : "SA58 OSW Stock",
 	"bm_wp_fal_g_01"          : "SA58 OSW Grip",
 	"bm_wp_fal_body_standard" : "SA58 OSW Foregrip",
@@ -517,7 +517,7 @@
 	"bm_wp_fal_fg_04"         : "Imbel Custom Sniper Foregrip",
 	"bm_wp_fal_s_03"          : "Magpul PRS2 Precision-Adjustable Stock",
 	"bm_wp_fal_m_01"          : "STANAG 40rnd Magazine",
-	
+
 	"bm_wp_galil_fg_sar"     : "Galil SAR Foregrip",
 	"bm_wp_galil_s_skeletal" : "Galil MAR Stock",
 	"bm_wp_galil_fg_mar"     : "Galil MAR Foregrip",
@@ -526,7 +526,7 @@
 	"bm_wp_galil_s_fab"      : "Micro Galil Custom FAB Defense Stock",
 	"bm_wp_galil_s_plastic"  : "Original IMI Stock",
 	"bm_wp_galil_s_sniper"   : "Galil Galatz Sniper Stock",
-	
+
 	"bm_wp_g3_b_sniper"         : "G3SG/1 Kit",
 	"bm_wp_g3_fg_psg"           : "MSG90 Foregrip",
 	"bm_wp_g3_g_sniper"         : "PSG1 Grip",
@@ -535,113 +535,113 @@
 	"bm_wp_g3_fg_retro"         : "CETME Foregrip",
 	"bm_wp_g3_fg_retro_plastic" : "AK 4 Retrofit Handguard",
 	"bm_wp_g3_fg_railed"        : "Railed Foregrip",
-	
+
 	"bm_wp_aa12_barrel_long" : "Regular AA-12 Barrel",
 	"bm_wp_aa12_barrel_silenced" : "Integral Suppressor",
-	
+
 	"bm_wp_1911_g_ergo"     : "American Legend Pachmayr Grip",
 	"bm_wp_1911_g_bling"    : "Wooden Grip",
 	"bm_wp_1911_g_engraved" : "Engraved Grip",
 	"bm_wp_1911_m_big"      : "ProMag 22rnd Magazine",
 	"bm_wp_1911_b_vented"   : "Springfield Armory V-12 Vented Slide",
 	"bm_wp_1911_b_long"     : "Springfield Armory V-16 Vented Long Slide",
-	
+
 	"bm_wp_rage_b_short" : "444 Multi-S/S Barrel",
 	"bm_wp_rage_b_long"  : "444SS8 Barrel",
-	
+
 	"bm_wp_m249_b_long"  : "M249-E2 SAW Barrel",
 	"bm_wp_m249_s_solid" : "M249-E2 SAW Stock",
 	"bm_wp_m249_fg_mk46" : "MK46 Mod 0 Foregrip",
-	
+
 	"bm_wp_wa2000_b_long"       : "Gen 2 Barrel",
 	"bm_wp_wa2000_b_suppressed" : "Integral Suppressor",
 	"bm_wp_wa2000_g_walnut"     : "Walnut Furniture",
 	"bm_wp_wa2000_g_light"      : "Lightweight Furniture",
 	"bm_wp_wa2000_g_stealth"    : "Black Furniture",
-	
+
 	"bm_wp_siltstone_b_silenced"     : "7.62x54mm Suppressor",
 	"bm_wp_siltstone_ns_variation_b" : "Custom Compensator",
 	"bm_wp_siltstone_fg_polymer"     : "SVD Tiger Handguard",
 	"bm_wp_siltstone_s_polymer"      : "SVD Tiger Stock",
-	
+
 	"bm_wp_desertfox_b_long"     : "Early Quad-Rail Handguard",
 	"bm_wp_desertfox_b_silenced" : "DTSS .338 Suppressor",
-	
+
 	"bm_wp_tti_s_vltor"  : "VLTOR EMOD Stock",
 	"bm_wp_tti_g_grippy" : "Hogue OverMolded Pistol Grip",
 	"bm_wp_tti_ns_hex"   : "5.56x45mm Suppressor",
-	
+
 	"bm_wp_m134_barrel_extreme"   : "GAU-17/A Barrel",
 	"bm_wp_m134_barrel_short"     : "Cut-Down Barrel",
 	"bm_wp_m134_body_upper_light" : "Low Power Battery",
-	
+
 	"bm_wpn_fps_upg_o_xpsg33_magnifier" : "Aimpoint 3XMag Magnifier",
-	
+
 	"bm_wp_chinchilla_b_satan" : "Custom Kokusai Devil Barrel",
 	"bm_wp_chinchilla_g_black" : "Synthetic Grip",
-	
+
 	"bm_wp_breech_b_reinforced" : "Sports Parabellum Mauser Barrel",
-	
+
 	"bm_wp_deagle_co_short"  : "Magnum Research DE50MB Compensator",
 	"bm_wp_deagle_co_long"   : "Boondock Compensator",
 	"bm_wp_pis_deagle_extra" : "Railed Scope Mount",
 	"bm_wp_deagle_g_bling"   : "Ivory Grip",
 	"bm_wp_deagle_b_long"    : "10 Inch Barrel",
 	"bm_wp_deagle_b_modern"  : "Ported Barrel",
-	
+
 	"bm_wp_p226_b_equinox" : "P226 Equinox Slide",
 	"bm_wp_p226_b_long"    : "P226 X-Six Slide",
 
 	"bm_wp_shrew_g_ergo"   : "Hogue Officer M1911 Rubber Finger Grip",
 	"bm_wp_shrew_g_bling"  : "Engraved Grip",
-	
+
 	"bm_wp_2006m_b_medium" : "4 Inch Barrel",
 	"bm_wp_2006m_b_short"  : "3 Inch Barrel",
 	"bm_wp_2006m_b_long"   : "6 Inch Barrel",
 	"bm_wp_2006m_g_bling"  : "Synthetic Grip",
-	
+
 	"bm_wp_g26_b_custom"     : "Salient Arms Tier 1 Barrel",
 	"bm_wp_g26_m_custom"     : "Salient Arms Tier 1 Magazine",
 	"bm_wp_g26_body_salient" : "Salient Arms Tier 1 Frame",
-		
+
 	"bm_wp_m37_s_short" : "Sawed-Off Stock",
 	"bm_wp_m37_b_short" : "Stakeout Barrel",
-	
+
 	"bm_wp_spas12_b_long"  : "Extended Magazine Tube",
 	"bm_wp_spas12_s_solid" : "Fixed Stock",
-	
+
 	"bm_wp_rota_b_silenced" : "Integral Suppressor",
-	
+
 	"bm_wp_r870_s_folding"     : "Folding Stock",
 	"bm_wp_r870_fg_wood"       : "Wooden Pump",
 	"bm_wp_r870_m_extended"    : "Extended Magazine Tube",
 	"bm_wp_r870_s_nostock_big" : "Scope Mount",
 	"bm_wp_r870_s_solid_big"   : "Standard Stock with Scope Mount",
-	
+
 	"bm_wp_shorty_m_extended_short" : "Extended Magazine Tube",
 	"bm_wp_serbu_s_solid_short"     : "Standard Stock with Scope Mount",
 	"bm_wp_serbu_s_nostock_short"   : "Scope Mount",
-	
+
 	"bm_wp_coach_s_short" : "Sawed-Off Stock",
-	
+
 	"bm_wp_b682_s_ammopouch" : "Shell Carrier",
 	"bm_wp_b682_s_short"     : "Sawed-Off Stock",
-	
+
 	"bm_wp_ben_b_short"     : "M4 NFA Barrel",
 	"bm_wp_ben_fg_standard" : "M4 Tactical Stock",
-	
+
 	"bm_wp_ksg_b_short" : "KSG-12 Tactical Barrel",
-	
+
 	"bm_wp_snp_msr_ns_suppressor" : "TiTAN-QD .338 AAC Suppressor",
-	
+
 	"bm_wp_mosin_b_short"      : "M1907 M38 Carbine Barrel",
 	"bm_wp_mosin_b_long"       : "M1907's M91/30 Barrel",
 	"bm_wp_mosin_ns_bayonet"   : "Mosin Nagant Bayonet",
 	"bm_wp_mosin_body_conceal" : "Synthetic Stock",
-	
+
 	"bm_wp_shepheard_body_short" : "MPX-K Handguard",
 	"bm_wp_shepheard_s_no"       : "MPX-K Stock",
-	
+
 	"bm_wp_smg_m45_b_small"    : "Short Barrel",
 	"bm_wp_smg_m45_b_green"    : "M/45B Swedish Green Barrel",
 	"bm_wp_smg_m45_g_bling"    : "Ivory Grip",
@@ -794,7 +794,7 @@
 	"menu_challenge_monthly_rats_objective"        : "Complete the \"RATS\" job on OVERKILL or above using only Colt Model 733, Glock 17, the Two-piece Suit and no skills.",
 	"menu_challenge_frog_1_objective"              : "In the \"HOXTON BREAKOUT\" job, complete the heist on OVERKILL difficulty or above with each crew member using no skills, wearing Suits, wielding Golden AKMS rifles and Thompson M1928A1 LTD submachine guns.",
 	"menu_challenge_monthly_firestarter_objective" : "Complete the \"FIRESTARTER\" job on OVERKILL or above using only Colt Model 733, Glock 17, the Two-piece Suit and no skills.",
-	
+
 	"menu_aru_job_2_obj_desc" : "Kill 50 enemies using the Luger P08",
 	"menu_aru_job_3_obj_desc" : "Kill 100 enemies using the MP40",
 	"menu_aru_job_4_obj_desc" : "Kill 200 enemies using the M1 Garand",
@@ -810,7 +810,7 @@
 	"menu_lmg"           : "Light Machine Guns",
 	"menu_pistol"        : "Pistols",
 	"menu_smg"           : "Sub-Machine Guns",
-    
+
     "bm_wp_upg_o_rms"   : "Shield RMSc",
     "bm_wp_upg_ns_typhoon" : "Tandemkross Game Changer Compensator",
 
@@ -821,25 +821,25 @@
     "bm_wp_upg_o_bmg" : "Trijicon ACOG 6x48 BAC",
     "bm_wpn_fps_upg_o_sig" : "Sig Sauer Juliet3 3x24mm Magnifier",
     "bm_wp_upg_o_rikt" : "Aimpoint Acro P-1",
-    
+
     "bm_wp_beer_b_robo"     : "RoboCop Barrel",
     "bm_wp_beer_g_robo"     : "RoboCop Grip",
     "bm_wp_beer_g_lux"      : "Wooden Grip",
     "bm_wp_beer_s_std"      : "Wire-frame Stock",
     "bm_wp_beer_m_extended" : "Extended Magazine",
-    
+
     "bm_wp_czech_b_long"        : "Barrel Extension",
     "bm_wp_czech_g_sport"       : "Custom Grip",
     "bm_wp_czech_g_luxury"      : "Wooden Grip",
     "bm_wp_czech_s_standard"    : "Wire-frame Stock",
     "bm_wp_czech_m_extended"    : "Extended Magazine",
-    
+
     "bm_wp_stech_b_long"        : "Barrel Extension",
     "bm_wp_stech_g_tactical"    : "Custom Rubber Grip",
     "bm_wp_stech_g_luxury"      : "Custom Wooden Grip",
     "bm_wp_stech_s_standard"    : "Wooden Stock",
     "bm_wp_stech_m_extended"    : "Extended Magazine",
-	
+
 	"RWN_bm_w_c96" : "Broomstick Pistol",
 	"RWN_bm_w_usp" : "Interceptor 45 Pistol",
 	"RWN_bm_w_ppk" : "Gruber Kurz Pistol",
