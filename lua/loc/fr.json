@@ -141,9 +141,8 @@
 
   "bm_wp_ak5_fg_ak5c" : "Poignée avant Bofors AK 5C",
   "bm_wp_ak5_fg_fnc"  : "Poignée avant FN FNC",
-  "bm_wp_ak5_b_short" : "Canon Bofors AK 5C",	
+  "bm_wp_ak5_b_short" : "Canon Bofors AK 5C",
 	"bm_wp_ak5_s_ak5c"  : "Crosse Bofors AK 5C",
-	"bm_wp_ak5_b_short" : "Canon Bofors AK 5C",
 
   "bm_wp_sub2000_fg_gen2"       : "Kit Gen 2",
   "bm_wp_sub2000_fg_suppressed" : "Suppresseur GemTech MK-9K",
@@ -421,7 +420,7 @@
 	"bm_wp_deagle_b_long"    : "Canon de 10 pouces",
 	"bm_wp_deagle_b_modern"  : "Canon porté",
 
-	"bm_wp_p226_b_equinox" : "Glissière	P226 Equinox",
+	"bm_wp_p226_b_equinox" : "Glissière P226 Equinox",
 	"bm_wp_p226_b_long"    : "Glissière P226 X-Six",
 
 	"bm_wp_shrew_g_ergo"   : "Poignée anti-dérapante Hogue Officer M1911",
