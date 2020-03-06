@@ -26,6 +26,22 @@ If you don't have any additional info/context to add but would like to indicate 
 * Please test your code before you submit changes. Untested code will **not** be merged!
 * Make sure your PR is up-to-date with the rest of the code.
 
+### Code style
+
+To facilitate meeting the criteria below you can press the `Shift + Alt + F` key combination (default) when **vscode-lua** is active and VS Code will format the file for you.
+
+#### Indentation
+
+Use tabs for indenting your code and swear an oath to never mix tabs and spaces.
+
+#### Trailing Whitespaces
+
+Clean up any trailing whitespace in your Lua and JSON files before committing.
+
+#### Characters Limit
+
+You should limit your lines to 175 characters.
+
 ## Licensing
 
 By contributing to this repository, you agree to license your work under the current license of this repository: In this case, MIT.
