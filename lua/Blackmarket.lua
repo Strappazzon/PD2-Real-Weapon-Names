@@ -1,7 +1,5 @@
---=========================--
--- CODE TAKEN FROM M.O.RE. --
---     by  Undeadsewer     --
---=========================--
+-- From Undeadsewer's Melee Overhaul REvamped
+-- //modworkshop.net/mod/1497
 
 Hooks:PostHook(
 	BlackMarketGui,
