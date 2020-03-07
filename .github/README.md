@@ -57,7 +57,12 @@ If you are interested in fixing issues and contributing directly to the code bas
 * [PoorpocketsMcNewhold](https://steamcommunity.com/profiles/76561198111231970/): French localization
 * [Retreeb](https://github.com/Retreeb) and [OverkeelSpy](https://github.com/OverkeelSpy): Russian localization
 * [BangL](https://github.com/BangL): Fixes
-* [Rooster Teeth](https://steamcommunity.com/id/Ernestoleftenant/): Research assistance & Spanish localization
-* [Snh20](https://modworkshop.net/member.php?action=profile&uid=9746): Achievement Toogle Code based on [string_id Revealer](https://modwork.shop/14801)
-* [NewPJzuza](https://modworkshop.net/member.php?action=profile&uid=34731): Testing and Fixing
+* [Rooster Teeth](https://steamcommunity.com/profiles/76561198059812462): Research assistance & Spanish localization
+* [NewPJzuza](https://modworkshop.net/user/34731): Testing and Fixing
 * [FR0Z3_N3.Polaris](https://steamcommunity.com/profiles/76561198058215284/): Research assistance
+
+## Credits
+
+* [Snh20](https://modworkshop.net/user/9746): Achievement Toogle code based on their mod, [string_id Revealer](https://modworkshop.net/mod/14801)
+* [Undeadsewer](https://modworkshop.net/user/314): Melee weapons description code from their mod, [Melee Overhaul REvamped](https://modworkshop.net/mod/1497)
+* [BillyAlt](https://modworkshop.net/user/2232): Weapon attachments names from their mod, [Real Weapon Mod Names](https://modworkshop.net/mod/13069)
