@@ -7,7 +7,7 @@
 	"color" : "30 114 165",
 	"undisablable" : false,
 	"disable_safe_mode" : true,
-	"contact" : "https://modwork.shop/19958",
+	"contact" : "https://github.com/Strappazzon/PD2-Real-Weapon-Names/issues",
 	"version" : "3.0.1",
 	"updates" : [
 		{
