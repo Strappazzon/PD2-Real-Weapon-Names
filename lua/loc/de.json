@@ -8,14 +8,14 @@
 	"bm_w_flamethrower_mk2" : "Flammenwerfer",
 	"bm_w_long"             : "Englischer Bogen",
 
-	"bm_w_mosin"          : "Mosin Nagant M1907 Karabiner",
+	"bm_w_mosin" : "Mosin Nagant M1907 Karabiner",
 
-	"bm_w_basset"  : "CBRPS Spike X1S Saiga-12K CQB Umbau",
-	"bm_w_serbu"   : "Remington 870 Kurzer Lauf",
+	"bm_w_basset" : "CBRPS Spike X1S Saiga-12K CQB Umbau",
+	"bm_w_serbu"  : "Remington 870 Kurzer Lauf",
 
-	"bm_w_hunter"  : "Amur Falcon Pistolenarmbrust",
-	"bm_w_china"   : "China Lake Granatwerfer",
-	"bm_w_ray"     : "M202 FLASH Raketenwerfer",
+	"bm_w_hunter" : "Amur Falcon Pistolenarmbrust",
+	"bm_w_china"  : "China Lake Granatwerfer",
+	"bm_w_ray"    : "M202 FLASH Raketenwerfer",
 
 	"bm_wp_upg_o_docter"        : "DOCTER Visier II Plus",
 	"bm_wp_upg_o_reflex"        : "Offenes Reflex Visier",
@@ -98,8 +98,8 @@
 	"bm_wp_aug_b_short"  : "AUG 16 Zoll Karabinerlauf",
 	"bm_wp_aug_b_long"   : "AUG HBAR Lauf",
 
-	"bm_wp_l85a2_b_long"   : "L86A1 Lauf",
-	"bm_wp_l85a2_g_worn"   : "Abgenutzter Griff",
+	"bm_wp_l85a2_b_long" : "L86A1 Lauf",
+	"bm_wp_l85a2_g_worn" : "Abgenutzter Griff",
 
 	"bm_wp_famas_b_suppressed" : "Lauf mit integriertem Schalldämpfer",
 	"bm_wp_famas_b_long"       : "G2 Ziviler Lauf",
@@ -171,15 +171,15 @@
 
 	"bm_wp_polymer_barrel_precision" : "CRB umantelter Lauf",
 
-	"bm_wp_hk21_b_long" : "HK23E Lauf",
+	"bm_wp_hk21_b_long"   : "HK23E Lauf",
 	"bm_wp_hk21_fg_short" : "Kurzer Handschutz",
 
 	"bm_wp_uzi_b_suppressed" : "SIONICS \"Whispering Death\" angepasste Nachrüstung",
 	"bm_wp_uzi_s_solid"      : "Originaler Holzschaft",
 
-	"bm_wp_mac10_body_ris"     : "G&P CQB taktisches Schienen-Kit Nachrüstung",
-	"bm_wp_mac10_m_extended"    : "32rnd Magazin",
-	"bm_wp_mac10_m_quick"       : "32rnd Magpul Magazin",
+	"bm_wp_mac10_body_ris"   : "G&P CQB taktisches Schienen-Kit Nachrüstung",
+	"bm_wp_mac10_m_extended" : "32rnd Magazin",
+	"bm_wp_mac10_m_quick"    : "32rnd Magpul Magazin",
 
 	"bm_wp_baka_b_comp" : "Lauf mit Kompensator",
 
@@ -202,7 +202,7 @@
 	"bm_wp_mp7_b_suppressed" : "H&K MP7 QD Schalldämpfer",
 
 	"bm_wp_mp9_b_suppressed" : "MP9 QD Schalldämpfer",
-	"bm_wp_mp9_s_skel" : "Steyr TMP Schaft Nachrüstung",
+	"bm_wp_mp9_s_skel"       : "Steyr TMP Schaft Nachrüstung",
 	"bm_wp_mp9_m_extended"   : "30rnd Magazin",
 
 	"bm_wp_p90_b_long"     : "PS90 ziviler Lauf",
@@ -210,17 +210,17 @@
 	"bm_wp_p90_b_ninja"    : "Angepasster japanischer Schalldämpfer",
 	"bm_wp_p90_m_strap"    : "P90 Magpul Magazin",
 
-	"bm_wp_hajk_b_short" : "CZ 805 BREN A2 Lauf",
+	"bm_wp_hajk_b_short"  : "CZ 805 BREN A2 Lauf",
 	"bm_wp_hajk_b_medium" : "Standard Lauf",
 
-	"bm_wp_scorpion_m_extended" : "Schnelllade-Magazin",
-	"bm_wp_scorpion_g_wood"     : "Originaler Holzgriff",
+	"bm_wp_scorpion_m_extended"   : "Schnelllade-Magazin",
+	"bm_wp_scorpion_g_wood"       : "Originaler Holzgriff",
 	"bm_wp_scorpion_b_suppressed" : ".32 ACP Schalldämpfer",
 
 	"bm_wp_pis_g_laser"      : "Crimson Trace Glock Laser Griff",
 	"bm_wp_pis_g_beavertail" : "Cytec Beavertail Griff",
 
-	"bm_wp_g18c_g_ergo"      : "Hogue Handall Half-Size Universal Griff",
+	"bm_wp_g18c_g_ergo" : "Hogue Handall Half-Size Universal Griff",
 
 	"bm_wp_p14_b_comp" : "Gelochte Lauferweiterung",
 
@@ -229,9 +229,9 @@
 	"bm_wp_beretta_g_ergo"       : "Holzgriff",
 	"bm_wp_beretta_g_engraved"   : "Gravierter Griff",
 
-	"bm_wp_pis_ppk_b_long"       : "Rostfreier Walther PP Schlitten",
+	"bm_wp_pis_ppk_b_long" : "Rostfreier Walther PP Schlitten",
 
-	"bm_wp_pis_usp_b_match" : "Rostfreier Schlitten mit \"Match\" Kompensator",
+	"bm_wp_pis_usp_b_match"    : "Rostfreier Schlitten mit \"Match\" Kompensator",
 	"bm_wp_pis_usp_m_big"      : "25rnd Magazin",
 	"bm_wp_pis_usp_m_extended" : "21rnd Magazin",
 
@@ -247,12 +247,12 @@
 
 	"bm_wp_peacemaker_barrel_long"  : "Colt Buntline Special Lauf",
 	"bm_wp_peacemaker_barrel_short" : "Colt SAA artillery 5.5 Zoll Lauf",
-	"bm_wp_peacemaker_rifle_stock"   : "Skelettschaft",
+	"bm_wp_peacemaker_rifle_stock"  : "Skelettschaft",
 
 	"bm_wp_sparrow_body_941" : "Jericho 941 F Kit",
 	"bm_wp_sparrow_g_cowboy" : "Jericho 941 R Rahmen",
 
-	"bm_wp_r93_body_wood" : "Blaser R93 leichtgewichtige Sportvariante",
+	"bm_wp_r93_body_wood"    : "Blaser R93 leichtgewichtige Sportvariante",
 	"bm_wp_r93_b_suppressed" : ".338 Lapua Schalldämpfer",
 
 	"bm_wp_m95_b_barrel_suppressed" : "QDL Schalldämpfer + Tarnummantelung",
@@ -263,7 +263,7 @@
 	"bm_wp_upg_a_slug2_desc"          : "Ein Slug ist ein schweres Geschoss aus Blei, Kupfer oder anderem Material und aus einer Schrotflinte gefeuert.\nDas Geschoss ist typischerweise massiver als ein Gewehrkugel.",
 	"bm_wp_upg_a_dragons_breath_desc" : "Drachenatem ist eine besondere Art von Brand-Effekt-Munition für 12-Gauge-Schrotflinten. Drachenatem besteht hauptsächlich aus Magnesiumpellets. Wenn die Munition gefeuert wird, können Funken und Flammen auf etwa 100 Fuß treffen.",
 
-	"bm_wp_basset_fg_short"  : "Verkürzter Lauf und Schiene",
+	"bm_wp_basset_fg_short"   : "Verkürzter Lauf und Schiene",
 	"bm_wp_basset_m_extended" : "SGM Tactical SAIGA Shotgun 12 Schuss Magazin",
 
 	"bm_wp_ching_b_short"  : "T26 Karabinerlauf",
@@ -285,15 +285,15 @@
 	"bm_wp_schakal_vg_surefire" : "Surefire M900 Frontgriff",
 	"bm_wp_schakal_ns_silencer" : "GemTech UMP-45 Schalldämpfer",
 
-	"bm_wp_g36_s_kv"  : "Faltbarer H&K Schaft",
-	"bm_wp_g36_s_sl8" : "SR8 Schaft",
+	"bm_wp_g36_s_kv"    : "Faltbarer H&K Schaft",
+	"bm_wp_g36_s_sl8"   : "SR8 Schaft",
 	"bm_wp_g36_fg_c"    : "G36C Frontgriff",
 	"bm_wp_g36_fg_ksk"  : "Knight Armaments G36 RAS Frontgriff",
 	"bm_wp_g36_fg_long" : "G36E Frontgriff",
 	"bm_wp_g36_m_quick" : "G36 Schnelllade-Magazin",
 
-	"bm_wp_olympic_s_short"   : "K23P Schaft",
-	"bm_wp_olympic_fg_railed" : "K23B Taktischer Handschutz",
+	"bm_wp_olympic_s_short"          : "K23P Schaft",
+	"bm_wp_olympic_fg_railed"        : "K23B Taktischer Handschutz",
 	"bm_wp_m4_uupg_b_medium"         : "Mk 18 Mod 0 Lauf",
 	"bm_wp_upg_smg_olympic_fg_lr300" : "Aftermarket kurzer Handgriff",
 
@@ -323,24 +323,24 @@
 	"bm_wp_g3_fg_retro_plastic" : "AK 4 Handschutznachrüstung",
 	"bm_wp_g3_fg_railed"        : "Frontgriff mit Schienen",
 
-	"bm_wp_aa12_barrel_long" : "Regulärer AA-12 Lauf",
+	"bm_wp_aa12_barrel_long"     : "Regulärer AA-12 Lauf",
 	"bm_wp_aa12_barrel_silenced" : "Integrierter Schalldämpfer",
 
-	"bm_wp_1911_g_ergo"   : "American Legend Pachmayr Griff",
-	"bm_wp_1911_g_bling"  : "Holzgriff",
+	"bm_wp_1911_g_ergo"     : "American Legend Pachmayr Griff",
+	"bm_wp_1911_g_bling"    : "Holzgriff",
 	"bm_wp_1911_g_engraved" : "Gravierter Griff",
 	"bm_wp_1911_m_big"      : "ProMag 22rnd Magazin",
-	"bm_wp_1911_b_vented" : "Springfield Armory V-12 Belüfteter Schlitten",
-	"bm_wp_1911_b_long"   : "Springfield Armory V-16 Belüfteter Langer Schlitten",
+	"bm_wp_1911_b_vented"   : "Springfield Armory V-12 Belüfteter Schlitten",
+	"bm_wp_1911_b_long"     : "Springfield Armory V-16 Belüfteter Langer Schlitten",
 
 	"bm_wp_rage_b_short" : "444 Multi-S/S Lauf",
 	"bm_wp_rage_b_long"  : "444SS8 Lauf",
 
-	"bm_wp_m249_b_long" : "M249-E2 SAW Lauf",
+	"bm_wp_m249_b_long"  : "M249-E2 SAW Lauf",
 	"bm_wp_m249_s_solid" : "M249-E2 SAW Schaft",
 	"bm_wp_m249_fg_mk46" : "MK46 Mod 0 Frontgriff",
 
-	"bm_wp_wa2000_b_long" : "Gen 2 Lauf",
+	"bm_wp_wa2000_b_long"       : "Gen 2 Lauf",
 	"bm_wp_wa2000_b_suppressed" : "Integrierter Schalldämpfer",
 	"bm_wp_wa2000_g_walnut"     : "Walnuss Schaft",
 	"bm_wp_wa2000_g_light"      : "Leichter Schaft",
@@ -351,13 +351,13 @@
 	"bm_wp_siltstone_fg_polymer"     : "SVD Tiger Handschutz",
 	"bm_wp_siltstone_s_polymer"      : "SVD Tiger Schaft",
 
-	"bm_wp_desertfox_b_long" : "Early Quad-Rail Handschutz",
+	"bm_wp_desertfox_b_long"     : "Early Quad-Rail Handschutz",
 	"bm_wp_desertfox_b_silenced" : "DTSS .338 Schalldämpfer",
 
-	"bm_wp_ns_duck"	            : "Paradigm SRP Gator Schrotspreizer",
-	"bm_wp_r870_s_folding"  : "Faltschaft",
+	"bm_wp_ns_duck"	         : "Paradigm SRP Gator Schrotspreizer",
+	"bm_wp_r870_s_folding"   : "Faltschaft",
 	"bm_wp_b682_s_ammopouch" : "Patronenhalter",
-	"bm_wp_r870_fg_wood"   : "Hölzerner Frontgriff",
+	"bm_wp_r870_fg_wood"     : "Hölzerner Frontgriff",
 
 	"bm_wp_tti_s_vltor"  : "VLTOR EMOD Schaft",
 	"bm_wp_tti_g_grippy" : "Hogue OverMolded Pistolengriff",
@@ -413,7 +413,7 @@
 
 	"bm_wp_coach_s_short" : "Abgesägter Schaft",
 
-	"bm_wp_b682_s_short"     : "Abgesägter Schaft",
+	"bm_wp_b682_s_short" : "Abgesägter Schaft",
 
 	"bm_wp_ben_b_short"     : "M4 NFA Lauf",
 	"bm_wp_ben_fg_standard" : "M4 Tactical Schaft",
@@ -532,9 +532,9 @@
 	"bm_melee_oxide_info"         : "",
 	"bm_melee_sword_info"         : "",
 
-	"bm_menu_barrel_ext"     : "Lauferweiterung",
-	"bm_menu_custom"         : "Interne Modifikation",
-	"bm_menu_sight"          : "Visier",
+	"bm_menu_barrel_ext" : "Lauferweiterung",
+	"bm_menu_custom"     : "Interne Modifikation",
+	"bm_menu_sight"      : "Visier",
 
 	"bm_grenade_fir_com"                   : "M14 TH3 Brandgranate",
 	"bm_grenade_fir_com_desc"              : "Eine zylindrische Granate, die visuell identisch mit der M8 ist, ist die M14 eine zweckgebundene Brandgranate. Ausgehend von der intensiven und heftigen Reaktion der Thermitfüllung ist das Endergebnis des Einsatzes der M14 geschmolzenes Eisen. Das bedeutet, dass die M14 vorwiegend auf Material angewendet wird, das in einer ungefähr sicheren Umgebung zerstört werden soll und nicht als Offensiv- oder Verteidigungswaffe. Da die thermische Reaktion Eisenoxid anstelle von Sauerstoff als sein Oxidationsmittel verwendet, kann die Granate auch unter Wasser arbeiten.",
@@ -580,22 +580,22 @@
     "bm_wp_beer_s_std"      : "Drahtrahmenschaft",
     "bm_wp_beer_m_extended" : "Erweitertes Magazin",
 
-    "bm_wp_czech_b_long"        : "Lauferweiterung",
-    "bm_wp_czech_g_sport"       : "Angepasster Griff",
-    "bm_wp_czech_g_luxury"      : "Hölzerner Griff",
-    "bm_wp_czech_s_standard"    : "Drahtrahmenschaft",
-    "bm_wp_czech_m_extended"    : "Erweitertes Magazin",
+    "bm_wp_czech_b_long"     : "Lauferweiterung",
+    "bm_wp_czech_g_sport"    : "Angepasster Griff",
+    "bm_wp_czech_g_luxury"   : "Hölzerner Griff",
+    "bm_wp_czech_s_standard" : "Drahtrahmenschaft",
+    "bm_wp_czech_m_extended" : "Erweitertes Magazin",
 
-    "bm_wp_stech_b_long"        : "Lauferweiterung",
-    "bm_wp_stech_g_tactical"    : "Angepasster Gummigriff",
-    "bm_wp_stech_g_luxury"      : "Angepasster Holzgriff",
-    "bm_wp_stech_s_standard"    : "Hölzerner Schaft",
-    "bm_wp_stech_m_extended"    : "Erweitertes Magazin",
+    "bm_wp_stech_b_long"     : "Lauferweiterung",
+    "bm_wp_stech_g_tactical" : "Angepasster Gummigriff",
+    "bm_wp_stech_g_luxury"   : "Angepasster Holzgriff",
+    "bm_wp_stech_s_standard" : "Hölzerner Schaft",
+    "bm_wp_stech_m_extended" : "Erweitertes Magazin",
 
     "bm_wp_upg_ns_typhoon" : "Tandemkross Game Changer Kompensator",
 
     "bm_wp_upg_g_m4_surgeon" : "Surgeon CNC Aluminum Skelettgriff",
-    "bm_wpn_fps_upg_o_sig" : "Sig Sauer Juliet3 3x24mm Vergrößerer",
+    "bm_wpn_fps_upg_o_sig"   : "Sig Sauer Juliet3 3x24mm Vergrößerer",
 
 	"bm_wp_sub2000_fg_suppressed" : "GemTech MK-9K Schalldämpfer"
 }

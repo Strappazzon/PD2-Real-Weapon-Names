@@ -302,10 +302,10 @@
 
 	"bm_wp_vhs_b_short" : "CAÑÓN DE VHS-K2",
 
-	"bm_wp_upg_ass_m4_lower_reciever_core"		 : "MECANISMOS INFERIORES CORE15",
-	"bm_wp_m4_upper_reciever_edge"               : "MECANISMOS SUPERIORES VLTOR MUR-1A",
-	"bm_wp_upg_ass_m4_upper_reciever_ballos"	 : "MEC. SUPERIORES 2A-ARMS BALIOS-LITE",
-	"bm_wp_upg_ass_m4_upper_reciever_core"		 : "MECANISMOS SUPERIORES CORE15",
+	"bm_wp_upg_ass_m4_lower_reciever_core"   : "MECANISMOS INFERIORES CORE15",
+	"bm_wp_m4_upper_reciever_edge"           : "MECANISMOS SUPERIORES VLTOR MUR-1A",
+	"bm_wp_upg_ass_m4_upper_reciever_ballos" : "MEC. SUPERIORES 2A-ARMS BALIOS-LITE",
+	"bm_wp_upg_ass_m4_upper_reciever_core"   : "MECANISMOS SUPERIORES CORE15",
 
 	"bm_wp_m16_fg_railed"       : "RIEL DANIEL DEFENSE AR15 LITE III",
 	"bm_wp_m16_fg_vietnam"      : "GUARDAMANOS DE M16A1",
@@ -377,7 +377,7 @@
 	"bm_wp_mp7_b_suppressed" : "SUPRESOR DE H&K MP7 QD",
 
 	"bm_wp_mp9_b_suppressed" : "SUPRESOR DE MP9 QD",
-	"bm_wp_mp9_s_skel" : "CULATA ADAPTADA DE STEYR TMP",
+	"bm_wp_mp9_s_skel"       : "CULATA ADAPTADA DE STEYR TMP",
 
 	"bm_wp_p90_b_long"     : "CAÑÓN CIVIL DE PS90",
 	"bm_wp_p90_b_civilian" : "CAÑÓN VENTILADO MOERSE LEKKER SALES",
@@ -391,7 +391,7 @@
 	"bm_wp_pis_g_beavertail" : "EMPUÑADURA CYTEC BEAVERTAIL",
 
 	"bm_wp_g18c_s_stock"     : "CULATA FAB DEFENSE GLR-440",
-	"bm_wp_g18c_g_ergo" : "EMP. HOGUE HANDALL HALF-SIZE UNIVERSAL",
+	"bm_wp_g18c_g_ergo"      : "EMP. HOGUE HANDALL HALF-SIZE UNIVERSAL",
 
 	"bm_wp_pis_s_stock" : "CULATA FAB DEFENSE GLR-440",
 
@@ -414,7 +414,7 @@
 	"bm_wp_hs2000_sl_custom" : "CAÑÓN DE 4 PULGADAS DE XD-9 V10",
 	"bm_wp_hs2000_sl_long"   : "CORREERA INOXIDABLE DE XDM 5.25",
 
-	"bm_wp_peacemaker_barrel_long" : "CAÑÓN ESPECIAL BUNTLINE",
+	"bm_wp_peacemaker_barrel_long"  : "CAÑÓN ESPECIAL BUNTLINE",
 	"bm_wp_peacemaker_barrel_short" : "CAÑÓN DE COLT SAA ARTILLERY",
 
 	"bm_wp_sparrow_body_941" : "CONJUNTO DE JERICHO 941 F",
@@ -450,12 +450,12 @@
 	"bm_wp_schakal_vg_surefire" : "EMPUÑADURA VERTICAL SUREFIRE M900",
 	"bm_wp_schakal_ns_silencer" : "SUPRESOR GEMTECH DE UMP45",
 
-	"bm_wp_g36_s_kv"    : "CULATA H&K PLEGABLE",
-	"bm_wp_g36_s_sl8"   : "CULATA DE SR8",
-	"bm_wp_g36_fg_c"    : "GUARDAMANOS DE G36C",
-	"bm_wp_g36_fg_ksk"  : "GUARD. KNIGHT ARMAMENTS G36 RAS",
-	"bm_wp_g36_fg_long" : "GUARDAMANOS DE G36E",
-	"bm_wp_g36_m_quick" : "CARGADOR MAGPULL PARA G36",
+	"bm_wp_g36_s_kv"      : "CULATA H&K PLEGABLE",
+	"bm_wp_g36_s_sl8"     : "CULATA DE SR8",
+	"bm_wp_g36_fg_c"      : "GUARDAMANOS DE G36C",
+	"bm_wp_g36_fg_ksk"    : "GUARD. KNIGHT ARMAMENTS G36 RAS",
+	"bm_wp_g36_fg_long"   : "GUARDAMANOS DE G36E",
+	"bm_wp_g36_m_quick"   : "CARGADOR MAGPULL PARA G36",
 	"bm_wp_g36_o_vintage" : "ZF 3x4°",
 
 	"bm_wp_olympic_s_short"   : "CULATA DE K23P",
@@ -494,7 +494,7 @@
 	"bm_wp_1911_b_vented" : "CORREDERA VENTILADA SA V-12",
 	"bm_wp_1911_b_long"   : "CORREDERA LARGA Y VENTILADA SA V-16",
 
-	"bm_wp_m249_b_long" : "CAÑÓN DE M249-E2 SAW",
+	"bm_wp_m249_b_long"  : "CAÑÓN DE M249-E2 SAW",
 	"bm_wp_m249_s_solid" : "CULATA DE M249-E2 SAW",
 	"bm_wp_m249_fg_mk46" : "GUARDAMANOS DE MK46 MOD 0",
 
@@ -661,9 +661,9 @@
 	"bm_melee_oxide_info"         : "",
 	"bm_melee_sword_info"         : "",
 
-	"bm_menu_barrel_ext"     : "BOQUILLA",
-	"bm_menu_custom"         : "MOD. INTERNO",
-	"bm_menu_sight"          : "MIRAS",
+	"bm_menu_barrel_ext" : "BOQUILLA",
+	"bm_menu_custom"     : "MOD. INTERNO",
+	"bm_menu_sight"      : "MIRAS",
 
 	"bm_grenade_fir_com"                   : "GRANADA INCENDIARIA AN-M14",
 	"bm_grenade_fir_com_desc"              : "Una granada cilíndrica visualmente idéntica a la M8, la M14 es una granada incendiaria diseñada especialmente. Al trabajar con la intensa y violenta reacción del relleno de termita, el resultado final del uso de la M14 es hierro fundido. Esto significa que la M14 se emplea principalmente en material que se destruirá en un entorno más o menos seguro y no como un arma ofensiva o defensiva. Dado que la reacción de la termita utiliza óxido de hierro en lugar de oxígeno para su agente oxidante, la granada puede funcionar bajo el agua.",
