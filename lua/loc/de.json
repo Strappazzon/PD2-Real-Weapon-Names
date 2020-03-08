@@ -574,28 +574,28 @@
 	"bm_wp_l85a2_fg_short" : "Daniel Defense Frontgriff mit Schienen",
 	"bm_wp_l85a2_b_short"  : "L22 Prototypenlauf",
 
-    "bm_wp_beer_b_robo"     : "\"RoboCop\"-Lauf",
-    "bm_wp_beer_g_robo"     : "\"RoboCop\"-Griff",
-    "bm_wp_beer_g_lux"      : "Hölzerner Griff",
-    "bm_wp_beer_s_std"      : "Drahtrahmenschaft",
-    "bm_wp_beer_m_extended" : "Erweitertes Magazin",
+	"bm_wp_beer_b_robo"     : "\"RoboCop\"-Lauf",
+	"bm_wp_beer_g_robo"     : "\"RoboCop\"-Griff",
+	"bm_wp_beer_g_lux"      : "Hölzerner Griff",
+	"bm_wp_beer_s_std"      : "Drahtrahmenschaft",
+	"bm_wp_beer_m_extended" : "Erweitertes Magazin",
 
-    "bm_wp_czech_b_long"     : "Lauferweiterung",
-    "bm_wp_czech_g_sport"    : "Angepasster Griff",
-    "bm_wp_czech_g_luxury"   : "Hölzerner Griff",
-    "bm_wp_czech_s_standard" : "Drahtrahmenschaft",
-    "bm_wp_czech_m_extended" : "Erweitertes Magazin",
+	"bm_wp_czech_b_long"     : "Lauferweiterung",
+	"bm_wp_czech_g_sport"    : "Angepasster Griff",
+	"bm_wp_czech_g_luxury"   : "Hölzerner Griff",
+	"bm_wp_czech_s_standard" : "Drahtrahmenschaft",
+	"bm_wp_czech_m_extended" : "Erweitertes Magazin",
 
-    "bm_wp_stech_b_long"     : "Lauferweiterung",
-    "bm_wp_stech_g_tactical" : "Angepasster Gummigriff",
-    "bm_wp_stech_g_luxury"   : "Angepasster Holzgriff",
-    "bm_wp_stech_s_standard" : "Hölzerner Schaft",
-    "bm_wp_stech_m_extended" : "Erweitertes Magazin",
+	"bm_wp_stech_b_long"     : "Lauferweiterung",
+	"bm_wp_stech_g_tactical" : "Angepasster Gummigriff",
+	"bm_wp_stech_g_luxury"   : "Angepasster Holzgriff",
+	"bm_wp_stech_s_standard" : "Hölzerner Schaft",
+	"bm_wp_stech_m_extended" : "Erweitertes Magazin",
 
-    "bm_wp_upg_ns_typhoon" : "Tandemkross Game Changer Kompensator",
+	"bm_wp_upg_ns_typhoon" : "Tandemkross Game Changer Kompensator",
 
-    "bm_wp_upg_g_m4_surgeon" : "Surgeon CNC Aluminum Skelettgriff",
-    "bm_wpn_fps_upg_o_sig"   : "Sig Sauer Juliet3 3x24mm Vergrößerer",
+	"bm_wp_upg_g_m4_surgeon" : "Surgeon CNC Aluminum Skelettgriff",
+	"bm_wpn_fps_upg_o_sig"   : "Sig Sauer Juliet3 3x24mm Vergrößerer",
 
 	"bm_wp_sub2000_fg_suppressed" : "GemTech MK-9K Schalldämpfer"
 }
