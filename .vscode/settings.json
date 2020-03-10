@@ -1,4 +1,13 @@
 {
+	"editor.rulers": [
+		{
+			"column": 175,
+			"color": "#0000ff"
+		}
+	],
+	"[lua]": {
+		"editor.defaultFormatter": "trixnz.vscode-lua"
+	},
 	"lua.format.useTabs": true,
 	"lua.format.lineWidth": 175
 }
