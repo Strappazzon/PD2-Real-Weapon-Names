@@ -28,7 +28,7 @@ If you don't have any additional info/context to add but would like to indicate 
 
 ### Code style
 
-To facilitate meeting the criteria below you can press the `Shift + Alt + F` key combination (default) when **vscode-lua** is active and VS Code will format the file for you.
+To facilitate meeting the criteria below you can press the `Shift + Alt + F` key combination (default) when **vscode-lua** is active and VS Code will format the Lua file for you.
 
 #### Indentation
 
@@ -40,7 +40,7 @@ Clean up any trailing whitespace in your Lua and JSON files before committing.
 
 #### Characters Limit
 
-You should limit your lines to 175 characters.
+You should limit your lines in Lua files to 175 characters. If you open the repository folder with VS Code, a blue ruler will appear on the editor. That will give you a visual indication of the characters limit.
 
 ## Licensing
 
