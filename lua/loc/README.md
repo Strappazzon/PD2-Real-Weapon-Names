@@ -102,4 +102,4 @@ Checking frequently will make it easier to know which change caused the error or
 
 ## Getting Help
 
-If you have any issues, [open an Issue](https://github.com/Strappazzon/PD2-Real-Weapon-Names/issues/new) here on GitHub or leave a comment [on Mod Workshop](https://modwork.shop/19958).
+If you have any issues, [open an Issue](https://github.com/Strappazzon/PD2-Real-Weapon-Names/issues/new/choose) here on GitHub or leave a comment [on Mod Workshop](https://modwork.shop/19958).
