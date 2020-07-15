@@ -18,7 +18,7 @@
 	"bm_w_ray"    : "M202 FLASH Raketenwerfer",
 
 	"bm_wp_upg_o_docter"        : "DOCTER Visier II Plus",
-	"bm_wp_upg_o_reflex"        : "Offenes Reflex Visier",
+	"bm_wp_upg_o_reflex"        : "Sightmark Sure Shot",
 	"bm_wp_upg_o_rx01"          : "Trijicon RX01 Polariziertes Reflex Visier",
 	"bm_wp_upg_o_rx30"          : "Trijicon RX30 Reflex Visier",
 	"bm_wp_upg_o_box"           : "Pulsar Digisight LRF N960 N970 Nachtsichtzielfernrohr mit Reichweitenmesser",
@@ -27,9 +27,8 @@
 	"bm_wpn_fps_upg_o_45rds_v2" : "Aimpoint Micro T-2 abgewinkeltes Visier",
 	"bm_wp_upg_o_rmr"           : "Trijicon RM06 RMR Visier",
 
-	"bm_wp_m4_m_straight" : "STANAG 22rnd Magazin",
+	"bm_wp_m4_m_straight" : "M16 20rnd Magazin",
 	"bm_wp_m4_uupg_m_std" : "STANAG 38rnd Magazin",
-	"bm_wp_upg_m4_m_quad" : "STANAG 60rnd Magazin",
 
 	"bm_wp_upg_o_sho_salvo_large"  : "SilencerCo Salvo 12 Schalldämpfer",
 	"bm_wp_upg_ns_sho_salvo_large" : "SilencerCo Salvo 12 Schalldämpfer",
@@ -67,7 +66,7 @@
 	"bm_wp_m37_s_short"     : "Abgesägter Schaft",
 
 	"bm_wp_m4_g_ergo"      : "Command Arms UPG16 Griff",
-	"bm_wp_m4_g_sniper"    : "Generischer gewichtsausgeglichener Kunststoffgriff",
+	"bm_wp_m4_g_sniper"    : "H&K PSG1 Style Grip",
 	"bm_wp_upg_m4_g_hgrip" : "Hogue OverMolded Weichgummigriff",
 	"bm_wp_upg_m4_g_mgrip" : "Magpul MOE-K Griff",
 
@@ -597,5 +596,30 @@
 	"bm_wp_upg_g_m4_surgeon" : "Surgeon CNC Aluminum Skelettgriff",
 	"bm_wpn_fps_upg_o_sig"   : "Sig Sauer Juliet3 3x24mm Vergrößerer",
 
-	"bm_wp_sub2000_fg_suppressed" : "GemTech MK-9K Schalldämpfer"
+	"bm_wp_sub2000_fg_suppressed" : "GemTech MK-9K Schalldämpfer",
+    
+    "bm_wp_holt_g_ergo" : "Ergonomischer Griff",
+    "bm_wp_holt_g_bling" : "Angepasster Griff",
+    "bm_wp_holt_m_extended" : "Erweitertes Magazin",
+    
+    "bm_wp_m60_b_short" : "M60-E3 Lauf",
+    "bm_wp_m60_fg_tactical" : "Mk 43 Mod 0/1 Handschutz",
+    "bm_wp_m60_fg_tropical" : "M60 Handschutz mit Tropentarnung",
+    
+    "bm_wp_m14_body_ruger" : "Ruger AC556 Gehäuse",
+    
+    "bm_wp_r700_b_short" : "16.5 Inch Lauf",
+    "bm_wp_r700_b_medium" : "16.5 Inch Lauf mit integriertem Schalldämpfer",
+    "bm_wp_r700_s_military" : "Magpul Hunter 700 Schaft",
+    
+    "RWN_menu_desc" : "Optionen für  Real Weapon Names",
+    "RWN_menu_langchoice_title" : "Mod Sprache",
+    "RWN_menu_langchoice_desc" : "Wählen Sie die Sprache für Real Weapon Names",
+    "RWN_menu_langchoice_default" : "Automatisch",
+    "RWN_menu_langchoice_english" : "Englisch",
+    "RWN_menu_langchoice_german" : "Deutsch",
+    "RWN_menu_langchoice_spanish" : "Spanisch",
+    "RWN_menu_langchoice_french" : "Französisch",
+    "RWN_menu_langchoice_italian" : "Italiänisch",
+    "RWN_menu_langchoice_russian" : "Russisch"
 }

@@ -188,7 +188,7 @@
 	"bm_wp_upg_o_cmore"         : "C-MORE Railway ARW",
 	"bm_wp_upg_o_cs"            : "Aimpoint CS",
 	"bm_wp_upg_o_eotech_xps"    : "EOTech Model EXPS3",
-	"bm_wp_upg_o_reflex"        : "Generic Open Reflex Sight",
+	"bm_wp_upg_o_reflex"        : "Sightmark Sure Shot",
 	"bm_wp_upg_o_rx01"          : "Trijicon RX01 Polarized Reflex Sight",
 	"bm_wp_upg_o_rx30"          : "Trijicon RX30 Reflex Sight",
 	"bm_wp_upg_o_ak_scopemount" : "K-VAR KV-045 Optic Mount",
@@ -201,10 +201,10 @@
 	"bm_wp_upg_o_rmr"           : "Trijicon RM06 RMR Sight",
 	"bm_wp_upg_o_spot"          : "NcSTAR Advanced Dual Optic Sight",
 
-	"bm_wp_m4_m_straight" : "STANAG 22rnd Mag",
+	"bm_wp_m4_m_straight" : "M16 20 Round Mag",
 	"bm_wp_m4_uupg_m_std" : "STANAG 38rnd Mag",
 	"bm_wp_m4_m_pmag"     : "Magpul PMAG",
-	"bm_wp_upg_m4_m_quad" : "STANAG 60rnd Mag",
+	"bm_wp_upg_m4_m_quad" : "SureFire MAG5-60",
 	"bm_wp_l85a2_m_emag"  : "Magpul EMAG",
 	"bm_wp_upg_m4_m_l5"   : "L5AWM",
 	"bm_wp_m4_m_quick"    : "Original Magpul 5.56 NATO",
@@ -248,7 +248,7 @@
 	"bm_wp_upg_m4_s_ubr"    : "Magpul UBR Collapsible Buttstock Custom",
 
 	"bm_wp_m4_g_ergo"      : "Command Arms UPG16 Grip",
-	"bm_wp_m4_g_sniper"    : "Generic Weight-Balanced Synthetic Grip",
+	"bm_wp_m4_g_sniper"    : "H&K PSG1 Style Grip",
 	"bm_wp_upg_m4_g_hgrip" : "Hogue OverMolded Soft Rubber Grip",
 	"bm_wp_upg_m4_g_mgrip" : "Magpul MOE-K Grip",
 
@@ -848,6 +848,25 @@
 	"bm_wp_stech_g_luxury"   : "Custom Wooden Grip",
 	"bm_wp_stech_s_standard" : "Wooden Stock",
 	"bm_wp_stech_m_extended" : "Extended Magazine",
+    
+    "bm_w_holt" : "Hudson H9",
+    "bm_wp_holt_g_ergo" : "Ergonomic Grip",
+    "bm_wp_holt_g_bling" : "Custom Grip",
+    "bm_wp_holt_m_extended" : "Extended Magazine",
+    
+    "bm_w_m60" : "M60",
+    "bm_wp_m60_b_short" : "M60-E3 Barrel",
+    "bm_wp_m60_fg_tactical" : "Mk 43 Mod 0/1 Handguard",
+    "bm_wp_m60_fg_tropical" : "M60 Handguard with Tropic Camouflage",
+    
+    "bm_wp_m14_body_ruger" : "Ruger AC556 Chassis",
+    
+    "bm_w_r700" : "Remington Model 700P",
+    "bm_wp_r700_b_short" : "16.5 Inch Barrel",
+    "bm_wp_r700_b_medium" : "16.5 Inch Barrel with Integral Suppressor",
+    "bm_wp_r700_s_military" : "Magpul Hunter 700 Stock",
+    
+    "trophy_aru_4_desc" : "The M1 Garant rifle is a trusted service rifle of the US armed forces. The crown jewel in any respectable collection.",
 
 	"RWN_bm_w_c96"        : "Broomstick Pistol",
 	"RWN_bm_w_usp"        : "Interceptor 45 Pistol",
