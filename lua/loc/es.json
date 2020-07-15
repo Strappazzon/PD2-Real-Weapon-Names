@@ -33,7 +33,7 @@
 	"bm_w_huntsman" : "STOEGER/IGA",
 	"bm_w_benelli"  : "BENELLI M4 SUPER 90",
 	"bm_w_ksg"      : "KEL-TEC KSG",
-	"bm_w_aa12"     : "AA-12 CQB",
+	"bm_w_aa12"     : "MPS AA-12 CQB",
 	"bm_w_boot"     : "WINCHESTER MODEL 1887",
 	"bm_w_coach"	: "REMINGTON EXPOSED HAMMER SXS",
 
@@ -60,7 +60,8 @@
 	"bm_w_x_legacy"		: "HECKLER & KOCH P7M13 DUALES",
     "bm_w_x_stech"      : "STECHKIN APS DUALES",
     "bm_w_x_beer"       : "BERETTA 93R DUALES",
-    "bm_w_x_czech"      : "CZ 75/AccuShadow 2 DUALES",
+    "bm_w_x_czech"      : "CZ 75/ACCUSHADOW 2 DUALES",
+	"bm_w_x_holt"       : "HUDSON H9 DUALES",
 	
 	"bm_w_x_basset"     : "CBRPS SPIKE X1S DUALES",
 	"bm_w_x_rota"       : "CRYE PRECISION SIX12 DUALES",
@@ -97,6 +98,7 @@
 	"bm_w_long"             : "ARCO INGLÉS",
 	"bm_w_shuno"            : "EMPTY SHELL LLC XM556 MIRCOGUN",
 	"bm_w_system"		    : "LANZALLAMAS THE BORING COMPANY",
+    "bm_w_contraband_m203"  : "LANZAGRANADAS M203 DEL H&K HK417",
 
 	"bm_w_msr"            : "REMINGTON MSR",
 	"bm_w_r93"            : "BLASER R93 TACTICAL 2",
@@ -106,14 +108,16 @@
 	"bm_w_wa2000"         : "WALTHER WA 2000",
 	"bm_w_model70"        : "WINCHESTER MODEL 70",
 	"bm_w_desertfox"      : "DTA STEALTH RECON SCOUT A1",
-	"bm_w_tti"            : "TTI TR-1 Ultralight",
+	"bm_w_tti"            : "TTI TR-1 ULTRALIGHT",
 	"bm_w_siltstone"      : "SVD DRAGUNOV",
+	"bm_w_r700"           : "REMINGTON MODEL 700P",
 
 	"bm_w_rpk"  : "RPK",
-	"bm_w_m249" : "M249 Para",
-	"bm_w_hk21" : "Heckler & Koch HK21E",
+	"bm_w_m249" : "M249 PARA",
+	"bm_w_hk21" : "HECKLER & KOCH HK21E",
 	"bm_w_mg42" : "MG 42",
 	"bm_w_par"  : "M240B",
+	"bm_w_m60"  : "M60",
 
 	"bm_w_usp"          : "HECKLER & KOCH USP45 TACTICAL",
 	"bm_w_g22c"         : "GLOCK 22C",
@@ -140,7 +144,8 @@
 	"bm_w_legacy"		: "HECKLER & KOCH P7M13",
     "bm_w_stech"        : "STECHKIN APS",
     "bm_w_beer"         : "BERETTA 93R",
-    "bm_w_czech"        : "CZ 75/AccuShadow 2",
+    "bm_w_czech"        : "CZ 75/ACCUSHADOW 2",
+	"bm_w_holt"         : "HUDSON H9",
 
 	"bm_w_m1928"      : "THOMPSON M1928",
 	"bm_w_mac10"      : "INGRAM MAC-11",
@@ -189,7 +194,7 @@
 	"bm_wp_upg_o_cmore"              : "C-MORE RAILWAY ARW",
 	"bm_wp_upg_o_cs"                 : "AIMPOINT CS",
 	"bm_wp_upg_o_eotech_xps"         : "EOTECH MODEL EXPS3",
-	"bm_wp_upg_o_reflex"             : "MIRA ABIERTA GENÉRICA REFLEX",
+	"bm_wp_upg_o_reflex"             : "SIGHTMARK SURE SHOT",
 	"bm_wp_upg_o_rx01"               : "TRIJICON RX01 POLARIZED REFLEX",
 	"bm_wp_upg_o_rx30"               : "TRIJICON RX30 REFLEX",
 	"bm_wp_upg_o_ak_scopemount"      : "MONTURA ÓPTICA K-VAR KV-045",
@@ -247,8 +252,8 @@
 	"bm_wp_m4_uupg_s_fold"  : "CULATA PEGABLE DE LR300",
 	"bm_wp_upg_m4_s_crane"  : "CULATA NSWC CRANE",
 	"bm_wp_upg_m4_s_mk46"   : "CULATA NSWC CRANE PERSONALIZADA",
-	"bm_wp_ak_s_folding"    : "CULATA DE AKS-74",
-	"bm_wp_ak_s_skfoldable" : "CULATA DE AK PLEGABLE",
+	"bm_wp_ak_s_folding"    : "CULATA DE AKS-47",
+	"bm_wp_ak_s_skfoldable" : "CULATA DE AKS-74",
 	"bm_wp_upg_m4_s_ubr"    : "CULATA PLEGABLE MAGPUL UBR CUSTOM",
 
 	"bm_wp_m4_g_ergo"      : "EMPUÑADURA COMMAND ARMS UPG16",
@@ -324,6 +329,7 @@
 	"bm_wp_m14_body_ebr"         : "ARMAZÓN DE M1A SOPMOD",
 	"bm_wp_m14_body_jae"         : "ARMAZÓN JAE-100 G3 CUSTOM",
 	"bm_wp_upg_o_m14_scopemount" : "MONTURA PARA MIRAS MK14",
+	"bm_wp_m14_body_ruger"       : "ARMAZÓN DE RUGER MINI-14 F",
 
 	"bm_wp_vhs_b_short"    : "CAÑÓN DE VHS-K2",
 	"bm_wp_vhs_b_sniper"   : "CAÑÓN LARGO",
@@ -586,7 +592,7 @@
 	"bm_wp_wa2000_g_light"      : "ARMAZÓN LIGERO",
 	"bm_wp_wa2000_g_stealth"    : "ARMAZÓN NEGRO",
 	
-	"bm_wp_siltstone_b_silenced"     : "SUPRESOR DE 7.62x54 mm",
+	"bm_wp_siltstone_b_silenced"     : "SUPRESOR DE 7.62X54 MM",
 	"bm_wp_siltstone_ns_variation_b" : "COMPENSADOR PERSONALIZADO",
 	"bm_wp_siltstone_fg_polymer"     : "GUARDAMANOS DE SVD TIGER",
 	"bm_wp_siltstone_s_polymer"      : "CULATA DE SVD TIGER",
@@ -674,6 +680,7 @@
 	
 	"bm_wp_shepheard_body_short" : "GUARDAMANOS DE MPX-K",
 	"bm_wp_shepheard_s_no"       : "EMPUÑADURA DE MPX-K",
+    "bm_wp_shepheard_m_extended" : "CARGADOR EXTENDIDO",
 	
 	"bm_wp_smg_m45_b_small"    : "CAÑÓN CORTO",
 	"bm_wp_smg_m45_b_green"    : "CAÑÓN SUECO VERDE DE M/45B",
@@ -902,4 +909,18 @@
     "bm_wp_stech_g_luxury"      : "EMP. PERSONALIZADA DE MADERA",
     "bm_wp_stech_s_standard"    : "FUNDA-CULATÍN",
     "bm_wp_stech_m_extended"    : "CARGADOR EXTENDIDO"
+	
+	"trophy_aru_4_desc"   : "El fusil M1 Garand, un fiel fusil de servicio de las fuerzas armadas de EE.UU, actualmente una verdadera corona para toda colección que se respete a sí misma."
+	
+	"bm_wp_holt_g_bling"        : "EMPUÑADURA DE GOMA",
+    "bm_wp_holt_m_extended"     : "CARGADOR EXTENDIDO",
+
+    "bm_wp_r700_b_short"        : "CAÑÓN DE 16.5 PULGADAS",	
+	"bm_wp_r700_b_medium"       : "SUPRESOR INTEGRAL",
+	"bm_wp_r700_s_military"     : "ARMAZÓN MAGPUL HUNTER 700",
+	
+	"bm_wp_m60_b_short"     : "CAÑÓN DE M60-E3",
+    "bm_wp_m60_fg_tactical" : "GUARDAMANOS DE MK 43 MOD 0/1",
+    "bm_wp_m60_fg_tropical" : "GUARDAMANOS DE M60 CON CAMUFLAJE"
+	
 }
