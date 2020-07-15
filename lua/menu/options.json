@@ -1,0 +1,27 @@
+{
+    "menu_id" : "rwn_options",
+    "parent_menu_id" : "blt_options",
+    "title" : "RWN_menu_title",
+    "description" : "RWN_menu_desc",
+    "back_callback" : "rwnloc_save",
+    "items" : [
+        {
+            "type" : "multiple_choice",
+            "id" : "rwn_menu_langchoice",
+            "title" : "RWN_menu_langchoice_title",
+            "description" : "RWN_menu_langchoice_desc",
+            "items": [
+                "RWN_menu_langchoice_default",
+                "RWN_menu_langchoice_english",
+                "RWN_menu_langchoice_german",
+                "RWN_menu_langchoice_spanish",
+                "RWN_menu_langchoice_french",
+                "RWN_menu_langchoice_italian",
+                "RWN_menu_langchoice_russian"
+            ]
+            "value" : "rwn_menu_langchoice_value",
+            "callback" : "rwn_menu_langchoice_callback",
+            "default_value" : 1
+        }
+    ]
+}
