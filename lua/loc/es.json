@@ -921,6 +921,19 @@
 	
 	"bm_wp_m60_b_short"     : "CAÑÓN DE M60-E3",
     "bm_wp_m60_fg_tactical" : "GUARDAMANOS DE MK 43 MOD 0/1",
-    "bm_wp_m60_fg_tropical" : "GUARDAMANOS DE M60 CON CAMUFLAJE"
+    "bm_wp_m60_fg_tropical" : "GUARDAMANOS DE M60 CON CAMUFLAJE",
+    
+
+    "RWN_menu_desc" : "Configuración para Real Weapon Names",
+    "RWN_menu_langchoice_title" : "Idioma del mod",
+    "RWN_menu_langchoice_desc" : "Escoge el lenguaje de Real Weapon Names",
+    "RWN_menu_langchoice_default" : "Automático",
+    "RWN_menu_langchoice_english" : "Inglés",
+    "RWN_menu_langchoice_german" : "Alemán",
+    "RWN_menu_langchoice_spanish" : "Español",
+    "RWN_menu_langchoice_french" : "Francés",
+    "RWN_menu_langchoice_italian" : "Italiano",
+    "RWN_menu_langchoice_russian" : "Ruso"
+
 	
 }
