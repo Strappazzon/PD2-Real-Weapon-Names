@@ -72,7 +72,6 @@
 
 	"bm_wp_upg_o_t1micro"       : "Aimpoint Micro T-1 su slitta Weaver",
 	"bm_wp_upg_o_docter"        : "Mirino DOCTER II Plus",
-	"bm_wp_upg_o_reflex"        : "Mirino Generic Open Reflex",
 	"bm_wp_upg_o_rx01"          : "Mirino reflex polarizzato Trijicon RX01",
 	"bm_wp_upg_o_rx30"          : "Mirino reflex Trijicon RX30",
 	"bm_wp_upg_o_ak_scopemount" : "Supporto ottico K-VAR KV-045",
@@ -83,9 +82,8 @@
 	"bm_wp_upg_o_spot"          : "Mirino NcSTAR Advanced Dual Optic",
 
 
-	"bm_wp_m4_m_straight" : "Caricatore STANAG 22rnd",
+	"bm_wp_m4_m_straight" : "Caricatore M16 20 Colpi",
 	"bm_wp_m4_uupg_m_std" : "Caricatore STANAG 38rnd",
-	"bm_wp_upg_m4_m_quad" : "Caricatore STANAG 60rnd",
 	"bm_wp_l85a2_m_emag"  : "Caricatore Magpul EMAG",
 	"bm_wp_m4_m_quick"    : "Magpul 5.56 NATO originale",
 	"bm_wp_sr2_m_quick"   : "Magpul 9mm Veresk Retrofit originale",
@@ -125,7 +123,7 @@
 	"bm_wp_upg_m4_s_ubr"    : "Calcio pieghevole personalizzato Magpul UBR",
 
 	"bm_wp_m4_g_ergo"      : "Impugnatura Command Arms UPG16",
-	"bm_wp_m4_g_sniper"    : "Impugnatura generica bilanciata sintetica",
+	"bm_wp_m4_g_sniper"    : "Impugnatura stile H&K PSG1",
 	"bm_wp_upg_m4_g_hgrip" : "Impugnatura in gomma Hogue OverMolded",
 	"bm_wp_upg_m4_g_mgrip" : "Impugnatura Magpul MOE-K",
 
@@ -165,6 +163,22 @@
 	"bm_wp_stech_g_luxury"   : "Impugnatura Personalizzata in Legno",
 	"bm_wp_stech_s_standard" : "Calcio in Legno",
 	"bm_wp_stech_m_extended" : "Caricatore Esteso",
+
+	"bm_wp_holt_g_ergo"     : "Impugnatura Ergonomica",
+	"bm_wp_holt_g_bling"    : "Impugnatura Personalizzata",
+	"bm_wp_holt_m_extended" : "Caricatore Esteso",
+
+	"bm_wp_m60_b_short"     : "Canna dell'M60-E3",
+	"bm_wp_m60_fg_tactical" : "Mk 43 Mod 0/1 Handguard",
+	"bm_wp_m60_fg_tropical" : "Impugnatura Anteriore M60 con Mimetizzazione Tropicale",
+
+	"bm_wp_m14_body_ruger" : "Telaio Ruger AC556",
+
+	"bm_wp_r700_b_short"    : "Canna 16.5 Pollici",
+	"bm_wp_r700_b_medium"   : "Canna 16.5 Pollici con Silenziatore Integrato",
+	"bm_wp_r700_s_military" : "Calcio Magpul Hunter 700",
+
+	"trophy_aru_4_desc" : "L'M1 Garand è un fucile di fiducia delle forze armate statunitensi. Il gioiello della corona in ogni collezione che si rispetti.",
 
 	"bm_wp_mg42_b_mg34" : "Canna MG 34",
 	"bm_wp_mg42_b_vg38" : "Canna DLT-19 Heavy Blaster Rifle",
@@ -673,5 +687,10 @@
 	"menu_shotgun"       : "Fucili a pompa",
 	"menu_lmg"           : "Mitragliatrici leggere",
 	"menu_pistol"        : "Pistole",
-	"menu_smg"           : "Pistole mitragliatrici"
+	"menu_smg"           : "Pistole mitragliatrici",
+
+	"RWN_menu_desc"               : "Menu impostazioni di Real Weapon Names",
+	"RWN_menu_langchoice_title"   : "Lingua Mod",
+	"RWN_menu_langchoice_desc"    : "Seleziona la lingua di Real Weapon Names",
+	"RWN_menu_langchoice_default" : "Automatica"
 }
