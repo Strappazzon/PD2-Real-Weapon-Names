@@ -615,11 +615,5 @@
     "RWN_menu_desc" : "Optionen für  Real Weapon Names",
     "RWN_menu_langchoice_title" : "Mod Sprache",
     "RWN_menu_langchoice_desc" : "Wählen Sie die Sprache für Real Weapon Names",
-    "RWN_menu_langchoice_default" : "Automatisch",
-    "RWN_menu_langchoice_english" : "Englisch",
-    "RWN_menu_langchoice_german" : "Deutsch",
-    "RWN_menu_langchoice_spanish" : "Spanisch",
-    "RWN_menu_langchoice_french" : "Französisch",
-    "RWN_menu_langchoice_italian" : "Italiänisch",
-    "RWN_menu_langchoice_russian" : "Russisch"
+    "RWN_menu_langchoice_default" : "Automatisch"
 }

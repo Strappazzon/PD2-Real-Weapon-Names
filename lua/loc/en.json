@@ -961,9 +961,9 @@
 	"RWN_menu_langchoice_desc"    : "Select the language of Real Weapon Names",
 	"RWN_menu_langchoice_default" : "Automatic",
 	"RWN_menu_langchoice_english" : "English",
-	"RWN_menu_langchoice_german"  : "German",
-	"RWN_menu_langchoice_spanish" : "Spanish",
-	"RWN_menu_langchoice_french"  : "French",
-	"RWN_menu_langchoice_italian" : "Italian",
-	"RWN_menu_langchoice_russian" : "Russian"
+	"RWN_menu_langchoice_german"  : "Deutsch",
+	"RWN_menu_langchoice_spanish" : "Español",
+	"RWN_menu_langchoice_french"  : "Français",
+	"RWN_menu_langchoice_italian" : "Italiano",
+	"RWN_menu_langchoice_russian" : "Русский язык"
 }
