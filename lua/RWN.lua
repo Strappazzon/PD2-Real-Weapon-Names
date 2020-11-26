@@ -14,7 +14,11 @@ end
 
 function RWNLoc:LoadDefaults()
         self.settings = {
-            rwn_menu_langchoice_value = 1
+            rwn_menu_langchoice_value = 1,
+			rwn_menu_parts_weapons_value = "on",
+			rwn_menu_parts_mods_value = "on",
+			rwn_menu_parts_melee_value = "on",
+			rwn_menu_parts_throwables_value = "on"
         }
 end
 
@@ -42,8 +46,24 @@ function( menu_manager )
     MenuCallbackHandler.rwn_menu_langchoice_callback = function(self, item)
             RWNLoc.settings.rwn_menu_langchoice_value = item:value()
     end
+	
+	MenuCallbackHandler.rwn_menu_parts_weapons_callback = function(self, item)
+			RWNLoc.settings.rwn_menu_parts_weapons_value = (item:value() == "on")
+	end
+	
+	MenuCallbackHandler.rwn_menu_parts_mods_callback = function(self, item)
+			RWNLoc.settings.rwn_menu_parts_mods_value = (item:value() == "on")
+	end
+	
+	MenuCallbackHandler.rwn_menu_parts_melee_callback = function(self, item)
+			RWNLoc.settings.rwn_menu_parts_melee_value = (item:value() == "on")
+	end
+	
+	MenuCallbackHandler.rwn_menu_parts_throwables_callback = function(self, item)
+			RWNLoc.settings.rwn_menu_parts_throwables_value = (item:value() == "on")
+	end
     
-    MenuCallbackHandler.rwnloc_save = function(this, item)
+    MenuCallbackHandler.rwnloc_save = function(self, item)
             RWNLoc:Save()
     end
     
@@ -111,16 +131,29 @@ Hooks:Add(
         -- Check current language
         if current_language then
             log("RWN: Current language is: " .. current_language)
-            local _path = RWNLoc._path .. current_language .. ".json"
+            local _path = RWNLoc._path .. "util." .. current_language .. ".json"
 
             -- Does the corresponding file exist?
             if io.file_is_readable(_path) then
-                loc:load_localization_file(RWNLoc._path .. current_language .. ".json") -- current_language == file name!
-                -- If a string is not localized, load the english one
-                loc:load_localization_file(RWNLoc._path .. "en.json", false)
-            else
-                -- If the mod is not localized load the default one
-                loc:load_localization_file(RWNLoc._path .. "en.json")
+				if RWNLoc.settings.rwn_menu_parts_weapons_value == true or RWNLoc.settings.rwn_menu_parts_weapons_value == "on" then -- load weapons if enabled
+					loc:load_localization_file(RWNLoc._path .. "weapons." .. current_language .. ".json")
+					loc:load_localization_file(RWNLoc._path .. "weapons.en.json", false)
+				end
+				if RWNLoc.settings.rwn_menu_parts_mods_value == true or RWNLoc.settings.rwn_menu_parts_mods_value == "on" then -- load weapon mods if enabled
+					loc:load_localization_file(RWNLoc._path .. "mods." .. current_language .. ".json")
+					loc:load_localization_file(RWNLoc._path .. "mods.en.json", false)
+				end
+				if RWNLoc.settings.rwn_menu_parts_melee_value == true or RWNLoc.settings.rwn_menu_parts_melee_value == "on" then -- load melee weapons if enabled
+					loc:load_localization_file(RWNLoc._path .. "melee." .. current_language .. ".json")
+					loc:load_localization_file(RWNLoc._path .. "melee.en.json", false)
+				end
+				if RWNLoc.settings.rwn_menu_parts_throwables_value == true or RWNLoc.settings.rwn_menu_parts_throwables_value == "on" then -- load throwables if enabled
+					loc:load_localization_file(RWNLoc._path .. "throwables." .. current_language .. ".json")
+					loc:load_localization_file(RWNLoc._path .. "throwables.en.json", false)
+				end
+                -- load utils strings
+                loc:load_localization_file(RWNLoc._path .. "util." .. current_language .. ".json")
+                loc:load_localization_file(RWNLoc._path .. "util.en.json", false)
             end
         end
     end

@@ -22,6 +22,42 @@
             "value" : "rwn_menu_langchoice_value",
             "callback" : "rwn_menu_langchoice_callback",
             "default_value" : 1
-        }
+        },
+		{
+			"type" : "toggle",
+			"id" : "rwn_menu_parts_weapons",
+			"title" : "RWN_menu_parts_weapons_title",
+			"description" : "RWN_menu_parts_weapons_desc",
+			"callback" : "rwn_menu_parts_weapons_callback",
+			"value" : "rwn_menu_parts_weapons_value",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "rwn_menu_parts_mods",
+			"title" : "RWN_menu_parts_mods_title",
+			"description" : "RWN_menu_parts_mods_desc",
+			"callback" : "rwn_menu_parts_mods_callback",
+			"value" : "rwn_menu_parts_mods_value",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "rwn_menu_parts_melee",
+			"title" : "RWN_menu_parts_melee_title",
+			"description" : "RWN_menu_parts_melee_desc",
+			"callback" : "rwn_menu_parts_melee_callback",
+			"value" : "rwn_menu_parts_melee_value",
+			"default_value" : true
+		},
+		{
+			"type" : "toggle",
+			"id" : "rwn_menu_parts_throwables",
+			"title" : "RWN_menu_parts_throwables_title",
+			"description" : "RWN_menu_parts_throwables_desc",
+			"callback" : "rwn_menu_parts_throwables_callback",
+			"value" : "rwn_menu_parts_throwables_value",
+			"default_value" : true
+		}
     ]
 }

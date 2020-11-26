@@ -1,0 +1,21 @@
+{
+    "bm_ability_chico_injector": "Iniettore di Epinefrina",
+    "bm_ability_chico_injector_desc": "Un iniettore di Epinefrina è uno strumento ad uso medico con lo scopo di iniettare una o più dosi controllate di Epinefrina (adrenalina).\n\nLo strumento contiene una dose prestabilita di Epinefrina ed una siringa che esce dalla punta del dispositivo e penetra nella pelle del paziente, per fornire la medicazione attraverso un iniezione intermuscolare.",
+    "bm_concussion": "Granata a concussione M84",
+    "bm_concussion_desc": "L'M84, conosciuta anche come flashbang, è l'attuale granata d'ordinanza dell'Esercito Americano. Nella detonazione, emette un intenso e rumoroso \"BANG\" a 170-180 decibel ed un flash accecante con una luminosità superiore al milione di candele, efficace entro un raggio di 5 metri. Questa granata è sufficente per provocare accecamento, sordità, acufene e disturbo alle orecchie. Le persone esposte sperimentano disorientamento, confusione e perdita di coordinamento ed equilibrio.",
+    "bm_dynamite": "Dinamite",
+    "bm_dynamite_desc": "La Dinamite è un materiale esplosivo basato sulla nitroglicerina, creato utilizzando terra diatomea o altre sostanze come ad esempio gusci frantumati o argilla. La Dinamite fu inventata dal chimico ed ingegnere Svedese Alfred Nobel a Geesthacht, Germania, e brevettata nel 1867.",
+    "bm_grenade_fir_com": "Granata incendiaria M14 TH3",
+    "bm_grenade_fir_com_desc": "Una granata cilindrica visivamente identica all'M8. Il risultato finale del lancio di questa M14 sarà ferro fuso. Ciò significa che l'M14 viene impiegata principalmente per distruggere materiali in un ambiente approssimativamente sicuro e non come arma offensiva o difensiva. Poiché la reazione termica utilizza l'ossido di ferro anziché l'ossigeno per il suo agente ossidante, la granata può funzionare anche sott'acqua.",
+    "bm_grenade_frag": "Granata a frammentazione M67",
+    "bm_grenade_frag_com": "Granata a frammentazione M67 della comunità",
+    "bm_grenade_frag_com_desc": "L'M67 è una granata a frammentazione usata dall'Esercito Americano. L'M67 è un evoluzione della granata M33, che va a sostituire la serie di granate M26 usate durante le guerre della Corea e del Vietnam.",
+    "bm_grenade_frag_desc": "L'M67 è una granata a frammentazione usata dall'Esercito Americano. L'M67 è un evoluzione della granata M33, che va a sostituire la serie di granate M26 usate durante le guerre della Corea e del Vietnam.",
+    "bm_grenade_molotov": "Molotov",
+    "bm_grenade_molotov_desc": "Molotov, granata dei poveri e bomba incendiaria è un nome generico che viene dato ad una varietà di esplosivi artigianali basati sulle bottiglie. Il loro scopo principale è far prendere fuoco gli obiettivi piuttosto che distruggerli all'istante.\n\nIl nome \"Molotov cocktail\" fu coniato dai Finlandesi durante la Guerra d'inverno. Questo nome fu un riferimento offensivo nei confronti del commissario agli Esteri Vjačeslav Michajlovič Molotov.",
+    "bm_grenade_smoke_screen_grenade": "Granata fumogena M18",
+    "bm_grenade_smoke_screen_grenade_desc": "La granata fumogena colorata M18 è una granta usata dall'Esercito Americano per segnalare degli obiettivi o zone di atterraggio. L'M18 ha sostituito l'M16 della Seconda Guerra Mondiale che non produceva fumo abbastanza vivido e aveva una durata ridotta. L'M16 era disponibile nelle stesse colorazioni dell'M18, ma anche blu, arancione, e nero. Inizialmente l'M18 stava per essere prodotta con le stesse colorazioni incluso il bianco, ma si è deciso di limitarla a quattro colori per una questione di semplicità. Si è scoperto in Vietnam che il fumo verde scaccia gli sciami di api.",
+    "bm_wpn_prj_hur": "Ascia da lancio KitRae AirCobra KR0055",
+    "bm_wpn_prj_hur_desc": "Kit Rae è nota per le sue lame e spade a tema fantasy, ma Kit è stata anche un'avida appassionata di coltelli ed asce da lancio per molti anni. L'AirCobra è costruita da un solido pezzo di acciaio inossidabile AUS-6. Il suo design permette di gestire al meglio la lama in modo da effettuare lanci perfetti. Ha una punta dietro la lama e l'impugnatura è avvolta con della pelle.",
+    "bm_wpn_prj_target": "Coltello da lancio Tiger Thrower"
+}
