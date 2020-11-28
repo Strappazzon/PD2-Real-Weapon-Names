@@ -1,6 +1,4 @@
 {
-	
-    "bm_wp_pis_g26": "GLOCK 26",
     "bm_w_aa12": "MPS AA-12 CQB",
     "bm_w_ak12": "AK-12",
     "bm_w_ak5": "BOFORS AK 5",
@@ -175,6 +173,7 @@
     "bm_w_x_tec9": "INTRATEC TEC-9 DUALES",
     "bm_w_x_usp": "HECKLER & KOCH USP45 TACTICAL DUALES",
     "bm_w_x_uzi": "IMI UZI DUALES",
+    "bm_wp_pis_g26": "GLOCK 26",
     "hud_carry_weapon": "AKS-74",
     "hud_carry_weapon_glock": "GLOCK 17",
     "hud_carry_weapon_scar": "FN SCAR-H",

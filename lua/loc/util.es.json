@@ -2,5 +2,13 @@
     "RWN_menu_desc": "Configuración para Real Weapon Names",
     "RWN_menu_langchoice_default": "Automático",
     "RWN_menu_langchoice_desc": "Escoge el lenguaje de Real Weapon Names",
-    "RWN_menu_langchoice_title": "Idioma del mod"
+    "RWN_menu_langchoice_title": "Idioma del mod",
+    "RWN_menu_parts_melee_desc": "Activar/Desactivar los nombres realistas de las armas Cuerpo a Cuerpo",
+    "RWN_menu_parts_melee_title": "Armas Cuerpo a Cuerpo",
+    "RWN_menu_parts_mods_desc": "Activar/Desactivar los nombres de los accesorios de armas",
+    "RWN_menu_parts_mods_title": "Accesorios de armas",
+    "RWN_menu_parts_throwables_desc": "Activar/Desactivar los nombres de las arrojadizas",
+    "RWN_menu_parts_throwables_title": "Arrojadizas",
+    "RWN_menu_parts_weapons_desc": "Activar/Desactivar los nombres de Armas",
+    "RWN_menu_parts_weapons_title": "Armas"
 }

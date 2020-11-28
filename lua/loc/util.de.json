@@ -3,12 +3,12 @@
     "RWN_menu_langchoice_default": "Automatisch",
     "RWN_menu_langchoice_desc": "Wählen Sie die Sprache für Real Weapon Names",
     "RWN_menu_langchoice_title": "Mod Sprache",
-	"RWN_menu_parts_weapons_title": "Waffen",
-	"RWN_menu_parts_weapons_desc": "Aktiviert/deaktiviert das Umbenennen von Waffen",
-	"RWN_menu_parts_throwables_title": "Wurfwaffen",
-	"RWN_menu_parts_throwables_desc": "Aktiviert/deaktiviert das Umbenennen von Wurfwaffen",
-	"RWN_menu_parts_mods_title": "Waffen-Mods",
-	"RWN_menu_parts_mods_desc": "Aktiviert/deaktiviert das Umbenennen von Waffen-Mods",
-	"RWN_menu_parts_melee_title": "Nahkampfwaffen",
-	"RWN_menu_parts_melee_desc": "Aktiviert/deaktiviert das Umbenennen von Nahkampfwaffen"
+    "RWN_menu_parts_melee_desc": "Aktiviert/deaktiviert das Umbenennen von Nahkampfwaffen",
+    "RWN_menu_parts_melee_title": "Nahkampfwaffen",
+    "RWN_menu_parts_mods_desc": "Aktiviert/deaktiviert das Umbenennen von Waffen-Mods",
+    "RWN_menu_parts_mods_title": "Waffen-Mods",
+    "RWN_menu_parts_throwables_desc": "Aktiviert/deaktiviert das Umbenennen von Wurfwaffen",
+    "RWN_menu_parts_throwables_title": "Wurfwaffen",
+    "RWN_menu_parts_weapons_desc": "Aktiviert/deaktiviert das Umbenennen von Waffen",
+    "RWN_menu_parts_weapons_title": "Waffen"
 }

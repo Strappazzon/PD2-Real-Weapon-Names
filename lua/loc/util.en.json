@@ -86,13 +86,13 @@
     "RWN_menu_langchoice_russian": "Русский язык",
     "RWN_menu_langchoice_spanish": "Español",
     "RWN_menu_langchoice_title": "Mod Language",
-    "RWN_menu_title": "Real Weapon Names",
-	"RWN_menu_parts_weapons_title": "Weapons",
-	"RWN_menu_parts_weapons_desc": "Enables/disables the renaming of weapons",
-	"RWN_menu_parts_throwables_title": "Throwables",
-	"RWN_menu_parts_throwables_desc": "Enables/disables the renaming of throwables",
-	"RWN_menu_parts_mods_title": "Weapon Mods",
-	"RWN_menu_parts_mods_desc": "Enables/disables the renaming of weapon mods",
-	"RWN_menu_parts_melee_title": "Melee Weapons",
-	"RWN_menu_parts_melee_desc": "Enables/disables the renaming of melee weapons"
+    "RWN_menu_parts_melee_desc": "Enables/disables the renaming of melee weapons",
+    "RWN_menu_parts_melee_title": "Melee Weapons",
+    "RWN_menu_parts_mods_desc": "Enables/disables the renaming of weapon mods",
+    "RWN_menu_parts_mods_title": "Weapon Mods",
+    "RWN_menu_parts_throwables_desc": "Enables/disables the renaming of throwables",
+    "RWN_menu_parts_throwables_title": "Throwables",
+    "RWN_menu_parts_weapons_desc": "Enables/disables the renaming of weapons",
+    "RWN_menu_parts_weapons_title": "Weapons",
+    "RWN_menu_title": "Real Weapon Names"
 }

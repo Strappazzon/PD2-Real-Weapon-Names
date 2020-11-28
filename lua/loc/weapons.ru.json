@@ -1,6 +1,4 @@
 {
-	
-    "bm_wp_pis_g26": "Глок 26",
     "bm_w_aa12": "Дробовик AA-12",
     "bm_w_ak12": "Винтовка AK-12",
     "bm_w_ak5": "Винтовка АК 5",
@@ -162,6 +160,7 @@
     "bm_w_x_tec9": "Парные Intratec TEC-9",
     "bm_w_x_usp": "Парные Пистолеты USP45",
     "bm_w_x_uzi": "Парные IMI Uzi",
+    "bm_wp_pis_g26": "Глок 26",
     "hud_carry_weapon": "Винтовка АКС-74",
     "hud_carry_weapon_glock": "Глок 17",
     "hud_carry_weapon_scar": "Винтовка FN SCAR-H",
