@@ -11,19 +11,21 @@ git clone https://github.com/Strappazzon/PD2-Real-Weapon-Names.git PD2-Real-Weap
 cd PD2-Real-Weapon-Names
 ```
 
-Now copy the default (English) language file (`/lua/loc/en.json`) to a file named according to your language's [ISO 639-1 Code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes), like `/lua/loc/pirate.json`.
-There is no ISO 639-1 language code for *English-pirate*, so `pirate.json` is fine for this guide.
+> The "melee" localization file will be used as an example but the procedure is the same for the other localization files.
+
+Now copy the default (English) language file (`/lua/loc/melee.en.json`) to a file named according to your language's [ISO 639-1 Code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes), like `/lua/loc/melee.pirate.json`.
+There is no ISO 639-1 language code for *English-Pirate*, so `melee.pirate.json` is fine for this guide.
 
 ### Windows
 ```cmd
 cd lua/loc/
-copy en.json pirate.json
+copy melee.en.json melee.pirate.json
 ```
 
 ### Linux
 ```bash
 cd lua/loc/
-cp en.json pirate.json
+cp melee.en.json melee.pirate.json
 ```
 
 ## Including your translation
@@ -41,13 +43,25 @@ Hooks:Add("LocalizationManagerPostInit", "RWNLoc_LocalizationManagerPostInit", f
         ["french"] = "fr",
         ["italian"] = "it",
         ["russian"] = "ru",
-        ["thai"] = "th",
+        ["thai"] = "th"
     }
+```
+
+```lua
+-- manual language selection
+local supported_languages = {
+    [2] = "en",
+    [3] = "de",
+    [4] = "es",
+    [5] = "fr",
+    [6] = "it",
+    [7] = "ru"
+}
 ```
 
 You need to modify that piece of code to include your language:
 
-```lua
+```diff
 Hooks:Add("LocalizationManagerPostInit", "RWNLoc_LocalizationManagerPostInit", function(loc)
     local current_language = nil
     local supported_languages = {
@@ -58,9 +72,21 @@ Hooks:Add("LocalizationManagerPostInit", "RWNLoc_LocalizationManagerPostInit", f
         ["french"] = "fr",
         ["italian"] = "it",
         ["russian"] = "ru",
-        ["thai"] = "th",
-        ["pirate"] = "pirate",
++       ["thai"] = "th",
++       ["pirate"] = "pirate"
     }
+```
+
+```diff
+local supported_languages = {
+    [2] = "en",
+    [3] = "de",
+    [4] = "es",
+    [5] = "fr",
+    [6] = "it",
++   [7] = "ru",
++   [8] = "pirate"
+}
 ```
 
 Just add yours in a similar fashion to the existing translations, save your changes, and close `/lua/RWN.lua`.
@@ -69,10 +95,10 @@ That's it.
 
 ## Actually translating content
 
-Go back to your file, `/lua/loc/pirate.json`.
+Go back to your file, `/lua/loc/melee.pirate.json`.
 
 Open the translation file you created in `/lua/loc/`.
-You should see something like: 
+You should see something like:
 
 ```json
 "bm_melee_pugio_info" : "This is a knife designed and used for killing.",
