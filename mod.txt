@@ -8,7 +8,7 @@
 	"undisablable" : false,
 	"disable_safe_mode" : true,
 	"contact" : "https://github.com/Strappazzon/PD2-Real-Weapon-Names/issues",
-	"version" : "3.2.0",
+	"version" : "3.2.1",
 	"updates" : [
 		{
 			"identifier" : "RealWeaponNames",
