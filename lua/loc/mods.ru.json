@@ -353,6 +353,7 @@
     "bm_wp_upg_o_eotech_xps": "Прицел EOTech Model EXPS3",
     "bm_wp_upg_o_leupold": "Прицел Leupold Mk 4 ER/T + BORS",
     "bm_wp_upg_o_m14_scopemount": "Рейка для прицела Mk14 Chassis",
+    "bm_wp_upg_o_mbus_rear": "Прицел MBUS Front and Rear",
     "bm_wp_upg_o_reflex": "Рефлекторный прицел Generic Open",
     "bm_wp_upg_o_rmr": "Прицел Trijicon RM06 RMR",
     "bm_wp_upg_o_rx01": "Рефлекторный прицел Trijicon RX01 Polarized",
@@ -374,7 +375,6 @@
     "bm_wp_wa2000_g_light": "Легкий приклад",
     "bm_wp_wa2000_g_stealth": "Черный приклад",
     "bm_wp_wa2000_g_walnut": "Ореховый приклад",
-    "bm_wp_upg_o_mbus_rear": "Прицел MBUS Front and Rear",
     "bm_wpn_fps_o_45rds": "Прицел Leupold DeltaPoint Pro",
     "bm_wpn_fps_upg_o_45rds_v2": "Угловой прицел Aimpoint Micro T-2",
     "bm_wpn_fps_upg_o_xpsg33_magnifier": "X.3 прицел Aimpoint"

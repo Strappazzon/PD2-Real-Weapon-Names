@@ -353,6 +353,7 @@
     "bm_wp_upg_o_box": "Vis. notturno Pulsar Digisight LRF N960 N970 con Telemetro",
     "bm_wp_upg_o_docter": "Mirino DOCTER II Plus",
     "bm_wp_upg_o_m14_scopemount": "Telaio Mk14",
+    "bm_wp_upg_o_mbus_rear": "Mirini posteriori e anteriori MBUS",
     "bm_wp_upg_o_rmr": "Mirino Trijicon RM06 RMR",
     "bm_wp_upg_o_rx01": "Mirino reflex polarizzato Trijicon RX01",
     "bm_wp_upg_o_rx30": "Mirino reflex Trijicon RX30",
@@ -367,7 +368,6 @@
     "bm_wp_vhs_b_sniper": "Canna lunga",
     "bm_wp_wa2000_b_long": "Canna Gen 2",
     "bm_wp_wa2000_b_suppressed": "Silenziatore Integrale",
-    "bm_wp_upg_o_mbus_rear": "Mirini posteriori e anteriori MBUS",
     "bm_wpn_fps_upg_o_sig": "Ottica Sig Sauer Juliet3 3x24mm",
     "bm_wpn_fps_upg_o_xpsg33_magnifier": "Ingrandimento Aimpoint 3XMag"
 }
