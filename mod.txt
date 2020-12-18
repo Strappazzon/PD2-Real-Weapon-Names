@@ -1,41 +1,59 @@
 {
-	"name" : "Real Weapon Names",
-	"description" : "Rename PAYDAY 2 weapons and attachments to their real life counterparts.",
-	"author" : "Winston Wolfe, ShiNRaX2",
-	"image" : "RWN.png",
-	"blt_version" : 2,
-	"color" : "30 114 165",
-	"undisablable" : false,
-	"disable_safe_mode" : true,
-	"contact" : "https://github.com/Strappazzon/PD2-Real-Weapon-Names/issues",
-	"version" : "3.2.1",
-	"updates" : [
-		{
-			"identifier" : "RealWeaponNames",
-			"host" : {
-				"meta" : "https://raw.githubusercontent.com/Strappazzon/PD2-Real-Weapon-Names/master/meta.json",
-				"download" :"https://raw.githubusercontent.com/Strappazzon/PD2-Real-Weapon-Names/master/RWN.zip",
-				"patchnotes" : "https://modworkshop.net/mydownloads.php?action=view_down&did=19958#changelog"
-			}
-		}
-	],
-	"hooks" : [
-		{ "hook_id" : "lib/managers/menumanager", "script_path" : "lua/RWN.lua" },
-		{ "hook_id" : "lib/managers/localizationmanager", "script_path" : "lua/Updates.lua" },
-		{ "hook_id" : "lib/managers/localizationmanager", "script_path" : "lua/Achievements.lua" },
-		{ "hook_id" : "lib/managers/menu/blackmarketgui", "script_path" : "lua/Blackmarket.lua" },
-		{ "hook_id" : "lib/tweak_data/blackmarket/meleeweaponstweakdata", "script_path" : "lua/Blackmarket.lua" },
-		{ "hook_id" : "lib/tweak_data/economytweakdata", "script_path" : "lua/CommunityMarketFix.lua" }
-	],
-	"keybinds" : [
-		{
-			"keybind_id" : "achievement_toggle",
-			"name" : "Achievement Weapon Name Toggle",
-			"description" : "Toggle vanilla weapon names for Achievements (requires a manual GUI refresh)",
-			"script_path" : "lua/toggle.lua",
-			"run_in_menu" : true,
-			"run_in_game" : true,
-			"localized" : false
-		}
-	]
+    "name": "Real Weapon Names",
+    "description": "Rename PAYDAY 2 weapons and attachments to their real life counterparts.",
+    "author": "Winston Wolfe, ShiNRaX2",
+    "image": "RWN.png",
+    "blt_version": 2,
+    "color": "30 114 165",
+    "undisablable": false,
+    "disable_safe_mode": true,
+    "contact": "https://github.com/Strappazzon/PD2-Real-Weapon-Names/issues",
+    "version": "3.2.2",
+    "updates": [
+        {
+            "identifier": "RealWeaponNames",
+            "host": {
+                "meta": "https://raw.githubusercontent.com/Strappazzon/PD2-Real-Weapon-Names/master/meta.json",
+                "download": "https://raw.githubusercontent.com/Strappazzon/PD2-Real-Weapon-Names/master/RWN.zip",
+                "patchnotes": "https://modworkshop.net/mydownloads.php?action=view_down&did=19958#changelog"
+            }
+        }
+    ],
+    "hooks": [
+        {
+            "hook_id": "lib/managers/menumanager",
+            "script_path": "lua/RWN.lua"
+        },
+        {
+            "hook_id": "lib/managers/localizationmanager",
+            "script_path": "lua/Updates.lua"
+        },
+        {
+            "hook_id": "lib/managers/localizationmanager",
+            "script_path": "lua/Achievements.lua"
+        },
+        {
+            "hook_id": "lib/managers/menu/blackmarketgui",
+            "script_path": "lua/Blackmarket.lua"
+        },
+        {
+            "hook_id": "lib/tweak_data/blackmarket/meleeweaponstweakdata",
+            "script_path": "lua/Blackmarket.lua"
+        },
+        {
+            "hook_id": "lib/tweak_data/economytweakdata",
+            "script_path": "lua/CommunityMarketFix.lua"
+        }
+    ],
+    "keybinds": [
+        {
+            "keybind_id": "achievement_toggle",
+            "name": "Achievement Weapon Name Toggle",
+            "description": "Toggle vanilla weapon names for Achievements (requires a manual GUI refresh)",
+            "script_path": "lua/toggle.lua",
+            "run_in_menu": true,
+            "run_in_game": true,
+            "localized": false
+        }
+    ]
 }
