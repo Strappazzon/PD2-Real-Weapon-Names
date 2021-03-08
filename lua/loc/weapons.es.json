@@ -63,12 +63,14 @@
     "bm_w_m14": "M14 DESIGNATED MARKSMAN RIFLE",
     "bm_w_m16": "M16A4",
     "bm_w_m1897": "WINCHESTER MODEL 1897",
+    "bm_w_m1911": "COLT M1911/A1",
     "bm_w_m1928": "THOMPSON M1928",
     "bm_w_m249": "M249 PARA",
     "bm_w_m32": "MILKOR MGL MK 1L",
     "bm_w_m37": "ITHACA 37",
     "bm_w_m4": "M4A1",
     "bm_w_m45": "CARL GUSTAV M/45B",
+    "bm_w_m590": "MOSSBERG 500 CRUISER",
     "bm_w_m60": "M60",
     "bm_w_m95": "BARRETT M95",
     "bm_w_mac10": "INGRAM MAC-11",
@@ -125,6 +127,7 @@
     "bm_w_usp": "H&K USP45 TACTICAL",
     "bm_w_uzi": "IMI UZI",
     "bm_w_vhs": "HS PRODUKT VHS-D2",
+    "bm_w_vityaz": "PP-19-01 VITYAZ",
     "bm_w_wa2000": "WALTHER WA 2000",
     "bm_w_winchester1874": "WINCHESTER MODEL 1873",
     "bm_w_x_1911": "SA 1911 LIGHTWEIGHT OPERATOR DUALES",
@@ -150,6 +153,7 @@
     "bm_w_x_hs2000": "SPRINGFIELD ARMORY XDM DUALES",
     "bm_w_x_judge": "TAURUS 4510PLYFS DUALES",
     "bm_w_x_legacy": "H&K P7M13 DUALES",
+    "bm_w_x_m1911": "COLT M1911/A1 DUALES",
     "bm_w_x_m1928": "THOMPSON M1928A1 DUALES",
     "bm_w_x_m45": "CARL GUSTAV M/45B DUALES",
     "bm_w_x_mac10": "INGRAM MAC-11 DUALES",
@@ -177,6 +181,7 @@
     "bm_w_x_tec9": "INTRATEC TEC-9 DUALES",
     "bm_w_x_usp": "H&K USP45 TACTICAL DUALES",
     "bm_w_x_uzi": "IMI UZI DUALES",
+    "bm_w_x_vityaz": "PP-19-01 VITYAZ DUALES",
     "bm_wp_pis_g26": "GLOCK 26",
     "hud_carry_weapon": "AK-74",
     "hud_carry_weapon_glock": "GLOCK 17",
@@ -195,9 +200,4 @@
     "menu_shotgun": "ESCOPETAS",
     "menu_smg": "SUBFUSILES",
     "menu_snp": "FUSILES DE FRANCOTIRADOR"
-	"bm_w_m590" : "MOSSBERG 500 CRUISER",
-	"bm_w_m1911" : "COLT M1911/A1",
-	"bm_w_x_m1911" : "COLT M1911/A1 DUALES",
-	"bm_w_vityaz" : "PP-19-01 VITYAZ"
-	"bm_w_x_vityaz" : "PP-19-01 VITYAZ DUALES"
 }
