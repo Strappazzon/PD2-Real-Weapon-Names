@@ -195,4 +195,9 @@
     "menu_shotgun": "ESCOPETAS",
     "menu_smg": "SUBFUSILES",
     "menu_snp": "FUSILES DE FRANCOTIRADOR"
+	"bm_w_m590" : "MOSSBERG 500 CRUISER",
+	"bm_w_m1911" : "COLT M1911/A1",
+	"bm_w_x_m1911" : "COLT M1911/A1 DUALES",
+	"bm_w_vityaz" : "PP-19-01 VITYAZ"
+	"bm_w_x_vityaz" : "PP-19-01 VITYAZ DUALES"
 }
