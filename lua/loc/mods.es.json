@@ -75,6 +75,7 @@
     "bm_wp_cobray_body_upper_jacket": "PINTURA OCHENTOSA",
     "bm_wp_cobray_ns_barrelext": "EXTENSIÓN DE CAÑÓN",
     "bm_wp_cobray_ns_silencer": "SUPRESOR SIONICS",
+    "bm_wp_corgi_b_short": "CAÑÓN DE 16 PULGADAS",
     "bm_wp_czech_b_long": "EXTENSIÓN DE CAÑÓN",
     "bm_wp_czech_g_luxury": "EMPUÑADURA DE MADERA",
     "bm_wp_czech_g_sport": "EMPUÑADURA PERSONALIZADA",
@@ -125,8 +126,8 @@
     "bm_wp_g3_fg_railed": "GUARDAMANOS CON RIEL",
     "bm_wp_g3_fg_retro": "GUARDAMANOS DE MADERA DE G3",
     "bm_wp_g3_fg_retro_plastic": "GUARDAMANOS DE AK 4 ADAPTADO",
+    "bm_wp_g3_g_retro": "EMPUÑADURA DE CETME",
     "bm_wp_g3_g_sniper": "EMPUÑADURA DE PSG1",
-	"bm_wp_g3_g_retro": "EMPUÑADURA DE CETME",
     "bm_wp_g3_s_sniper": "CULATA DE PSG1",
     "bm_wp_g3_s_wood": "CULATA DE MADERA DE G3",
     "bm_wp_galil_fg_fab": "SISTEMA DE RIELES FAB DEFENSE VFR-GA",
@@ -300,8 +301,8 @@
     "bm_wp_schakal_s_civil": "CULATA DE H&K USC",
     "bm_wp_schakal_vg_surefire": "EMPUÑADURA VERTICAL SUREFIRE M900",
     "bm_wp_scorpion_b_suppressed": "SUPRESOR DE .32 ACP",
+    "bm_wp_scorpion_g_ergo": "EMPUÑADURA DE GOMA",
     "bm_wp_scorpion_g_wood": "EMPUÑADURA DE MADERA ORIGINAL",
-	"bm_wp_scorpion_g_ergo": "EMPUÑADURA DE GOMA",
     "bm_wp_scorpion_m_extended": "CARGADOR DE EXTRACCIÓN RÁPIDA",
     "bm_wp_serbu_s_nostock_short": "MONTURA PARA MIRAS",
     "bm_wp_serbu_s_solid_short": "CULATA SÓLIDA CON MONTURA PARA MIRAS",
@@ -482,5 +483,4 @@
     "bm_wpn_fps_upg_o_45rds_v2": "MIRA ANGULADA AIMPOINT MICRO T-2",
     "bm_wpn_fps_upg_o_sig": "MAGNIF. SIG SAUER JULIET3 3X24 MM",
     "bm_wpn_fps_upg_o_xpsg33_magnifier": "MAGNIFICADOR AIMPOINT 3XMAG"
-	"bm_wp_corgi_b_short": "CAÑÓN DE 16 PULGADAS"
 }
