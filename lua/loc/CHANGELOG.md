@@ -1,8 +1,13 @@
 ## Unreleased:
 
+### mods.xx.json
+|id|old string| new string
+|--|--|--|
+|bm_wp_m1911_m_extended|Extended Magazine|Chip McCormick Power Mag|
+|bm_wp_m1911_sl_hardballer|Tussey Custom Caspian Arms 1911 Long Slide|AMT Javelina 10mm Slide|
+|bm_wp_m1911_sl_match|Match Slide with Bomar Rib Sight|Series 70 National Match Slide with Bo-Mar Sight|
+
 ## v3.2.7:
-### melee.xx.json
-no changes
 
 ### mods.xx.json
 |id|old string| new string
@@ -19,12 +24,6 @@ no changes
 |bm_wp_qbu88_o_standard||QBU-88 Iron Sights|
 |bm_wp_pis_ppk_g_laser||Crimson Trace LG-480 Laser Grip|
 |bm_wp_p226_g_ergo||Hogue MONOGRIP P226|
-
-### throwables.xx.json
-no changes
-
-### util.xx.json
-no changes
 
 ### weapons.xx.json
 |id|old string| new string
