@@ -57,4 +57,4 @@ if args.l == True:
                         print(s)
                         of.write(s+"\n")
 
-input("Press any key to exit.")
+input("Press enter to exit.")

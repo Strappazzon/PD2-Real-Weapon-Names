@@ -1,6 +1,9 @@
 ## Unreleased:
 
-### mods.xx.json
+
+## v3.2.8
+
+### mods.en.json
 |id|old string| new string
 |--|--|--|
 |bm_wp_m1911_m_extended|Extended Magazine|Chip McCormick Power Mag|
@@ -9,7 +12,7 @@
 
 ## v3.2.7:
 
-### mods.xx.json
+### mods.en.json
 |id|old string| new string
 |--|--|--|
 |bm_wp_pm9_b_short||No Flame Arrester|
@@ -25,7 +28,7 @@
 |bm_wp_pis_ppk_g_laser||Crimson Trace LG-480 Laser Grip|
 |bm_wp_p226_g_ergo||Hogue MONOGRIP P226|
 
-### weapons.xx.json
+### weapons.en.json
 |id|old string| new string
 |--|--|--|
 |bm_w_pm9||Minebea PM-9|
