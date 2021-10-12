@@ -1,5 +1,30 @@
 ## Unreleased:
 
+## v3.2.9:
+
+### mods.en.json
+|id|old string| new string
+|--|--|--|
+|bm_wp_type54_underbarrel||20ga Ammunition|
+|bm_wp_type54_m_ext||TT-42 Magazine|
+|bm_wp_type54_b_long||Extended Barrel|
+|bm_wp_rsh12_g_wood||Wooden Grip|
+|bm_wp_rsh12_b_short||Short Barrel|
+|bm_wp_rsh12_b_comp||Custom Muzzle Brake|
+|bm_wp_upg_o_poe||PO 4X24 P Sight|
+|bm_wp_shak12_body_vks||VSSK Vykhlop Frame|
+|bm_wp_shak12_o_carry_dummy||Mount Sight on Carry Handle|
+|bm_wp_shak12_ns_muzzle||ShAK-12 Muzzle Brake|
+|bm_wp_shak12_ns_suppressor||ShAK-12 Suppressor|
+	
+### weapons.en.json
+|id|old string| new string
+|--|--|--|
+|bm_w_type54||Tokarev TT-33|
+|bm_w_x_type54||Akimbo Tokarev TT-33|
+|bm_w_rsh12||RSh-12|
+|bm_w_shak12||ShAK-12|
+|bm_w_x_akmsu|Akimbo Izhmash AKMSU|Akimbo AKMSU|
 
 ## v3.2.8
 
