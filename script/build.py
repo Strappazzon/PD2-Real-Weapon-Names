@@ -45,12 +45,6 @@ if os.path.exists(builddir):
     shutil.rmtree(builddir)
 os.mkdir(builddir)
 
-#copy files
-shutil.copy2(os.path.join(moddir, "mod.txt"), os.path.join(builddir, "mod.txt"))
-shutil.copy2(os.path.join(moddir, "LICENSE.txt"), os.path.join(builddir, "LICENSE.txt"))
-shutil.copy2(os.path.join(moddir, "RWN.png"), os.path.join(builddir, "RWN.png"))
-shutil.copytree(os.path.join(moddir, "lua"), os.path.join(builddir, "lua"))
-
 #version bump
 if args.v != None:
     with open(os.path.join(moddir, "mod.txt"), "r", encoding="utf8") as f:
@@ -58,6 +52,12 @@ if args.v != None:
     modtxt["version"] = str(args.v)
     with open(os.path.join(moddir, "mod.txt"), "w", encoding="utf8") as f:
         f.write(json.dumps(modtxt, sort_keys=False, indent=4))
+
+#copy files
+shutil.copy2(os.path.join(moddir, "mod.txt"), os.path.join(builddir, "mod.txt"))
+shutil.copy2(os.path.join(moddir, "LICENSE.txt"), os.path.join(builddir, "LICENSE.txt"))
+shutil.copy2(os.path.join(moddir, "RWN.png"), os.path.join(builddir, "RWN.png"))
+shutil.copytree(os.path.join(moddir, "lua"), os.path.join(builddir, "lua"))
 
 #compute sha256 hash and write new meta file
 hash = hashdir(builddir)
