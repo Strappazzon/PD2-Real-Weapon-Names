@@ -26,10 +26,6 @@
         },
         {
             "hook_id": "lib/managers/localizationmanager",
-            "script_path": "lua/Updates.lua"
-        },
-        {
-            "hook_id": "lib/managers/localizationmanager",
             "script_path": "lua/Achievements.lua"
         },
         {
