@@ -19,6 +19,7 @@ if ([System.IO.Directory]::Exists(${PaydayPath})) {
 
 	# Copy the mod files inside the game's "mods" folder
 	New-Item -ItemType Directory -Path ${PaydayPath}'\mods\Real Weapon Names\lua\loc' | Out-Null
+	New-Item -ItemType Directory -Path ${PaydayPath}'\mods\Real Weapon Names\lua\menu' | Out-Null
 	Copy-Item -Path ${DevFolder}'\lua\*.lua' -Destination ${PaydayPath}'\mods\Real Weapon Names\lua\' -Recurse | Out-Null
 	Copy-Item -Path ${DevFolder}'\lua\loc\*.json' -Destination ${PaydayPath}'\mods\Real Weapon Names\lua\loc\' -Recurse | Out-Null
 	Copy-Item -Path ${DevFolder}'\lua\menu\*.json' -Destination ${PaydayPath}'\mods\Real Weapon Names\lua\menu\' -Recurse | Out-Null
