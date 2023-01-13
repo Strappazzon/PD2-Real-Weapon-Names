@@ -42,6 +42,7 @@ The mod can be downloaded from [Mod Workshop](https://modwork.shop/19958) or fro
 * Italian
 * Russian
 * Spanish
+* Chinsese (simplified)
 
 ### Adding translations
 
@@ -59,7 +60,7 @@ If you are interested in fixing issues and contributing directly to the code bas
 * [BangL](https://github.com/BangL): Fixes
 * [Rooster Teeth](https://steamcommunity.com/profiles/76561198059812462): Research assistance & Spanish localization
 * [NewPJzuza](https://modworkshop.net/user/34731): Testing and Fixing
-* [FR0Z3_N3.Polaris](https://steamcommunity.com/profiles/76561198058215284/): Research assistance
+* [FR0Z3_N3.Polaris](https://steamcommunity.com/profiles/76561198058215284/): Research assistance & Chinsese (simplified) localization
 
 ## Credits
 

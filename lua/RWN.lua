@@ -82,7 +82,7 @@ Hooks:Add(
         if RWNLoc.settings.rwn_menu_langchoice_value == 1 then
             -- automatic language selection
             local supported_languages = {
-                ["chinese"] = "zh",
+                ["schinese"] = "zh",
                 ["german"] = "de",
                 ["english"] = "en",
                 ["spanish"] = "es",
@@ -121,7 +121,8 @@ Hooks:Add(
                 [4] = "es",
                 [5] = "fr",
                 [6] = "it",
-                [7] = "ru"
+                [7] = "ru",
+                [8] = "zh"
             }
             if supported_languages[RWNLoc.settings.rwn_menu_langchoice_value] then
                 current_language = supported_languages[RWNLoc.settings.rwn_menu_langchoice_value]

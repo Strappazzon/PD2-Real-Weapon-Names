@@ -17,7 +17,8 @@
                 "RWN_menu_langchoice_spanish",
                 "RWN_menu_langchoice_french",
                 "RWN_menu_langchoice_italian",
-                "RWN_menu_langchoice_russian"
+                "RWN_menu_langchoice_russian",
+                "RWN_menu_langchoice_schinese"
             ]
             "value" : "rwn_menu_langchoice_value",
             "callback" : "rwn_menu_langchoice_callback",
