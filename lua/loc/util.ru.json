@@ -79,5 +79,17 @@
     "RWN_bm_wpn_fps_upg_o_45rds": "45-градусный коллиматор",
     "RWN_bm_wpn_prj_four": "Сюрикен",
     "RWN_bm_wpn_prj_jav": "Копье",
-    "RWN_bm_wpn_prj_target": "Метательный нож"
+    "RWN_bm_wpn_prj_target": "Метательный нож",
+    "RWN_menu_desc": "Меню настроек Real Weapon Names",
+    "RWN_menu_langchoice_default": "Автоматически",
+    "RWN_menu_langchoice_desc": "Выберите язык Real Weapon Names",
+    "RWN_menu_langchoice_title": "Язык мода",
+    "RWN_menu_parts_melee_desc": "Включить/Выключить переименование рукопашного оружия",
+    "RWN_menu_parts_melee_title": "Рукопашное оружие",
+    "RWN_menu_parts_mods_desc": "Включить/Выключить переименование модификаций для оружия",
+    "RWN_menu_parts_mods_title": "Модификации для оружия",
+    "RWN_menu_parts_throwables_desc": "Включить/Выключить переименование метательного оружия",
+    "RWN_menu_parts_throwables_title": "Метательное оружие",
+    "RWN_menu_parts_weapons_desc": "Включить/Выключить переименование оружия",
+    "RWN_menu_parts_weapons_title": "Оружие"
 }
