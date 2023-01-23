@@ -6,6 +6,7 @@ import shutil
 import argparse
 import json
 import hashlib
+import sys
 
 def getfiles(dirpath):
     f =  []
@@ -28,12 +29,23 @@ def hashdir(path):
     h = hashlib.sha256()
     h.update(bytes(hashstr, "ascii"))
     return h.hexdigest()
+    
+def validateJson(jsondata, filename):
+    try:
+        data = json.loads(jsondata)
+    except ValueError as err:
+        print("\n\nJSON syntax error in \""+filename+"\"")
+        print(err)
+        input("Press any key to exit.")
+        sys.exit(0)
+    return data
 
 #constants
 moddir = os.path.abspath("../")
-builddir = "Real Weapon Names"
+builddir = os.path.abspath("Real Weapon Names")
 metafile = os.path.join(moddir+ "meta.json")
 metaident = "RealWeaponNames"
+locdir = os.path.join(builddir, "lua/loc")
 
 #setup argparse
 parser = argparse.ArgumentParser(description="buildscript for Real Weapon Names")
@@ -58,6 +70,17 @@ shutil.copy2(os.path.join(moddir, "mod.txt"), os.path.join(builddir, "mod.txt"))
 shutil.copy2(os.path.join(moddir, "LICENSE.txt"), os.path.join(builddir, "LICENSE.txt"))
 shutil.copy2(os.path.join(moddir, "RWN.png"), os.path.join(builddir, "RWN.png"))
 shutil.copytree(os.path.join(moddir, "lua"), os.path.join(builddir, "lua"))
+
+#minify loc files
+cwd = os.getcwd()
+os.chdir(locdir)
+for file in os.listdir(locdir): 
+    if file.endswith(".json"):
+        with open(file, "r", encoding="utf8") as f:
+            data = validateJson(f.read(), os.path.basename(file))
+        with open(file, "w", encoding="utf8") as f:
+            f.write(json.dumps(data, sort_keys=True, ensure_ascii=False))
+os.chdir(cwd)
 
 #compute sha256 hash and write new meta file
 hash = hashdir(builddir)
