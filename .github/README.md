@@ -22,12 +22,12 @@
 
 ## Download
 
-The mod can be downloaded from [Mod Workshop](https://modwork.shop/19958) or from the [Releases page](https://github.com/Strappazzon/PD2-Real-Weapon-Names/releases/latest).
+The mod can be downloaded from [Mod Workshop](https://modwork.shop/19958) or the [latest Release](https://github.com/Strappazzon/PD2-Real-Weapon-Names/raw/master/RWN.zip).
 
 ## Installation
 
 1. Download and install [SuperBLT](https://superblt.znix.xyz/)
-2. Download the mod from from [Mod Workshop](https://modwork.shop/19958) or the [Releases page](https://github.com/Strappazzon/PD2-Real-Weapon-Names/releases/latest)
+2. Download the mod from from [Mod Workshop](https://modwork.shop/19958) or the [latest Release](https://github.com/Strappazzon/PD2-Real-Weapon-Names/raw/master/RWN.zip)
 3. Open **RWN.zip** with an archive manager
 4. Drag the **"Real Weapon Names"** folder into `\PAYDAY 2\mods\`
    * Default folder: **C:\Program Files (x86)\Steam\steamapps\common\PAYDAY 2\mods\\**
@@ -61,6 +61,7 @@ If you are interested in fixing issues and contributing directly to the code bas
 * [Rooster Teeth](https://steamcommunity.com/profiles/76561198059812462): Research assistance & Spanish localization
 * [NewPJzuza](https://modworkshop.net/user/34731): Testing and Fixing
 * [FR0Z3_N3.Polaris](https://steamcommunity.com/profiles/76561198058215284/): Research assistance & Chinsese (simplified) localization
+* [andole](https://modworkshop.net/user/20768): Additions to russian localization & help with debugging
 
 ## Credits
 
