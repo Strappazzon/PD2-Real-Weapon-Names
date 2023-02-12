@@ -53,7 +53,7 @@
     "bm_wp_beer_m_extended": "CARGADOR EXTENDIDO",
     "bm_wp_beer_s_std": "CULATA DE 93R",
     "bm_wp_ben_b_short": "CAÑÓN DE M4 NFA",
-    "bm_wp_ben_fg_standard": "CAÑÓN DE M4 TACTICAL",
+    "bm_wp_ben_fg_standard": "CULATA DE M4 TACTICAL",
     "bm_wp_beretta_body_modern": "ARMAZÓN DE 92G ELITE II",
     "bm_wp_beretta_co_co1": "COMPENSADOR LA.RI.A AL-GI-MEC",
     "bm_wp_beretta_g_engraved": "EMPUÑADURA CON GRABADOS",
@@ -150,7 +150,7 @@
     "bm_wp_hk21_fg_short": "GUARDAMANOS CORTO",
     "bm_wp_hk51b_b_fluted": "CAÑÓN LARGO Y ESTRIADO",
     "bm_wp_hk51b_fg_railed": "GUARDAMANOS CON RIEL TRIPLE",
-    "bm_wp_hk51b_ns_jcomp": "COMPENSADOR STRIKE INDUSTRIES TYPO 89",
+    "bm_wp_hk51b_ns_jcomp": "COMP. STRIKE INDUSTRIES TYPE 89",
     "bm_wp_hk51b_s_extended": "CULATA DESPLEGADA",
     "bm_wp_holt_g_bling": "EMPUÑADURA DE GOMA",
     "bm_wp_holt_g_ergo": "EMPUÑADURA ERGONÓMICA",
@@ -246,6 +246,8 @@
     "bm_wp_mp9_m_extended": "CARGADOR EXTENDIDO",
     "bm_wp_mp9_s_skel": "CULATA ADAPTADA DE STEYR TMP",
     "bm_wp_ms3gl_s_modern": "CULATA PERSONALIZADA",
+	"bm_wp_ms3gl_b_standard_long": "CAÑÓN DE 2DO MODELO",
+    "bm_wp_ms3gl_body_modern": "ARMAZÓN CON CAMUFLAJE UCP",
     "bm_wp_msr_body_msr": "ARMAZÓN CADEX DEFENSE DUAL STRIKE",
     "bm_wp_ns_battle": "COMPENSADOR BATTLECOMP 1.0",
     "bm_wp_ns_duck": "NIVELADOR PARADIGM SRP GATOR",
@@ -392,7 +394,7 @@
     "bm_wp_tti_ns_hex": "SUPRESOR DE 5.56X45 MM",
     "bm_wp_tti_s_vltor": "CULATA VLTOR EMOD",
     "bm_wp_type54_b_long": "EXTENSIÓN DE CAÑÓN",
-    "bm_wp_type54_m_ext": "CARGADOR DE TT-42",
+    "bm_wp_type54_m_ext": "CARGADOR EXTENDIDO",
     "bm_wp_type54_underbarrel": "MUNICIÓN DE CALIBRE 20",
     "bm_wp_ultima_body_rack": "PORTACARTUCHOS",
     "bm_wp_ultima_ns_comp": "FRENO DE BOCA HI-TECH'S HOWITZER 70",
@@ -445,7 +447,7 @@
     "bm_wp_upg_fl_pis_tlr1_desc": "Luz táctica montada en riel intensamente brillante, virtualmente indestructible, se conecta a casi cualquier arma en segundos.\nTiempo de duración: 2.5 horas.",
     "bm_wp_upg_fl_x400v": "LED Y MIRA LÁSER SUREFIRE X400V IRC",
     "bm_wp_upg_fl_x400v_desc": "Esta es una luz de doble espectro altamente versátil que también cuenta con un láser infrarrojo de clase 1 integral para su uso con dispositivos de visión nocturna.\nTiempo de duración: 2.5 horas.",
-    "bm_wp_upg_g_m4_surgeon": "CULATA ESQUELÉTICA SURGEON CNC",
+    "bm_wp_upg_g_m4_surgeon": "EMPUÑADURA TACTICAL DYNAMICS CNC",
     "bm_wp_upg_i_autofire": "SÓLO AUTOMÁTICO",
     "bm_wp_upg_i_singlefire": "SÓLO SEMIAUTOMÁTICO",
     "bm_wp_upg_m4_g_hgrip": "EMP. DE GOMA HOGUE OVERMOLDED",
@@ -462,7 +464,7 @@
     "bm_wp_upg_ns_ass_smg_medium": "SUPRESOR SAI M80",
     "bm_wp_upg_ns_ass_smg_small": "SUPRESOR GEMTECH HALO",
     "bm_wp_upg_ns_ass_smg_stubby": "SUPRESOR DE FOGONAZO VFC STINGER",
-    "bm_wp_upg_ns_ass_smg_v6": "FRENO DE BOCA V6 INDUSTRIES",
+    "bm_wp_upg_ns_ass_smg_v6": "FRENO DE BOCA KEL-TEC KSG V6",
     "bm_wp_upg_ns_ipsccomp": "COMPENSADOR IPSC",
     "bm_wp_upg_ns_large_kac": "SUPRESOR KNIGHT'S ARMAMENT MK23",
     "bm_wp_upg_ns_meatgrinder": "COMPENSADOR WE TECH TENDERIZER",
@@ -479,7 +481,7 @@
     "bm_wp_upg_o_acog": "MIRA TRIJICON ACOG",
     "bm_wp_upg_o_aimpoint": "MIRA AIMPOINT PRO PATROL",
     "bm_wp_upg_o_ak_scopemount": "MONTURA ÓPTICA K-VAR KV-045",
-    "bm_wp_upg_o_bmg": "MIRA TRIJICON ACOG 6X48 BAC",
+    "bm_wp_upg_o_bmg": "MIRA TRIJICON ACOG 6X48",
     "bm_wp_upg_o_box": "MIRA NOCTURNA PULSAR DIGISIGHT N960",
     "bm_wp_upg_o_cmore": "MIRA C-MORE RAILWAY ARW",
     "bm_wp_upg_o_cs": "MIRA AIMPOINT CS",
@@ -496,12 +498,12 @@
     "bm_wp_upg_o_rikt": "MIRA AIMPOINT ACRO P-1",
     "bm_wp_upg_o_rmr": "MIRA TRIJICON RM06 RMR",
     "bm_wp_upg_o_rms": "MIRA SHIELD RMSC",
-    "bm_wp_upg_o_rx01": "MIRA TRIJICON RX01 POLARIZED REFLEX",
+    "bm_wp_upg_o_rx01": "MIRA TRIJICON RX01 REFLEX",
     "bm_wp_upg_o_rx30": "MIRA TRIJICON RX30 REFLEX",
     "bm_wp_upg_o_sho_salvo_large": "SUPRESOR SILENCERCO SALVO 12",
     "bm_wp_upg_o_specter": "MIRA ELCAN SPECTER DR 1X/4X",
     "bm_wp_upg_o_spot": "MIRA AVANZADA DUAL ÓPTICA NCSTAR",
-    "bm_wp_upg_o_t1micro": "MIRA AIMPOINT WEAVER-MOUNTED MICRO T-1",
+    "bm_wp_upg_o_t1micro": "MIRA AIMPOINT MICRO T-1",
     "bm_wp_upg_o_tf90": "MIRA TECH FORCE TF90",
     "bm_wp_upg_o_uh": "MIRA VORTEX RAZOR AMG UH-1",
     "bm_wp_upg_pis_ns_flash": "BOCACHA APAGALLAMAS",
@@ -527,4 +529,72 @@
     "bm_wpn_fps_upg_o_45rds_v2": "MIRA ANGULADA AIMPOINT MICRO T-2",
     "bm_wpn_fps_upg_o_sig": "MAGNIF. SIG SAUER JULIET3 3X24 MM",
     "bm_wpn_fps_upg_o_xpsg33_magnifier": "MAGNIFICADOR AIMPOINT 3XMAG"
+	"bm_wp_maxim9_b_long": "SILENCIADOR EXTENDIDO"
+    "bm_wp_maxim9_b_marksman": "COMPENSADOR REFORZADO"
+	"bm_wp_maxim9_m_ext": "CARGADOR EXTENDIDO"
+    "bm_wp_fmg9_stock_padded": "ALMOHADILLA DE GOMA"
+	"bm_wp_fmg9_grip_tape": "AGARRE PERSONALIZADO"
+	"bm_wp_fmg9_m_speed": "CARGADOR ESTILO MAGPUL"
+	"bm_wp_korth_b_railed": "CAÑÓN DE KORTH STX"
+	"bm_wp_korth_conversionkit": "CONJUNTO DE SUPER SPORT STX"
+	"bm_wp_korth_g_ergo": "EMPUÑADURA DE KORTH STX"
+	"bm_wp_korth_g_houge": "EMPUÑADURA HOGUE BLACK OVERMOLDED"
+	"bm_wp_korth_m_6": "TAMBOR DE 6 TIROS NXR"
+	"bm_wp_upg_a_rip": "MUNICIÓN VENENOSA"
+	"bm_wp_sko12_fg_railed": "GUARDAMANOS CON RIEL"
+	"bm_wp_sko12_stock": "CULATA DE SKO-12"
+	"bm_wp_sko12_grip": "EMPUÑADURA DE SKO-12"
+	"bm_wp_sko12_conversion": "CAMUFLAJE DIGITAL DESÉRTICO"	
+	"bm_wp_upg_a_grenade_launcher_poison": "MUNICIÓN VENENOSA"
+	"bm_wpn_fps_upg_o_hamr": "MIRA LEUPOLD MARK 4 HAMR"
+	"bm_wp_upg_o_atibal": "MIRA ATIBAL MROC"
+	"bm_wp_upg_o_northtac": "MIRA NORTHTAC 1-4X28"
+	"bm_wp_upg_fl_pis_perst": "LÁSER ZENITCO PERST-4P"
+	"bm_wp_victor_g_mod3": "EMPUÑADURA BCMGUNFIGHTER"
+	"bm_wp_victor_s_mod0": "CULATA BCMGUNFIGHTER"
+	"bm_wp_m4_uupg_s_zulu": "CULATA ODIN WORKS ZULU"
+	"bm_wp_m4_upg_fg_mk12": "CONJUNTO DE MK. 12 MOD 0 SPR"
+	"bm_wp_m4_uupg_fg_radian": "GUARDAMANOS RADIAN M1"
+	"bm_wp_upg_fl_dbal_laser": "LÁSER STEINER E-OPTICS DBAL-RL"
+	"bm_wp_m4_g_billet": "EMPUÑADURA ESQUELÉTICA JL BILLET"
+	"bm_wp_m4_lower_radian": "MECANISMOS INFERIORES RADIAN AX556"
+	"bm_wp_m4_uupg_m_strike": "CARGADOR STRIKE INDUSTRIES"
+	"bm_wp_m4_upper_radian": "MECANISMOS SUPERIORES RADIAN M1"
+	"bm_wp_victor_ns_omega": "SUPRESOR SILENCERCO OMEGA"
+	"bm_wp_victor_sbr": "CONJUNTO DE HERA ARMS CQR"
+	"bm_wp_victor_o_standard": "MIRAS DE HIERRO ESTÁNDAR"
+	"bm_wpn_fps_upg_o_45steel": "MIRA DE HIERRO DIAMONDHEAD USA D-45"
+	"bm_wp_upg_o_mbus_pro_rail": "MIRA DE HIERRO MAGPUL MBUS PRO"
+	"bm_wp_upg_ns_pis_putnik": "SUPRESOR ZDTK-T PUTNIK"
+	"bm_wp_contender_suppressor": "SUPRESOR DEAD AIR WOLF"
+	"bm_wp_contender_conversion": "CONJUNTO DE REVOLUTION G2 AZUL"
+	"bm_wp_contender_foregrip_long": "GUARDAMANOS ALARGADO"
+	"bm_wp_contender_grip_m4": "ADAPTADOR DE CULATAS CHOATE G2"
+	"bm_wp_contender_stock_m4": "CULATA CHOATE G2"
+	"bm_wp_upg_o_ironsight": "MIRAS DE HIERRO"
+	"bm_wp_sko12_b_short": "CAÑÓN DE SKO-12 SHORTY"
+	"bm_wp_ak_upg_ns_zenitco": "FRENO DE BOCA ZENITCO DTK-1"
+	"bm_wp_upg_ak_ns_jmac": "COMPENSADOR JMAC CUSTOMS MTC-1"
+	"bm_wp_upg_ak_ns_tgp": "SUPRESOR COMBAT UNION DTK TGP-A"
+	"bm_wp_ak_upg_dh_zenitco": "MANGO DE CARGA ZENITCO RP-1"
+	"bm_wp_ak_upg_fg_zenitco": "GUARDAMANOS CONJUNTO ZENITCO B-31L"
+	"wpn_fps_upg_ak_g_edg": "EMPUÑADURA CON TEXTURA EDG CUSTOM"
+	"wpn_fps_upg_ak_g_gradus": "EMPUÑADURA FAB DEFENSE GRADUS"
+	"wpn_fps_upg_ak_g_rk9": "EMPUÑADURA ZENITCO RK-9"
+	"bm_wp_ak_upg_s_zenitco": "CULATA TELESCÓPICA ZENITCO PT-5"
+	"bm_wp_ak_upper_zenitco": "CUBIERTA CON RIELES ZENITCO B-33"
+	"bm_wp_tkb_dh_rp4": "MANGO DE CARGA ZENITCO RP-4"
+	"bm_wp_tkb_conversion": "CONJUNTO APOCALÍPTICO"
+	"bm_wp_tkb_body_pouch": "PORTACARGADOR ADICIONAL"
+	"bm_wp_tkb_m_bakelite": "CARGADOR DE BAQUELITA"
+	"bm_wp_tkb_s_tigr": "REPOSAMEJILLAS"
+	"bm_wp_tkb_o_tritium": "MIRAS DE TRITIO"
+	"bm_wp_tkb_o_tt01": "MIRA TACTICA TULA TT01"
+	"bm_wp_hcar_barrel_short": "CAÑÓN DE 16 PULGADAS"
+	"bm_wp_hcar_barrel_dmr": "CAÑÓN DE TIRADOR DESIGNADO"
+	"bm_wp_hcar_conversionkit": "CONJUNTO FUTURISTA"
+	"bm_wp_hcar_magazine_drum": "CARGADOR DE TAMBOR"
+	"bm_wp_hcar_magazine_stick": "CARGADOR ESTÁNDAR"
+	"bm_wp_hcar_suppressor": "SUPRESOR DE .30-06"
+	"bm_wp_upg_a_grenade_launcher_hornet": "MUNICIÓN ANTIPERSONAL BEEHIVE"
 }
