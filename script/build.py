@@ -43,7 +43,7 @@ def validateJson(jsondata, filename):
 #constants
 moddir = os.path.abspath("../")
 builddir = os.path.abspath("Real Weapon Names")
-metafile = os.path.join(moddir+ "meta.json")
+metafile = os.path.join(moddir, "meta.json")
 metaident = "RealWeaponNames"
 locdir = os.path.join(builddir, "lua/loc")
 
