@@ -5,6 +5,7 @@
     "bm_concussion_desc": "Die M84, auch bekannt als \"Flashbang\", ist die derzeit ausgegebene Betäubungsgranate des U.S. Militär. Bei der Detonation gibt es einen intensiv lauten Knall von 170-180 Dezibel und einen blendenden Blitz von mehr als einer Million Candela innerhalb von fünf Fuß der Einleitung, die ausreicht, um sofortige  Blitz-Blindheit, Taubheit, Tinnitus und innere Ohrstörung zu verursachen. Getroffene Personen erleiden Desorientierung, Verwirrung und Verlust der Koordination und Balance.",
     "bm_dynamite": "Dynamit",
     "bm_dynamite_desc": "Dynamit ist ein explosives Material auf der Basis von Nitroglycerin, mit Diatomeenerde oder einer anderen adsorbierenden Substanz wie pulverrisierten Muscheln oder Ton. Dynamit wurde von dem schwedischen Chemiker und Ingenieur Alfred Nobel in Geesthacht erfunden und im Jahre 1867 patentiert.",
+    "bm_grenade_electric": "Elektrische VOG-25P Khattabka",
     "bm_grenade_fir_com": "M14 TH3 Brandgranate",
     "bm_grenade_fir_com_desc": "Eine zylindrische Granate, die visuell identisch mit der M8 ist, ist die M14 eine zweckgebundene Brandgranate. Ausgehend von der intensiven und heftigen Reaktion der Thermitfüllung ist das Endergebnis des Einsatzes der M14 geschmolzenes Eisen. Das bedeutet, dass die M14 vorwiegend auf Material angewendet wird, das in einer ungefähr sicheren Umgebung zerstört werden soll und nicht als Offensiv- oder Verteidigungswaffe. Da die thermische Reaktion Eisenoxid anstelle von Sauerstoff als sein Oxidationsmittel verwendet, kann die Granate auch unter Wasser arbeiten.",
     "bm_grenade_frag": "M67 Splittergranate",
@@ -16,6 +17,5 @@
     "bm_grenade_smoke_screen_grenade_desc": "Die M18 farbige Rauchgranate ist eine US Army Granate als Signalgerät eingesetzt wird, um ein Ziel oder Landezone zu makieren. Die M18 ersetzte die M16 aus dem Zweiten Weltkrieg, die nicht so lange oder so lebhaft verbrannte. Die M16 war in den gleichen Farben wie die M18 erhältlich, aber auch blau, orange und schwarz. Die M18 wurden zunächst in den gleichen Farben produziert, einschließlich Weiß, aber es wurde beschlossen, es auf vier Farben für die Einfachheit zu begrenzen. Es wurde in Vietnam entdeckt, dass der grüne Rauch die schwärmenden Bienen verjagte.",
     "bm_wpn_prj_hur": "KitRae AirCobra KR0055 Wurfaxt",
     "bm_wpn_prj_hur_desc": "Kit Rae ist bekannt für seine Fantasy-Schwerter und Klingen, aber Kit ist auch ein begeisterter Wurfmesser und Axt-Enthusiast seit vielen Jahren. Die AirCobra ist aus einem festen Stück aus AUS-6 Edelstahl gefertigt. Mit einem ausgewogenen Griff-zu-Klinge-Design für perfekten Wurf, mit hinterem Messer. Leder umwickelter Griff.",
-    "bm_wpn_prj_target": "Tiger Thrower Wurfmesser",
-    "bm_grenade_electric": "Elektrische VOG-25P Khattabka"
+    "bm_wpn_prj_target": "Tiger Thrower Wurfmesser"
 }
