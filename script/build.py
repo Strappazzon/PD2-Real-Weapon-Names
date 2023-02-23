@@ -42,7 +42,7 @@ def validateJson(jsondata, filename):
 
 #constants
 moddir = os.path.abspath("../")
-builddir = os.path.abspath("Real Weapon Names")
+builddir = "Real Weapon Names"
 metafile = os.path.join(moddir, "meta.json")
 metaident = "RealWeaponNames"
 locdir = os.path.join(builddir, "lua/loc")
@@ -73,8 +73,9 @@ shutil.copytree(os.path.join(moddir, "lua"), os.path.join(builddir, "lua"))
 
 #minify and validate loc files
 cwd = os.getcwd()
+files = os.listdir(locdir)
 os.chdir(locdir)
-for file in os.listdir(locdir): 
+for file in files: 
     if file.endswith(".json"):
         with open(file, "r", encoding="utf8") as f:
             data = validateJson(f.read(), os.path.basename(file))
