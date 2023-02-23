@@ -281,7 +281,7 @@
     "bm_wp_schakal_b_civil": "USC Barrel",
     "bm_wp_schakal_ns_silencer": "GemTech UMP-45 Suppressor",
     "bm_wp_schakal_s_civil": "USC Stock",
-    "bm_wp_schakal_vg_surefire": "Surefire M900 Foregrip",
+    "bm_wp_schakal_vg_surefire": "SureFire M900 Foregrip",
     "bm_wp_scorpion_b_suppressed": ".32 ACP Suppressor",
     "bm_wp_scorpion_g_wood": "Original Wooden Grip",
     "bm_wp_scorpion_m_extended": "Quick-Swap Magazine",
@@ -381,7 +381,7 @@
     "bm_wp_upg_fl_ass_peq15_desc": "This is a lightweight, rugged, simple to use aiming system designed for use with or without a night vision device.\nRun Time: More than 6 hours.",
     "bm_wp_upg_fl_ass_smg_sho_peqbox": "Insight Technology AN/PEQ-5",
     "bm_wp_upg_fl_ass_smg_sho_peqbox_desc": "The sight is mil-spec and projects a visible red dot. The unit is a civilian version of the larger AN-PEQ-2, which is only available for use by the U.S. Military.",
-    "bm_wp_upg_fl_ass_smg_sho_surefire": "Surefire Scout Light",
+    "bm_wp_upg_fl_ass_smg_sho_surefire": "SureFire Scout Light",
     "bm_wp_upg_fl_ass_utg": "LT-ELP38 Laser/Light Combo",
     "bm_wp_upg_fl_ass_utg_desc": "This is the perfect accessory for gaining the tactical advantage. The flashlight can be used to quickly identify your target while minimizing your exposure at night. The laser allows you to quickly acquire your target making it easier to put your bullets on target in the heat of battle.\nLaser Lifetime: 6000 hours.",
     "bm_wp_upg_fl_crimson": "CN-201 RAIL MASTER Laser Sight",
@@ -479,10 +479,10 @@
     "bm_wp_korth_conversionkit": "Super Sport STX Conversion Kit",
     "bm_wp_korth_g_ergo": "Nill Korth National Standard Grip",
     "bm_wp_korth_g_houge": "Hogue Black Overmolded Grip",
-    "bm_wp_korth_m_6": "NXR Six Shot Drum NXR",
+    "bm_wp_korth_m_6": "NXR Six Shot Drum",
     "bm_wp_upg_a_rip": "Poison Ammo",
     "bm_wp_sko12_fg_railed": "Railed Handguard",
-    "bm_wp_sko12_stock": "SKO-12 Grip",
+    "bm_wp_sko12_stock": "SKO-12 Stock",
     "bm_wp_sko12_grip": "SKO-12 Grip",
     "bm_wp_sko12_conversion": "Digital Desert Camo",
     "bm_wp_upg_a_grenade_launcher_poison": "Poison Ammo",
@@ -538,5 +538,5 @@
     "bm_wp_upg_fl_pis_perst": "Zenitco Perst-4P Laser",
     "bm_wp_victor_g_mod3": "BCMGUNFIGHTER Grip",
     "bm_wp_victor_s_mod0": "BCMGUNFIGHTER Stock",
-    "bm_wp_m4_uupg_s_zulu": "ODIN Works Stock"
+    "bm_wp_m4_uupg_s_zulu": "ODIN Works Zulu Stock"
 }

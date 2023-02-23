@@ -26,9 +26,7 @@ def hashdir(path):
             for line in iter(lambda: f.read(65536), b''):
                 thash.update(line)
         hashstr += thash.hexdigest()
-    h = hashlib.sha256()
-    h.update(bytes(hashstr, "ascii"))
-    return h.hexdigest()
+    return hashlib.sha256().update(bytes(hashstr, "ascii")).hexdigest()
     
 def validateJson(jsondata, filename):
     try:
@@ -71,7 +69,7 @@ shutil.copy2(os.path.join(moddir, "LICENSE.txt"), os.path.join(builddir, "LICENS
 shutil.copy2(os.path.join(moddir, "RWN.png"), os.path.join(builddir, "RWN.png"))
 shutil.copytree(os.path.join(moddir, "lua"), os.path.join(builddir, "lua"))
 
-#minify loc files
+#minify and validate loc files
 cwd = os.getcwd()
 os.chdir(locdir)
 for file in os.listdir(locdir): 
