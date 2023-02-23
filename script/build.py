@@ -26,7 +26,9 @@ def hashdir(path):
             for line in iter(lambda: f.read(65536), b''):
                 thash.update(line)
         hashstr += thash.hexdigest()
-    return hashlib.sha256().update(bytes(hashstr, "ascii")).hexdigest()
+    hash = hashlib.sha256()
+    hash.update(bytes(hashstr, "ascii"))
+    return hash.hexdigest()
     
 def validateJson(jsondata, filename):
     try:
