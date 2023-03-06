@@ -36,7 +36,7 @@ def validateJson(jsondata, filename):
     except ValueError as err:
         print("\n\nJSON syntax error in \""+filename+"\"")
         print(err)
-        input("Press any key to exit.")
+        input("Press enter to exit.")
         sys.exit(0)
     return data
 
