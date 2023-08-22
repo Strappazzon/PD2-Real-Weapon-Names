@@ -540,7 +540,6 @@
     "bm_wp_upg_ns_sho_salvo_large": "SUPRESOR SILENCERCO SALVO 12",
     "bm_wp_upg_ns_shot_shark": "REDUCTOR TROMIX SHARK BRAKE",
     "bm_wp_upg_ns_shot_thick": "SUPRESOR CHIGURH",
-    "bm_wp_upg_ns_typhoon": "COMPENSADOR TANDEMKROSS",
     "bm_wp_upg_o_acog": "MIRA TRIJICON ACOG",
     "bm_wp_upg_o_aimpoint": "MIRA AIMPOINT PRO PATROL",
     "bm_wp_upg_o_ak_scopemount": "MONTURA ÓPTICA K-VAR KV-045",
@@ -605,5 +604,7 @@
     "bm_wpn_fps_upg_o_xpsg33_magnifier": "MAGNIFICADOR AIMPOINT 3XMAG",
     "wpn_fps_upg_ak_g_edg": "EMPUÑADURA CON TEXTURA EDG CUSTOM",
     "wpn_fps_upg_ak_g_gradus": "EMPUÑADURA FAB DEFENSE GRADUS",
-    "wpn_fps_upg_ak_g_rk9": "EMPUÑADURA ZENITCO RK-9"
+    "wpn_fps_upg_ak_g_rk9": "EMPUÑADURA ZENITCO RK-9",
+    "bm_wp_upg_ns_typhoon": "COMPENSADOR TANDEMKROSS GAME CHANGER",
+    "bm_wp_tecci_ns_special": "FRENO DE BOCA JP ENTERPRISES JPRE-2S"
 }

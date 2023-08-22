@@ -378,7 +378,7 @@
     "bm_wp_tec9_ns_ext": "Barrel Extension",
     "bm_wp_tec9_s_unfolded": "Unfolded Stock",
     "bm_wp_tecci_b_long": "LMG Barrel",
-    "bm_wp_tkb_body_pouch": "Aditional Magazine Pouch",
+    "bm_wp_tkb_body_pouch": "Additional Magazine Pouch",
     "bm_wp_tkb_conversion": "Apocalyptic Kit",
     "bm_wp_tkb_dh_rp4": "Zenitco RP-4 Charging Handle",
     "bm_wp_tkb_m_bakelite": "Bakelite Magazine",
@@ -538,5 +538,8 @@
     "bm_wpn_fps_upg_o_xpsg33_magnifier": "Aimpoint 3XMag Magnifier",
     "wpn_fps_upg_ak_g_edg": "EDG Custom Textured Grip",
     "wpn_fps_upg_ak_g_gradus": "FAB Defense GRADUS Grip",
-    "wpn_fps_upg_ak_g_rk9": "Zenitco RK-9 Grip"
+    "wpn_fps_upg_ak_g_rk9": "Zenitco RK-9 Grip",
+    "bm_wp_tecci_ns_special": "JP Enterprises JPRE-2S",
+    "bm_wp_upg_pis_ns_flash": "CCF Titanium Flash Hider",
+    "bm_wp_r870_s_solid": "Solid R870 Stock"
 }
